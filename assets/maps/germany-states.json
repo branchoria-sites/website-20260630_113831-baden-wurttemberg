@@ -1,0 +1,652 @@
+{
+  "kind": "germany-states",
+  "mapLayout": "germany-states",
+  "mapFit": "linked-bounds",
+  "itemType": "state",
+  "mapAsset": "germany.svg",
+  "dataAsset": "germany-states.json",
+  "mapLabel": "UFO and UAP German states map",
+  "fallbackSummary": "Open this German state file from the map.",
+  "panelCopy": "Use the map to jump into a German state file, or browse the full state list below.",
+  "items": [
+    {
+      "id": "DE-BE",
+      "iso": "DE-BE",
+      "state": "Berlin",
+      "mapName": "Berlin",
+      "label": "Berlin",
+      "mapAliases": [
+        "berlin",
+        "de be",
+        "be"
+      ],
+      "title": "What Berlin's UFO Reports Really Show",
+      "summary": "Berlin has plenty of UFO reports, but not a strong record of landmark, well-evidenced UFO incidents.",
+      "url": "what-berlins-ufo-reports-really-show/",
+      "image": "assets/images/Berlin_062b06-overview.webp",
+      "pageCount": 13,
+      "region": "Germany",
+      "code": "BE"
+    },
+    {
+      "id": "DE-HH",
+      "iso": "DE-HH",
+      "state": "Hamburg",
+      "mapName": "Hamburg",
+      "label": "Hamburg",
+      "mapAliases": [
+        "hamburg",
+        "de hh",
+        "hh"
+      ],
+      "title": "What Did Hamburg Really See in the Sky?",
+      "summary": "Hamburg’s UFO history is not a catalogue of dramatic, well-evidenced “mystery craft”.",
+      "url": "what-did-hamburg-really-see-in-the-sky/",
+      "image": "assets/images/Hamburg_155277-overview.webp",
+      "pageCount": 13,
+      "region": "Germany",
+      "code": "HH"
+    },
+    {
+      "id": "DE-NW",
+      "iso": "DE-NW",
+      "state": "North Rhine-Westphalia",
+      "mapName": "North Rhine-Westphalia",
+      "label": "North Rhine-Westphalia",
+      "mapAliases": [
+        "north rhine westphalia",
+        "nordrhein westfalen",
+        "de nw",
+        "nrw",
+        "nw"
+      ],
+      "title": "What Really Explains NRW UFO Sightings?",
+      "summary": "North Rhine-Westphalia is not known for one single famous “classic” UFO case in the way some regions are.",
+      "url": "north-rhine-westphalia/",
+      "image": "assets/images/North_Rhine-Westphal_f5bdd9-overview.webp",
+      "pageCount": 13,
+      "region": "Germany",
+      "code": "NW"
+    },
+    {
+      "id": "DE-SH",
+      "iso": "DE-SH",
+      "state": "Schleswig-Holstein",
+      "mapName": "Schleswig-Holstein",
+      "label": "Schleswig-Holstein",
+      "mapAliases": [
+        "schleswig holstein",
+        "de sh",
+        "sh"
+      ],
+      "title": "What Really Flew Over Schleswig Holstein?",
+      "summary": "Schleswig-Holstein’s UFO history is not built around one world-famous “flying saucer” case.",
+      "url": "what-really-flew-over-schleswig-holstein/",
+      "image": "assets/images/Schleswig-Holstein_76916e-overview.webp",
+      "pageCount": 13,
+      "region": "Germany",
+      "code": "SH"
+    },
+    {
+      "id": "DE-NI",
+      "iso": "DE-NI",
+      "state": "Lower Saxony",
+      "mapName": "Lower Saxony",
+      "label": "Lower Saxony",
+      "mapAliases": [
+        "niedersachsen",
+        "lower saxony",
+        "de ni",
+        "ni"
+      ],
+      "title": "What Really Happened in Lower Saxony's UFO Stories?",
+      "summary": "Lower Saxony does not have one famous, well-documented “classic UFO case” comparable with Roswell or Belgium’s 1989–90 wave.",
+      "url": "what-really-happened-in-lower-saxonys/",
+      "image": "assets/images/Lower_Saxony_e2cb37-overview.webp",
+      "pageCount": 13,
+      "region": "Germany",
+      "code": "NI"
+    },
+    {
+      "id": "DE-RP",
+      "iso": "DE-RP",
+      "state": "Rhineland-Palatinate",
+      "mapName": "Rhineland-Palatinate",
+      "label": "Rhineland-Palatinate",
+      "mapAliases": [
+        "rhineland palatinate",
+        "rheinland pfalz",
+        "de rp",
+        "rp"
+      ],
+      "title": "What Really Happened In Rhineland Palatinate's UFO...",
+      "summary": "Rhineland-Palatinate is not one of Germany’s best-known UFO “mystery” regions, but it has a distinctive place in the country’s UFO history for three reasons:...",
+      "url": "rhineland-palatinate/",
+      "image": "assets/images/Rhineland-Palatinate_9f2211-overview.webp",
+      "pageCount": 13,
+      "region": "Germany",
+      "code": "RP"
+    },
+    {
+      "id": "DE-ST",
+      "iso": "DE-ST",
+      "state": "Saxony-Anhalt",
+      "mapName": "Saxony-Anhalt",
+      "label": "Saxony-Anhalt",
+      "mapAliases": [
+        "sachsen anhalt",
+        "saxony anhalt",
+        "de st",
+        "st"
+      ],
+      "title": "What Really Happened in Saxony Anhalt's UFO Stories?",
+      "summary": "Saxony-Anhalt has a real but uneven UFO history: not a catalogue of confirmed alien craft, but a pattern of reported lights, photographed oddities,...",
+      "url": "what-really-happened-in-saxony-anhalts/",
+      "image": "assets/images/Saxony-Anhalt_5678a0-overview.webp",
+      "pageCount": 13,
+      "region": "Germany",
+      "code": "ST"
+    },
+    {
+      "id": "DE-SN",
+      "iso": "DE-SN",
+      "state": "Saxony",
+      "mapName": "Saxony",
+      "label": "Saxony",
+      "mapAliases": [
+        "sachsen",
+        "saxony",
+        "de sn",
+        "sn"
+      ],
+      "title": "What Really Happened in Saxony's UFO Stories?",
+      "summary": "Saxony has a modest but revealing UFO history. It is not known for a single world-famous landing story or a large official case file.",
+      "url": "what-really-happened-in-saxonys-ufo/",
+      "image": "assets/images/Saxony_caf030-overview.webp",
+      "pageCount": 13,
+      "region": "Germany",
+      "code": "SN"
+    },
+    {
+      "id": "DE-TH",
+      "iso": "DE-TH",
+      "state": "Thuringia",
+      "mapName": "Thuringia",
+      "label": "Thuringia",
+      "mapAliases": [
+        "thueringen",
+        "thuringen",
+        "thuringia",
+        "de th",
+        "th"
+      ],
+      "title": "What Really Happened in Thuringia's UFO Stories?",
+      "summary": "Thuringia has a small but revealing place in German UFO history.",
+      "url": "what-really-happened-in-thuringias-ufo/",
+      "image": "assets/images/Thuringia_f28d08-overview.webp",
+      "pageCount": 13,
+      "region": "Germany",
+      "code": "TH"
+    },
+    {
+      "id": "DE-BW",
+      "iso": "DE-BW",
+      "state": "Baden-Wurttemberg",
+      "mapName": "Baden-Wurttemberg",
+      "label": "Baden-Wurttemberg",
+      "mapAliases": [
+        "baden wuerttemberg",
+        "baden wurttemberg",
+        "de bw",
+        "bw"
+      ],
+      "title": "What Really Happened Over Baden Wurttemberg?",
+      "summary": "Baden-Württemberg’s UFO history is less a story of a single legendary crash or a government-confirmed mystery than a record of repeated, well-publicised sky...",
+      "url": "what-really-happened-over-baden/",
+      "image": "assets/images/Baden-Wurttemberg_dc11f2-overview.webp",
+      "pageCount": 13,
+      "region": "Germany",
+      "code": "BW"
+    },
+    {
+      "id": "DE-BY",
+      "iso": "DE-BY",
+      "state": "Bavaria",
+      "mapName": "Bavaria",
+      "label": "Bavaria",
+      "mapAliases": [
+        "bavaria",
+        "bayern",
+        "de by",
+        "by"
+      ],
+      "title": "What Really Happened Over Bavaria's Skies?",
+      "summary": "Bavaria’s UFO history is not a single dramatic mystery so much as a layered record of sky reports, military paperwork, popular retellings and modern attempts...",
+      "url": "what-really-happened-over-bavarias-skies/",
+      "image": "assets/images/Bavaria_3c0123-overview.webp",
+      "pageCount": 13,
+      "region": "Germany",
+      "code": "BY"
+    },
+    {
+      "id": "DE-SL",
+      "iso": "DE-SL",
+      "state": "Saarland",
+      "mapName": "Saarland",
+      "label": "Saarland",
+      "mapAliases": [
+        "saarland",
+        "de sl",
+        "sl"
+      ],
+      "title": "What Really Happened Over Saarland?",
+      "summary": "Saarland has a small but unusually interesting place in German UFO history. It is not known for a long list of well-documented modern pilot or radar cases.",
+      "url": "what-really-happened-over-saarland/",
+      "image": "assets/images/Saarland_af09d5-overview.webp",
+      "pageCount": 13,
+      "region": "Germany",
+      "code": "SL"
+    },
+    {
+      "id": "DE-BB",
+      "iso": "DE-BB",
+      "state": "Brandenburg",
+      "mapName": "Brandenburg",
+      "label": "Brandenburg",
+      "mapAliases": [
+        "brandenburg",
+        "de bb",
+        "bb"
+      ],
+      "title": "What Really Lights Up Brandenburg's Skies?",
+      "summary": "Brandenburg does not have a single, world-famous “UFO case” comparable to the best-known American or British incidents.",
+      "url": "what-really-lights-up-brandenburgs-skies/",
+      "image": "assets/images/Brandenburg_a1d94c-overview.webp",
+      "pageCount": 13,
+      "region": "Germany",
+      "code": "BB"
+    },
+    {
+      "id": "DE-HB",
+      "iso": "DE-HB",
+      "state": "Bremen",
+      "mapName": "Bremen",
+      "label": "Bremen",
+      "mapAliases": [
+        "bremen",
+        "de hb",
+        "hb"
+      ],
+      "title": "When Bremen's UFO Story Became an Airport Problem",
+      "summary": "Bremen’s UFO history is not a long parade of classic “flying saucer” cases.",
+      "url": "when-bremens-ufo-story-became-an-airport/",
+      "image": "assets/images/Bremen_20b942-overview.webp",
+      "pageCount": 13,
+      "region": "Germany",
+      "code": "HB"
+    },
+    {
+      "id": "DE-MV",
+      "iso": "DE-MV",
+      "state": "Mecklenburg-Vorpommern",
+      "mapName": "Mecklenburg-Vorpommern",
+      "label": "Mecklenburg-Vorpommern",
+      "mapAliases": [
+        "mecklenburg western pomerania",
+        "mecklenburg vorpommern",
+        "de mv",
+        "mv"
+      ],
+      "title": "Why Baltic Lights Became UFO Legends",
+      "summary": "Mecklenburg-Vorpommern’s UFO history is unusually clear in one respect: its best-known cases are not random rumours, but coastal sky events shaped by the...",
+      "url": "mecklenburg-vorpommern/",
+      "image": "assets/images/Mecklenburg-Vorpomme_d975e6-overview.webp",
+      "pageCount": 13,
+      "region": "Germany",
+      "code": "MV"
+    },
+    {
+      "id": "DE-HE",
+      "iso": "DE-HE",
+      "state": "Hesse",
+      "mapName": "Hesse",
+      "label": "Hesse",
+      "mapAliases": [
+        "hessen",
+        "de he",
+        "hesse",
+        "he"
+      ],
+      "title": "Why Hesse's UFO Stories Usually Come Back to Earth",
+      "summary": "Hesse’s UFO history is less a story of one famous unsolved crash or dramatic state investigation than of a busy modern sky: Frankfurt’s airport corridor,...",
+      "url": "why-hesses-ufo-stories-usually-come/",
+      "image": "assets/images/Hesse_19bb21-overview.webp",
+      "pageCount": 13,
+      "region": "Germany",
+      "code": "HE"
+    }
+  ],
+  "states": [
+    {
+      "id": "DE-BE",
+      "iso": "DE-BE",
+      "state": "Berlin",
+      "mapName": "Berlin",
+      "label": "Berlin",
+      "mapAliases": [
+        "berlin",
+        "de be",
+        "be"
+      ],
+      "title": "What Berlin's UFO Reports Really Show",
+      "summary": "Berlin has plenty of UFO reports, but not a strong record of landmark, well-evidenced UFO incidents.",
+      "url": "what-berlins-ufo-reports-really-show/",
+      "image": "assets/images/Berlin_062b06-overview.webp",
+      "pageCount": 13,
+      "region": "Germany",
+      "code": "BE"
+    },
+    {
+      "id": "DE-HH",
+      "iso": "DE-HH",
+      "state": "Hamburg",
+      "mapName": "Hamburg",
+      "label": "Hamburg",
+      "mapAliases": [
+        "hamburg",
+        "de hh",
+        "hh"
+      ],
+      "title": "What Did Hamburg Really See in the Sky?",
+      "summary": "Hamburg’s UFO history is not a catalogue of dramatic, well-evidenced “mystery craft”.",
+      "url": "what-did-hamburg-really-see-in-the-sky/",
+      "image": "assets/images/Hamburg_155277-overview.webp",
+      "pageCount": 13,
+      "region": "Germany",
+      "code": "HH"
+    },
+    {
+      "id": "DE-NW",
+      "iso": "DE-NW",
+      "state": "North Rhine-Westphalia",
+      "mapName": "North Rhine-Westphalia",
+      "label": "North Rhine-Westphalia",
+      "mapAliases": [
+        "north rhine westphalia",
+        "nordrhein westfalen",
+        "de nw",
+        "nrw",
+        "nw"
+      ],
+      "title": "What Really Explains NRW UFO Sightings?",
+      "summary": "North Rhine-Westphalia is not known for one single famous “classic” UFO case in the way some regions are.",
+      "url": "north-rhine-westphalia/",
+      "image": "assets/images/North_Rhine-Westphal_f5bdd9-overview.webp",
+      "pageCount": 13,
+      "region": "Germany",
+      "code": "NW"
+    },
+    {
+      "id": "DE-SH",
+      "iso": "DE-SH",
+      "state": "Schleswig-Holstein",
+      "mapName": "Schleswig-Holstein",
+      "label": "Schleswig-Holstein",
+      "mapAliases": [
+        "schleswig holstein",
+        "de sh",
+        "sh"
+      ],
+      "title": "What Really Flew Over Schleswig Holstein?",
+      "summary": "Schleswig-Holstein’s UFO history is not built around one world-famous “flying saucer” case.",
+      "url": "what-really-flew-over-schleswig-holstein/",
+      "image": "assets/images/Schleswig-Holstein_76916e-overview.webp",
+      "pageCount": 13,
+      "region": "Germany",
+      "code": "SH"
+    },
+    {
+      "id": "DE-NI",
+      "iso": "DE-NI",
+      "state": "Lower Saxony",
+      "mapName": "Lower Saxony",
+      "label": "Lower Saxony",
+      "mapAliases": [
+        "niedersachsen",
+        "lower saxony",
+        "de ni",
+        "ni"
+      ],
+      "title": "What Really Happened in Lower Saxony's UFO Stories?",
+      "summary": "Lower Saxony does not have one famous, well-documented “classic UFO case” comparable with Roswell or Belgium’s 1989–90 wave.",
+      "url": "what-really-happened-in-lower-saxonys/",
+      "image": "assets/images/Lower_Saxony_e2cb37-overview.webp",
+      "pageCount": 13,
+      "region": "Germany",
+      "code": "NI"
+    },
+    {
+      "id": "DE-RP",
+      "iso": "DE-RP",
+      "state": "Rhineland-Palatinate",
+      "mapName": "Rhineland-Palatinate",
+      "label": "Rhineland-Palatinate",
+      "mapAliases": [
+        "rhineland palatinate",
+        "rheinland pfalz",
+        "de rp",
+        "rp"
+      ],
+      "title": "What Really Happened In Rhineland Palatinate's UFO...",
+      "summary": "Rhineland-Palatinate is not one of Germany’s best-known UFO “mystery” regions, but it has a distinctive place in the country’s UFO history for three reasons:...",
+      "url": "rhineland-palatinate/",
+      "image": "assets/images/Rhineland-Palatinate_9f2211-overview.webp",
+      "pageCount": 13,
+      "region": "Germany",
+      "code": "RP"
+    },
+    {
+      "id": "DE-ST",
+      "iso": "DE-ST",
+      "state": "Saxony-Anhalt",
+      "mapName": "Saxony-Anhalt",
+      "label": "Saxony-Anhalt",
+      "mapAliases": [
+        "sachsen anhalt",
+        "saxony anhalt",
+        "de st",
+        "st"
+      ],
+      "title": "What Really Happened in Saxony Anhalt's UFO Stories?",
+      "summary": "Saxony-Anhalt has a real but uneven UFO history: not a catalogue of confirmed alien craft, but a pattern of reported lights, photographed oddities,...",
+      "url": "what-really-happened-in-saxony-anhalts/",
+      "image": "assets/images/Saxony-Anhalt_5678a0-overview.webp",
+      "pageCount": 13,
+      "region": "Germany",
+      "code": "ST"
+    },
+    {
+      "id": "DE-SN",
+      "iso": "DE-SN",
+      "state": "Saxony",
+      "mapName": "Saxony",
+      "label": "Saxony",
+      "mapAliases": [
+        "sachsen",
+        "saxony",
+        "de sn",
+        "sn"
+      ],
+      "title": "What Really Happened in Saxony's UFO Stories?",
+      "summary": "Saxony has a modest but revealing UFO history. It is not known for a single world-famous landing story or a large official case file.",
+      "url": "what-really-happened-in-saxonys-ufo/",
+      "image": "assets/images/Saxony_caf030-overview.webp",
+      "pageCount": 13,
+      "region": "Germany",
+      "code": "SN"
+    },
+    {
+      "id": "DE-TH",
+      "iso": "DE-TH",
+      "state": "Thuringia",
+      "mapName": "Thuringia",
+      "label": "Thuringia",
+      "mapAliases": [
+        "thueringen",
+        "thuringen",
+        "thuringia",
+        "de th",
+        "th"
+      ],
+      "title": "What Really Happened in Thuringia's UFO Stories?",
+      "summary": "Thuringia has a small but revealing place in German UFO history.",
+      "url": "what-really-happened-in-thuringias-ufo/",
+      "image": "assets/images/Thuringia_f28d08-overview.webp",
+      "pageCount": 13,
+      "region": "Germany",
+      "code": "TH"
+    },
+    {
+      "id": "DE-BW",
+      "iso": "DE-BW",
+      "state": "Baden-Wurttemberg",
+      "mapName": "Baden-Wurttemberg",
+      "label": "Baden-Wurttemberg",
+      "mapAliases": [
+        "baden wuerttemberg",
+        "baden wurttemberg",
+        "de bw",
+        "bw"
+      ],
+      "title": "What Really Happened Over Baden Wurttemberg?",
+      "summary": "Baden-Württemberg’s UFO history is less a story of a single legendary crash or a government-confirmed mystery than a record of repeated, well-publicised sky...",
+      "url": "what-really-happened-over-baden/",
+      "image": "assets/images/Baden-Wurttemberg_dc11f2-overview.webp",
+      "pageCount": 13,
+      "region": "Germany",
+      "code": "BW"
+    },
+    {
+      "id": "DE-BY",
+      "iso": "DE-BY",
+      "state": "Bavaria",
+      "mapName": "Bavaria",
+      "label": "Bavaria",
+      "mapAliases": [
+        "bavaria",
+        "bayern",
+        "de by",
+        "by"
+      ],
+      "title": "What Really Happened Over Bavaria's Skies?",
+      "summary": "Bavaria’s UFO history is not a single dramatic mystery so much as a layered record of sky reports, military paperwork, popular retellings and modern attempts...",
+      "url": "what-really-happened-over-bavarias-skies/",
+      "image": "assets/images/Bavaria_3c0123-overview.webp",
+      "pageCount": 13,
+      "region": "Germany",
+      "code": "BY"
+    },
+    {
+      "id": "DE-SL",
+      "iso": "DE-SL",
+      "state": "Saarland",
+      "mapName": "Saarland",
+      "label": "Saarland",
+      "mapAliases": [
+        "saarland",
+        "de sl",
+        "sl"
+      ],
+      "title": "What Really Happened Over Saarland?",
+      "summary": "Saarland has a small but unusually interesting place in German UFO history. It is not known for a long list of well-documented modern pilot or radar cases.",
+      "url": "what-really-happened-over-saarland/",
+      "image": "assets/images/Saarland_af09d5-overview.webp",
+      "pageCount": 13,
+      "region": "Germany",
+      "code": "SL"
+    },
+    {
+      "id": "DE-BB",
+      "iso": "DE-BB",
+      "state": "Brandenburg",
+      "mapName": "Brandenburg",
+      "label": "Brandenburg",
+      "mapAliases": [
+        "brandenburg",
+        "de bb",
+        "bb"
+      ],
+      "title": "What Really Lights Up Brandenburg's Skies?",
+      "summary": "Brandenburg does not have a single, world-famous “UFO case” comparable to the best-known American or British incidents.",
+      "url": "what-really-lights-up-brandenburgs-skies/",
+      "image": "assets/images/Brandenburg_a1d94c-overview.webp",
+      "pageCount": 13,
+      "region": "Germany",
+      "code": "BB"
+    },
+    {
+      "id": "DE-HB",
+      "iso": "DE-HB",
+      "state": "Bremen",
+      "mapName": "Bremen",
+      "label": "Bremen",
+      "mapAliases": [
+        "bremen",
+        "de hb",
+        "hb"
+      ],
+      "title": "When Bremen's UFO Story Became an Airport Problem",
+      "summary": "Bremen’s UFO history is not a long parade of classic “flying saucer” cases.",
+      "url": "when-bremens-ufo-story-became-an-airport/",
+      "image": "assets/images/Bremen_20b942-overview.webp",
+      "pageCount": 13,
+      "region": "Germany",
+      "code": "HB"
+    },
+    {
+      "id": "DE-MV",
+      "iso": "DE-MV",
+      "state": "Mecklenburg-Vorpommern",
+      "mapName": "Mecklenburg-Vorpommern",
+      "label": "Mecklenburg-Vorpommern",
+      "mapAliases": [
+        "mecklenburg western pomerania",
+        "mecklenburg vorpommern",
+        "de mv",
+        "mv"
+      ],
+      "title": "Why Baltic Lights Became UFO Legends",
+      "summary": "Mecklenburg-Vorpommern’s UFO history is unusually clear in one respect: its best-known cases are not random rumours, but coastal sky events shaped by the...",
+      "url": "mecklenburg-vorpommern/",
+      "image": "assets/images/Mecklenburg-Vorpomme_d975e6-overview.webp",
+      "pageCount": 13,
+      "region": "Germany",
+      "code": "MV"
+    },
+    {
+      "id": "DE-HE",
+      "iso": "DE-HE",
+      "state": "Hesse",
+      "mapName": "Hesse",
+      "label": "Hesse",
+      "mapAliases": [
+        "hessen",
+        "de he",
+        "hesse",
+        "he"
+      ],
+      "title": "Why Hesse's UFO Stories Usually Come Back to Earth",
+      "summary": "Hesse’s UFO history is less a story of one famous unsolved crash or dramatic state investigation than of a busy modern sky: Frankfurt’s airport corridor,...",
+      "url": "why-hesses-ufo-stories-usually-come/",
+      "image": "assets/images/Hesse_19bb21-overview.webp",
+      "pageCount": 13,
+      "region": "Germany",
+      "code": "HE"
+    }
+  ],
+  "matchedCount": 16,
+  "totalTopTopics": 16,
+  "source": "Generated from Stage 3 German state collection pages; CC0 base SVG from MapSVG.",
+  "sourceUrl": "https://mapsvg.com/maps/germany",
+  "license": "Commercial use allowed; no attribution required."
+}
