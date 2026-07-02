@@ -52,7 +52,7 @@ text_direction: ltr
 ui_strings:
   home: Home
   overview: Overview
-  overview_prefix:'Overview:'
+  overview_prefix: 'Overview:'
   contents: Contents
   close: Close
   open_contents: Open contents
@@ -200,13 +200,13 @@ ui_strings:
   search_this_page_empty_hint: Type to search this page.
   no_search_results: No pages match this search.
   no_search_this_page_results: No sections on this page match this search.
-  search_results_count_template:'{count} results'
+  search_results_count_template: '{count} results'
   search_kind_page_title: Page title
   search_kind_page_summary: Summary of page
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date:'2026-06-29 22:45:41'
+date: '2026-06-29 22:45:41'
 parent_title: Baden UFOs
 parent_permalink: /what-really-happened-over-baden/
 parent_nav_short_title: Baden UFOs
@@ -317,7 +317,13 @@ Baden-Württemberg is not a marginal location in German UFO reporting. CENAP’s
 
 Starlink is one of the reasons modern numbers need a different reading from older flap periods. CENAP has said German reports have increased since 2019 because of Starlink, whose satellites can appear as “strings of pearls” after launch and later as conspicuous moving points in orbit. In 2024, regional reporting around Baden-Württemberg also repeated the same pattern: the rise was tied not to stronger evidence of extraordinary craft, but to repeatable explanations such as Starlink, bright planets, Sirius, balloons, drones and camera artefacts.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.deutschland.de/en/topic/knowledge/ufos-over-germany-hansjuergen-koehler-and-cenap" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: deutschland.de">[Deutschland+2schwarzwaelder-bote.de]</a><span class="citation-popover" role="note"><span class="citation-popover-source">deutschland.de</span><span class="citation-popover-title">ufos over germany hansjuergen koehler and cenap</span><span class="citation-popover-snippet">UFOs over Germany: An expert provides clarity29 Nov 2024 — Reports of UFOs remain undiminished: In 2023 alone, CENAP... Repor...</span></span></span>
 
-This is why Starlink belongs inside Baden-Württemberg’s UFO story rather than in a separate technology sidebar. The state has an active reporting culture, a long sceptical-investigation tradition connected with CENAP’s Mannheim origins, and a public broadcaster that regularly has to explain sky events to residents. Satellite confusion has become part of the local evidence environment.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/GhLXCJ1Gyyc" title="Starlink satellites, the string of lights in the night sky." frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=GhLXCJ1Gyyc" target="_blank" rel="noopener noreferrer">Starlink satellites, the string of lights in the night sky.</a></p><p class="youtube-embed-meta">Channel: Brad Panovich (wxbrad) &middot; Views: 251.7K &middot; Uploaded: September 2023 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=GhLXCJ1Gyyc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=GhLXCJ1Gyyc">Open on YouTube</a></p></div></div></div>
+This is why Starlink belongs inside Baden-Württemberg’s UFO story rather than in a separate technology sidebar. The state has an active reporting culture, a long sceptical-investigation tradition connected with CENAP’s Mannheim origins, and a public broadcaster that regularly has to explain sky events to residents. Satellite confusion has become part of the local evidence environment.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/GhLXCJ1Gyyc" title="Starlink satellites, the string of lights in the night sky." frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=GhLXCJ1Gyyc" target="_blank" rel="noopener noreferrer">Starlink satellites, the string of lights in the night sky.</a></p><p class="youtube-embed-meta">Channel: Brad Panovich (wxbrad) &middot; Views: 251.7K &middot; Uploaded: September 2023 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=GhLXCJ1Gyyc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=GhLXCJ1Gyyc">Open on YouTube</a></p></div></div></div>
+
+
+
+
 
 ## Launch strings are not the same as ordinary satellite passes
 
@@ -332,7 +338,11 @@ That difference helps separate several kinds of modern report:<div class="conten
 
 The 25 August 2025 light-streak event over Baden-Württemberg and neighbouring regions is a good warning against overusing Starlink as a one-size-fits-all answer. At first, many people asked whether the bright white streak was a Starlink satellite or a rocket-related event. CENAP received numerous reports from Rheinland-Pfalz, northern Hesse, Baden-Württemberg, Bavaria and Austria. The later explanation was not a Starlink train but frozen fuel droplets from a Chinese Long March 8 rocket stage reflecting sunlight. SWR reported that the streak was visible around 22:30 and generated many photographs and social-media questions.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.swr.de/swraktuell/streifen-am-himmel-montagabend-rakete-starlink-100.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: swr.de">[SWR+2SWR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">swr.de</span><span class="citation-popover-title">streifen am himmel montagabend rakete starlink 100</span><span class="citation-popover-snippet">streifen am himmel montagabend rakete starlink 100</span></span></span>
 
-That case matters because it shows both sides of the new confusion. Starlink has become familiar enough that people reach for it quickly, but not every modern aerospace glow is Starlink. Investigators still have to match the shape, timing, direction and duration to the correct object.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/oGVGF791tHQ" title="UFO overhead? No, stunning #SpaceX #Starlink pass (2/13/23)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=oGVGF791tHQ" target="_blank" rel="noopener noreferrer">UFO overhead? No, stunning #SpaceX #Starlink pass (2/13/23)</a></p><p class="youtube-embed-meta">Channel: Meteorologist Nick Stewart</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=oGVGF791tHQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=oGVGF791tHQ">Open on YouTube</a></p></div></div></div><img src="{{"/assets/images/Baden-Wurttemberg_dc11f2_starlink_satellite_c_217280-Illustration-2-dark.svg" | relative_url }}" alt="Starlink illustration 2" data-theme-src-dark="{{"/assets/images/Baden-Wurttemberg_dc11f2_starlink_satellite_c_217280-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{"/assets/images/Baden-Wurttemberg_dc11f2_starlink_satellite_c_217280-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+That case matters because it shows both sides of the new confusion. Starlink has become familiar enough that people reach for it quickly, but not every modern aerospace glow is Starlink. Investigators still have to match the shape, timing, direction and duration to the correct object.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/oGVGF791tHQ" title="UFO overhead? No, stunning #SpaceX #Starlink pass (2/13/23)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=oGVGF791tHQ" target="_blank" rel="noopener noreferrer">UFO overhead? No, stunning #SpaceX #Starlink pass (2/13/23)</a></p><p class="youtube-embed-meta">Channel: Meteorologist Nick Stewart</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=oGVGF791tHQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=oGVGF791tHQ">Open on YouTube</a></p></div></div></div>
+
+<img src="{{"/assets/images/Baden-Wurttemberg_dc11f2_starlink_satellite_c_217280-Illustration-2-dark.svg" | relative_url }}" alt="Starlink illustration 2" data-theme-src-dark="{{"/assets/images/Baden-Wurttemberg_dc11f2_starlink_satellite_c_217280-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{"/assets/images/Baden-Wurttemberg_dc11f2_starlink_satellite_c_217280-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What witnesses can check before reporting
 
 A useful sighting report does not need professional astronomy. It needs basic details that let someone test the Starlink possibility. The most important information is the exact time, viewing direction, duration, location and whether the object was a chain of dots, a single moving point, a cloud-like streak or a flashing aircraft-like light. Without those details, many reports remain weak because they cannot be checked against known passes.
@@ -342,7 +352,13 @@ For a Baden-Württemberg witness, the first checks are practical:<div class="con
 1. **Record the exact time.** Satellite predictions can be time-sensitive. A difference of a few minutes may matter.
 2. **Note direction and path.** “From west to east above the southern horizon” is far more useful than “over the house”.
 3. **Describe the shape before interpreting it.** A row of points, a diffuse plume and a flashing aircraft are different evidence categories.
-4. **Check recent Starlink launches and visible passes.** Public tracking tools list predicted Starlink visibility by location, although predictions can shift after launch.</div><div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/lZC7NeKu2Vw" title="UFO sighting likely Starlink satellites" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=lZC7NeKu2Vw" target="_blank" rel="noopener noreferrer">UFO sighting likely Starlink satellites</a></p><p class="youtube-embed-meta">Channel: WSMV 4 Nashville &middot; Views: 6.4K &middot; Uploaded: March 2024 &middot; Length: 53 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=lZC7NeKu2Vw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=lZC7NeKu2Vw">Open on YouTube</a></p></div></div></div>
+4. **Check recent Starlink launches and visible passes.** Public tracking tools list predicted Starlink visibility by location, although predictions can shift after launch.</div>
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/lZC7NeKu2Vw" title="UFO sighting likely Starlink satellites" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=lZC7NeKu2Vw" target="_blank" rel="noopener noreferrer">UFO sighting likely Starlink satellites</a></p><p class="youtube-embed-meta">Channel: WSMV 4 Nashville &middot; Views: 6.4K &middot; Uploaded: March 2024 &middot; Length: 53 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=lZC7NeKu2Vw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=lZC7NeKu2Vw">Open on YouTube</a></p></div></div></div>
+
+
+
+
 
 5. **Compare with aircraft and planets.** Venus, Jupiter and Sirius still generate many reports, and aircraft can confuse witnesses when seen head-on or in unusual atmospheric conditions. [Space+2heute-am-himmel.de](https://www.space.com/spacex-starlink-satellites.html)
 

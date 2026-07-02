@@ -52,7 +52,7 @@ text_direction: ltr
 ui_strings:
   home: Home
   overview: Overview
-  overview_prefix:'Overview:'
+  overview_prefix: 'Overview:'
   contents: Contents
   close: Close
   open_contents: Open contents
@@ -200,13 +200,13 @@ ui_strings:
   search_this_page_empty_hint: Type to search this page.
   no_search_results: No pages match this search.
   no_search_this_page_results: No sections on this page match this search.
-  search_results_count_template:'{count} results'
+  search_results_count_template: '{count} results'
   search_kind_page_title: Page title
   search_kind_page_summary: Summary of page
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date:'2026-06-30 04:55:11'
+date: '2026-06-30 04:55:11'
 parent_title: Lower Saxony UFOs
 parent_permalink: /what-really-happened-in-lower-saxonys/
 parent_nav_short_title: Lower Saxony UFOs
@@ -302,7 +302,13 @@ image: /assets/images/Lower_Saxony_e2cb37_astronomy_misidentif_9433c9-overview-s
 
 ## Introduction
 
-Some [Lower Saxony]({{'what-really-happened-in-lower-saxonys/' | relative_url }}) UFO reports are best understood not as exotic craft, but as familiar lights seen under unfamiliar conditions. Bright stars, planets and the Moon can appear larger, nearer, coloured, flickering or oddly shaped when they are low in the sky, partly obscured by cloud, seen through haze, or watched by an anxious observer with few reference points. That does not mean witnesses are foolish. It means the night sky is a poor measuring instrument for the unaided eye.<img src="{{"/assets/images/Lower_Saxony_e2cb37_astronomy_misidentif_9433c9-overview.webp" | relative_url }}" alt="Overview image for Planets" loading="eager" decoding="sync" fetchpriority="high"><div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/TQcqOW39ksk" title="Unidentified Anomalous Phenomena Independent Study Report" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=TQcqOW39ksk" target="_blank" rel="noopener noreferrer">Unidentified Anomalous Phenomena Independent Study Report</a></p><p class="youtube-embed-meta">Channel: NASA &middot; Views: 107.4K &middot; Uploaded: September 2023 &middot; Length: 59 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=TQcqOW39ksk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=TQcqOW39ksk">Open on YouTube</a></p></div></div></div>
+Some [Lower Saxony]({{'what-really-happened-in-lower-saxonys/' | relative_url }}) UFO reports are best understood not as exotic craft, but as familiar lights seen under unfamiliar conditions. Bright stars, planets and the Moon can appear larger, nearer, coloured, flickering or oddly shaped when they are low in the sky, partly obscured by cloud, seen through haze, or watched by an anxious observer with few reference points. That does not mean witnesses are foolish. It means the night sky is a poor measuring instrument for the unaided eye.<img src="{{"/assets/images/Lower_Saxony_e2cb37_astronomy_misidentif_9433c9-overview.webp" | relative_url }}" alt="Overview image for Planets" loading="eager" decoding="sync" fetchpriority="high">
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/TQcqOW39ksk" title="Unidentified Anomalous Phenomena Independent Study Report" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=TQcqOW39ksk" target="_blank" rel="noopener noreferrer">Unidentified Anomalous Phenomena Independent Study Report</a></p><p class="youtube-embed-meta">Channel: NASA &middot; Views: 107.4K &middot; Uploaded: September 2023 &middot; Length: 59 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=TQcqOW39ksk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=TQcqOW39ksk">Open on YouTube</a></p></div></div></div>
+
+
+
+
 
 ## Why Bright Objects Fool Witnesses
 
@@ -323,7 +329,13 @@ The Wiefelstede case from 2 September 2012 is different. The Ufokarte entry plac
 
 The Moon is a frequent source of unusual reports because it is bright enough to interact visibly with cloud, haze and ice crystals. The UK Met Office explains that haloes form when sunlight or moonlight interacts with tiny ice crystals in high cirrus or cirrostratus cloud, commonly producing a 22-degree halo around the Sun or Moon. It also notes that coronas around the Moon form through diffraction by water droplets, separating white light into colours and becoming diffuse or irregular as cloud conditions change.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://weather.metoffice.gov.uk/learn-about/weather/optical-effects" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: weather.metoffice.gov.uk">[Met Office]</a><span class="citation-popover" role="note"><span class="citation-popover-source">weather.metoffice.gov.uk</span><span class="citation-popover-title">Met Office Optical effects: nature&#x27;s light show</span><span class="citation-popover-snippet">Met Office Optical effects: nature&#x27;s light show</span></span></span> A witness who sees the Moon through uneven cloud may interpret the surrounding optical effect not as weather, but as a disc, ring or shadowed object.
 
-The Embsen and Wiefelstede cases should not be treated as equal in evidential strength. Embsen has a clear match between reported appearance and a named star. Wiefelstede is more ambiguous, because the report is brief and the published explanation is limited. But both belong on the same page because they show the same mechanism: a real celestial object can become a UFO report when atmosphere, viewing angle and expectation alter its appearance.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/diPXow8zgc8" title="How scientists use math to help explain UFO videos" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=diPXow8zgc8" target="_blank" rel="noopener noreferrer">How scientists use math to help explain UFO videos</a></p><p class="youtube-embed-meta">Channel: PBS NewsHour &middot; Views: 11.7K &middot; Uploaded: April 2025 &middot; Length: 3 minutes 20 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=diPXow8zgc8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=diPXow8zgc8">Open on YouTube</a></p></div></div></div>
+The Embsen and Wiefelstede cases should not be treated as equal in evidential strength. Embsen has a clear match between reported appearance and a named star. Wiefelstede is more ambiguous, because the report is brief and the published explanation is limited. But both belong on the same page because they show the same mechanism: a real celestial object can become a UFO report when atmosphere, viewing angle and expectation alter its appearance.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/diPXow8zgc8" title="How scientists use math to help explain UFO videos" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=diPXow8zgc8" target="_blank" rel="noopener noreferrer">How scientists use math to help explain UFO videos</a></p><p class="youtube-embed-meta">Channel: PBS NewsHour &middot; Views: 11.7K &middot; Uploaded: April 2025 &middot; Length: 3 minutes 20 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=diPXow8zgc8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=diPXow8zgc8">Open on YouTube</a></p></div></div></div>
+
+
+
+
 
 ## How Atmosphere and Expectation Change Perception
 
@@ -349,7 +361,13 @@ For Lower Saxony, the practical lesson is simple. Before a night-sky report is c
 * Was the Moon visible, partly clouded or surrounded by haze?
 * Were Venus, Jupiter, Sirius, Capella or another bright object prominent from that location?</div>
 
-A report that answers those questions can be tested. A report that lacks them may remain weak, not because something extraordinary happened, but because the evidence is too incomplete to decide.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/2nTFWehgP2w" title="Strange Signals From Deep Space | The Proof Is Out There" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=2nTFWehgP2w" target="_blank" rel="noopener noreferrer">Strange Signals From Deep Space | The Proof Is Out There</a></p><p class="youtube-embed-meta">Channel: HISTORY &middot; Views: 68.0K &middot; Uploaded: April 2026 &middot; Length: 46 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=2nTFWehgP2w" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=2nTFWehgP2w">Open on YouTube</a></p></div></div></div>
+A report that answers those questions can be tested. A report that lacks them may remain weak, not because something extraordinary happened, but because the evidence is too incomplete to decide.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/2nTFWehgP2w" title="Strange Signals From Deep Space | The Proof Is Out There" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=2nTFWehgP2w" target="_blank" rel="noopener noreferrer">Strange Signals From Deep Space | The Proof Is Out There</a></p><p class="youtube-embed-meta">Channel: HISTORY &middot; Views: 68.0K &middot; Uploaded: April 2026 &middot; Length: 46 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=2nTFWehgP2w" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=2nTFWehgP2w">Open on YouTube</a></p></div></div></div>
+
+
+
+
 
 ## The Takeaway for Sighting Reports
 

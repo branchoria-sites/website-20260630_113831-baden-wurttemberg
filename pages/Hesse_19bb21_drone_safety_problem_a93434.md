@@ -52,7 +52,7 @@ text_direction: ltr
 ui_strings:
   home: Home
   overview: Overview
-  overview_prefix:'Overview:'
+  overview_prefix: 'Overview:'
   contents: Contents
   close: Close
   open_contents: Open contents
@@ -200,13 +200,13 @@ ui_strings:
   search_this_page_empty_hint: Type to search this page.
   no_search_results: No pages match this search.
   no_search_this_page_results: No sections on this page match this search.
-  search_results_count_template:'{count} results'
+  search_results_count_template: '{count} results'
   search_kind_page_title: Page title
   search_kind_page_summary: Summary of page
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date:'2026-06-30 02:44:15'
+date: '2026-06-30 02:44:15'
 parent_title: Hesse UFOs
 parent_permalink: /why-hesses-ufo-stories-usually-come/
 parent_nav_short_title: Hesse UFOs
@@ -324,13 +324,13 @@ In UFO terms, this means the most important “investigation” may happen in re
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/FKmK645noSs" title="Eindhoven Airport SHUT DOWN After Multiple Drone Sightings | Security Scare Grounds Flights | 4K" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=FKmK645noSs" target="_blank" rel="noopener noreferrer">Eindhoven Airport SHUT DOWN After Multiple Drone Sightings | Security Scare Grounds Flights | 4K</a></p><p class="youtube-embed-meta">Channel: CNN-News18 &middot; Views: 1.3K &middot; Uploaded: November 2025 &middot; Length: 8 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=FKmK645noSs" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=FKmK645noSs">Open on YouTube</a></p></div></div></div>
 
+
+
 ## Why Frankfurt raises the stakes
 
 Frankfurt is not just another local airfield. It is Germany’s largest airport and one of Europe’s major hubs, so a short interruption can ripple through passengers, aircraft rotations, cargo, connecting flights and airline schedules. Fraport said around 6.3 million passengers travelled through Frankfurt Airport in August 2025, with more than 200,000 travellers on peak weekend-adjacent days and 221,360 passengers on 3 August alone.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.fraport.com/en/newsroom/press-releases/2025/traffic-figures/fraport-traffic-figures---august-2025--passenger-and-cargo-volum.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fraport.com">[Fraport AG]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fraport.com</span><span class="citation-popover-title">fraport traffic figures august 2025 passenger and cargo volum</span><span class="citation-popover-snippet">fraport traffic figures august 2025 passenger and cargo volum</span><span class="citation-popover-meta">Published: august 2025</span></span></span>
 
 That scale changes the meaning of a “UFO-like” drone sighting. A light over a field may become a local curiosity. A light near Frankfurt’s approach paths may become an airport incident. DFS explicitly warns that unauthorised drone flights at airports have repeatedly led to cancellations, delays and economic damage, and that drones near manned aircraft endanger passengers and crews.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dfs.de/homepage/en/drone-flight/drones-at-airports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dfs.de">[DFS Deutsche Flugsicherung GmbH]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dfs.de</span><span class="citation-popover-snippet">Open source on dfs.de.</span></span></span>
-
-The 2025 figures made Frankfurt stand out within Germany. Hessischer Rundfunk reported in October 2025 that 35 disturbances from unauthorised drones had already been reported around Frankfurt Airport that year, more than at any other German airport, citing the current DFS drone report from Langen in Hesse. The same report said authorities were mostly dealing with commercially available small drones flown by private individuals.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.hessenschau.de/panorama/deutlich-mehr-stoerungen-durch-drohnen-am-flughafen-frankfurt-v2%2Cdrohnen-flughafen-frankfurt-102.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hessenschau.de">[hessenschau.de]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hessenschau.de</span><span class="citation-popover-snippet">Open source on hessenschau.de.</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/NxSt4eWnP9o" title="Polizei warnt vor Straftat: Drohne legt kurzzeitig Frankfurter Flughafen lahm" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=NxSt4eWnP9o" target="_blank" rel="noopener noreferrer">Polizei warnt vor Straftat: Drohne legt kurzzeitig Frankfurter Flughafen lahm</a></p><p class="youtube-embed-meta">Channel: faz</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=NxSt4eWnP9o" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=NxSt4eWnP9o">Open on YouTube</a></p></div></div></div>
 
@@ -355,7 +355,13 @@ Frankfurt adds a distinctive pressure point. A drone seen near the airport is no
 
 The June 2024 Frankfurt football light-show case is a useful contrast. Local reporting said unusual lights over Frankfurt during the city’s European Championship opening celebration prompted UFO alarm, but CENAP linked the spectacle to event lighting around the Flößerbrücke; the same report also noted illegal drones.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.fnp.de/frankfurt/em-lichtshow-ufo-cenap-frankfurt-odenwald-bayern-europameisterschaft-ausserirdisch-93127867.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fnp.de">[Frankfurter Neue Presse]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fnp.de</span><span class="citation-popover-snippet">Open source on fnp.de.</span></span></span> That kind of case shows how public events can generate several overlapping categories at once: deliberate lights, mistaken UFO reports and potentially unlawful drone activity.
 
-For readers of Hesse UFO history, that overlap is important. It prevents two common mistakes. The sceptical mistake is to dismiss every strange report as silly once a mundane category is available. The sensational mistake is to treat every incomplete report as evidence of something extraordinary. Drones near Frankfurt show a third category: ordinary technology producing real uncertainty and real consequences.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/a_AAJbzT1Zk" title="Unidentified lights in New Jersey skies: A look into mysterious drone sightings" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=a_AAJbzT1Zk" target="_blank" rel="noopener noreferrer">Unidentified lights in New Jersey skies: A look into mysterious drone sightings</a></p><p class="youtube-embed-meta">Channel: PIX11 News &middot; Views: 13.7K &middot; Uploaded: November 2025 &middot; Length: 15 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=a_AAJbzT1Zk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=a_AAJbzT1Zk">Open on YouTube</a></p></div></div></div>
+For readers of Hesse UFO history, that overlap is important. It prevents two common mistakes. The sceptical mistake is to dismiss every strange report as silly once a mundane category is available. The sensational mistake is to treat every incomplete report as evidence of something extraordinary. Drones near Frankfurt show a third category: ordinary technology producing real uncertainty and real consequences.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/a_AAJbzT1Zk" title="Unidentified lights in New Jersey skies: A look into mysterious drone sightings" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=a_AAJbzT1Zk" target="_blank" rel="noopener noreferrer">Unidentified lights in New Jersey skies: A look into mysterious drone sightings</a></p><p class="youtube-embed-meta">Channel: PIX11 News &middot; Views: 13.7K &middot; Uploaded: November 2025 &middot; Length: 15 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=a_AAJbzT1Zk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=a_AAJbzT1Zk">Open on YouTube</a></p></div></div></div>
+
+
+
+
 
 ## What makes a drone report stronger or weaker
 

@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /bremen-20b942-index/
 description: Focused pages that expand on When Bremen's UFO Story Became an Airport....
-date:'2026'
+date: '2026'
 layout: default
 parent_basename: Bremen_20b942
 parent_title: When Bremen's UFO Story Became an Airport...

@@ -52,7 +52,7 @@ text_direction: ltr
 ui_strings:
   home: Home
   overview: Overview
-  overview_prefix:'Overview:'
+  overview_prefix: 'Overview:'
   contents: Contents
   close: Close
   open_contents: Open contents
@@ -200,13 +200,13 @@ ui_strings:
   search_this_page_empty_hint: Type to search this page.
   no_search_results: No pages match this search.
   no_search_this_page_results: No sections on this page match this search.
-  search_results_count_template:'{count} results'
+  search_results_count_template: '{count} results'
   search_kind_page_title: Page title
   search_kind_page_summary: Summary of page
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date:'2026-06-30 02:03:05'
+date: '2026-06-30 02:03:05'
 parent_title: Hamburg UFOs
 parent_permalink: /what-did-hamburg-really-see-in-the-sky/
 parent_nav_short_title: Hamburg UFOs
@@ -320,7 +320,13 @@ That does not mean nothing happened. It means the record does not let us separat
 * a public rumour converted into a marketable printed wonder;
 * a later UFO-era caption that simplified or distorted an older image.</div>
 
-The case therefore remains locally interesting but evidentially weak.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/f8ykjGEs3yY" title="WATCHERS OF THE SKY, The UFO Phenomenon, A Grand History" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=f8ykjGEs3yY" target="_blank" rel="noopener noreferrer">WATCHERS OF THE SKY, The UFO Phenomenon, A Grand History</a></p><p class="youtube-embed-meta">Channel: Neuralsurfer Audiobooks &amp; Films for Creative Minds &middot; Views: 919 &middot; Uploaded: February 2025 &middot; Length: 47 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=f8ykjGEs3yY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=f8ykjGEs3yY">Open on YouTube</a></p></div></div></div>
+The case therefore remains locally interesting but evidentially weak.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/f8ykjGEs3yY" title="WATCHERS OF THE SKY, The UFO Phenomenon, A Grand History" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=f8ykjGEs3yY" target="_blank" rel="noopener noreferrer">WATCHERS OF THE SKY, The UFO Phenomenon, A Grand History</a></p><p class="youtube-embed-meta">Channel: Neuralsurfer Audiobooks &amp; Films for Creative Minds &middot; Views: 919 &middot; Uploaded: February 2025 &middot; Length: 47 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=f8ykjGEs3yY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=f8ykjGEs3yY">Open on YouTube</a></p></div></div></div>
+
+
+
+
 
 ## Early sky prints need caution
 
@@ -335,7 +341,13 @@ The best nearby comparison is the 1665 Stralsund “air battle”, not because i
 
 The same exhibition notes that religious conviction shaped how the Stralsund event was reported, and that the public would not necessarily have known if a more ordinary atmospheric reflection or distant event lay behind the story. The curators framed the episode as both an unexplained aerial phenomenon and a media event, which is exactly the balance needed for Hamburg’s 1697 wheels.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.smb.museum/en/exhibitions/detail/a-ufo-in-1665/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: smb.museum">[Staatliche Museen zu Berlin]</a><span class="citation-popover" role="note"><span class="citation-popover-source">smb.museum</span><span class="citation-popover-title">a ufo in 1665</span><span class="citation-popover-snippet">a ufo in 1665</span></span></span>
 
-That comparison weakens any simplistic “ancient spacecraft” reading. Early modern Europe had a ready-made language for sky battles, discs, fireballs, wheels, omens and divine warnings. Similar images and phrases can recur not because the same object appeared, but because printers, preachers and readers shared a visual vocabulary for frightening events in the sky.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/mDMIOsHDLok" title="5 UFO Sightings That Predate the 20th Century" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=mDMIOsHDLok" target="_blank" rel="noopener noreferrer">5 UFO Sightings That Predate the 20th Century</a></p><p class="youtube-embed-meta">Channel: Curious World</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=mDMIOsHDLok" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=mDMIOsHDLok">Open on YouTube</a></p></div></div></div>
+That comparison weakens any simplistic “ancient spacecraft” reading. Early modern Europe had a ready-made language for sky battles, discs, fireballs, wheels, omens and divine warnings. Similar images and phrases can recur not because the same object appeared, but because printers, preachers and readers shared a visual vocabulary for frightening events in the sky.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/mDMIOsHDLok" title="5 UFO Sightings That Predate the 20th Century" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=mDMIOsHDLok" target="_blank" rel="noopener noreferrer">5 UFO Sightings That Predate the 20th Century</a></p><p class="youtube-embed-meta">Channel: Curious World</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=mDMIOsHDLok" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=mDMIOsHDLok">Open on YouTube</a></p></div></div></div>
+
+
+
+
 
 ## What evidence is missing today
 
@@ -350,7 +362,13 @@ The 1697 glowing wheels matter because they mark one end of Hamburg’s UFO-like
 
 For Hamburg’s UFO history, the case is best used as a cautionary anchor. It reminds readers that not every old report is strengthened by age. Sometimes age makes a case more fragile because the records are incomplete, the language is symbolic, and the image has travelled through centuries of reinterpretation.
 
-The fairest verdict is therefore restrained. Hamburg’s 1697 glowing wheels are UFO-like in the broad cultural sense: people later described strange aerial lights over Hamburg, and modern UFO catalogues adopted the story. They are not a robust UFO case in the investigative sense. The available evidence supports a historical sky-folklore reading far better than a claim about a structured craft.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/b9GtSESDfCQ" title="10 Ancient Pictures of UFOs &amp; Aliens" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=b9GtSESDfCQ" target="_blank" rel="noopener noreferrer">10 Ancient Pictures of UFOs &amp; Aliens</a></p><p class="youtube-embed-meta">Channel: Hybrid Librarian</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=b9GtSESDfCQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=b9GtSESDfCQ">Open on YouTube</a></p></div></div></div>
+The fairest verdict is therefore restrained. Hamburg’s 1697 glowing wheels are UFO-like in the broad cultural sense: people later described strange aerial lights over Hamburg, and modern UFO catalogues adopted the story. They are not a robust UFO case in the investigative sense. The available evidence supports a historical sky-folklore reading far better than a claim about a structured craft.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/b9GtSESDfCQ" title="10 Ancient Pictures of UFOs &amp; Aliens" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=b9GtSESDfCQ" target="_blank" rel="noopener noreferrer">10 Ancient Pictures of UFOs &amp; Aliens</a></p><p class="youtube-embed-meta">Channel: Hybrid Librarian</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=b9GtSESDfCQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=b9GtSESDfCQ">Open on YouTube</a></p></div></div></div>
+
+
+
+
 
 ## How to read the 1697 wheels today
 

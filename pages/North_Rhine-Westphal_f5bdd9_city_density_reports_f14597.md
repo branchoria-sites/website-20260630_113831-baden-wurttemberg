@@ -52,7 +52,7 @@ text_direction: ltr
 ui_strings:
   home: Home
   overview: Overview
-  overview_prefix:'Overview:'
+  overview_prefix: 'Overview:'
   contents: Contents
   close: Close
   open_contents: Open contents
@@ -200,13 +200,13 @@ ui_strings:
   search_this_page_empty_hint: Type to search this page.
   no_search_results: No pages match this search.
   no_search_this_page_results: No sections on this page match this search.
-  search_results_count_template:'{count} results'
+  search_results_count_template: '{count} results'
   search_kind_page_title: Page title
   search_kind_page_summary: Summary of page
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date:'2026-06-30 05:37:32'
+date: '2026-06-30 05:37:32'
 parent_title: NRW UFOs
 parent_permalink: /north-rhine-westphalia/
 parent_nav_short_title: NRW UFOs
@@ -302,7 +302,13 @@ image: /assets/images/North_Rhine-Westphal_f5bdd9_city_density_reports_f14597-ov
 
 ## Introduction
 
-[North Rhine-Westphalia]({{'north-rhine-westphalia/' | relative_url }})’s crowded city skies are best understood as a reporting engine, not as evidence that the state is unusually “visited”. Cologne, Düsseldorf, Dortmund, Essen and Bonn put millions of people under busy air routes, artificial lighting, drones, satellites, advertising lights, aircraft approaches and camera artefacts. That makes the state highly likely to produce more UFO reports in absolute numbers, especially when a bright planet, [Starlink satellite]({{'starlink-026b66/' | relative_url }}) train or unusual drone sighting becomes visible to many people at once. It does not automatically make the reports stronger.<img src="{{"/assets/images/North_Rhine-Westphal_f5bdd9_city_density_reports_f14597-overview.webp" | relative_url }}" alt="Overview image for City Skies" loading="eager" decoding="sync" fetchpriority="high"><div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/M-kDF1FN3Mo" title="Top 10 Best Things to do in Nrw, Germany [ North Rhine-Westphalia Travel Guide 2026 ]" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=M-kDF1FN3Mo" target="_blank" rel="noopener noreferrer">Top 10 Best Things to do in Nrw, Germany [ North Rhine-Westphalia Travel Guide 2026 ]</a></p><p class="youtube-embed-meta">Channel: Travel Explorer</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=M-kDF1FN3Mo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=M-kDF1FN3Mo">Open on YouTube</a></p></div></div></div>
+[North Rhine-Westphalia]({{'north-rhine-westphalia/' | relative_url }})’s crowded city skies are best understood as a reporting engine, not as evidence that the state is unusually “visited”. Cologne, Düsseldorf, Dortmund, Essen and Bonn put millions of people under busy air routes, artificial lighting, drones, satellites, advertising lights, aircraft approaches and camera artefacts. That makes the state highly likely to produce more UFO reports in absolute numbers, especially when a bright planet, [Starlink satellite]({{'starlink-026b66/' | relative_url }}) train or unusual drone sighting becomes visible to many people at once. It does not automatically make the reports stronger.<img src="{{"/assets/images/North_Rhine-Westphal_f5bdd9_city_density_reports_f14597-overview.webp" | relative_url }}" alt="Overview image for City Skies" loading="eager" decoding="sync" fetchpriority="high">
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/M-kDF1FN3Mo" title="Top 10 Best Things to do in Nrw, Germany [ North Rhine-Westphalia Travel Guide 2026 ]" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=M-kDF1FN3Mo" target="_blank" rel="noopener noreferrer">Top 10 Best Things to do in Nrw, Germany [ North Rhine-Westphalia Travel Guide 2026 ]</a></p><p class="youtube-embed-meta">Channel: Travel Explorer</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=M-kDF1FN3Mo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=M-kDF1FN3Mo">Open on YouTube</a></p></div></div></div>
+
+
+
+
 
 ## Population creates sighting opportunity
 
@@ -321,6 +327,8 @@ That aviation context changes how UFO reports should be assessed. A light that l
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/YIkPO7yMlzQ" title="North Rhine-Westphalia - Geography, Districts, and Cities | Countries of the World" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=YIkPO7yMlzQ" target="_blank" rel="noopener noreferrer">North Rhine-Westphalia - Geography, Districts, and Cities | Countries of the World</a></p><p class="youtube-embed-meta">Channel: Orion Studios</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=YIkPO7yMlzQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=YIkPO7yMlzQ">Open on YouTube</a></p></div></div></div>
 
+
+
 ## Phones increase reports, not necessarily certainty
 
 The modern smartphone has changed UFO reporting in North Rhine-Westphalia as much as the sky has. More people can film quickly, zoom digitally and send material to investigators or local media. That increases the number of reportable events, but it does not automatically improve the quality of evidence. A phone camera used at night often struggles with focus, distance, exposure and stabilisation. Small bright points can bloom into discs, streaks or “structured” shapes, especially when the image is zoomed, compressed or filmed through glass.
@@ -338,7 +346,13 @@ Starlink is the clearest modern example. Researchers have documented how Starlin
 
 For NRW, this matters because a Starlink train over a dense urban region is a perfect report multiplier. It is high enough to be visible across many cities, strange enough to surprise people who have not seen one before, and regular enough to be checked after the event. The same logic applies to bright planets. Venus or Jupiter low over the horizon can look unusually intense through haze, between buildings or above a skyline. In a crowded state, more people will notice it, and some will report it.
 
-More reports can still be useful. They can reveal a flap period, show how a new technology is entering public perception, or help investigators map where and when confusion spreads. But they do not, by themselves, improve the extraordinary claim. A report-rich sky is a social and observational pattern first. It becomes a strong UFO case only when ordinary explanations have been seriously tested and the remaining evidence is specific, consistent and independently supported.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/r0QLS9AEOL8" title="North Rhine-Westphalia. Nature Meets The German Heavy Industry In The Most Populated German State." frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=r0QLS9AEOL8" target="_blank" rel="noopener noreferrer">North Rhine-Westphalia. Nature Meets The German Heavy Industry In The Most Populated German State.</a></p><p class="youtube-embed-meta">Channel: HirnGard</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=r0QLS9AEOL8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=r0QLS9AEOL8">Open on YouTube</a></p></div></div></div>
+More reports can still be useful. They can reveal a flap period, show how a new technology is entering public perception, or help investigators map where and when confusion spreads. But they do not, by themselves, improve the extraordinary claim. A report-rich sky is a social and observational pattern first. It becomes a strong UFO case only when ordinary explanations have been seriously tested and the remaining evidence is specific, consistent and independently supported.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/r0QLS9AEOL8" title="North Rhine-Westphalia. Nature Meets The German Heavy Industry In The Most Populated German State." frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=r0QLS9AEOL8" target="_blank" rel="noopener noreferrer">North Rhine-Westphalia. Nature Meets The German Heavy Industry In The Most Populated German State.</a></p><p class="youtube-embed-meta">Channel: HirnGard</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=r0QLS9AEOL8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=r0QLS9AEOL8">Open on YouTube</a></p></div></div></div>
+
+
+
+
 
 ## What city density changes for NRW UFO history
 

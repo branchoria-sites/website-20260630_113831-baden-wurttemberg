@@ -52,7 +52,7 @@ text_direction: ltr
 ui_strings:
   home: Home
   overview: Overview
-  overview_prefix:'Overview:'
+  overview_prefix: 'Overview:'
   contents: Contents
   close: Close
   open_contents: Open contents
@@ -200,13 +200,13 @@ ui_strings:
   search_this_page_empty_hint: Type to search this page.
   no_search_results: No pages match this search.
   no_search_this_page_results: No sections on this page match this search.
-  search_results_count_template:'{count} results'
+  search_results_count_template: '{count} results'
   search_kind_page_title: Page title
   search_kind_page_summary: Summary of page
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date:'2026-06-30 00:13:09'
+date: '2026-06-30 00:13:09'
 parent_title: Berlin UFOs
 parent_permalink: /what-berlins-ufo-reports-really-show/
 parent_nav_short_title: Berlin UFOs
@@ -316,7 +316,13 @@ Tempelhof is one of Berlin’s most useful UFO-reference places because it combi
 
 A good example is the 25 May 2018 Berlin-Tempelhof report. A 47-year-old witness used binoculars to watch what he described as a strange black-grey, banana-shaped object over Tempelhof Airport, moving slowly and pendulum-like upwards before disappearing into cloud. He then noticed ten small white points with an orange-gold shimmer moving south-east. GEP’s public assessment, reproduced by Ufokarte, identifies the likely explanation as foil balloons.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ufokarte.de/fall/berlin-20180525-b" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufokarte.de">[Ufokarte.de]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufokarte.de</span><span class="citation-popover-title">berlin 20180525 b</span><span class="citation-popover-snippet">berlin 20180525 b</span></span></span>
 
-The case shows why Tempelhof is useful but also why it can mislead. The open field and airport reference helped locate the observation and made the account more concrete. Yet the reported behaviour — slow drifting, pendulum-like movement, upward motion, multiple small bright points — also fits wind-driven lightweight objects. The former airport setting may make a witness think first of aircraft or unusual craft, but the actual movement described in the case points towards balloons rather than a controlled vehicle.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Wfe6f0bVn6Q" title="Drone Disruptions at European Airports: Hybrid Threats &amp; Security Concerns Explained | DW" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Wfe6f0bVn6Q" target="_blank" rel="noopener noreferrer">Drone Disruptions at European Airports: Hybrid Threats &amp; Security Concerns Explained | DW</a></p><p class="youtube-embed-meta">Channel: The Indian Express</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Wfe6f0bVn6Q" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Wfe6f0bVn6Q">Open on YouTube</a></p></div></div></div>
+The case shows why Tempelhof is useful but also why it can mislead. The open field and airport reference helped locate the observation and made the account more concrete. Yet the reported behaviour — slow drifting, pendulum-like movement, upward motion, multiple small bright points — also fits wind-driven lightweight objects. The former airport setting may make a witness think first of aircraft or unusual craft, but the actual movement described in the case points towards balloons rather than a controlled vehicle.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Wfe6f0bVn6Q" title="Drone Disruptions at European Airports: Hybrid Threats &amp; Security Concerns Explained | DW" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Wfe6f0bVn6Q" target="_blank" rel="noopener noreferrer">Drone Disruptions at European Airports: Hybrid Threats &amp; Security Concerns Explained | DW</a></p><p class="youtube-embed-meta">Channel: The Indian Express</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Wfe6f0bVn6Q" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Wfe6f0bVn6Q">Open on YouTube</a></p></div></div></div>
+
+
+
+
 
 ## Tegel reports sit between aviation memory and ordinary misidentification
 
@@ -337,7 +343,13 @@ That distinction is vital. A live observation asks whether a person correctly in
 
 An older television-tower reference shows the other side of the pattern. On 21 October 2004, witnesses reported a very bright ball and a less bright object north of the television tower for at least 20 minutes, with a spiral-like white formation resembling a long contrail above the larger ball and later additional distant balls moving north-east. Ufokarte lists the case as identified, although the public entry shows no single probable explanation in the short field.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ufokarte.de/fall/berlin-20041021-b" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufokarte.de">[Ufokarte.de]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufokarte.de</span><span class="citation-popover-title">berlin 20041021 b</span><span class="citation-popover-snippet">berlin 20041021 b</span></span></span> That makes it less tidy than the 2021 lens-reflection case. The landmark gives a direction and a duration, but the public summary does not provide enough detail for a reader to independently reconstruct the explanation.
 
-Together, the two television-tower cases show why landmark sightings should be read carefully. A landmark can sharpen the geometry of a report, but it cannot replace missing evidence. The best cases provide time, direction, duration, motion and a plausible stimulus. The weaker cases leave a vivid description pinned to a famous place, but not enough public information to test it fully.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/WJ5k5uhe68I" title="UFO sighting or Starlink Satellites?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=WJ5k5uhe68I" target="_blank" rel="noopener noreferrer">UFO sighting or Starlink Satellites?</a></p><p class="youtube-embed-meta">Channel: joelnert</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=WJ5k5uhe68I" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=WJ5k5uhe68I">Open on YouTube</a></p></div></div></div>
+Together, the two television-tower cases show why landmark sightings should be read carefully. A landmark can sharpen the geometry of a report, but it cannot replace missing evidence. The best cases provide time, direction, duration, motion and a plausible stimulus. The weaker cases leave a vivid description pinned to a famous place, but not enough public information to test it fully.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/WJ5k5uhe68I" title="UFO sighting or Starlink Satellites?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=WJ5k5uhe68I" target="_blank" rel="noopener noreferrer">UFO sighting or Starlink Satellites?</a></p><p class="youtube-embed-meta">Channel: joelnert</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=WJ5k5uhe68I" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=WJ5k5uhe68I">Open on YouTube</a></p></div></div></div>
+
+
+
+
 
 ## Landmark clusters are not the same as unexplained flaps
 
@@ -361,7 +373,13 @@ The most useful Berlin landmark reports are those that allow reconstruction. A g
 For Tempelhof, Tegel and the television tower, the strongest place details are:
 
 1. **Exact observing position.** “From the west side of Tempelhofer Feld” is much better than “over Tempelhof”. A landmark seen from different angles can shift the apparent direction of an object.
-2. **Direction of view and motion.** “North of the television tower, moving north-east” is far more useful than “near Alexanderplatz”. Direction lets investigators compare the report with aircraft paths, satellite tracks, weather and astronomical objects.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Bi3labRw8YE" title="The Giant Airport Which Became A Public Park" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Bi3labRw8YE" target="_blank" rel="noopener noreferrer">The Giant Airport Which Became A Public Park</a></p><p class="youtube-embed-meta">Channel: stef747</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Bi3labRw8YE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Bi3labRw8YE">Open on YouTube</a></p></div></div></div>
+2. **Direction of view and motion.** “North of the television tower, moving north-east” is far more useful than “near Alexanderplatz”. Direction lets investigators compare the report with aircraft paths, satellite tracks, weather and astronomical objects.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Bi3labRw8YE" title="The Giant Airport Which Became A Public Park" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Bi3labRw8YE" target="_blank" rel="noopener noreferrer">The Giant Airport Which Became A Public Park</a></p><p class="youtube-embed-meta">Channel: stef747</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Bi3labRw8YE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Bi3labRw8YE">Open on YouTube</a></p></div></div></div>
+
+
+
+
 
 3. **Time and duration.** A ten-second flash, a two-minute drifting object and a 20-minute bright light point to different explanations. The 2004 television-tower report is notable partly because the main objects were said to remain visible for at least 20 minutes. [Ufokarte.de](https://ufokarte.de/fall/berlin-20041021-b)
 

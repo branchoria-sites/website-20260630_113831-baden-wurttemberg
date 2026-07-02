@@ -52,7 +52,7 @@ text_direction: ltr
 ui_strings:
   home: Home
   overview: Overview
-  overview_prefix:'Overview:'
+  overview_prefix: 'Overview:'
   contents: Contents
   close: Close
   open_contents: Open contents
@@ -200,13 +200,13 @@ ui_strings:
   search_this_page_empty_hint: Type to search this page.
   no_search_results: No pages match this search.
   no_search_this_page_results: No sections on this page match this search.
-  search_results_count_template:'{count} results'
+  search_results_count_template: '{count} results'
   search_kind_page_title: Page title
   search_kind_page_summary: Summary of page
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date:'2026-06-29 22:45:49'
+date: '2026-06-29 22:45:49'
 parent_title: Bavaria UFOs
 parent_permalink: /what-really-happened-over-bavarias-skies/
 parent_nav_short_title: Bavaria UFOs
@@ -330,7 +330,13 @@ Several parts of the image are especially important for interpretation:
 
 **The city view is part of the message.** Nuremberg is not just a location marker; it is the audience’s world placed beneath a warning sky.
 
-This makes the broadsheet powerful art, but awkward evidence. It may preserve a real reported sighting. It may preserve a natural phenomenon transformed by collective interpretation. It may combine observation, rumour, convention and moral commentary. It cannot, on its own, separate those layers cleanly.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/rX0189Ky9G0" title="Germany’s Other Roswell? 1561 Nuremberg Sky Battle Explained" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=rX0189Ky9G0" target="_blank" rel="noopener noreferrer">Germany’s Other Roswell? 1561 Nuremberg Sky Battle Explained</a></p><p class="youtube-embed-meta">Channel: Get Germanized &middot; Views: 3.5K &middot; Uploaded: October 2025 &middot; Length: 6 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=rX0189Ky9G0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=rX0189Ky9G0">Open on YouTube</a></p></div></div></div>
+This makes the broadsheet powerful art, but awkward evidence. It may preserve a real reported sighting. It may preserve a natural phenomenon transformed by collective interpretation. It may combine observation, rumour, convention and moral commentary. It cannot, on its own, separate those layers cleanly.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/rX0189Ky9G0" title="Germany’s Other Roswell? 1561 Nuremberg Sky Battle Explained" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=rX0189Ky9G0" target="_blank" rel="noopener noreferrer">Germany’s Other Roswell? 1561 Nuremberg Sky Battle Explained</a></p><p class="youtube-embed-meta">Channel: Get Germanized &middot; Views: 3.5K &middot; Uploaded: October 2025 &middot; Length: 6 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=rX0189Ky9G0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=rX0189Ky9G0">Open on YouTube</a></p></div></div></div>
+
+
+
+
 
 ## Why it became a UFO source
 
@@ -373,7 +379,13 @@ That warning layer changes how the Nuremberg sheet should be read. Glaser was no
 
 For modern UFO readers, this is the key difference between a source and an investigation. A modern investigation tries to reduce interpretation: what was seen, where, by whom, for how long, under what conditions, with what independent corroboration? Glaser’s broadsheet increases interpretation. It turns a reported sky event into a public lesson.
 
-That does not make it worthless. It makes it historically rich. The warning is part of the evidence, because it tells us what kind of document this was and what kind of reaction it was designed to provoke.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/fixLR5EgmJs" title="The Oldest UFO Mass Sighting Ever Recorded | Nuremberg 1561" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=fixLR5EgmJs" target="_blank" rel="noopener noreferrer">The Oldest UFO Mass Sighting Ever Recorded | Nuremberg 1561</a></p><p class="youtube-embed-meta">Channel: Harsh Vikas</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=fixLR5EgmJs" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=fixLR5EgmJs">Open on YouTube</a></p></div></div></div>
+That does not make it worthless. It makes it historically rich. The warning is part of the evidence, because it tells us what kind of document this was and what kind of reaction it was designed to provoke.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/fixLR5EgmJs" title="The Oldest UFO Mass Sighting Ever Recorded | Nuremberg 1561" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=fixLR5EgmJs" target="_blank" rel="noopener noreferrer">The Oldest UFO Mass Sighting Ever Recorded | Nuremberg 1561</a></p><p class="youtube-embed-meta">Channel: Harsh Vikas</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=fixLR5EgmJs" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=fixLR5EgmJs">Open on YouTube</a></p></div></div></div>
+
+
+
+
 
 ## Limits of using it as evidence
 
@@ -383,7 +395,13 @@ There are also visual and contextual problems. Sceptical discussions have pointe
 
 The source also compresses time and movement into one image. A phenomenon said to last more than an hour is shown as a single dramatic scene. That is normal for art, but it is not how observational data works. The print cannot tell us whether viewers saw many objects at once, successive stages of one optical effect, clouds changing around the sun, falling material, smoke from the ground, or a story elaborated after the fact.
 
-Finally, translation and retelling add further layers. Many English-language versions rely on modern translations and summaries. Every retelling risks making the account sound more like a contemporary UFO report than a sixteenth-century religious broadsheet. The more a version strips away Glaser’s warning language, the more misleadingly modern the case can appear.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/dPyJDQizxeQ" title="The Nuremberg Celestial Phenomenon – Real 16th-Century Witness Accounts" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=dPyJDQizxeQ" target="_blank" rel="noopener noreferrer">The Nuremberg Celestial Phenomenon – Real 16th-Century Witness Accounts</a></p><p class="youtube-embed-meta">Channel: Eyewitness Histories</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=dPyJDQizxeQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=dPyJDQizxeQ">Open on YouTube</a></p></div></div></div>
+Finally, translation and retelling add further layers. Many English-language versions rely on modern translations and summaries. Every retelling risks making the account sound more like a contemporary UFO report than a sixteenth-century religious broadsheet. The more a version strips away Glaser’s warning language, the more misleadingly modern the case can appear.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/dPyJDQizxeQ" title="The Nuremberg Celestial Phenomenon – Real 16th-Century Witness Accounts" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=dPyJDQizxeQ" target="_blank" rel="noopener noreferrer">The Nuremberg Celestial Phenomenon – Real 16th-Century Witness Accounts</a></p><p class="youtube-embed-meta">Channel: Eyewitness Histories</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=dPyJDQizxeQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=dPyJDQizxeQ">Open on YouTube</a></p></div></div></div>
+
+
+
+
 
 ## How much can one broadsheet prove?
 

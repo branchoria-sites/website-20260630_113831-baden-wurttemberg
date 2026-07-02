@@ -7,7 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /saxony-anhalt-5678a0-index/
 description: Focused pages that expand on What Really Happened in Saxony Anhalt's
   UFO....
-date:'2026'
+date: '2026'
 layout: default
 parent_basename: Saxony-Anhalt_5678a0
 parent_title: What Really Happened in Saxony Anhalt's UFO...

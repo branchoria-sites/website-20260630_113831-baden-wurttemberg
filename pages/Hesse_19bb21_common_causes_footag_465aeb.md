@@ -52,7 +52,7 @@ text_direction: ltr
 ui_strings:
   home: Home
   overview: Overview
-  overview_prefix:'Overview:'
+  overview_prefix: 'Overview:'
   contents: Contents
   close: Close
   open_contents: Open contents
@@ -200,13 +200,13 @@ ui_strings:
   search_this_page_empty_hint: Type to search this page.
   no_search_results: No pages match this search.
   no_search_this_page_results: No sections on this page match this search.
-  search_results_count_template:'{count} results'
+  search_results_count_template: '{count} results'
   search_kind_page_title: Page title
   search_kind_page_summary: Summary of page
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date:'2026-06-30 03:22:31'
+date: '2026-06-30 03:22:31'
 parent_title: Hesse UFOs
 parent_permalink: /why-hesses-ufo-stories-usually-come/
 parent_nav_short_title: Hesse UFOs
@@ -304,6 +304,8 @@ image: /assets/images/Hesse_19bb21_common_causes_footag_465aeb-overview-social.j
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/_DI2TD3kAvI" title="Meteorit am Himmel löst in Hessen Notrufe aus | hessenschau DAS THEMA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=_DI2TD3kAvI" target="_blank" rel="noopener noreferrer">Meteorit am Himmel löst in Hessen Notrufe aus | hessenschau DAS THEMA</a></p><p class="youtube-embed-meta">Channel: hessenschau</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=_DI2TD3kAvI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=_DI2TD3kAvI">Open on YouTube</a></p></div></div></div>
 
+
+
 ## Fast flashes, drifting lights and glowing balloons
 
 A bright meteor can look alarming because it behaves unlike most things people expect to see. It may appear suddenly, move quickly, leave a short trail, fragment or disappear before a witness can get a steady video. That is why fireballs can generate urgent calls and dramatic interpretations. The German meteor-observer network explains that bright fireballs over Germany and neighbouring countries attract public attention, are meteors burning up in the atmosphere, and can rarely be accompanied by a bang or dull rumble.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.meteoros.de/feuerkugel" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: meteoros.de">[Meteoros]</a><span class="citation-popover" role="note"><span class="citation-popover-source">meteoros.de</span><span class="citation-popover-title">Feuerkugel gesehen?</span><span class="citation-popover-snippet">Feuerkugel gesehen?</span></span></span>
@@ -321,7 +323,13 @@ Camera artefacts are especially important in Hesse because the modern reporting 
 
 A lens reflection can look like a separate object because the camera creates a false light source inside the optical system. The BBC’s Sky at Night Magazine gives the simple mechanism: light can bounce between lens elements in a camera, binoculars or telescope, producing a lens flare.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.skyatnightmagazine.com/space-science/things-mistaken-for-ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skyatnightmagazine.com">[Sky at Night Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skyatnightmagazine.com</span><span class="citation-popover-snippet">Open source on skyatnightmagazine.com.</span></span></span> In UFO footage, that can turn a streetlamp, the Moon, a bright planet, a car headlight or the Sun just outside the frame into a floating dot that appears to move when the camera moves.
 
-Near-camera blur is even more misleading. A bird, moth, beetle or seed fluff passing close to a phone can be out of focus, overexposed and motion-blurred. In the finished clip it may appear to cross the sky at impossible speed, when in fact it crossed only a few centimetres in front of the lens. This is why a single video with no wider context is weak evidence: the object’s apparent speed may be created by distance uncertainty rather than by the object’s real motion.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/bQo08JRY0iM" title="Public Meeting on Unidentified Anomalous Phenomena (Official NASA Broadcast)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=bQo08JRY0iM" target="_blank" rel="noopener noreferrer">Public Meeting on Unidentified Anomalous Phenomena (Official NASA Broadcast)</a></p><p class="youtube-embed-meta">Channel: NASA Video &middot; Views: 358.7K &middot; Uploaded: May 2023 &middot; Length: 4 hours</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=bQo08JRY0iM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=bQo08JRY0iM">Open on YouTube</a></p></div></div></div>
+Near-camera blur is even more misleading. A bird, moth, beetle or seed fluff passing close to a phone can be out of focus, overexposed and motion-blurred. In the finished clip it may appear to cross the sky at impossible speed, when in fact it crossed only a few centimetres in front of the lens. This is why a single video with no wider context is weak evidence: the object’s apparent speed may be created by distance uncertainty rather than by the object’s real motion.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/bQo08JRY0iM" title="Public Meeting on Unidentified Anomalous Phenomena (Official NASA Broadcast)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=bQo08JRY0iM" target="_blank" rel="noopener noreferrer">Public Meeting on Unidentified Anomalous Phenomena (Official NASA Broadcast)</a></p><p class="youtube-embed-meta">Channel: NASA Video &middot; Views: 358.7K &middot; Uploaded: May 2023 &middot; Length: 4 hours</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=bQo08JRY0iM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=bQo08JRY0iM">Open on YouTube</a></p></div></div></div>
+
+
+
+
 
 ## Why video alone can mislead
 
@@ -340,7 +348,13 @@ A useful first-pass checklist for Hesse reports is:<div class="content-enhanceme
 * **Motion:** slow drift with no clear manoeuvre points first towards balloon, lantern-like object or airborne debris.
 * **Context:** reports near events, celebrations, city centres or riverfronts should be checked for LED balloons, foil balloons, drones and light effects.
 * **Camera behaviour:** a light that shifts with the phone, repeats at a fixed angle from a bright source, or appears only in the recording should be treated as a possible reflection.
-* **Focus and scale:** a dark or bright blur crossing the frame may be a nearby insect or bird, especially if no one saw it clearly with the naked eye.</div><div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/NqcV2RywKqM" title="Meteorit über Deutschland: Was war das für ein Feuerball am Himmel? | logo!-Nachrichten vom 9.3.26" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=NqcV2RywKqM" target="_blank" rel="noopener noreferrer">Meteorit über Deutschland: Was war das für ein Feuerball am Himmel? | logo!-Nachrichten vom 9.3.26</a></p><p class="youtube-embed-meta">Channel: logo!</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=NqcV2RywKqM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=NqcV2RywKqM">Open on YouTube</a></p></div></div></div>
+* **Focus and scale:** a dark or bright blur crossing the frame may be a nearby insect or bird, especially if no one saw it clearly with the naked eye.</div>
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/NqcV2RywKqM" title="Meteorit über Deutschland: Was war das für ein Feuerball am Himmel? | logo!-Nachrichten vom 9.3.26" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=NqcV2RywKqM" target="_blank" rel="noopener noreferrer">Meteorit über Deutschland: Was war das für ein Feuerball am Himmel? | logo!-Nachrichten vom 9.3.26</a></p><p class="youtube-embed-meta">Channel: logo!</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=NqcV2RywKqM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=NqcV2RywKqM">Open on YouTube</a></p></div></div></div>
+
+
+
+
 
 ## What this means for Hesse’s UFO history
 

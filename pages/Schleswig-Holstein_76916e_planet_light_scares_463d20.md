@@ -52,7 +52,7 @@ text_direction: ltr
 ui_strings:
   home: Home
   overview: Overview
-  overview_prefix:'Overview:'
+  overview_prefix: 'Overview:'
   contents: Contents
   close: Close
   open_contents: Open contents
@@ -200,13 +200,13 @@ ui_strings:
   search_this_page_empty_hint: Type to search this page.
   no_search_results: No pages match this search.
   no_search_this_page_results: No sections on this page match this search.
-  search_results_count_template:'{count} results'
+  search_results_count_template: '{count} results'
   search_kind_page_title: Page title
   search_kind_page_summary: Summary of page
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date:'2026-06-30 10:53:11'
+date: '2026-06-30 10:53:11'
 parent_title: Schleswig Holstein UFOs
 parent_permalink: /what-really-flew-over-schleswig-holstein/
 parent_nav_short_title: Schleswig Holstein UFOs
@@ -304,6 +304,8 @@ image: /assets/images/Schleswig-Holstein_76916e_planet_light_scares_463d20-overv
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/b6sWJMjt1xs" title="Not a UFO: Venus and Jupiter share a &#x27;kiss&#x27;" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=b6sWJMjt1xs" target="_blank" rel="noopener noreferrer">Not a UFO: Venus and Jupiter share a &#x27;kiss&#x27;</a></p><p class="youtube-embed-meta">Channel: TMJ4 News</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=b6sWJMjt1xs" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=b6sWJMjt1xs">Open on YouTube</a></p></div></div></div>
 
+
+
 ## The Jupiter and Venus morning-light confusion
 
 The August 2025 Venus-Jupiter episode is a useful modern example because it reached Schleswig-Holstein without needing a dramatic local incident. According to ZDF’s report from 12 August 2025, CENAP received numerous enquiries after people saw two unusually bright points in the morning sky. Witnesses compared them to paired drones, headlights in the sky or stars that should not be there. CENAP’s explanation was straightforward: the lights were Venus and Jupiter, close together from Earth’s point of view, and bright enough to remain visible in morning twilight.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.zdfheute.de/panorama/lichter-himmel-ufo-jupiter-venus-100.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: zdfheute.de">[ZDFheute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">zdfheute.de</span><span class="citation-popover-title">Meldestelle: Ungewöhnliche Lichter am Himmel sind keine Ufos</span><span class="citation-popover-snippet">Meldestelle: Ungewöhnliche Lichter am Himmel sind keine Ufos...</span></span></span>
@@ -319,7 +321,13 @@ Jupiter is usually less dazzling than Venus, but it is still brighter than nearl
 
 Morning twilight adds another layer. The human eye expects stars to fade as dawn approaches. When Venus and Jupiter remain visible after fainter stars have vanished, they can seem to have switched on or entered the scene late. CENAP’s explanation in the 2025 coverage stressed exactly this point: the planets were bright enough to be seen clearly in morning twilight when other stars had already faded.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.zdfheute.de/panorama/lichter-himmel-ufo-jupiter-venus-100.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: zdfheute.de">[ZDFheute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">zdfheute.de</span><span class="citation-popover-title">Meldestelle: Ungewöhnliche Lichter am Himmel sind keine Ufos</span><span class="citation-popover-snippet">Meldestelle: Ungewöhnliche Lichter am Himmel sind keine Ufos...</span></span></span>
 
-There is also a perception problem near the horizon. Low objects are judged against trees, roofs, cranes, masts, clouds and shore lights. In Schleswig-Holstein, those reference points can be especially confusing along open water or flat countryside. A planet that is actually fixed against the star background may seem to move because the observer is walking, driving, looking through glass, or comparing it with drifting clouds. Atmospheric shimmer can add flicker or colour. The effect is not imaginary; the interpretation is the weak link.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/sAmoOBCtDvE" title="How to Find Planet Venus in the Night Sky" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=sAmoOBCtDvE" target="_blank" rel="noopener noreferrer">How to Find Planet Venus in the Night Sky</a></p><p class="youtube-embed-meta">Channel: Learn the Sky &middot; Views: 27.7K &middot; Uploaded: December 2024 &middot; Length: 7 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=sAmoOBCtDvE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=sAmoOBCtDvE">Open on YouTube</a></p></div></div></div>
+There is also a perception problem near the horizon. Low objects are judged against trees, roofs, cranes, masts, clouds and shore lights. In Schleswig-Holstein, those reference points can be especially confusing along open water or flat countryside. A planet that is actually fixed against the star background may seem to move because the observer is walking, driving, looking through glass, or comparing it with drifting clouds. Atmospheric shimmer can add flicker or colour. The effect is not imaginary; the interpretation is the weak link.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/sAmoOBCtDvE" title="How to Find Planet Venus in the Night Sky" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=sAmoOBCtDvE" target="_blank" rel="noopener noreferrer">How to Find Planet Venus in the Night Sky</a></p><p class="youtube-embed-meta">Channel: Learn the Sky &middot; Views: 27.7K &middot; Uploaded: December 2024 &middot; Length: 7 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=sAmoOBCtDvE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=sAmoOBCtDvE">Open on YouTube</a></p></div></div></div>
+
+
+
+
 
 ## Why this matters for Schleswig-Holstein’s UFO record
 
@@ -344,7 +352,13 @@ The next step is to compare the sighting with a reputable sky map or monthly ast
 
 A good check should also include patience. Planets do not streak across the sky like meteors or pass in minutes like low satellites. They shift slowly with Earth’s rotation. If the “UFO” is still in roughly the expected planetary position after ten or twenty minutes, and especially if it appears again the next clear morning, the case becomes much less mysterious. If the light races across the sky, fragments, leaves a trail, flashes in a navigation-light pattern or follows an aircraft route, another explanation may be more likely.
 
-Photography can help, but it can also mislead. Phone cameras exaggerate glare, create lens reflections and make bright points look larger than they are. A useful image includes foreground context, direction, time and ideally a second wider shot. A zoomed-in glowing blob without location or time is weak evidence, even if it looks strange.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/NJrG1yBUn24" title="The Two Brightest Planets &quot;Touch&quot; Tonight | How to See the Venus and Jupiter Conjunction | June 8/9" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=NJrG1yBUn24" target="_blank" rel="noopener noreferrer">The Two Brightest Planets &quot;Touch&quot; Tonight | How to See the Venus and Jupiter Conjunction | June 8/9</a></p><p class="youtube-embed-meta">Channel: Late Night Astronomy</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=NJrG1yBUn24" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=NJrG1yBUn24">Open on YouTube</a></p></div></div></div>
+Photography can help, but it can also mislead. Phone cameras exaggerate glare, create lens reflections and make bright points look larger than they are. A useful image includes foreground context, direction, time and ideally a second wider shot. A zoomed-in glowing blob without location or time is weak evidence, even if it looks strange.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/NJrG1yBUn24" title="The Two Brightest Planets &quot;Touch&quot; Tonight | How to See the Venus and Jupiter Conjunction | June 8/9" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=NJrG1yBUn24" target="_blank" rel="noopener noreferrer">The Two Brightest Planets &quot;Touch&quot; Tonight | How to See the Venus and Jupiter Conjunction | June 8/9</a></p><p class="youtube-embed-meta">Channel: Late Night Astronomy</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=NJrG1yBUn24" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=NJrG1yBUn24">Open on YouTube</a></p></div></div></div>
+
+
+
+
 
 ## What planet scares can and cannot explain
 

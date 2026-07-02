@@ -52,7 +52,7 @@ text_direction: ltr
 ui_strings:
   home: Home
   overview: Overview
-  overview_prefix:'Overview:'
+  overview_prefix: 'Overview:'
   contents: Contents
   close: Close
   open_contents: Open contents
@@ -200,13 +200,13 @@ ui_strings:
   search_this_page_empty_hint: Type to search this page.
   no_search_results: No pages match this search.
   no_search_this_page_results: No sections on this page match this search.
-  search_results_count_template:'{count} results'
+  search_results_count_template: '{count} results'
   search_kind_page_title: Page title
   search_kind_page_summary: Summary of page
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date:'2026-06-30 07:01:46'
+date: '2026-06-30 07:01:46'
 parent_title: Rhineland UFOs
 parent_permalink: /rhineland-palatinate/
 parent_nav_short_title: Rhineland UFOs
@@ -318,6 +318,8 @@ Civilian witnesses face a wider version of the same problem. A person in Mainz, 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/PBUaF03hkZE" title="Whistleblower says US has found &#x27;nonhuman&#x27; pilots during UFO hearing | USA TODAY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=PBUaF03hkZE" target="_blank" rel="noopener noreferrer">Whistleblower says US has found &#x27;nonhuman&#x27; pilots during UFO hearing | USA TODAY</a></p><p class="youtube-embed-meta">Channel: USA TODAY &middot; Views: 616.8K &middot; Uploaded: July 2023 &middot; Length: 49 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=PBUaF03hkZE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=PBUaF03hkZE">Open on YouTube</a></p></div></div></div>
 
+
+
 ## What corroboration adds to a case
 
 The dividing line between an interesting witness report and a strong UFO case is corroboration. A credible witness starts the investigation; corroboration changes what the report can prove. For Rhineland-Palatinate, that distinction is crucial because the state’s most compelling aviation-linked case is still thin by modern evidence standards, while many civilian reports become clearer only after investigators compare them with sky and flight data.
@@ -356,7 +358,13 @@ Rhineland-Palatinate appears in this modern pattern because it is both visually 
 * **What direction and elevation was it in?**
 * **What explanation fits the time, place and appearance best?**</div>
 
-Media attention can also shape reporting. When drones, spy balloons, UFO hearings or spectacular satellite images are in the news, people are more likely to report ambiguous lights. That does not mean the sightings are fabricated; it means the threshold for noticing and reporting changes. For Rhineland-Palatinate, this is especially relevant around Ramstein and other military-associated areas, where public awareness of aviation activity is already high.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/bQo08JRY0iM" title="Public Meeting on Unidentified Anomalous Phenomena (Official NASA Broadcast)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=bQo08JRY0iM" target="_blank" rel="noopener noreferrer">Public Meeting on Unidentified Anomalous Phenomena (Official NASA Broadcast)</a></p><p class="youtube-embed-meta">Channel: NASA Video &middot; Views: 358.7K &middot; Uploaded: May 2023 &middot; Length: 4 hours</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=bQo08JRY0iM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=bQo08JRY0iM">Open on YouTube</a></p></div></div></div>
+Media attention can also shape reporting. When drones, spy balloons, UFO hearings or spectacular satellite images are in the news, people are more likely to report ambiguous lights. That does not mean the sightings are fabricated; it means the threshold for noticing and reporting changes. For Rhineland-Palatinate, this is especially relevant around Ramstein and other military-associated areas, where public awareness of aviation activity is already high.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/bQo08JRY0iM" title="Public Meeting on Unidentified Anomalous Phenomena (Official NASA Broadcast)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=bQo08JRY0iM" target="_blank" rel="noopener noreferrer">Public Meeting on Unidentified Anomalous Phenomena (Official NASA Broadcast)</a></p><p class="youtube-embed-meta">Channel: NASA Video &middot; Views: 358.7K &middot; Uploaded: May 2023 &middot; Length: 4 hours</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=bQo08JRY0iM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=bQo08JRY0iM">Open on YouTube</a></p></div></div></div>
+
+
+
+
 
 ## How to judge witness credibility without overvaluing it
 
@@ -364,7 +372,13 @@ A practical credibility assessment should treat witnesses respectfully while ask
 
 A pilot report gains value when it includes exact time, aircraft position, altitude, heading, weather, visibility, cockpit workload, air traffic context and any instrument or radar correlation. A civilian report gains value when it includes exact location, direction faced, duration, angular movement, weather, photos or video metadata, and whether other observers saw the same thing independently. In both cases, “credible person” is only the first layer.
 
-The strongest reports tend to have three features. First, the witness description is precise enough to test. Second, independent data exists. Third, mundane explanations have been checked rather than assumed away. This is why a short, dramatic claim can be weaker than a duller but better documented one.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Oz0p6QXHh9E" title="SHOCKING TESTIMONY: Former Navy Pilot Describes Infamous 2004 &#x27;Tic Tac&#x27; UFO Experience" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Oz0p6QXHh9E" target="_blank" rel="noopener noreferrer">SHOCKING TESTIMONY: Former Navy Pilot Describes Infamous 2004 &#x27;Tic Tac&#x27; UFO Experience</a></p><p class="youtube-embed-meta">Channel: Forbes Breaking News</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Oz0p6QXHh9E" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Oz0p6QXHh9E">Open on YouTube</a></p></div></div></div>
+The strongest reports tend to have three features. First, the witness description is precise enough to test. Second, independent data exists. Third, mundane explanations have been checked rather than assumed away. This is why a short, dramatic claim can be weaker than a duller but better documented one.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Oz0p6QXHh9E" title="SHOCKING TESTIMONY: Former Navy Pilot Describes Infamous 2004 &#x27;Tic Tac&#x27; UFO Experience" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Oz0p6QXHh9E" target="_blank" rel="noopener noreferrer">SHOCKING TESTIMONY: Former Navy Pilot Describes Infamous 2004 &#x27;Tic Tac&#x27; UFO Experience</a></p><p class="youtube-embed-meta">Channel: Forbes Breaking News</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Oz0p6QXHh9E" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Oz0p6QXHh9E">Open on YouTube</a></p></div></div></div>
+
+
+
+
 
 ## What witness testimony can and cannot prove
 

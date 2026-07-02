@@ -52,7 +52,7 @@ text_direction: ltr
 ui_strings:
   home: Home
   overview: Overview
-  overview_prefix:'Overview:'
+  overview_prefix: 'Overview:'
   contents: Contents
   close: Close
   open_contents: Open contents
@@ -200,13 +200,13 @@ ui_strings:
   search_this_page_empty_hint: Type to search this page.
   no_search_results: No pages match this search.
   no_search_this_page_results: No sections on this page match this search.
-  search_results_count_template:'{count} results'
+  search_results_count_template: '{count} results'
   search_kind_page_title: Page title
   search_kind_page_summary: Summary of page
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date:'2026-06-30 00:13:11'
+date: '2026-06-30 00:13:11'
 parent_title: Brandenburg Skies
 parent_permalink: /what-really-lights-up-brandenburgs-skies/
 parent_nav_short_title: Brandenburg Skies
@@ -348,7 +348,13 @@ Third, it broke apart. Multiple fragments can look like coordinated objects, esp
 
 Fourth, it crossed a wide region. The Falcon 9 event was reported not only from Berlin and Brandenburg but across northern Europe. Aerospace’s re-entry material places the cluster of sightings around the 03:45 UTC window, while Dutch Meteor Society reporting described slow, fragmenting fireballs seen over a broad area in the Netherlands and covered by Dutch media that morning.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://aerospace.org/reentries/62878" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aerospace.org">[The Aerospace Corporation]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aerospace.org</span><span class="citation-popover-snippet">The Aerospace CorporationFALCON 9 R/B (ID 62878) ReenteredThe location of multiple reported sightings around 19 February 2025 03:45 UTC i...</span><span class="citation-popover-meta">Published: February 2025</span></span></span>
 
-For Brandenburg readers, the key lesson is not that every strange light is space debris. It is that the most dramatic sightings can sometimes be the easiest to solve when the time, direction, duration and external tracking data line up.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/KD3OSt6BQsM" title="Reentry and desintegration of Falcon 9 2nd stage over Northern Europe on February 19, 2025" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=KD3OSt6BQsM" target="_blank" rel="noopener noreferrer">Reentry and desintegration of Falcon 9 2nd stage over Northern Europe on February 19, 2025</a></p><p class="youtube-embed-meta">Channel: AllSky7</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=KD3OSt6BQsM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=KD3OSt6BQsM">Open on YouTube</a></p></div></div></div>
+For Brandenburg readers, the key lesson is not that every strange light is space debris. It is that the most dramatic sightings can sometimes be the easiest to solve when the time, direction, duration and external tracking data line up.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/KD3OSt6BQsM" title="Reentry and desintegration of Falcon 9 2nd stage over Northern Europe on February 19, 2025" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=KD3OSt6BQsM" target="_blank" rel="noopener noreferrer">Reentry and desintegration of Falcon 9 2nd stage over Northern Europe on February 19, 2025</a></p><p class="youtube-embed-meta">Channel: AllSky7</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=KD3OSt6BQsM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=KD3OSt6BQsM">Open on YouTube</a></p></div></div></div>
+
+
+
+
 
 ## What later evidence added
 
@@ -377,7 +383,13 @@ The case also shows how local investigation should work. The most valuable first
 * Do space-object re-entry predictions or satellite trackers match the time and direction?
 * Did any official body or observatory issue a statement afterwards?</div>
 
-For the Falcon 9 event, those questions point in the same direction. The sighting was dramatic, but not unresolved.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/IrsVR71BMSY" title="Space X Falcon 9 - Uncontrolled Re-entry, 19th February 2025" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=IrsVR71BMSY" target="_blank" rel="noopener noreferrer">Space X Falcon 9 - Uncontrolled Re-entry, 19th February 2025</a></p><p class="youtube-embed-meta">Channel: Northumberland Astro</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=IrsVR71BMSY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=IrsVR71BMSY">Open on YouTube</a></p></div></div></div>
+For the Falcon 9 event, those questions point in the same direction. The sighting was dramatic, but not unresolved.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/IrsVR71BMSY" title="Space X Falcon 9 - Uncontrolled Re-entry, 19th February 2025" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=IrsVR71BMSY" target="_blank" rel="noopener noreferrer">Space X Falcon 9 - Uncontrolled Re-entry, 19th February 2025</a></p><p class="youtube-embed-meta">Channel: Northumberland Astro</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=IrsVR71BMSY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=IrsVR71BMSY">Open on YouTube</a></p></div></div></div>
+
+
+
+
 
 ## Was anything still uncertain?
 
@@ -385,7 +397,13 @@ Some details were uncertain in the first hours, especially the precise fate of s
 
 There were also differences in early public descriptions. Some reports used broad language such as “rocket debris”, “rocket stage” or “space junk”, while more technical sources identified the catalogued object as Falcon 9 R/B, NORAD 62878. That is normal in a fast-moving event: eyewitness language, police calls, news shorthand and orbital catalogues rarely sound the same at first.
 
-What did not remain seriously in doubt was the broad explanation. The event’s timing, visible behaviour, tracking data, official statements, European observation pattern and later Polish debris reports all support the Falcon 9 upper-stage re-entry interpretation. Within Brandenburg’s UFO history, this should be filed as an identified case: highly unusual to witnesses, visually spectacular, but well explained by space debris.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/gisQO66Jjak" title="See it! SpaceX Falcon 9 rocket debris burns up over Europe" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=gisQO66Jjak" target="_blank" rel="noopener noreferrer">See it! SpaceX Falcon 9 rocket debris burns up over Europe</a></p><p class="youtube-embed-meta">Channel: VideoFromSpace</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=gisQO66Jjak" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=gisQO66Jjak">Open on YouTube</a></p></div></div></div>
+What did not remain seriously in doubt was the broad explanation. The event’s timing, visible behaviour, tracking data, official statements, European observation pattern and later Polish debris reports all support the Falcon 9 upper-stage re-entry interpretation. Within Brandenburg’s UFO history, this should be filed as an identified case: highly unusual to witnesses, visually spectacular, but well explained by space debris.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/gisQO66Jjak" title="See it! SpaceX Falcon 9 rocket debris burns up over Europe" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=gisQO66Jjak" target="_blank" rel="noopener noreferrer">See it! SpaceX Falcon 9 rocket debris burns up over Europe</a></p><p class="youtube-embed-meta">Channel: VideoFromSpace</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=gisQO66Jjak" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=gisQO66Jjak">Open on YouTube</a></p></div></div></div>
+
+
+
+
 
 ## Why this case is worth remembering
 

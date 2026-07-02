@@ -52,7 +52,7 @@ text_direction: ltr
 ui_strings:
   home: Home
   overview: Overview
-  overview_prefix:'Overview:'
+  overview_prefix: 'Overview:'
   contents: Contents
   close: Close
   open_contents: Open contents
@@ -200,13 +200,13 @@ ui_strings:
   search_this_page_empty_hint: Type to search this page.
   no_search_results: No pages match this search.
   no_search_this_page_results: No sections on this page match this search.
-  search_results_count_template:'{count} results'
+  search_results_count_template: '{count} results'
   search_kind_page_title: Page title
   search_kind_page_summary: Summary of page
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date:'2026-06-30 00:13:10'
+date: '2026-06-30 00:13:10'
 parent_title: Berlin UFOs
 parent_permalink: /what-berlins-ufo-reports-really-show/
 parent_nav_short_title: Berlin UFOs
@@ -326,7 +326,13 @@ The 28 March 2020 Berlin case shows this clearly. A witness, together with other
 
 This is not only a Berlin issue. A 2024 aviation-focused case study found that Starlink satellites have been misidentified as UAP by both pilots and laypeople, and showed how several commercial pilots on two flights reported an anomalous event that could be reconstructed using satellite and flight data.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2403.08155" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Open source on arxiv.org.</span></span></span> That is useful for Berlin because it prevents a lazy argument: if trained pilots can be puzzled by satellite geometry and reflection, then ordinary urban witnesses should not be mocked for the same mistake.
 
-The mistake is also understandable because Starlink does not behave like the older mental picture of a satellite. Many people expect a single faint point moving steadily overhead. A train of lights, or a cluster brightening and fading because of reflection angles, can seem too arranged to be natural and too silent to be aircraft. Credibility rises when witnesses supply the time, direction and spacing; credibility falls when the account turns those impressions into unsupported claims about altitude, size or intention.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/jZHy9ASOj8w" title="UFOs, drones, mystery sightings: What government reports, NASA, and investigators say" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=jZHy9ASOj8w" target="_blank" rel="noopener noreferrer">UFOs, drones, mystery sightings: What government reports, NASA, and investigators say</a></p><p class="youtube-embed-meta">Channel: WGN News &middot; Views: 3.0K &middot; Uploaded: March 2026 &middot; Length: 35 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=jZHy9ASOj8w" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=jZHy9ASOj8w">Open on YouTube</a></p></div></div></div>
+The mistake is also understandable because Starlink does not behave like the older mental picture of a satellite. Many people expect a single faint point moving steadily overhead. A train of lights, or a cluster brightening and fading because of reflection angles, can seem too arranged to be natural and too silent to be aircraft. Credibility rises when witnesses supply the time, direction and spacing; credibility falls when the account turns those impressions into unsupported claims about altitude, size or intention.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/jZHy9ASOj8w" title="UFOs, drones, mystery sightings: What government reports, NASA, and investigators say" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=jZHy9ASOj8w" target="_blank" rel="noopener noreferrer">UFOs, drones, mystery sightings: What government reports, NASA, and investigators say</a></p><p class="youtube-embed-meta">Channel: WGN News &middot; Views: 3.0K &middot; Uploaded: March 2026 &middot; Length: 35 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=jZHy9ASOj8w" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=jZHy9ASOj8w">Open on YouTube</a></p></div></div></div>
+
+
+
+
 
 ## Photographs can create a second sighting
 
@@ -359,7 +365,13 @@ A fair Berlin review therefore asks three questions in order:<div class="content
 2. **What ordinary causes fit the observation?** Planets, satellites, aircraft, drones, fireworks, balloons, reflections, weather, birds, insects and camera effects all deserve testing before stranger claims.
 3. **What remains after checking?** A case with missing direction, no original file, uncertain time or no follow-up may be unclassified, but that is not the same as strong evidence for an extraordinary object.</div>
 
-The same respectful scepticism should apply when a report comes from a confident person. Confidence is useful evidence about sincerity, not proof of accuracy. Conversely, nervousness, excitement or uncertainty do not make a witness dishonest. They may simply reflect the normal human reaction to a sky event that did not match expectations.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/WJ5k5uhe68I" title="UFO sighting or Starlink Satellites?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=WJ5k5uhe68I" target="_blank" rel="noopener noreferrer">UFO sighting or Starlink Satellites?</a></p><p class="youtube-embed-meta">Channel: joelnert</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=WJ5k5uhe68I" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=WJ5k5uhe68I">Open on YouTube</a></p></div></div></div>
+The same respectful scepticism should apply when a report comes from a confident person. Confidence is useful evidence about sincerity, not proof of accuracy. Conversely, nervousness, excitement or uncertainty do not make a witness dishonest. They may simply reflect the normal human reaction to a sky event that did not match expectations.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/WJ5k5uhe68I" title="UFO sighting or Starlink Satellites?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=WJ5k5uhe68I" target="_blank" rel="noopener noreferrer">UFO sighting or Starlink Satellites?</a></p><p class="youtube-embed-meta">Channel: joelnert</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=WJ5k5uhe68I" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=WJ5k5uhe68I">Open on YouTube</a></p></div></div></div>
+
+
+
+
 
 ## What strengthens or weakens a Berlin witness account
 
@@ -368,6 +380,8 @@ A witness account becomes stronger when it gives investigators something outside
 Strong signs include a precise timestamp, a clear viewing direction, an unedited image or video, a known location, independent witnesses who did not confer before reporting, and compatibility checks against astronomical and aviation data. Weak signs include vague timing, missing direction, heavy zoom, social-media reposts, later embellishment, claims based only on cropped images, or an unwillingness to answer follow-up questions.
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/RosFz56uAhI" title="UFO Files LIVE: Space Mystery Deepens As Pentagon Unveils New Shocking Documents On UFO | WION" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=RosFz56uAhI" target="_blank" rel="noopener noreferrer">UFO Files LIVE: Space Mystery Deepens As Pentagon Unveils New Shocking Documents On UFO | WION</a></p><p class="youtube-embed-meta">Channel: WION</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=RosFz56uAhI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=RosFz56uAhI">Open on YouTube</a></p></div></div></div>
+
+
 
 ## Why Berlin’s ordinary cases matter
 

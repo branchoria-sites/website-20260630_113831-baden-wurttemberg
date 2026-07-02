@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /north-rhine-westphal-f5bdd9-index/
 description: Focused pages that expand on North Rhine Westphalia.
-date:'2026'
+date: '2026'
 layout: default
 parent_basename: North_Rhine-Westphal_f5bdd9
 parent_title: North Rhine Westphalia

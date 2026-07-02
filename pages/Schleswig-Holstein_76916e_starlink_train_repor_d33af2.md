@@ -52,7 +52,7 @@ text_direction: ltr
 ui_strings:
   home: Home
   overview: Overview
-  overview_prefix:'Overview:'
+  overview_prefix: 'Overview:'
   contents: Contents
   close: Close
   open_contents: Open contents
@@ -200,13 +200,13 @@ ui_strings:
   search_this_page_empty_hint: Type to search this page.
   no_search_results: No pages match this search.
   no_search_this_page_results: No sections on this page match this search.
-  search_results_count_template:'{count} results'
+  search_results_count_template: '{count} results'
   search_kind_page_title: Page title
   search_kind_page_summary: Summary of page
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date:'2026-06-30 10:10:21'
+date: '2026-06-30 10:10:21'
 parent_title: Schleswig Holstein UFOs
 parent_permalink: /what-really-flew-over-schleswig-holstein/
 parent_nav_short_title: Schleswig Holstein UFOs
@@ -336,7 +336,13 @@ Several features point towards Starlink rather than an unknown aerial object:<di
 
 The International Astronomical Union has warned that satellite constellations are especially visible during twilight and that recently launched Starlink satellites can leave multiple reflected-light trails in astronomical images before becoming less bright as they reach final altitude. That scientific concern is separate from UFO interpretation, but it confirms the basic mechanism: these objects are genuinely visible, genuinely numerous, and capable of producing striking effects.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://iauarchive.eso.org/public/themes/satellite-constellations/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iauarchive.eso.org">[iauarchive.eso.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iauarchive.eso.org</span><span class="citation-popover-title">Satellite Constellations &#124; IAU</span><span class="citation-popover-snippet">Satellite Constellations &#124; IAU</span></span></span>
 
-The artificial appearance should therefore be read correctly. Starlink trains are artificial in the ordinary human-made sense. They are not atmospheric mirages, [planets]({{'planets-9a1d7f/' | relative_url }}), birds or camera artefacts. But the fact that a sighting looks engineered does not make it unexplained. In this case, engineered appearance is exactly what should be expected from a line of satellites launched together.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/e8qE-oyapnM" title="Starlink satellite captures Starlink &#x27;train&#x27; in amazing view from space" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=e8qE-oyapnM" target="_blank" rel="noopener noreferrer">Starlink satellite captures Starlink &#x27;train&#x27; in amazing view from space</a></p><p class="youtube-embed-meta">Channel: VideoFromSpace &middot; Views: 174.8K &middot; Uploaded: May 2026 &middot; Length: 1 minute 14 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=e8qE-oyapnM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=e8qE-oyapnM">Open on YouTube</a></p></div></div></div>
+The artificial appearance should therefore be read correctly. Starlink trains are artificial in the ordinary human-made sense. They are not atmospheric mirages, [planets]({{'planets-9a1d7f/' | relative_url }}), birds or camera artefacts. But the fact that a sighting looks engineered does not make it unexplained. In this case, engineered appearance is exactly what should be expected from a line of satellites launched together.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/e8qE-oyapnM" title="Starlink satellite captures Starlink &#x27;train&#x27; in amazing view from space" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=e8qE-oyapnM" target="_blank" rel="noopener noreferrer">Starlink satellite captures Starlink &#x27;train&#x27; in amazing view from space</a></p><p class="youtube-embed-meta">Channel: VideoFromSpace &middot; Views: 174.8K &middot; Uploaded: May 2026 &middot; Length: 1 minute 14 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=e8qE-oyapnM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=e8qE-oyapnM">Open on YouTube</a></p></div></div></div>
+
+
+
+
 
 ## How Investigators Check a Starlink Explanation
 
@@ -360,7 +366,13 @@ Starlink has not merely added one more item to the sceptical checklist. It has c
 
 That trend fits Schleswig-Holstein particularly well. The state’s UFO record is not dominated by one famous saucer incident; it is shaped by recurring skywatching conditions. Coastal horizons, ports, ferry routes, military and civilian aviation, dark rural skies and modern satellites all increase the chance that ordinary objects will be seen in unusual ways. Starlink trains sit near the top of that modern list because they are visually dramatic and easy to misread.
 
-The effect also changes the role of witnesses. A person who reports a Starlink train is not necessarily careless or gullible. They may have seen exactly what they described: a silent, evenly spaced chain of lights moving across the sky. The error lies in interpretation, not necessarily in observation. That is why these cases are useful in public UFO history. They show how a sincere and striking witness account can still be resolved by [checking]({{'checking/' | relative_url }}) astronomy and orbital data.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/WzxvkXKa0hA" title="SpaceX’s plan for direct-to-phone Starlink satellites." frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=WzxvkXKa0hA" target="_blank" rel="noopener noreferrer">SpaceX’s plan for direct-to-phone Starlink satellites.</a></p><p class="youtube-embed-meta">Channel: The Code Bit</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=WzxvkXKa0hA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=WzxvkXKa0hA">Open on YouTube</a></p></div></div></div>
+The effect also changes the role of witnesses. A person who reports a Starlink train is not necessarily careless or gullible. They may have seen exactly what they described: a silent, evenly spaced chain of lights moving across the sky. The error lies in interpretation, not necessarily in observation. That is why these cases are useful in public UFO history. They show how a sincere and striking witness account can still be resolved by [checking]({{'checking/' | relative_url }}) astronomy and orbital data.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/WzxvkXKa0hA" title="SpaceX’s plan for direct-to-phone Starlink satellites." frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=WzxvkXKa0hA" target="_blank" rel="noopener noreferrer">SpaceX’s plan for direct-to-phone Starlink satellites.</a></p><p class="youtube-embed-meta">Channel: The Code Bit</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=WzxvkXKa0hA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=WzxvkXKa0hA">Open on YouTube</a></p></div></div></div>
+
+
+
+
 
 ## When Starlink Is a Strong Explanation — and When It Is Not
 
@@ -368,7 +380,13 @@ A Starlink explanation is strongest when the report describes a line or train of
 
 A Starlink explanation is weaker when the sighting involves a single stationary light, low-altitude manoeuvres, sound, close-range structure, changing colours, interaction with aircraft, or a time when no relevant satellite pass fits. Those reports may still have ordinary explanations — aircraft, [drones]({{'drones-315029/' | relative_url }}), planets, [balloons]({{'balloons-776206/' | relative_url }}), meteors, re-entry events, searchlights or camera artefacts — but they should not be forced into the Starlink category without a match.
 
-There is also a difference between “explained by Starlink” and “probably Starlink”. Some public sightings are documented well enough for a confident identification. Others lack an exact time, direction or location, making the best conclusion more cautious: consistent with a Starlink train, but not proven. In Schleswig-Holstein’s state-level record, that distinction matters because overconfident debunking can be as misleading as overconfident mystery-making.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/_GRhozeJ21o" title="Zeitraffer: Starlink-Satelliten ziehen über Schleswig-Holstein entlang" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=_GRhozeJ21o" target="_blank" rel="noopener noreferrer">Zeitraffer: Starlink-Satelliten ziehen über Schleswig-Holstein entlang</a></p><p class="youtube-embed-meta">Channel: shz.de – Nachrichten aus Schleswig-Holstein</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=_GRhozeJ21o" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=_GRhozeJ21o">Open on YouTube</a></p></div></div></div>
+There is also a difference between “explained by Starlink” and “probably Starlink”. Some public sightings are documented well enough for a confident identification. Others lack an exact time, direction or location, making the best conclusion more cautious: consistent with a Starlink train, but not proven. In Schleswig-Holstein’s state-level record, that distinction matters because overconfident debunking can be as misleading as overconfident mystery-making.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/_GRhozeJ21o" title="Zeitraffer: Starlink-Satelliten ziehen über Schleswig-Holstein entlang" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=_GRhozeJ21o" target="_blank" rel="noopener noreferrer">Zeitraffer: Starlink-Satelliten ziehen über Schleswig-Holstein entlang</a></p><p class="youtube-embed-meta">Channel: shz.de – Nachrichten aus Schleswig-Holstein</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=_GRhozeJ21o" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=_GRhozeJ21o">Open on YouTube</a></p></div></div></div>
+
+
+
+
 
 ## Why Astronomers Still Take the Issue Seriously
 

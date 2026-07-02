@@ -52,7 +52,7 @@ text_direction: ltr
 ui_strings:
   home: Home
   overview: Overview
-  overview_prefix:'Overview:'
+  overview_prefix: 'Overview:'
   contents: Contents
   close: Close
   open_contents: Open contents
@@ -200,13 +200,13 @@ ui_strings:
   search_this_page_empty_hint: Type to search this page.
   no_search_results: No pages match this search.
   no_search_this_page_results: No sections on this page match this search.
-  search_results_count_template:'{count} results'
+  search_results_count_template: '{count} results'
   search_kind_page_title: Page title
   search_kind_page_summary: Summary of page
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date:'2026-06-30 10:10:21'
+date: '2026-06-30 10:10:21'
 parent_title: Schleswig Holstein UFOs
 parent_permalink: /what-really-flew-over-schleswig-holstein/
 parent_nav_short_title: Schleswig Holstein UFOs
@@ -349,7 +349,13 @@ That mix matters because reconnaissance flying is not always visually intuitive.
 
 The drone dimension became more visible in May 2024, when the German Heron TP made its maiden flight in German airspace from Jagel Air Base, beginning a six-month test phase. European Security & Defence reported that the system was becoming part of general air traffic during demonstration operations from Jagel and would fly with civilian and military aircraft in controlled airspace over northern Germany.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://euro-sd.com/2024/05/major-news/38048/ghtp-first-flight-over-germany/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: euro-sd.com">[European Security &amp; Defence]</a><span class="citation-popover" role="note"><span class="citation-popover-source">euro-sd.com</span><span class="citation-popover-snippet">Open source on euro-sd.com.</span></span></span> Airbus describes the German Heron TP as a medium-altitude, long-endurance uncrewed aerial system for intelligence, surveillance, reconnaissance and target acquisition, with flights in Germany and abroad and operations in controlled European airspace.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.airbus.com/en/products-services/defence/uas/uas-services/german-heron-tp" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: airbus.com">[Airbus]</a><span class="citation-popover" role="note"><span class="citation-popover-source">airbus.com</span><span class="citation-popover-title">German Heron TP &#124; Airbus</span><span class="citation-popover-snippet">German Heron TP &#124; Airbus</span></span></span>
 
-For the public, the important point is not that a drone is automatically mysterious. It is that the word “drone” now covers everything from small consumer quadcopters to large military uncrewed aircraft. A long-endurance reconnaissance aircraft operating from a military base can be misdescribed if a witness expects drones to be small, low and buzzing. Conversely, small illicit or unidentified drones near sensitive infrastructure should not be confused with large, authorised military systems.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/r6uN0eeyhsc" title="[4K] Air Defender 2023 x8 USAF F-16 landing Schleswig - Jagel AFB" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=r6uN0eeyhsc" target="_blank" rel="noopener noreferrer">[4K] Air Defender 2023 x8 USAF F-16 landing Schleswig - Jagel AFB</a></p><p class="youtube-embed-meta">Channel: Miketheavgeek</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=r6uN0eeyhsc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=r6uN0eeyhsc">Open on YouTube</a></p></div></div></div>
+For the public, the important point is not that a drone is automatically mysterious. It is that the word “drone” now covers everything from small consumer quadcopters to large military uncrewed aircraft. A long-endurance reconnaissance aircraft operating from a military base can be misdescribed if a witness expects drones to be small, low and buzzing. Conversely, small illicit or unidentified drones near sensitive infrastructure should not be confused with large, authorised military systems.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/r6uN0eeyhsc" title="[4K] Air Defender 2023 x8 USAF F-16 landing Schleswig - Jagel AFB" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=r6uN0eeyhsc" target="_blank" rel="noopener noreferrer">[4K] Air Defender 2023 x8 USAF F-16 landing Schleswig - Jagel AFB</a></p><p class="youtube-embed-meta">Channel: Miketheavgeek</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=r6uN0eeyhsc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=r6uN0eeyhsc">Open on YouTube</a></p></div></div></div>
+
+
+
+
 
 ## What military context can explain
 
@@ -381,7 +387,13 @@ This distinction is important for trust. UFO history in Schleswig-Holstein is st
 2. **Weak reports**, where the sighting is too vague to investigate properly.
 3. **Unresolved reports**, where enough detail exists to check ordinary explanations but no good match has been found.</div>
 
-Jagel mostly affects the first two categories. It gives investigators a strong, local reason to check aircraft and exercise explanations before treating a case as unusual. It does not, by itself, disprove every report in the region.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/fUsqNZ1A4Dk" title="Air Defender 23 - Hohn &amp; Schleswig-Jagel action. Part 2" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=fUsqNZ1A4Dk" target="_blank" rel="noopener noreferrer">Air Defender 23 - Hohn &amp; Schleswig-Jagel action. Part 2</a></p><p class="youtube-embed-meta">Channel: Mark Kerton</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=fUsqNZ1A4Dk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=fUsqNZ1A4Dk">Open on YouTube</a></p></div></div></div>
+Jagel mostly affects the first two categories. It gives investigators a strong, local reason to check aircraft and exercise explanations before treating a case as unusual. It does not, by itself, disprove every report in the region.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/fUsqNZ1A4Dk" title="Air Defender 23 - Hohn &amp; Schleswig-Jagel action. Part 2" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=fUsqNZ1A4Dk" target="_blank" rel="noopener noreferrer">Air Defender 23 - Hohn &amp; Schleswig-Jagel action. Part 2</a></p><p class="youtube-embed-meta">Channel: Mark Kerton</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=fUsqNZ1A4Dk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=fUsqNZ1A4Dk">Open on YouTube</a></p></div></div></div>
+
+
+
+
 
 ## The newer drone problem around sensitive sites
 
@@ -389,7 +401,13 @@ Jagel also sits inside a wider 2020s shift: unidentified drone reports near sens
 
 For this page, the relevance is interpretive rather than conspiratorial. The modern sky contains both authorised military uncrewed systems and unauthorised or unidentified drones. A witness who sees a moving light near a port, power plant, shipyard, military area or airfield may be reporting something that deserves security attention, but that does not automatically make it a UFO in the older sense of a mysterious craft with extraordinary capabilities.
 
-This is where Schleswig-Holstein’s UFO history has become more practical and less romantic. The question is increasingly not “are flying saucers visiting?” but “what type of aerial object was observed, was it authorised, was it a risk, and who has the data to identify it?” Jagel’s military role sharpens that question because it places advanced aircraft and drone activity within a state already sensitive to maritime routes, defence sites and northern European security concerns.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/126-UdEblrI" title="[4K] LOUD!! Tornado spotting - TLG51 &quot;Immelmann&quot; Schleswig Jagel" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=126-UdEblrI" target="_blank" rel="noopener noreferrer">[4K] LOUD!! Tornado spotting - TLG51 &quot;Immelmann&quot; Schleswig Jagel</a></p><p class="youtube-embed-meta">Channel: 32TFS Aviation</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=126-UdEblrI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=126-UdEblrI">Open on YouTube</a></p></div></div></div>
+This is where Schleswig-Holstein’s UFO history has become more practical and less romantic. The question is increasingly not “are flying saucers visiting?” but “what type of aerial object was observed, was it authorised, was it a risk, and who has the data to identify it?” Jagel’s military role sharpens that question because it places advanced aircraft and drone activity within a state already sensitive to maritime routes, defence sites and northern European security concerns.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/126-UdEblrI" title="[4K] LOUD!! Tornado spotting - TLG51 &quot;Immelmann&quot; Schleswig Jagel" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=126-UdEblrI" target="_blank" rel="noopener noreferrer">[4K] LOUD!! Tornado spotting - TLG51 &quot;Immelmann&quot; Schleswig Jagel</a></p><p class="youtube-embed-meta">Channel: 32TFS Aviation</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=126-UdEblrI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=126-UdEblrI">Open on YouTube</a></p></div></div></div>
+
+
+
+
 
 ## How to read a Jagel-area sighting responsibly
 

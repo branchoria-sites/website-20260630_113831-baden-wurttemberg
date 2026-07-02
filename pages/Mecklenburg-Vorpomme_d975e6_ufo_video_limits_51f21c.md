@@ -52,7 +52,7 @@ text_direction: ltr
 ui_strings:
   home: Home
   overview: Overview
-  overview_prefix:'Overview:'
+  overview_prefix: 'Overview:'
   contents: Contents
   close: Close
   open_contents: Open contents
@@ -200,13 +200,13 @@ ui_strings:
   search_this_page_empty_hint: Type to search this page.
   no_search_results: No pages match this search.
   no_search_this_page_results: No sections on this page match this search.
-  search_results_count_template:'{count} results'
+  search_results_count_template: '{count} results'
   search_kind_page_title: Page title
   search_kind_page_summary: Summary of page
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date:'2026-06-30 04:08:56'
+date: '2026-06-30 04:08:56'
 parent_title: MV UFOs
 parent_permalink: /mecklenburg-vorpommern/
 parent_nav_short_title: MV UFOs
@@ -320,6 +320,8 @@ Greifswald is a textbook example of that problem. The lights were filmed against
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/wU8IeHY6W48" title="The Mystery Signal That Led A German Fleet to Its Death" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=wU8IeHY6W48" target="_blank" rel="noopener noreferrer">The Mystery Signal That Led A German Fleet to Its Death</a></p><p class="youtube-embed-meta">Channel: Dark Seas &middot; Views: 155.3K &middot; Uploaded: July 2025 &middot; Length: 24 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=wU8IeHY6W48" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=wU8IeHY6W48">Open on YouTube</a></p></div></div></div>
 
+
+
 ## The Greifswald footage and the flare explanation
 
 The later sceptical reinterpretation of Greifswald turned on a simple idea: the lights looked strange to civilians, but their behaviour could fit parachute illumination flares used in military exercises. Such flares can burn brightly, hang or descend slowly under parachutes, appear in clusters, drift with wind, and fade in ways that look deliberate to a viewer who does not recognise the mechanism.
@@ -341,7 +343,13 @@ A viewer watching the Greifswald recordings may feel that the lights are “obvi
 
 **Motion:** slow drift, descent or fading can look like hovering, manoeuvring or controlled departure when there are few reference points.
 
-**Source:** the camera records light reaching the lens, not the mechanism producing it. A flare, aircraft light, balloon, drone, reflection or distant firework can all begin as “a light in the sky”.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/GbabEnOQnj8" title="UFO ÜBER MECKLENBURG VORPOMMERN?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=GbabEnOQnj8" target="_blank" rel="noopener noreferrer">UFO ÜBER MECKLENBURG VORPOMMERN?</a></p><p class="youtube-embed-meta">Channel: Ostseewelle HIT-RADIO Mecklenburg-Vorpommern</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=GbabEnOQnj8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=GbabEnOQnj8">Open on YouTube</a></p></div></div></div>
+**Source:** the camera records light reaching the lens, not the mechanism producing it. A flare, aircraft light, balloon, drone, reflection or distant firework can all begin as “a light in the sky”.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/GbabEnOQnj8" title="UFO ÜBER MECKLENBURG VORPOMMERN?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=GbabEnOQnj8" target="_blank" rel="noopener noreferrer">UFO ÜBER MECKLENBURG VORPOMMERN?</a></p><p class="youtube-embed-meta">Channel: Ostseewelle HIT-RADIO Mecklenburg-Vorpommern</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=GbabEnOQnj8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=GbabEnOQnj8">Open on YouTube</a></p></div></div></div>
+
+
+
+
 
 ## Why Greifswald still matters
 

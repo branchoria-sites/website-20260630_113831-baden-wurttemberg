@@ -52,7 +52,7 @@ text_direction: ltr
 ui_strings:
   home: Home
   overview: Overview
-  overview_prefix:'Overview:'
+  overview_prefix: 'Overview:'
   contents: Contents
   close: Close
   open_contents: Open contents
@@ -200,13 +200,13 @@ ui_strings:
   search_this_page_empty_hint: Type to search this page.
   no_search_results: No pages match this search.
   no_search_this_page_results: No sections on this page match this search.
-  search_results_count_template:'{count} results'
+  search_results_count_template: '{count} results'
   search_kind_page_title: Page title
   search_kind_page_summary: Summary of page
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date:'2026-06-30 04:08:57'
+date: '2026-06-30 04:08:57'
 parent_title: MV UFOs
 parent_permalink: /mecklenburg-vorpommern/
 parent_nav_short_title: MV UFOs
@@ -338,7 +338,13 @@ For Mecklenburg-Vorpommern, the most realistic record trail is mixed and uneven.
 
 **State and local archives can supply context.** The Greifswald site of the Mecklenburg-Vorpommern state archive holds centuries of regional material, reflecting local history rather than UFO investigation as a dedicated category. For older or localised cases, such archives may help confirm newspapers, administrative records, maps, local institutions and historical context, but they are unlikely to provide a ready-made UFO verdict.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.kulturwerte-mv.de/Landesarchiv/standorte-bestaende/standort-greifswald/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kulturwerte-mv.de">[Kulturwerte MV]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kulturwerte-mv.de</span><span class="citation-popover-snippet">Open source on kulturwerte-mv.de.</span></span></span>
 
-This is the core practical lesson: Mecklenburg-Vorpommern’s UFO record is not one shelf. It is a patchwork.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/MZZQ-9RkDgk" title="Research on UAP, SETI and Space Technologies at Julius Maximilians University - Dr. Hakan Kayal" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=MZZQ-9RkDgk" target="_blank" rel="noopener noreferrer">Research on UAP, SETI and Space Technologies at Julius Maximilians University - Dr. Hakan Kayal</a></p><p class="youtube-embed-meta">Channel: Scientific Coalition for UAP Studies &middot; Views: 2.3K &middot; Uploaded: November 2022 &middot; Length: 1 hour 10 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=MZZQ-9RkDgk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=MZZQ-9RkDgk">Open on YouTube</a></p></div></div></div>
+This is the core practical lesson: Mecklenburg-Vorpommern’s UFO record is not one shelf. It is a patchwork.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/MZZQ-9RkDgk" title="Research on UAP, SETI and Space Technologies at Julius Maximilians University - Dr. Hakan Kayal" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=MZZQ-9RkDgk" target="_blank" rel="noopener noreferrer">Research on UAP, SETI and Space Technologies at Julius Maximilians University - Dr. Hakan Kayal</a></p><p class="youtube-embed-meta">Channel: Scientific Coalition for UAP Studies &middot; Views: 2.3K &middot; Uploaded: November 2022 &middot; Length: 1 hour 10 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=MZZQ-9RkDgk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=MZZQ-9RkDgk">Open on YouTube</a></p></div></div></div>
+
+
+
+
 
 ## The Bundestag UFO paper became a symbol of the problem
 
@@ -368,7 +374,13 @@ This is significant because it recognises that trained observers in aviation can
 
 But it is not the same as a national public UFO archive. It is focused on pilot reports and future data, not on rebuilding the old Greifswald file, digitising regional press, reconciling private UFO-group records or publishing historical military exercise documentation. For Mecklenburg-Vorpommern, it may improve the handling of future Baltic airspace reports, but it does not retroactively organise the evidence from 1665, 1990 or other local episodes.
 
-That distinction is important. A new reporting route can raise future standards while leaving the historical record messy.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/8op0_N59rkU" title="Report on Greifswald UFO case (1990)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=8op0_N59rkU" target="_blank" rel="noopener noreferrer">Report on Greifswald UFO case (1990)</a></p><p class="youtube-embed-meta">Channel: zerwas2ky &middot; Views: 12.7K &middot; Uploaded: October 2012 &middot; Length: 4 minutes 2 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=8op0_N59rkU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=8op0_N59rkU">Open on YouTube</a></p></div></div></div>
+That distinction is important. A new reporting route can raise future standards while leaving the historical record messy.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/8op0_N59rkU" title="Report on Greifswald UFO case (1990)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=8op0_N59rkU" target="_blank" rel="noopener noreferrer">Report on Greifswald UFO case (1990)</a></p><p class="youtube-embed-meta">Channel: zerwas2ky &middot; Views: 12.7K &middot; Uploaded: October 2012 &middot; Length: 4 minutes 2 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=8op0_N59rkU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=8op0_N59rkU">Open on YouTube</a></p></div></div></div>
+
+
+
+
 
 ## A practical way to read Mecklenburg-Vorpommern cases
 
@@ -376,7 +388,13 @@ The records gap should make readers more careful, not more cynical. A weak archi
 
 A stronger Mecklenburg-Vorpommern case would have multiple independent witnesses, original dated media, known camera positions, weather and astronomical checks, airspace and military-context checks, and early reports that have not been heavily reshaped by later retelling. A weaker case relies on a late summary, a recycled video, anonymous testimony, missing location data or claims that cannot be traced to a primary source.
 
-The Greifswald lights remain important because they sit in the stronger half of that spectrum for visibility and documentation, but not because they prove an extraordinary origin. Their value is that they show how a famous German UFO case can be both real as an observed public event and still plausibly explained by military flares. That is exactly the kind of distinction a public archive should help readers make.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/KbzbK905kwc" title="UFO file release October 2008" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=KbzbK905kwc" target="_blank" rel="noopener noreferrer">UFO file release October 2008</a></p><p class="youtube-embed-meta">Channel: The National Archives UK &middot; Views: 19.5K &middot; Uploaded: October 2008 &middot; Length: 9 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=KbzbK905kwc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=KbzbK905kwc">Open on YouTube</a></p></div></div></div>
+The Greifswald lights remain important because they sit in the stronger half of that spectrum for visibility and documentation, but not because they prove an extraordinary origin. Their value is that they show how a famous German UFO case can be both real as an observed public event and still plausibly explained by military flares. That is exactly the kind of distinction a public archive should help readers make.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/KbzbK905kwc" title="UFO file release October 2008" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=KbzbK905kwc" target="_blank" rel="noopener noreferrer">UFO file release October 2008</a></p><p class="youtube-embed-meta">Channel: The National Archives UK &middot; Views: 19.5K &middot; Uploaded: October 2008 &middot; Length: 9 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=KbzbK905kwc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=KbzbK905kwc">Open on YouTube</a></p></div></div></div>
+
+
+
+
 
 ## The real lesson of the records gap
 

@@ -52,7 +52,7 @@ text_direction: ltr
 ui_strings:
   home: Home
   overview: Overview
-  overview_prefix:'Overview:'
+  overview_prefix: 'Overview:'
   contents: Contents
   close: Close
   open_contents: Open contents
@@ -200,13 +200,13 @@ ui_strings:
   search_this_page_empty_hint: Type to search this page.
   no_search_results: No pages match this search.
   no_search_this_page_results: No sections on this page match this search.
-  search_results_count_template:'{count} results'
+  search_results_count_template: '{count} results'
   search_kind_page_title: Page title
   search_kind_page_summary: Summary of page
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date:'2026-06-30 05:37:30'
+date: '2026-06-30 05:37:30'
 parent_title: NRW UFOs
 parent_permalink: /north-rhine-westphalia/
 parent_nav_short_title: NRW UFOs
@@ -323,7 +323,13 @@ This is the core reason Lüdenscheid matters to the state-level story. A sightin
 
 * Was the case investigated to a conclusion, left unresolved, or limited by missing data?
 * Did similar descriptions cluster in time or geography?
-* Were photographs or videos part of the original submission, or added later?</div><div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/FgiaGUtRZIg" title="Nazi Germany&#x27;s Secret UFO in WW2" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=FgiaGUtRZIg" target="_blank" rel="noopener noreferrer">Nazi Germany&#x27;s Secret UFO in WW2</a></p><p class="youtube-embed-meta">Channel: Simple History &middot; Views: 190.4K &middot; Uploaded: August 2023 &middot; Length: 11 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=FgiaGUtRZIg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=FgiaGUtRZIg">Open on YouTube</a></p></div></div></div>
+* Were photographs or videos part of the original submission, or added later?</div>
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/FgiaGUtRZIg" title="Nazi Germany&#x27;s Secret UFO in WW2" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=FgiaGUtRZIg" target="_blank" rel="noopener noreferrer">Nazi Germany&#x27;s Secret UFO in WW2</a></p><p class="youtube-embed-meta">Channel: Simple History &middot; Views: 190.4K &middot; Uploaded: August 2023 &middot; Length: 11 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=FgiaGUtRZIg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=FgiaGUtRZIg">Open on YouTube</a></p></div></div></div>
+
+
+
+
 
 ## How an investigation changes a UFO story
 
@@ -336,7 +342,13 @@ GEP’s classification page also shows that “UFO” is not one simple category
 
 The most common mistake with civilian UFO archives is to treat “unexplained” as a synonym for “extraordinary”. GEP’s own research principles push against that mistake. They define UFO and UAP in a descriptive way and state that the terms do not imply origin, form or extraterrestrial cause. They also stress that researchers should separate personal theories from collected data and that a case should only remain classified as unexplained after extensive, methodically strict investigation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ufo-forschung.de/forschung/grundsaetze-redlicher-wissenschaftlicher-praxis-in-der-erforschung-des-ufo-phaenomens" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufo-forschung.de">[UFO Forschung]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufo-forschung.de</span><span class="citation-popover-snippet">Open source on ufo-forschung.de.</span></span></span>
 
-This is where Lüdenscheid’s archive has real public value. It can strengthen a case when it preserves original details, photographs, witness timings and investigation notes. It can weaken a case when the archive shows missing data, uncertain direction, vague descriptions or a conventional explanation. It can also stop a story from growing through repetition. Without records, a local report can become more impressive every time it is retold. With records, the original claim and the later assessment remain linked.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/3Cnwse6tFQs" title="Pentagon UFO Files Reveal Chilling Encounters Near Secret Military Bases | WION Originals" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=3Cnwse6tFQs" target="_blank" rel="noopener noreferrer">Pentagon UFO Files Reveal Chilling Encounters Near Secret Military Bases | WION Originals</a></p><p class="youtube-embed-meta">Channel: WION &middot; Views: 5.5K &middot; Uploaded: May 2026 &middot; Length: 1 minute 44 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=3Cnwse6tFQs" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=3Cnwse6tFQs">Open on YouTube</a></p></div></div></div>
+This is where Lüdenscheid’s archive has real public value. It can strengthen a case when it preserves original details, photographs, witness timings and investigation notes. It can weaken a case when the archive shows missing data, uncertain direction, vague descriptions or a conventional explanation. It can also stop a story from growing through repetition. Without records, a local report can become more impressive every time it is retold. With records, the original claim and the later assessment remain linked.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/3Cnwse6tFQs" title="Pentagon UFO Files Reveal Chilling Encounters Near Secret Military Bases | WION Originals" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=3Cnwse6tFQs" target="_blank" rel="noopener noreferrer">Pentagon UFO Files Reveal Chilling Encounters Near Secret Military Bases | WION Originals</a></p><p class="youtube-embed-meta">Channel: WION &middot; Views: 5.5K &middot; Uploaded: May 2026 &middot; Length: 1 minute 44 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=3Cnwse6tFQs" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=3Cnwse6tFQs">Open on YouTube</a></p></div></div></div>
+
+
+
+
 
 ## The civilian archive in a changing research landscape
 
@@ -351,7 +363,13 @@ GEP’s Lüdenscheid base gives North Rhine-Westphalia a special position in Ger
 
 The connection has become more visible as UAP has gained a more serious research vocabulary. GEP says it has been associated with the Interdisciplinary Research Centre for Extraterrestrial Studies at the University of Würzburg since 2022, while the centre’s 2024 UAP workshop described GEP board member André Kramer as presenting on “50 years of civilian data collection on UAP”.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ufo-forschung.de/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufo-forschung.de">[UFO Forschung]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufo-forschung.de</span><span class="citation-popover-title">UFO Forschung Gesellschaft zur Erforschung des UFO-Phänomens e.V</span><span class="citation-popover-snippet">GEP: gegr. 1972 &#124; wissenschaftliche Forschung zu Unidentifizierten Flugobjekten (UFOs) / Unidentified Aerial Phenomena (UAP) &#124; Einzelfa...</span></span></span> This does not turn GEP into an official state programme, and it does not turn civilian witness reports into scientific proof. It does show that the Lüdenscheid archive is now part of a broader conversation about how UAP data should be collected, protected, classified and shared.
 
-For readers following North Rhine-Westphalia’s UFO history, that is the main takeaway. Lüdenscheid is not important because it supplied a single spectacular case that solved the UFO question. It is important because it supplied continuity. It gave witnesses somewhere to report, investigators a structure for checking, and later readers a way to distinguish a rumour from a documented case file.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/0EJrDFGOkuc" title="UFO-Forschung? • Daten, Physik und Analyse der Sichtungen | Jenny Wagner" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=0EJrDFGOkuc" target="_blank" rel="noopener noreferrer">UFO-Forschung? • Daten, Physik und Analyse der Sichtungen | Jenny Wagner</a></p><p class="youtube-embed-meta">Channel: Urknall, Weltall und das Leben</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=0EJrDFGOkuc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=0EJrDFGOkuc">Open on YouTube</a></p></div></div></div>
+For readers following North Rhine-Westphalia’s UFO history, that is the main takeaway. Lüdenscheid is not important because it supplied a single spectacular case that solved the UFO question. It is important because it supplied continuity. It gave witnesses somewhere to report, investigators a structure for checking, and later readers a way to distinguish a rumour from a documented case file.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/0EJrDFGOkuc" title="UFO-Forschung? • Daten, Physik und Analyse der Sichtungen | Jenny Wagner" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=0EJrDFGOkuc" target="_blank" rel="noopener noreferrer">UFO-Forschung? • Daten, Physik und Analyse der Sichtungen | Jenny Wagner</a></p><p class="youtube-embed-meta">Channel: Urknall, Weltall und das Leben</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=0EJrDFGOkuc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=0EJrDFGOkuc">Open on YouTube</a></p></div></div></div>
+
+
+
+
 
 ## What a reader should take from the GEP archive
 

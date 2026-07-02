@@ -52,7 +52,7 @@ text_direction: ltr
 ui_strings:
   home: Home
   overview: Overview
-  overview_prefix:'Overview:'
+  overview_prefix: 'Overview:'
   contents: Contents
   close: Close
   open_contents: Open contents
@@ -200,13 +200,13 @@ ui_strings:
   search_this_page_empty_hint: Type to search this page.
   no_search_results: No pages match this search.
   no_search_this_page_results: No sections on this page match this search.
-  search_results_count_template:'{count} results'
+  search_results_count_template: '{count} results'
   search_kind_page_title: Page title
   search_kind_page_summary: Summary of page
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date:'2026-06-30 05:37:32'
+date: '2026-06-30 05:37:32'
 parent_title: NRW UFOs
 parent_permalink: /north-rhine-westphalia/
 parent_nav_short_title: NRW UFOs
@@ -348,7 +348,13 @@ Investigators usually look for the most stable parts of the account:<div class="
 * **Direction of travel:** reports from different towns should converge on a plausible track if the event was a meteor.
 * **Duration range:** a few seconds supports a meteor; many tens of seconds pushes the case towards space debris re-entry or another explanation.
 * **Fragmentation:** breakup is common in bright meteors and can be mistaken for multiple manoeuvring objects.
-* **Sound delay:** a delayed boom can occur after a bright meteor, but immediate “hissing” or local sounds need careful checking against traffic, aircraft, animals, machinery or other sources.</div><div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/1TPO_ULrHQA" title="Fireball over Europe, 8 March 2026" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=1TPO_ULrHQA" target="_blank" rel="noopener noreferrer">Fireball over Europe, 8 March 2026</a></p><p class="youtube-embed-meta">Channel: ESA Extras &middot; Views: 89.9K &middot; Uploaded: March 2026 &middot; Length: 20 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=1TPO_ULrHQA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=1TPO_ULrHQA">Open on YouTube</a></p></div></div></div>
+* **Sound delay:** a delayed boom can occur after a bright meteor, but immediate “hissing” or local sounds need careful checking against traffic, aircraft, animals, machinery or other sources.</div>
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/1TPO_ULrHQA" title="Fireball over Europe, 8 March 2026" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=1TPO_ULrHQA" target="_blank" rel="noopener noreferrer">Fireball over Europe, 8 March 2026</a></p><p class="youtube-embed-meta">Channel: ESA Extras &middot; Views: 89.9K &middot; Uploaded: March 2026 &middot; Length: 20 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=1TPO_ULrHQA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=1TPO_ULrHQA">Open on YouTube</a></p></div></div></div>
+
+
+
+
 
 ## The 2020 north-west Germany fireball and the cross-border pattern
 
@@ -397,7 +403,13 @@ Several features drive the confusion:
 
 **Social media accelerates certainty.** A dramatic clip posted within minutes may be labelled “UFO”, “missile” or “plane crash” before any comparison with meteor networks. Later corrections often travel less widely than the original claim.
 
-These mechanisms are especially relevant in North Rhine-Westphalia because the state is visually busy. [Airports]({{'airports/' | relative_url }}), motorways, rail corridors, industrial lighting, wind turbines, aircraft routes and dense housing all provide plausible local frames of reference. A fireball crossing the sky above that environment can be interpreted through whatever nearby activity the witness already knows.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/0N04yAyvm7w" title="SOMETHING Is Falling From The Sky Right Now… And It’s Not Normal" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=0N04yAyvm7w" target="_blank" rel="noopener noreferrer">SOMETHING Is Falling From The Sky Right Now… And It’s Not Normal</a></p><p class="youtube-embed-meta">Channel: TriggerSmart</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=0N04yAyvm7w" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=0N04yAyvm7w">Open on YouTube</a></p></div></div></div>
+These mechanisms are especially relevant in North Rhine-Westphalia because the state is visually busy. [Airports]({{'airports/' | relative_url }}), motorways, rail corridors, industrial lighting, wind turbines, aircraft routes and dense housing all provide plausible local frames of reference. A fireball crossing the sky above that environment can be interpreted through whatever nearby activity the witness already knows.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/0N04yAyvm7w" title="SOMETHING Is Falling From The Sky Right Now… And It’s Not Normal" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=0N04yAyvm7w" target="_blank" rel="noopener noreferrer">SOMETHING Is Falling From The Sky Right Now… And It’s Not Normal</a></p><p class="youtube-embed-meta">Channel: TriggerSmart</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=0N04yAyvm7w" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=0N04yAyvm7w">Open on YouTube</a></p></div></div></div>
+
+
+
+
 
 ## NRW’s UFO record needs the meteor category
 
@@ -441,7 +453,13 @@ The most useful notes are:
 
 The International Meteor Organization and American Meteor Society reporting systems exist because ordinary witness reports can become scientifically useful when collected in a structured way. The IMO has event pages that combine reports, photos and videos, while the American Meteor Society maintains fireball logs and public guidance for observers.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://fireballs.imo.net/members/imo/report" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fireballs.imo.net">[International Meteor Organization]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fireballs.imo.net</span><span class="citation-popover-title">International Meteor Organization Report a Fireball</span><span class="citation-popover-snippet">International Meteor Organization Report a Fireball</span></span></span>
 
-For a UFO investigation, that structured approach is also a safeguard against overclaiming. A fireball may be spectacular enough to deserve local news coverage and police calls, but the right question is not “did people really see something?” In many cases, they did. The better question is whether the timing, duration, movement and independent records point to a known class of sky event.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/tH4FqZzWHSE" title="Was that flash a meteor or something man-made?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=tH4FqZzWHSE" target="_blank" rel="noopener noreferrer">Was that flash a meteor or something man-made?</a></p><p class="youtube-embed-meta">Channel: WLUK-TV FOX 11</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=tH4FqZzWHSE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=tH4FqZzWHSE">Open on YouTube</a></p></div></div></div>
+For a UFO investigation, that structured approach is also a safeguard against overclaiming. A fireball may be spectacular enough to deserve local news coverage and police calls, but the right question is not “did people really see something?” In many cases, they did. The better question is whether the timing, duration, movement and independent records point to a known class of sky event.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/tH4FqZzWHSE" title="Was that flash a meteor or something man-made?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=tH4FqZzWHSE" target="_blank" rel="noopener noreferrer">Was that flash a meteor or something man-made?</a></p><p class="youtube-embed-meta">Channel: WLUK-TV FOX 11</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=tH4FqZzWHSE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=tH4FqZzWHSE">Open on YouTube</a></p></div></div></div>
+
+
+
+
 
 ## The takeaway for North Rhine-Westphalia UFO history
 

@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /baden-wurttemberg-dc11f2-index/
 description: Focused pages that expand on What Really Happened Over Baden Wurttemberg?.
-date:'2026'
+date: '2026'
 layout: default
 parent_basename: Baden-Wurttemberg_dc11f2
 parent_title: What Really Happened Over Baden Wurttemberg?

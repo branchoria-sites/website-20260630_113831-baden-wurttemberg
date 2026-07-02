@@ -52,7 +52,7 @@ text_direction: ltr
 ui_strings:
   home: Home
   overview: Overview
-  overview_prefix:'Overview:'
+  overview_prefix: 'Overview:'
   contents: Contents
   close: Close
   open_contents: Open contents
@@ -200,13 +200,13 @@ ui_strings:
   search_this_page_empty_hint: Type to search this page.
   no_search_results: No pages match this search.
   no_search_this_page_results: No sections on this page match this search.
-  search_results_count_template:'{count} results'
+  search_results_count_template: '{count} results'
   search_kind_page_title: Page title
   search_kind_page_summary: Summary of page
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date:'2026-06-30 07:01:42'
+date: '2026-06-30 07:01:42'
 parent_title: Rhineland UFOs
 parent_permalink: /rhineland-palatinate/
 parent_nav_short_title: Rhineland UFOs
@@ -320,7 +320,13 @@ Project Blue Book was the United States Air Force programme that investigated UF
 
 The Ramstein case sits inside that larger archive. A digitised case summary identifies it as National Archives identifier 28996541, T1206 Roll 45, with four scanned pages, and records the Air Force evaluation as “unknown”. The same summary notes that the Air Force considered the pilot’s familiarity with aircraft relevant, because it should have helped rule out ordinary aircraft or drones, but also suggested a possible dart-type target or drone and indicated that this possibility should have been checked at the reporting base. No firm conclusion was reached.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.govweird.com/topics/ufo/project-blue-book/ramstein-ab-germany-march-1962-28996541" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: govweird.com">[govweird]</a><span class="citation-popover" role="note"><span class="citation-popover-source">govweird.com</span><span class="citation-popover-title">ramstein ab germany march 1962 28996541</span><span class="citation-popover-snippet">Project Blue Book: Ramstein AB Germany, March 1962 · govweird...</span><span class="citation-popover-meta">Published: march 1962</span></span></span>
 
-That last point is crucial. “Unknown” in a Project Blue Book file does not mean investigators found something beyond human technology. It can also mean the file did not contain enough information to support a confident conventional identification. In the Ramstein case, the record appears to have landed in that gap: unusual enough not to dismiss neatly, too thin to resolve securely.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/OoKm417zKOA" title="10 Cases From Project Blue Book: The CIA&#x27;s Hunt For UFOs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=OoKm417zKOA" target="_blank" rel="noopener noreferrer">10 Cases From Project Blue Book: The CIA&#x27;s Hunt For UFOs</a></p><p class="youtube-embed-meta">Channel: TopTenz &middot; Views: 271.1K &middot; Uploaded: February 2019 &middot; Length: 14 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=OoKm417zKOA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=OoKm417zKOA">Open on YouTube</a></p></div></div></div>
+That last point is crucial. “Unknown” in a Project Blue Book file does not mean investigators found something beyond human technology. It can also mean the file did not contain enough information to support a confident conventional identification. In the Ramstein case, the record appears to have landed in that gap: unusual enough not to dismiss neatly, too thin to resolve securely.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/OoKm417zKOA" title="10 Cases From Project Blue Book: The CIA&#x27;s Hunt For UFOs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=OoKm417zKOA" target="_blank" rel="noopener noreferrer">10 Cases From Project Blue Book: The CIA&#x27;s Hunt For UFOs</a></p><p class="youtube-embed-meta">Channel: TopTenz &middot; Views: 271.1K &middot; Uploaded: February 2019 &middot; Length: 14 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=OoKm417zKOA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=OoKm417zKOA">Open on YouTube</a></p></div></div></div>
+
+
+
+
 
 ## Why Ramstein makes the case more interesting
 
@@ -351,7 +357,13 @@ Project Blue Book’s own overall position reinforces this distinction. The Air 
 
 For Ramstein, several ordinary possibilities remain difficult to test because the record is so brief. A target drone, training object, unusual aircraft aspect, high-speed misperception, or another military-related object cannot be ruled in from the public summaries. But neither can they be ruled out with confidence. The pilot’s changing shape description — delta-wing fighter, missile-like form, dart-type target — may point to an object seen from rapidly changing angles rather than to an object physically changing shape.
 
-That is the honest value of the case. It resists a neat debunking, but it also resists dramatic claims. It is unresolved because the evidence stops too soon.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/1cO5K1np2Ig" title="Project Blue Book Exposed (2020) [Documentary]" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=1cO5K1np2Ig" target="_blank" rel="noopener noreferrer">Project Blue Book Exposed (2020) [Documentary]</a></p><p class="youtube-embed-meta">Channel: CiNENET - Full movies in English &middot; Views: 17.1K &middot; Uploaded: January 2025 &middot; Length: 1 hour 4 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=1cO5K1np2Ig" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=1cO5K1np2Ig">Open on YouTube</a></p></div></div></div>
+That is the honest value of the case. It resists a neat debunking, but it also resists dramatic claims. It is unresolved because the evidence stops too soon.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/1cO5K1np2Ig" title="Project Blue Book Exposed (2020) [Documentary]" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=1cO5K1np2Ig" target="_blank" rel="noopener noreferrer">Project Blue Book Exposed (2020) [Documentary]</a></p><p class="youtube-embed-meta">Channel: CiNENET - Full movies in English &middot; Views: 17.1K &middot; Uploaded: January 2025 &middot; Length: 1 hour 4 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=1cO5K1np2Ig" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=1cO5K1np2Ig">Open on YouTube</a></p></div></div></div>
+
+
+
+
 
 ## What later reporting adds — and what it does not
 
@@ -359,7 +371,13 @@ Later online access has made the Ramstein case easier to find, especially throug
 
 What later reporting does not appear to add is decisive new evidence. The modern summaries repeat the same core facts: one military pilot, one silver object, a few seconds of observation, a fast pass near Ramstein, and an unresolved Blue Book evaluation. There is no widely available later photograph, radar release, witness interview, local press reconstruction, or declassified technical explanation that transforms the case.
 
-That means later reporting has mostly strengthened access, not proof. It makes the case more transparent and easier to discuss, but it does not materially upgrade the evidence behind the original sighting.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/GcOCIabFnLE" title="Project Blue Book UFO Interview USAF (1966)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=GcOCIabFnLE" target="_blank" rel="noopener noreferrer">Project Blue Book UFO Interview USAF (1966)</a></p><p class="youtube-embed-meta">Channel: AIRBOYD &middot; Views: 812 &middot; Uploaded: November 2025 &middot; Length: 4 minutes 46 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=GcOCIabFnLE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=GcOCIabFnLE">Open on YouTube</a></p></div></div></div>
+That means later reporting has mostly strengthened access, not proof. It makes the case more transparent and easier to discuss, but it does not materially upgrade the evidence behind the original sighting.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/GcOCIabFnLE" title="Project Blue Book UFO Interview USAF (1966)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=GcOCIabFnLE" target="_blank" rel="noopener noreferrer">Project Blue Book UFO Interview USAF (1966)</a></p><p class="youtube-embed-meta">Channel: AIRBOYD &middot; Views: 812 &middot; Uploaded: November 2025 &middot; Length: 4 minutes 46 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=GcOCIabFnLE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=GcOCIabFnLE">Open on YouTube</a></p></div></div></div>
+
+
+
+
 
 ## How the case fits Rhineland-Palatinate’s UFO history
 

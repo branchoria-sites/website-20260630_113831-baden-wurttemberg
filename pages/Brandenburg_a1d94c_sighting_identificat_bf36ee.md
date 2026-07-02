@@ -52,7 +52,7 @@ text_direction: ltr
 ui_strings:
   home: Home
   overview: Overview
-  overview_prefix:'Overview:'
+  overview_prefix: 'Overview:'
   contents: Contents
   close: Close
   open_contents: Open contents
@@ -200,13 +200,13 @@ ui_strings:
   search_this_page_empty_hint: Type to search this page.
   no_search_results: No pages match this search.
   no_search_this_page_results: No sections on this page match this search.
-  search_results_count_template:'{count} results'
+  search_results_count_template: '{count} results'
   search_kind_page_title: Page title
   search_kind_page_summary: Summary of page
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date:'2026-06-30 00:48:07'
+date: '2026-06-30 00:48:07'
 parent_title: Brandenburg Skies
 parent_permalink: /what-really-lights-up-brandenburgs-skies/
 parent_nav_short_title: Brandenburg Skies
@@ -335,7 +335,13 @@ The most common solved Brandenburg sightings are not solved by secret records. T
 
 Starlink has changed the identification process more than almost any other modern object. Newly launched Starlink satellites can appear as a neat “string of pearls”, while individual satellites can flare when sunlight reflects towards an observer. Research on Starlink misidentification has shown that pilots and lay observers can mistake recently launched satellite trains for UAP, and that reconstruction using orbital elements and flight-position data can resolve otherwise puzzling reports. A separate study of Starlink flares found that specular reflections can make satellites extremely bright under the right geometry.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2403.08155" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Open source on arxiv.org.</span></span></span>
 
-Aviation checks are just as important around BER. Brandenburg reports near the airport need to be treated differently from rural star-park observations because the risk context changes. Aircraft on approach can seem to hang motionless when flying towards the observer. Landing lights can look unusually bright. A helicopter can hover or circle. A drone, even if ordinary, can become a safety incident if it enters controlled airspace.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/VDWSgtf23N8" title="What&#x27;s That In The Sky? How To Identify That Flash of Light You Just Saw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=VDWSgtf23N8" target="_blank" rel="noopener noreferrer">What&#x27;s That In The Sky? How To Identify That Flash of Light You Just Saw</a></p><p class="youtube-embed-meta">Channel: The Weather Network</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=VDWSgtf23N8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=VDWSgtf23N8">Open on YouTube</a></p></div></div></div>
+Aviation checks are just as important around BER. Brandenburg reports near the airport need to be treated differently from rural star-park observations because the risk context changes. Aircraft on approach can seem to hang motionless when flying towards the observer. Landing lights can look unusually bright. A helicopter can hover or circle. A drone, even if ordinary, can become a safety incident if it enters controlled airspace.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/VDWSgtf23N8" title="What&#x27;s That In The Sky? How To Identify That Flash of Light You Just Saw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=VDWSgtf23N8" target="_blank" rel="noopener noreferrer">What&#x27;s That In The Sky? How To Identify That Flash of Light You Just Saw</a></p><p class="youtube-embed-meta">Channel: The Weather Network</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=VDWSgtf23N8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=VDWSgtf23N8">Open on YouTube</a></p></div></div></div>
+
+
+
+
 
 ## Drones create a new category of Brandenburg sighting
 
@@ -377,7 +383,13 @@ The strongest reports tend to have:<div class="content-enhancement content-enhan
 * **Independent witnesses:** especially from different locations.
 * **Negative as well as positive checks:** what was ruled out, not only what was noticed.</div>
 
-Weak reports usually lack the very information needed to solve them. A cropped video of a dot, uploaded days later, with no direction or exact time, may be impossible to identify even if the original cause was ordinary. That kind of case should be labelled “insufficient information”, not promoted as a deep mystery.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/D7WW1WTUVGk" title="Beginner&#x27;s Guide To Ufology, UFO Studies, UFOs, UAP" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=D7WW1WTUVGk" target="_blank" rel="noopener noreferrer">Beginner&#x27;s Guide To Ufology, UFO Studies, UFOs, UAP</a></p><p class="youtube-embed-meta">Channel: Ben Lovegrove</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=D7WW1WTUVGk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=D7WW1WTUVGk">Open on YouTube</a></p></div></div></div>
+Weak reports usually lack the very information needed to solve them. A cropped video of a dot, uploaded days later, with no direction or exact time, may be impossible to identify even if the original cause was ordinary. That kind of case should be labelled “insufficient information”, not promoted as a deep mystery.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/D7WW1WTUVGk" title="Beginner&#x27;s Guide To Ufology, UFO Studies, UFOs, UAP" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=D7WW1WTUVGk" target="_blank" rel="noopener noreferrer">Beginner&#x27;s Guide To Ufology, UFO Studies, UFOs, UAP</a></p><p class="youtube-embed-meta">Channel: Ben Lovegrove</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=D7WW1WTUVGk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=D7WW1WTUVGk">Open on YouTube</a></p></div></div></div>
+
+
+
+
 
 ## How solved, unresolved and debunked cases should be reported
 
@@ -387,7 +399,13 @@ GEP’s open dataset is valuable because it treats case handling as structured i
 
 This also protects witnesses. Many people report a UFO because they saw something genuinely puzzling, not because they are making a grand claim. A respectful investigation can say, “This was almost certainly Starlink,” or “This was probably Venus,” without mocking the observer. In dark-sky parts of Brandenburg, an unfamiliar but ordinary sky can be genuinely startling.
 
-The best public wording is therefore modest: “unidentified at the time”, “later matched to”, “likely explained by”, “insufficient detail to classify”, or “remains unresolved on the available evidence”. Those phrases are less exciting than “mystery craft”, but they are more honest and more useful.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/96nU9AAnKw0" title="Heute ist Welt-UFO-Tag | maintower" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=96nU9AAnKw0" target="_blank" rel="noopener noreferrer">Heute ist Welt-UFO-Tag | maintower</a></p><p class="youtube-embed-meta">Channel: Hessischer Rundfunk</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=96nU9AAnKw0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=96nU9AAnKw0">Open on YouTube</a></p></div></div></div>
+The best public wording is therefore modest: “unidentified at the time”, “later matched to”, “likely explained by”, “insufficient detail to classify”, or “remains unresolved on the available evidence”. Those phrases are less exciting than “mystery craft”, but they are more honest and more useful.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/96nU9AAnKw0" title="Heute ist Welt-UFO-Tag | maintower" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=96nU9AAnKw0" target="_blank" rel="noopener noreferrer">Heute ist Welt-UFO-Tag | maintower</a></p><p class="youtube-embed-meta">Channel: Hessischer Rundfunk</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=96nU9AAnKw0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=96nU9AAnKw0">Open on YouTube</a></p></div></div></div>
+
+
+
+
 
 ## Why Brandenburg’s identification process matters
 

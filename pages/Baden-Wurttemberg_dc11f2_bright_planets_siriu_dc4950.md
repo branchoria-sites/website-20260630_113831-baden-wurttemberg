@@ -52,7 +52,7 @@ text_direction: ltr
 ui_strings:
   home: Home
   overview: Overview
-  overview_prefix:'Overview:'
+  overview_prefix: 'Overview:'
   contents: Contents
   close: Close
   open_contents: Open contents
@@ -200,13 +200,13 @@ ui_strings:
   search_this_page_empty_hint: Type to search this page.
   no_search_results: No pages match this search.
   no_search_this_page_results: No sections on this page match this search.
-  search_results_count_template:'{count} results'
+  search_results_count_template: '{count} results'
   search_kind_page_title: Page title
   search_kind_page_summary: Summary of page
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date:'2026-06-29 22:45:41'
+date: '2026-06-29 22:45:41'
 parent_title: Baden UFOs
 parent_permalink: /what-really-happened-over-baden/
 parent_nav_short_title: Baden UFOs
@@ -320,7 +320,13 @@ The main visual trap is “hovering”. Aircraft lights usually change position,
 
 A second trap is twilight contrast. Venus is bright enough to remain visible when other stars have faded, which makes it look “out of place”. During the August 2025 Venus-Jupiter reports, CENAP explained through German media that the two planets were especially bright and still visible in morning twilight, while ordinary stars were no longer obvious.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.anews.com.tr/world/2025/08/12/ufo-reporting-up-in-germany-as-people-misidentify-planets" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: anews.com.tr">[A News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">anews.com.tr</span><span class="citation-popover-title">A News UFO reporting up in Germany as people misidentify planets</span><span class="citation-popover-snippet">A News UFO reporting up in Germany as people misidentify planets</span></span></span> That is exactly the sort of condition that can produce a credible but mistaken report: the witness sees something real, bright and isolated, then compares it with a sky that otherwise appears empty.
 
-A third trap is landscape anchoring. In Baden-Württemberg, many reports are likely to be framed against hills, church towers, forest edges, airport approaches, industrial lights, or the Rhine-Neckar urban skyline. A bright planet just above the horizon may seem to sit over a village or military site, even though it is astronomical. This is why sighting location and direction matter so much. A report from the Lake Constance area, for example, cannot be assessed simply by saying “a light was seen over the lake”; investigators need the time, compass direction and elevation above the horizon.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/0lOQBXsaGoc" title="Jupiter and Venus are being mistaken as UFO" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=0lOQBXsaGoc" target="_blank" rel="noopener noreferrer">Jupiter and Venus are being mistaken as UFO</a></p><p class="youtube-embed-meta">Channel: FringeRepublic &middot; Views: 205 &middot; Uploaded: March 2023 &middot; Length: 36 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=0lOQBXsaGoc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=0lOQBXsaGoc">Open on YouTube</a></p></div></div></div>
+A third trap is landscape anchoring. In Baden-Württemberg, many reports are likely to be framed against hills, church towers, forest edges, airport approaches, industrial lights, or the Rhine-Neckar urban skyline. A bright planet just above the horizon may seem to sit over a village or military site, even though it is astronomical. This is why sighting location and direction matter so much. A report from the Lake Constance area, for example, cannot be assessed simply by saying “a light was seen over the lake”; investigators need the time, compass direction and elevation above the horizon.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/0lOQBXsaGoc" title="Jupiter and Venus are being mistaken as UFO" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=0lOQBXsaGoc" target="_blank" rel="noopener noreferrer">Jupiter and Venus are being mistaken as UFO</a></p><p class="youtube-embed-meta">Channel: FringeRepublic &middot; Views: 205 &middot; Uploaded: March 2023 &middot; Length: 36 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=0lOQBXsaGoc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=0lOQBXsaGoc">Open on YouTube</a></p></div></div></div>
+
+
+
+
 
 ## Why Sirius can look strange near the horizon
 
@@ -345,7 +351,13 @@ For a public-facing Baden-Württemberg UFO page, the practical distinction is th
 
 **More likely satellite:** steady movement across the sky; no sound; no hovering; sometimes a train-like line of lights shortly after launch, especially in Starlink cases. SWR reported that Starlink satellites remain a common CENAP explanation because shortly after launch they can appear like beads on a string.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.swr.de/swraktuell/baden-wuerttemberg/rekord-ufo-meldungen-100.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: swr.de">[SWR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">swr.de</span><span class="citation-popover-title">Ein UFO über BW? Rekordzahl an Sichtungen</span><span class="citation-popover-snippet">Ein UFO über BW? Rekordzahl an SichtungenJanuary 30, 2026 — 20 Jan 2025 — Über 150 UFO-Meldungen aus Baden-Württemberg... Laut den Au...</span><span class="citation-popover-meta">Published: January 30, 2026</span></span></span>
 
-This kind of sorting does not trivialise witness testimony. It makes the testimony useful. A witness who says “I saw a huge UFO” gives investigators a story; a witness who says “at 06:20, from Konstanz, looking east-south-east, I saw two bright lights one above the other for ten minutes” gives them a testable case.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/BvopxC8VdWc" title="How Do Optical Illusions Explain UFO Sightings? - All About Myths and Conspiracies" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=BvopxC8VdWc" target="_blank" rel="noopener noreferrer">How Do Optical Illusions Explain UFO Sightings? - All About Myths and Conspiracies</a></p><p class="youtube-embed-meta">Channel: All About Myths and Conspiracies &middot; Views: 4 &middot; Uploaded: August 2025 &middot; Length: 3 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=BvopxC8VdWc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=BvopxC8VdWc">Open on YouTube</a></p></div></div></div>
+This kind of sorting does not trivialise witness testimony. It makes the testimony useful. A witness who says “I saw a huge UFO” gives investigators a story; a witness who says “at 06:20, from Konstanz, looking east-south-east, I saw two bright lights one above the other for ten minutes” gives them a testable case.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/BvopxC8VdWc" title="How Do Optical Illusions Explain UFO Sightings? - All About Myths and Conspiracies" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=BvopxC8VdWc" target="_blank" rel="noopener noreferrer">How Do Optical Illusions Explain UFO Sightings? - All About Myths and Conspiracies</a></p><p class="youtube-embed-meta">Channel: All About Myths and Conspiracies &middot; Views: 4 &middot; Uploaded: August 2025 &middot; Length: 3 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=BvopxC8VdWc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=BvopxC8VdWc">Open on YouTube</a></p></div></div></div>
+
+
+
+
 
 ## Why CENAP’s Baden-Württemberg link matters
 
@@ -353,7 +365,13 @@ CENAP is not a state agency, but it is central to Baden-Württemberg’s UFO his
 
 That history matters because the Venus-Jupiter-Sirius pattern is not a loose sceptical guess added after the fact. It is part of a reporting tradition built around identification: collect the time and place, check the sky, compare with aviation and satellite data, and see whether the object remains unexplained. In 2024, SWR reported that CENAP had received more than 12,000 sighting reports since its founding, with only 108 on Köhler’s “cold case” pile; he stressed that these unresolved cases do not prove extraterrestrial visits, only that the available data are insufficient.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.swr.de/swraktuell/baden-wuerttemberg/rekord-ufo-meldungen-100.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: swr.de">[SWR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">swr.de</span><span class="citation-popover-title">Ein UFO über BW? Rekordzahl an Sichtungen</span><span class="citation-popover-snippet">Ein UFO über BW? Rekordzahl an SichtungenJanuary 30, 2026 — 20 Jan 2025 — Über 150 UFO-Meldungen aus Baden-Württemberg... Laut den Au...</span><span class="citation-popover-meta">Published: January 30, 2026</span></span></span>
 
-For Baden-Württemberg, this helps prevent a common error in UFO storytelling: treating every report as equally mysterious. A bright point over the [Black Forest]({{'black-forest/' | relative_url }}), a light above Lake Constance, and a photographed object near an airport may all enter public conversation as “UFOs”, but they do not carry the same evidential weight. Venus, Jupiter and Sirius are repeat explanations with known behaviours, predictable positions and a documented record of triggering reports.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Wn_OIBuD52g" title="Optical illusion of the moon acting like a UAP/UFO." frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Wn_OIBuD52g" target="_blank" rel="noopener noreferrer">Optical illusion of the moon acting like a UAP/UFO.</a></p><p class="youtube-embed-meta">Channel: Aaron Munro</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Wn_OIBuD52g" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Wn_OIBuD52g">Open on YouTube</a></p></div></div></div>
+For Baden-Württemberg, this helps prevent a common error in UFO storytelling: treating every report as equally mysterious. A bright point over the [Black Forest]({{'black-forest/' | relative_url }}), a light above Lake Constance, and a photographed object near an airport may all enter public conversation as “UFOs”, but they do not carry the same evidential weight. Venus, Jupiter and Sirius are repeat explanations with known behaviours, predictable positions and a documented record of triggering reports.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Wn_OIBuD52g" title="Optical illusion of the moon acting like a UAP/UFO." frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Wn_OIBuD52g" target="_blank" rel="noopener noreferrer">Optical illusion of the moon acting like a UAP/UFO.</a></p><p class="youtube-embed-meta">Channel: Aaron Munro</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Wn_OIBuD52g" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Wn_OIBuD52g">Open on YouTube</a></p></div></div></div>
+
+
+
+
 
 ## Why this pattern keeps returning
 

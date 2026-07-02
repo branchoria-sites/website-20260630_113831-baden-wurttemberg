@@ -52,7 +52,7 @@ text_direction: ltr
 ui_strings:
   home: Home
   overview: Overview
-  overview_prefix:'Overview:'
+  overview_prefix: 'Overview:'
   contents: Contents
   close: Close
   open_contents: Open contents
@@ -200,13 +200,13 @@ ui_strings:
   search_this_page_empty_hint: Type to search this page.
   no_search_results: No pages match this search.
   no_search_this_page_results: No sections on this page match this search.
-  search_results_count_template:'{count} results'
+  search_results_count_template: '{count} results'
   search_kind_page_title: Page title
   search_kind_page_summary: Summary of page
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date:'2026-06-30 08:25:51'
+date: '2026-06-30 08:25:51'
 parent_title: Saxony UFOs
 parent_permalink: /what-really-happened-in-saxonys-ufo/
 parent_nav_short_title: Saxony UFOs
@@ -332,7 +332,13 @@ CENAP’s reference archive makes this point bluntly: photographs can show “un
 
 Saxony has direct examples in the GEP data. The Schwarzenberg/Erzgebirge entry mentioned above was classified under insects, birds, particles and droplets after two supposed flying objects were noticed in a photo. A 2022 Sächsische Schweiz entry went nowhere because the witness did not provide an observation report, leaving investigators with insufficient data rather than a testable sighting.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://zenodo.org/records/10547073/files/UFO-UAP-Falldaten_GEP_1972-2023.csv?download=1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: zenodo.org">[Zenodo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">zenodo.org</span><span class="citation-popover-title">UFO UAP Falldaten GEP 1972 2023.csv</span><span class="citation-popover-snippet">UFO UAP Falldaten GEP 1972 2023.csv</span></span></span>
 
-The key question is whether the witness saw the object with the naked eye at the time. If the answer is no, an insect or bird near the camera becomes much more likely. If the answer is yes, the next question is whether the image and the visual account actually match.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/_IesAvesFUo" title="We’ve hit peak lens flare. Here’s how it started." frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=_IesAvesFUo" target="_blank" rel="noopener noreferrer">We’ve hit peak lens flare. Here’s how it started.</a></p><p class="youtube-embed-meta">Channel: Vox &middot; Views: 1.1M &middot; Uploaded: March 2016 &middot; Length: 4 minutes 25 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=_IesAvesFUo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=_IesAvesFUo">Open on YouTube</a></p></div></div></div>
+The key question is whether the witness saw the object with the naked eye at the time. If the answer is no, an insect or bird near the camera becomes much more likely. If the answer is yes, the next question is whether the image and the visual account actually match.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/_IesAvesFUo" title="We’ve hit peak lens flare. Here’s how it started." frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=_IesAvesFUo" target="_blank" rel="noopener noreferrer">We’ve hit peak lens flare. Here’s how it started.</a></p><p class="youtube-embed-meta">Channel: Vox &middot; Views: 1.1M &middot; Uploaded: March 2016 &middot; Length: 4 minutes 25 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=_IesAvesFUo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=_IesAvesFUo">Open on YouTube</a></p></div></div></div>
+
+
+
+
 
 ### Birds that look structured for one frame
 
@@ -373,7 +379,13 @@ A practical review normally asks:<div class="content-enhancement content-enhance
 4. **Was the camera behind glass?** Windows, windscreens and aircraft cabin windows can put indoor lights into the sky.
 5. **Is there scale?** Without clouds at known altitude, buildings, landscape, aircraft, horizon or multiple viewpoints, apparent size is often guesswork.
 6. **Does the object appear in more than one frame?** A single-frame anomaly is much more likely to be a near-camera object, blur or reflection.
-7. **Do independent witnesses describe the same thing from different places?** Multiple reports from one viewing angle are helpful; multiple reports from separated locations are stronger.</div><div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/9z26rSP2eqs" title="OSINT At Home #8 – Calculate time using shadows in a photo or video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=9z26rSP2eqs" target="_blank" rel="noopener noreferrer">OSINT At Home #8 – Calculate time using shadows in a photo or video</a></p><p class="youtube-embed-meta">Channel: Bendobrown &middot; Views: 33.0K &middot; Uploaded: March 2021 &middot; Length: 19 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=9z26rSP2eqs" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=9z26rSP2eqs">Open on YouTube</a></p></div></div></div>
+7. **Do independent witnesses describe the same thing from different places?** Multiple reports from one viewing angle are helpful; multiple reports from separated locations are stronger.</div>
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/9z26rSP2eqs" title="OSINT At Home #8 – Calculate time using shadows in a photo or video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=9z26rSP2eqs" target="_blank" rel="noopener noreferrer">OSINT At Home #8 – Calculate time using shadows in a photo or video</a></p><p class="youtube-embed-meta">Channel: Bendobrown &middot; Views: 33.0K &middot; Uploaded: March 2021 &middot; Length: 19 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=9z26rSP2eqs" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=9z26rSP2eqs">Open on YouTube</a></p></div></div></div>
+
+
+
+
 
 ## What a trustworthy Saxony UFO photo would need
 
@@ -381,7 +393,13 @@ A trustworthy Saxony UFO photo does not have to be spectacular. In fact, the bes
 
 For a Saxony case, strong supporting information would include the original photo or video file, the exact observation point, the direction of view, the time zone and clock time, whether the object was seen before filming began, how long it lasted, whether it made sound, whether aircraft or satellite checks were done, and whether other witnesses from different locations reported the same path. Weather data and Sun position can also matter, especially in cases involving contrails, bright clouds, reflections or sunset effects. Bellingcat’s shadow and geolocation guides show how time, shadows, landmarks and Sun position can help test whether a visual claim fits its stated context.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.bellingcat.com/resources/2021/05/18/unsure-when-a-video-or-photo-was-taken-how-to-tell-by-measuring-the-length-of-shadows/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bellingcat.com">[bellingcat]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bellingcat.com</span><span class="citation-popover-title">Unsure When a Video or Photo was Taken? How to Tell</span><span class="citation-popover-snippet">Unsure When a Video or Photo was Taken? How to Tell</span></span></span>
 
-The most useful Saxon cases are therefore not necessarily the strangest-looking ones. They are the ones that survive ordinary checks. A blurred black disc in one frame may be a beetle. A “fleet” noticed after photographing a window view may be reflected lights. A brilliant falling object over the Vogtland may be contrails lit by the Sun. But a well-documented multi-witness event with original files, separate viewpoints and failed conventional checks would deserve a different level of attention.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/v9wUHdXmgQU" title="1952 UFO Sighting is Oldest Caught on Camera | The Proof Is Out There (Season 4) | History" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=v9wUHdXmgQU" target="_blank" rel="noopener noreferrer">1952 UFO Sighting is Oldest Caught on Camera | The Proof Is Out There (Season 4) | History</a></p><p class="youtube-embed-meta">Channel: HISTORY &middot; Views: 85.0K &middot; Uploaded: October 2024 &middot; Length: 6 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=v9wUHdXmgQU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=v9wUHdXmgQU">Open on YouTube</a></p></div></div></div>
+The most useful Saxon cases are therefore not necessarily the strangest-looking ones. They are the ones that survive ordinary checks. A blurred black disc in one frame may be a beetle. A “fleet” noticed after photographing a window view may be reflected lights. A brilliant falling object over the Vogtland may be contrails lit by the Sun. But a well-documented multi-witness event with original files, separate viewpoints and failed conventional checks would deserve a different level of attention.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/v9wUHdXmgQU" title="1952 UFO Sighting is Oldest Caught on Camera | The Proof Is Out There (Season 4) | History" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=v9wUHdXmgQU" target="_blank" rel="noopener noreferrer">1952 UFO Sighting is Oldest Caught on Camera | The Proof Is Out There (Season 4) | History</a></p><p class="youtube-embed-meta">Channel: HISTORY &middot; Views: 85.0K &middot; Uploaded: October 2024 &middot; Length: 6 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=v9wUHdXmgQU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=v9wUHdXmgQU">Open on YouTube</a></p></div></div></div>
+
+
+
+
 
 ## The takeaway for readers
 

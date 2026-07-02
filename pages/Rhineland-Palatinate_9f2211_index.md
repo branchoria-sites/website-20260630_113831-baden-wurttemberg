@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /rhineland-palatinate-9f2211-index/
 description: Focused pages that expand on Rhineland Palatinate.
-date:'2026'
+date: '2026'
 layout: default
 parent_basename: Rhineland-Palatinate_9f2211
 parent_title: Rhineland Palatinate

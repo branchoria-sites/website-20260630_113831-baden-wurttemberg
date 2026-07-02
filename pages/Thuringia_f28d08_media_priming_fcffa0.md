@@ -52,7 +52,7 @@ text_direction: ltr
 ui_strings:
   home: Home
   overview: Overview
-  overview_prefix:'Overview:'
+  overview_prefix: 'Overview:'
   contents: Contents
   close: Close
   open_contents: Open contents
@@ -200,13 +200,13 @@ ui_strings:
   search_this_page_empty_hint: Type to search this page.
   no_search_results: No pages match this search.
   no_search_this_page_results: No sections on this page match this search.
-  search_results_count_template:'{count} results'
+  search_results_count_template: '{count} results'
   search_kind_page_title: Page title
   search_kind_page_summary: Summary of page
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date:'2026-06-30 11:32:59'
+date: '2026-06-30 11:32:59'
 parent_title: Thuringia UFOs
 parent_permalink: /what-really-happened-in-thuringias-ufo/
 parent_nav_short_title: Thuringia UFOs
@@ -324,7 +324,13 @@ This is the amplification problem. Early coverage can give a claim three kinds o
 
 * **Visibility:** a private or family story becomes a public event.
 * **Authority:** the involvement of newspapers, television and named investigators can make a claim feel more solid than it is.
-* **Replication:** once a story is framed as “the Thuringian UFO photographs”, later audiences may remember the image and headline more strongly than the eventual explanation.</div><div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/bQo08JRY0iM" title="Public Meeting on Unidentified Anomalous Phenomena (Official NASA Broadcast)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=bQo08JRY0iM" target="_blank" rel="noopener noreferrer">Public Meeting on Unidentified Anomalous Phenomena (Official NASA Broadcast)</a></p><p class="youtube-embed-meta">Channel: NASA Video &middot; Views: 358.7K &middot; Uploaded: May 2023 &middot; Length: 4 hours</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=bQo08JRY0iM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=bQo08JRY0iM">Open on YouTube</a></p></div></div></div>
+* **Replication:** once a story is framed as “the Thuringian UFO photographs”, later audiences may remember the image and headline more strongly than the eventual explanation.</div>
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/bQo08JRY0iM" title="Public Meeting on Unidentified Anomalous Phenomena (Official NASA Broadcast)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=bQo08JRY0iM" target="_blank" rel="noopener noreferrer">Public Meeting on Unidentified Anomalous Phenomena (Official NASA Broadcast)</a></p><p class="youtube-embed-meta">Channel: NASA Video &middot; Views: 358.7K &middot; Uploaded: May 2023 &middot; Length: 4 hours</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=bQo08JRY0iM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=bQo08JRY0iM">Open on YouTube</a></p></div></div></div>
+
+
+
+
 
 ## Why the toy saucer changed the case
 
@@ -349,7 +355,13 @@ In practical terms, timing helps separate three possibilities:<div class="conten
 2. **Media-shaped interpretation:** the witness saw something ordinary or ambiguous but interpreted it through recent UFO imagery.
 3. **Deliberate performance or joke:** the claim was staged in a form that current media made recognisable and exciting.</div>
 
-Fehrenbach falls closest to the third category, but its broader value lies in showing how the second and third categories can be confused during the first wave of reporting.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ojtrYxF75J8" title="UFOs ... und es gibt sie doch! (NDR-Doku, 1994)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ojtrYxF75J8" target="_blank" rel="noopener noreferrer">UFOs ... und es gibt sie doch! (NDR-Doku, 1994)</a></p><p class="youtube-embed-meta">Channel: The real Marcoman</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ojtrYxF75J8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ojtrYxF75J8">Open on YouTube</a></p></div></div></div>
+Fehrenbach falls closest to the third category, but its broader value lies in showing how the second and third categories can be confused during the first wave of reporting.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ojtrYxF75J8" title="UFOs ... und es gibt sie doch! (NDR-Doku, 1994)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ojtrYxF75J8" target="_blank" rel="noopener noreferrer">UFOs ... und es gibt sie doch! (NDR-Doku, 1994)</a></p><p class="youtube-embed-meta">Channel: The real Marcoman</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ojtrYxF75J8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ojtrYxF75J8">Open on YouTube</a></p></div></div></div>
+
+
+
+
 
 ## The credibility trap: when “scientific” language arrives too soon
 
@@ -357,7 +369,13 @@ One reason media-primed UFO stories can spread quickly is that technical languag
 
 This problem is not unique to Thuringia. Communication research on paranormal topics has found that “trappings of science” — technology, jargon and scientific-looking methods — can affect how credible audiences find paranormal investigators and claims. That makes UFO cases especially vulnerable when early coverage features computers, measurements or experts without an equally prominent explanation of uncertainty.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://journals.sagepub.com/doi/10.1177/1075547012454599" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-title">Sage Journals The Trappings of Science</span><span class="citation-popover-snippet">Sage Journals The Trappings of Science</span></span></span>
 
-For a reader looking back at Fehrenbach, the lesson is simple: technical analysis is only as good as its assumptions. If the assumed distance is wrong, the estimated size is wrong. If the object is a toy but treated as a distant craft, the whole analysis is built on a false premise. If the media highlights “experts examine UFO photos” before the mundane-object search is complete, the story can become more impressive precisely when it should be becoming more cautious.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/-_iGRteHq3Q" title="UFOS und es gibt sie doch (ARD/NDR 1994)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=-_iGRteHq3Q" target="_blank" rel="noopener noreferrer">UFOS und es gibt sie doch (ARD/NDR 1994)</a></p><p class="youtube-embed-meta">Channel: Kenial René</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=-_iGRteHq3Q" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=-_iGRteHq3Q">Open on YouTube</a></p></div></div></div>
+For a reader looking back at Fehrenbach, the lesson is simple: technical analysis is only as good as its assumptions. If the assumed distance is wrong, the estimated size is wrong. If the object is a toy but treated as a distant craft, the whole analysis is built on a false premise. If the media highlights “experts examine UFO photos” before the mundane-object search is complete, the story can become more impressive precisely when it should be becoming more cautious.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/-_iGRteHq3Q" title="UFOS und es gibt sie doch (ARD/NDR 1994)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=-_iGRteHq3Q" target="_blank" rel="noopener noreferrer">UFOS und es gibt sie doch (ARD/NDR 1994)</a></p><p class="youtube-embed-meta">Channel: Kenial René</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=-_iGRteHq3Q" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=-_iGRteHq3Q">Open on YouTube</a></p></div></div></div>
+
+
+
+
 
 ## What Fehrenbach says about Thuringian UFO history
 

@@ -52,7 +52,7 @@ text_direction: ltr
 ui_strings:
   home: Home
   overview: Overview
-  overview_prefix:'Overview:'
+  overview_prefix: 'Overview:'
   contents: Contents
   close: Close
   open_contents: Open contents
@@ -200,13 +200,13 @@ ui_strings:
   search_this_page_empty_hint: Type to search this page.
   no_search_results: No pages match this search.
   no_search_this_page_results: No sections on this page match this search.
-  search_results_count_template:'{count} results'
+  search_results_count_template: '{count} results'
   search_kind_page_title: Page title
   search_kind_page_summary: Summary of page
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date:'2026-06-29 22:45:49'
+date: '2026-06-29 22:45:49'
 parent_title: Bavaria UFOs
 parent_permalink: /what-really-happened-over-bavarias-skies/
 parent_nav_short_title: Bavaria UFOs
@@ -304,6 +304,8 @@ image: /assets/images/Bavaria_3c0123_dawn_sun_phenomena_befec9-overview-social.j
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/zkLA5_dyOlc" title="The Day the Sky Went to War: World’s 1561 UFO Mystery" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=zkLA5_dyOlc" target="_blank" rel="noopener noreferrer">The Day the Sky Went to War: World’s 1561 UFO Mystery</a></p><p class="youtube-embed-meta">Channel: Bright Side Mystery</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=zkLA5_dyOlc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=zkLA5_dyOlc">Open on YouTube</a></p></div></div></div>
 
+
+
 ## Why dawn matters
 
 The timing of the Nuremberg report is not a small detail. The broadsheet says the apparition happened at daybreak, between 4 and 5 a.m., and describes the first shapes as appearing in relation to the sun: semi-circular arcs, blood-red colouration, balls above, below and to either side, and forms arranged around the solar disc. That cluster of clues points towards a visual event structured by the rising sun, rather than an independent formation travelling across the sky.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://publicdomainreview.org/collection/celestial-phenomenon-over-nuremberg-april-14th-1561/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: publicdomainreview.org">[The Public Domain Review]</a><span class="citation-popover" role="note"><span class="citation-popover-source">publicdomainreview.org</span><span class="citation-popover-title">celestial phenomenon over nuremberg april 14th 1561</span><span class="citation-popover-snippet">The Public Domain ReviewCelestial Phenomenon Over Nuremberg, April 14th, 156114 Apr 2016 — And in the sun, above and below and on both si...</span></span></span>
@@ -326,6 +328,8 @@ The Nuremberg report contains several details that fit the halo family better th
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/rX0189Ky9G0" title="Germany’s Other Roswell? 1561 Nuremberg Sky Battle Explained" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=rX0189Ky9G0" target="_blank" rel="noopener noreferrer">Germany’s Other Roswell? 1561 Nuremberg Sky Battle Explained</a></p><p class="youtube-embed-meta">Channel: Get Germanized &middot; Views: 3.5K &middot; Uploaded: October 2025 &middot; Length: 6 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=rX0189Ky9G0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=rX0189Ky9G0">Open on YouTube</a></p></div></div></div>
 
+
+
 ## The broadsheet was not a neutral sighting report
 
 The surviving source is an illustrated broadsheet by Hans Glaser, produced later in April 1561. It is the foundation of the entire legend, but it is not the same kind of evidence as a police statement, pilot report or radar record. The Public Domain Review presents it as a 16th-century printed account of a celestial phenomenon over Nuremberg, with dramatic imagery and moral warning built into the text.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://publicdomainreview.org/collection/celestial-phenomenon-over-nuremberg-april-14th-1561/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: publicdomainreview.org">[The Public Domain Review]</a><span class="citation-popover" role="note"><span class="citation-popover-source">publicdomainreview.org</span><span class="citation-popover-title">celestial phenomenon over nuremberg april 14th 1561</span><span class="citation-popover-snippet">The Public Domain ReviewCelestial Phenomenon Over Nuremberg, April 14th, 156114 Apr 2016 — And in the sun, above and below and on both si...</span></span></span>
@@ -343,7 +347,13 @@ There are several ways those difficult details may have entered the story withou
 
 The black spear is especially difficult. It might represent a dark cloud edge, a shadowed band, smoke-like cloud, an artistic symbol of threat, or something else entirely. The point is not that sceptics can label every shape with certainty. The stronger point is that the most measurable parts of the report — time of day, solar setting, arcs, side-by-side forms and colour — line up with known optical phenomena, while the most sensational parts come through a single symbolic print.
 
-This distinction is important for Bavaria’s UFO history. A weak explanation says: “It was only a sun dog.” A better explanation says: “A dawn halo or related low-sun display is the best starting point, but the surviving account is too stylised to reduce to one neat optical event.” That framing protects the reader from both extremes: treating the broadsheet as proof of spacecraft, or dismissing it so bluntly that the historical strangeness disappears.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/fixLR5EgmJs" title="The Oldest UFO Mass Sighting Ever Recorded | Nuremberg 1561" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=fixLR5EgmJs" target="_blank" rel="noopener noreferrer">The Oldest UFO Mass Sighting Ever Recorded | Nuremberg 1561</a></p><p class="youtube-embed-meta">Channel: Harsh Vikas</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=fixLR5EgmJs" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=fixLR5EgmJs">Open on YouTube</a></p></div></div></div>
+This distinction is important for Bavaria’s UFO history. A weak explanation says: “It was only a sun dog.” A better explanation says: “A dawn halo or related low-sun display is the best starting point, but the surviving account is too stylised to reduce to one neat optical event.” That framing protects the reader from both extremes: treating the broadsheet as proof of spacecraft, or dismissing it so bluntly that the historical strangeness disappears.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/fixLR5EgmJs" title="The Oldest UFO Mass Sighting Ever Recorded | Nuremberg 1561" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=fixLR5EgmJs" target="_blank" rel="noopener noreferrer">The Oldest UFO Mass Sighting Ever Recorded | Nuremberg 1561</a></p><p class="youtube-embed-meta">Channel: Harsh Vikas</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=fixLR5EgmJs" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=fixLR5EgmJs">Open on YouTube</a></p></div></div></div>
+
+
+
+
 
 ## Why this matters for Bavaria’s UFO record
 

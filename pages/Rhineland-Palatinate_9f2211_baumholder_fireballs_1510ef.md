@@ -52,7 +52,7 @@ text_direction: ltr
 ui_strings:
   home: Home
   overview: Overview
-  overview_prefix:'Overview:'
+  overview_prefix: 'Overview:'
   contents: Contents
   close: Close
   open_contents: Open contents
@@ -200,13 +200,13 @@ ui_strings:
   search_this_page_empty_hint: Type to search this page.
   no_search_results: No pages match this search.
   no_search_this_page_results: No sections on this page match this search.
-  search_results_count_template:'{count} results'
+  search_results_count_template: '{count} results'
   search_kind_page_title: Page title
   search_kind_page_summary: Summary of page
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date:'2026-06-30 07:01:43'
+date: '2026-06-30 07:01:43'
 parent_title: Rhineland UFOs
 parent_permalink: /rhineland-palatinate/
 parent_nav_short_title: Rhineland UFOs
@@ -304,6 +304,8 @@ image: /assets/images/Rhineland-Palatinate_9f2211_baumholder_fireballs_1510ef-ov
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/G3KKfq-2m1o" title="Fire Illumination Round Lights up Marine Battlefield" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=G3KKfq-2m1o" target="_blank" rel="noopener noreferrer">Fire Illumination Round Lights up Marine Battlefield</a></p><p class="youtube-embed-meta">Channel: Devil Dog</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=G3KKfq-2m1o" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=G3KKfq-2m1o">Open on YouTube</a></p></div></div></div>
 
+
+
 ## What witnesses saw online
 
 The public episode appears to have unfolded on the evening of Wednesday 29 April 2026, before SWR published its explanation the following afternoon. According to SWR, numerous images circulated on social media showing moving “fireballs” over the West Palatinate. The lights were described as orange-red, suspended or drifting in the night sky, and alarming enough that some viewers began looking for explanations.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.swr.de/swraktuell/rheinland-pfalz/kaiserslautern/raetselhafte-feuerbaelle-am-himmel-uber-westpfalz-uebung-bundeswehr-100.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: swr.de">[SWR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">swr.de</span><span class="citation-popover-title">raetselhafte feuerbaelle am himmel uber westpfalz uebung bundeswehr 100</span><span class="citation-popover-snippet">Lichter am Himmel Westpfalz: Das steckt hinter den &quot;Feuerbällen&quot; - SWR Aktuell...</span></span></span>
@@ -323,7 +325,13 @@ Baumholder is a credible source for exactly this kind of explanation because it 
 
 Local and official material also confirms that shooting activity at Baumholder is routine enough to require public notices. The Kusel district page publishes shooting times issued by the Baumholder training area command and warns that unauthorised entry is prohibited because unexploded ordnance, combat vehicle exercises, dirty roads, unlit vehicles and camouflaged vehicles are constant hazards on the site.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.landkreis-kusel.de/aktuelles/schiesszeiten-truepl/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: landkreis-kusel.de">[Kusel]</a><span class="citation-popover" role="note"><span class="citation-popover-source">landkreis-kusel.de</span><span class="citation-popover-title">Kusel Schießzeiten TrÜPl &#124; Kusel</span><span class="citation-popover-snippet">Kusel Schießzeiten TrÜPl &#124; Kusel</span></span></span>
 
-That does not mean every odd light seen from the West Palatinate should automatically be filed under “Baumholder”. It means that, for a light seen in the right direction and time window, a military exercise check is not optional. In this case, the reported colour, slow descent, social-media timing, and Bundeswehr confirmation all point in the same direction.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/KKDy1QfBlxs" title="The Phoenix Lights: 28 years later, the mystery endures" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=KKDy1QfBlxs" target="_blank" rel="noopener noreferrer">The Phoenix Lights: 28 years later, the mystery endures</a></p><p class="youtube-embed-meta">Channel: ABC15 Arizona &middot; Views: 48.5K &middot; Uploaded: March 2025 &middot; Length: 2 minutes 37 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=KKDy1QfBlxs" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=KKDy1QfBlxs">Open on YouTube</a></p></div></div></div>
+That does not mean every odd light seen from the West Palatinate should automatically be filed under “Baumholder”. It means that, for a light seen in the right direction and time window, a military exercise check is not optional. In this case, the reported colour, slow descent, social-media timing, and Bundeswehr confirmation all point in the same direction.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/KKDy1QfBlxs" title="The Phoenix Lights: 28 years later, the mystery endures" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=KKDy1QfBlxs" target="_blank" rel="noopener noreferrer">The Phoenix Lights: 28 years later, the mystery endures</a></p><p class="youtube-embed-meta">Channel: ABC15 Arizona &middot; Views: 48.5K &middot; Uploaded: March 2025 &middot; Length: 2 minutes 37 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=KKDy1QfBlxs" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=KKDy1QfBlxs">Open on YouTube</a></p></div></div></div>
+
+
+
+
 
 ## Why these were not meteor fireballs
 
@@ -342,7 +350,13 @@ It also illustrates why local geography matters in Rhineland-Palatinate UFO repo
 
 For a public-facing UFO history of the state, this is not a throwaway debunk. It is part of the record. The same region that produces sincere sightings also contains the conditions for repeated misidentification: night exercises, flares, aircraft, helicopters, artillery training, local rumours about Ramstein, and social-media circulation of striking images without immediate context. The correct lesson is not “all sightings are military”, but “military activity must be checked before a case is treated as unexplained”.
 
-A practical investigator would ask a few simple questions before escalating a similar West Palatinate report: What exact time did the lights appear? Were they in the direction of Baumholder or another military site? Did they drift downward or cross the sky at speed? Were there multiple lights appearing in a pattern? Did local shooting warnings or exercise notices cover that evening? Did the Bundeswehr, district authority, or local broadcaster later issue an explanation? In the April 2026 case, those checks converged on illumination ammunition.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/TuZ-TP0UN30" title="American Meteor Society on rare &#x27;bolide&#x27; fireball seen across Southeast" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=TuZ-TP0UN30" target="_blank" rel="noopener noreferrer">American Meteor Society on rare &#x27;bolide&#x27; fireball seen across Southeast</a></p><p class="youtube-embed-meta">Channel: 11Alive &middot; Views: 55.3K &middot; Uploaded: June 2025 &middot; Length: 8 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=TuZ-TP0UN30" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=TuZ-TP0UN30">Open on YouTube</a></p></div></div></div>
+A practical investigator would ask a few simple questions before escalating a similar West Palatinate report: What exact time did the lights appear? Were they in the direction of Baumholder or another military site? Did they drift downward or cross the sky at speed? Were there multiple lights appearing in a pattern? Did local shooting warnings or exercise notices cover that evening? Did the Bundeswehr, district authority, or local broadcaster later issue an explanation? In the April 2026 case, those checks converged on illumination ammunition.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/TuZ-TP0UN30" title="American Meteor Society on rare &#x27;bolide&#x27; fireball seen across Southeast" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=TuZ-TP0UN30" target="_blank" rel="noopener noreferrer">American Meteor Society on rare &#x27;bolide&#x27; fireball seen across Southeast</a></p><p class="youtube-embed-meta">Channel: 11Alive &middot; Views: 55.3K &middot; Uploaded: June 2025 &middot; Length: 8 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=TuZ-TP0UN30" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=TuZ-TP0UN30">Open on YouTube</a></p></div></div></div>
+
+
+
+
 
 ## Why the explanation weakened the UFO claim
 

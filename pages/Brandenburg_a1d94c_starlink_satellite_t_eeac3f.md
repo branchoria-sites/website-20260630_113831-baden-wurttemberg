@@ -52,7 +52,7 @@ text_direction: ltr
 ui_strings:
   home: Home
   overview: Overview
-  overview_prefix:'Overview:'
+  overview_prefix: 'Overview:'
   contents: Contents
   close: Close
   open_contents: Open contents
@@ -200,13 +200,13 @@ ui_strings:
   search_this_page_empty_hint: Type to search this page.
   no_search_results: No pages match this search.
   no_search_this_page_results: No sections on this page match this search.
-  search_results_count_template:'{count} results'
+  search_results_count_template: '{count} results'
   search_kind_page_title: Page title
   search_kind_page_summary: Summary of page
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date:'2026-06-30 00:13:11'
+date: '2026-06-30 00:13:11'
 parent_title: Brandenburg Skies
 parent_permalink: /what-really-lights-up-brandenburgs-skies/
 parent_nav_short_title: Brandenburg Skies
@@ -302,7 +302,13 @@ image: /assets/images/Brandenburg_a1d94c_starlink_satellite_t_eeac3f-overview-so
 
 ## Introduction
 
-Starlink satellite trains matter in [Brandenburg]({{'what-really-lights-up-brandenburgs-skies/' | relative_url }}) because they turn one of the state’s strengths — wide, dark, rural skies — into a reliable source of modern UFO reports. A newly launched Starlink group can look like a neat moving chain of lights, often appearing just after sunset or before sunrise, when satellites are still sunlit but the ground is dark. For first-time observers in places such as [Westhavelland]({{'westhavelland/' | relative_url }}), Rathenow or the open countryside west of Berlin, the effect can feel startling: not one light, but many, moving together with unnatural-looking regularity.<img src="{{"/assets/images/Brandenburg_a1d94c_starlink_satellite_t_eeac3f-overview.webp" | relative_url }}" alt="Overview image for Starlink" loading="eager" decoding="sync" fetchpriority="high"><div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/qkhL0u5Yy5Y" title="60 SpaceX satellites create light trail in night sky" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=qkhL0u5Yy5Y" target="_blank" rel="noopener noreferrer">60 SpaceX satellites create light trail in night sky</a></p><p class="youtube-embed-meta">Channel: CGTN &middot; Views: 863.6K &middot; Uploaded: May 2019 &middot; Length: 56 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=qkhL0u5Yy5Y" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=qkhL0u5Yy5Y">Open on YouTube</a></p></div></div></div>
+Starlink satellite trains matter in [Brandenburg]({{'what-really-lights-up-brandenburgs-skies/' | relative_url }}) because they turn one of the state’s strengths — wide, dark, rural skies — into a reliable source of modern UFO reports. A newly launched Starlink group can look like a neat moving chain of lights, often appearing just after sunset or before sunrise, when satellites are still sunlit but the ground is dark. For first-time observers in places such as [Westhavelland]({{'westhavelland/' | relative_url }}), Rathenow or the open countryside west of Berlin, the effect can feel startling: not one light, but many, moving together with unnatural-looking regularity.<img src="{{"/assets/images/Brandenburg_a1d94c_starlink_satellite_t_eeac3f-overview.webp" | relative_url }}" alt="Overview image for Starlink" loading="eager" decoding="sync" fetchpriority="high">
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/qkhL0u5Yy5Y" title="60 SpaceX satellites create light trail in night sky" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=qkhL0u5Yy5Y" target="_blank" rel="noopener noreferrer">60 SpaceX satellites create light trail in night sky</a></p><p class="youtube-embed-meta">Channel: CGTN &middot; Views: 863.6K &middot; Uploaded: May 2019 &middot; Length: 56 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=qkhL0u5Yy5Y" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=qkhL0u5Yy5Y">Open on YouTube</a></p></div></div></div>
+
+
+
+
 
 ## How Starlink trains appear
 
@@ -319,7 +325,13 @@ Brandenburg is not just “near Berlin”. It has large rural areas, low horizon
 
 That makes Westhavelland central to this topic. It is a recognised dark-sky region and Germany’s first such reserve, promoted locally for stargazing, night-sky protection and nature tourism. The official Westhavelland Nature Park site emphasises that the region’s dark night sky allows the Milky Way to be seen, while the Sternenpark Westhavelland site notes that the wider protected night area is largely accessible and especially dark in its northern half because of thin settlement and the absence of larger towns.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.westhavelland-naturpark.de/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: westhavelland-naturpark.de">[westhavelland-naturpark.de]</a><span class="citation-popover" role="note"><span class="citation-popover-source">westhavelland-naturpark.de</span><span class="citation-popover-snippet">Open source on westhavelland-naturpark.de.</span></span></span>
 
-The same conditions that help people see the Milky Way also make satellites easier to notice. This is the key point for Brandenburg UFO history: darkness does not only reveal mysterious things; it reveals ordinary things that urban observers rarely see well. A Starlink train that might be washed out over a lit street can become a memorable event over a dark meadow or lake.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/pgysWWwESfU" title="STARLINK satellites train seen from earth - SpaceX Elon Musk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=pgysWWwESfU" target="_blank" rel="noopener noreferrer">STARLINK satellites train seen from earth - SpaceX Elon Musk</a></p><p class="youtube-embed-meta">Channel: ViralVideoLab &middot; Views: 4.9M &middot; Uploaded: April 2020 &middot; Length: 2 minutes 19 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=pgysWWwESfU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=pgysWWwESfU">Open on YouTube</a></p></div></div></div>
+The same conditions that help people see the Milky Way also make satellites easier to notice. This is the key point for Brandenburg UFO history: darkness does not only reveal mysterious things; it reveals ordinary things that urban observers rarely see well. A Starlink train that might be washed out over a lit street can become a memorable event over a dark meadow or lake.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/pgysWWwESfU" title="STARLINK satellites train seen from earth - SpaceX Elon Musk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=pgysWWwESfU" target="_blank" rel="noopener noreferrer">STARLINK satellites train seen from earth - SpaceX Elon Musk</a></p><p class="youtube-embed-meta">Channel: ViralVideoLab &middot; Views: 4.9M &middot; Uploaded: April 2020 &middot; Length: 2 minutes 19 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=pgysWWwESfU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=pgysWWwESfU">Open on YouTube</a></p></div></div></div>
+
+
+
+
 
 ## Why these reports feel unusual even when the cause is ordinary
 
@@ -348,7 +360,13 @@ The Brandenburg layer is less about one famous case than about visibility. Westh
 
 The third layer is method. Modern satellite sightings can be checked. Unlike older anecdotal UFO cases, a Starlink candidate can often be tested against launch records, orbital predictions, pass direction, local time, elevation, brightness and witness location. Heavens-Above, for example, provides location-customised satellite predictions, including Starlink passes for all objects from a launch.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.heavens-above.com/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: heavens-above.com">[heavens-above.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">heavens-above.com</span><span class="citation-popover-snippet">Open source on heavens-above.com.</span></span></span>
 
-That makes Starlink reports important but not deeply mysterious. They show how a modern, well-documented space infrastructure can generate highly persuasive witness experiences, especially in a state where the sky is dark enough for the effect to be obvious.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/sObt0DvN5b4" title="How to see the SpaceX Starlink satellite train (and explanation of Azimuth and Elevation)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=sObt0DvN5b4" target="_blank" rel="noopener noreferrer">How to see the SpaceX Starlink satellite train (and explanation of Azimuth and Elevation)</a></p><p class="youtube-embed-meta">Channel: ReWildUniversity</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=sObt0DvN5b4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=sObt0DvN5b4">Open on YouTube</a></p></div></div></div>
+That makes Starlink reports important but not deeply mysterious. They show how a modern, well-documented space infrastructure can generate highly persuasive witness experiences, especially in a state where the sky is dark enough for the effect to be obvious.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/sObt0DvN5b4" title="How to see the SpaceX Starlink satellite train (and explanation of Azimuth and Elevation)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=sObt0DvN5b4" target="_blank" rel="noopener noreferrer">How to see the SpaceX Starlink satellite train (and explanation of Azimuth and Elevation)</a></p><p class="youtube-embed-meta">Channel: ReWildUniversity</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=sObt0DvN5b4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=sObt0DvN5b4">Open on YouTube</a></p></div></div></div>
+
+
+
+
 
 ## How investigators check timing
 

@@ -52,7 +52,7 @@ text_direction: ltr
 ui_strings:
   home: Home
   overview: Overview
-  overview_prefix:'Overview:'
+  overview_prefix: 'Overview:'
   contents: Contents
   close: Close
   open_contents: Open contents
@@ -200,13 +200,13 @@ ui_strings:
   search_this_page_empty_hint: Type to search this page.
   no_search_results: No pages match this search.
   no_search_this_page_results: No sections on this page match this search.
-  search_results_count_template:'{count} results'
+  search_results_count_template: '{count} results'
   search_kind_page_title: Page title
   search_kind_page_summary: Summary of page
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date:'2026-06-29 22:45:45'
+date: '2026-06-29 22:45:45'
 parent_title: Baden UFOs
 parent_permalink: /what-really-happened-over-baden/
 parent_nav_short_title: Baden UFOs
@@ -326,8 +326,6 @@ The airport’s noise-governance framework also shows how visible aviation is in
 
 ## Police and rescue helicopters add low, slow lights
 
-Fixed-wing airport traffic is only part of the picture. Baden-Württemberg’s police helicopter squadron operates from the state airport in Stuttgart and from Baden-Airpark in Rheinmünster-Söllingen. The state interior ministry says the squadron has six helicopters across those locations and can reach any place in Baden-Württemberg quickly around the clock. Helicopters are more likely than airliners to hover, orbit, search with lights, fly lower, or make repeated passes over a small area — all behaviours that can appear strange if the observer cannot identify the aircraft.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://im.baden-wuerttemberg.de/de/sicherheit/polizei/moderne-technik/polizeihubschrauber" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: im.baden-wuerttemberg.de">[Baden-Württemberg.de]</a><span class="citation-popover" role="note"><span class="citation-popover-source">im.baden-wuerttemberg.de</span><span class="citation-popover-title">Baden-Württemberg.de Polizeihubschrauber</span><span class="citation-popover-snippet">Baden-Württemberg.de Polizeihubschrauber</span></span></span>
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/0M1J9qQX1TQ" title="Aircraft lights | They&#x27;re not UFOs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=0M1J9qQX1TQ" target="_blank" rel="noopener noreferrer">Aircraft lights | They&#x27;re not UFOs</a></p><p class="youtube-embed-meta">Channel: flight-club &middot; Views: 99.1K &middot; Uploaded: February 2020 &middot; Length: 3 minutes 28 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=0M1J9qQX1TQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=0M1J9qQX1TQ">Open on YouTube</a></p></div></div></div>
 
 ## US installations around Stuttgart shape how stories are told
@@ -349,8 +347,6 @@ That said, the existence of a military airfield should not be overread. Many UFO
 For readers, the useful takeaway is modest but important. Military context belongs in a Stuttgart UFO assessment because it shapes local sightlines, assumptions, security culture and possible aircraft activity. It should not be used as a substitute for evidence. A strong case would need date, time, direction, duration, weather, flight-track comparison, witness location, photographs or video, and checks against airport, helicopter, satellite and astronomical sources. Without those, “near a US base” remains a context clue, not a conclusion.<img src="{{"/assets/images/Baden-Wurttemberg_dc11f2_stuttgart_aviation_m_24ef53-Illustration-2-dark.svg" | relative_url }}" alt="Stuttgart Skies illustration 2" data-theme-src-dark="{{"/assets/images/Baden-Wurttemberg_dc11f2_stuttgart_aviation_m_24ef53-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{"/assets/images/Baden-Wurttemberg_dc11f2_stuttgart_aviation_m_24ef53-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Satellites and bright planets still matter over Stuttgart
 
-Not every Stuttgart sky report has a local aviation cause. Baden-Württemberg’s recent UFO-reporting pattern has been strongly affected by visible astronomical and space objects. In 2024, SWR reported that CENAP counted more than 1,100 UFO reports across Germany, Austria and Switzerland, with 153 from Baden-Württemberg; the report linked many explanations to conspicuous planets, bright stars and other ordinary objects rather than extraterrestrial craft.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.swr.de/swraktuell/baden-wuerttemberg/rekord-ufo-meldungen-100.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: swr.de">[SWR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">swr.de</span><span class="citation-popover-title">rekord ufo meldungen 100</span><span class="citation-popover-snippet">rekord ufo meldungen 100</span></span></span>
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Y2PlycFhxDQ" title="🛬 Stunning Approach &amp; Landing at Stuttgart Airport | Window Seat View" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Y2PlycFhxDQ" target="_blank" rel="noopener noreferrer">🛬 Stunning Approach &amp; Landing at Stuttgart Airport | Window Seat View</a></p><p class="youtube-embed-meta">Channel: Bon Bon</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Y2PlycFhxDQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Y2PlycFhxDQ">Open on YouTube</a></p></div></div></div>
 
 ## Why military context invites overclaiming
@@ -359,7 +355,13 @@ Stuttgart’s military context is one of the main reasons weak sky reports can f
 
 The problem is distance and line of sight. A witness may say a light was “over” Kelley Barracks, Patch Barracks or the airport, when in fact it was miles beyond them, far above them, or simply in the same direction from the witness’s viewpoint. At night, without a known altitude or reference object, people often misjudge whether a light is small and close, large and distant, climbing, hovering or moving towards them. That is why serious investigation starts with geometry, timestamps and independent records rather than with the most dramatic nearby landmark.
 
-The military label also changes how silence is interpreted. If no immediate public explanation appears, some readers treat that absence as suspicious. But many ordinary reasons can leave a report unresolved: imprecise timing, missing direction, no video metadata, poor phone footage, cloud interference, undocumented drone activity, or a satellite pass not checked at the time. An unresolved report is not the same as a strong unknown. It may simply be a report that arrived without enough information to identify.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/gX7RZDp9S3Y" title="Die Kooperation zwischen der Polizeihubschrauberstaffel und dem Marienhospital Stuttgart" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=gX7RZDp9S3Y" target="_blank" rel="noopener noreferrer">Die Kooperation zwischen der Polizeihubschrauberstaffel und dem Marienhospital Stuttgart</a></p><p class="youtube-embed-meta">Channel: Marienhospital Stuttgart</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=gX7RZDp9S3Y" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=gX7RZDp9S3Y">Open on YouTube</a></p></div></div></div>
+The military label also changes how silence is interpreted. If no immediate public explanation appears, some readers treat that absence as suspicious. But many ordinary reasons can leave a report unresolved: imprecise timing, missing direction, no video metadata, poor phone footage, cloud interference, undocumented drone activity, or a satellite pass not checked at the time. An unresolved report is not the same as a strong unknown. It may simply be a report that arrived without enough information to identify.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/gX7RZDp9S3Y" title="Die Kooperation zwischen der Polizeihubschrauberstaffel und dem Marienhospital Stuttgart" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=gX7RZDp9S3Y" target="_blank" rel="noopener noreferrer">Die Kooperation zwischen der Polizeihubschrauberstaffel und dem Marienhospital Stuttgart</a></p><p class="youtube-embed-meta">Channel: Marienhospital Stuttgart</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=gX7RZDp9S3Y" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=gX7RZDp9S3Y">Open on YouTube</a></p></div></div></div>
+
+
+
+
 
 ## A practical way to read Stuttgart UFO reports
 

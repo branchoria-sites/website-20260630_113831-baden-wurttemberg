@@ -52,7 +52,7 @@ text_direction: ltr
 ui_strings:
   home: Home
   overview: Overview
-  overview_prefix:'Overview:'
+  overview_prefix: 'Overview:'
   contents: Contents
   close: Close
   open_contents: Open contents
@@ -200,13 +200,13 @@ ui_strings:
   search_this_page_empty_hint: Type to search this page.
   no_search_results: No pages match this search.
   no_search_this_page_results: No sections on this page match this search.
-  search_results_count_template:'{count} results'
+  search_results_count_template: '{count} results'
   search_kind_page_title: Page title
   search_kind_page_summary: Summary of page
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date:'2026-06-30 03:22:33'
+date: '2026-06-30 03:22:33'
 parent_title: Hesse UFOs
 parent_permalink: /why-hesses-ufo-stories-usually-come/
 parent_nav_short_title: Hesse UFOs
@@ -337,7 +337,13 @@ Venus is different. It may appear as one dazzling light, often low in the sky, a
 
 Drones require a different kind of caution. Since drones can be real, local, mobile and sometimes unauthorised, a drone explanation is not always a “debunk” in the simple sense. It may identify a real aviation or security issue rather than solve a folklore puzzle. Reuters reported that in October 2025 German police said a drone seen about 700 metres from Frankfurt Airport was flown by a man testing a hobby drone, while wider German drone sightings around airports and military sites caused serious security concern.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/business/aerospace-defense/munich-runways-closed-again-pilot-blames-drone-sightings-2025-10-03/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-title">Multiple drone sightings reported in Germany in past three days, Bild says</span><span class="citation-popover-snippet">Particularly alarming were reports that some drones, especially those seen near Munich Airport, were of military grade. The German Defens...</span></span></span> For Hesse UFO history, that kind of case sits in an important middle category: not alien, not imaginary, and not necessarily harmless.
 
-Aircraft and helicopters are harder than many readers expect because lights can mislead at night. A distant aircraft heading towards the observer may seem to hover. Landing lights can flare brightly. A turn can make lights appear to change direction suddenly. Frankfurt’s air traffic makes this especially relevant, but a good aircraft explanation still needs a plausible flight path, altitude, timing and viewing angle. If those checks are missing, the case may be only plausibly explained, not explained well.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/90oCFzDZk_Y" title="Warum kümmert sich die Bundesregierung nicht um UFOs?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=90oCFzDZk_Y" target="_blank" rel="noopener noreferrer">Warum kümmert sich die Bundesregierung nicht um UFOs?</a></p><p class="youtube-embed-meta">Channel: Jung &amp; Naiv</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=90oCFzDZk_Y" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=90oCFzDZk_Y">Open on YouTube</a></p></div></div></div>
+Aircraft and helicopters are harder than many readers expect because lights can mislead at night. A distant aircraft heading towards the observer may seem to hover. Landing lights can flare brightly. A turn can make lights appear to change direction suddenly. Frankfurt’s air traffic makes this especially relevant, but a good aircraft explanation still needs a plausible flight path, altitude, timing and viewing angle. If those checks are missing, the case may be only plausibly explained, not explained well.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/90oCFzDZk_Y" title="Warum kümmert sich die Bundesregierung nicht um UFOs?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=90oCFzDZk_Y" target="_blank" rel="noopener noreferrer">Warum kümmert sich die Bundesregierung nicht um UFOs?</a></p><p class="youtube-embed-meta">Channel: Jung &amp; Naiv</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=90oCFzDZk_Y" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=90oCFzDZk_Y">Open on YouTube</a></p></div></div></div>
+
+
+
+
 
 ## Why explained cases can still be valuable
 
@@ -391,7 +397,13 @@ The report cannot be identified, mainly because the evidence is too thin. This i
 
 Ordinary causes have been seriously tested and do not fit. This category should be rare. It requires good original data, not just a dramatic description.
 
-Using this scale changes how readers interpret Hesse’s UFO history. A case is not strengthened merely by surviving as a mystery in memory. It is strengthened by surviving checks. That is why a modest, well-documented drone or satellite case may be more useful than a colourful but untestable story. It tells the reader how the sky actually works.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Xs5LPlpBO9A" title="Sind wir nicht allein? | maintower" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Xs5LPlpBO9A" target="_blank" rel="noopener noreferrer">Sind wir nicht allein? | maintower</a></p><p class="youtube-embed-meta">Channel: Hessischer Rundfunk</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Xs5LPlpBO9A" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Xs5LPlpBO9A">Open on YouTube</a></p></div></div></div>
+Using this scale changes how readers interpret Hesse’s UFO history. A case is not strengthened merely by surviving as a mystery in memory. It is strengthened by surviving checks. That is why a modest, well-documented drone or satellite case may be more useful than a colourful but untestable story. It tells the reader how the sky actually works.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Xs5LPlpBO9A" title="Sind wir nicht allein? | maintower" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Xs5LPlpBO9A" target="_blank" rel="noopener noreferrer">Sind wir nicht allein? | maintower</a></p><p class="youtube-embed-meta">Channel: Hessischer Rundfunk</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Xs5LPlpBO9A" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Xs5LPlpBO9A">Open on YouTube</a></p></div></div></div>
+
+
+
+
 
 ## What would make a Hesse case genuinely harder to explain?
 

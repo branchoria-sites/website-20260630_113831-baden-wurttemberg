@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /brandenburg-a1d94c-index/
 description: Focused pages that expand on What Really Lights Up Brandenburg's Skies?.
-date:'2026'
+date: '2026'
 layout: default
 parent_basename: Brandenburg_a1d94c
 parent_title: What Really Lights Up Brandenburg's Skies?

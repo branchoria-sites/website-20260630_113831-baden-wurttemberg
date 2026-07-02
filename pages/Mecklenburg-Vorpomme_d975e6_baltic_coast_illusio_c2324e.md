@@ -52,7 +52,7 @@ text_direction: ltr
 ui_strings:
   home: Home
   overview: Overview
-  overview_prefix:'Overview:'
+  overview_prefix: 'Overview:'
   contents: Contents
   close: Close
   open_contents: Open contents
@@ -200,13 +200,13 @@ ui_strings:
   search_this_page_empty_hint: Type to search this page.
   no_search_results: No pages match this search.
   no_search_this_page_results: No sections on this page match this search.
-  search_results_count_template:'{count} results'
+  search_results_count_template: '{count} results'
   search_kind_page_title: Page title
   search_kind_page_summary: Summary of page
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date:'2026-06-30 03:22:34'
+date: '2026-06-30 03:22:34'
 parent_title: MV UFOs
 parent_permalink: /mecklenburg-vorpommern/
 parent_nav_short_title: MV UFOs
@@ -318,7 +318,13 @@ The crucial issue is that “many witnesses” does not automatically fix the ra
 
 Sceptical [investigators]({{'investigators-a76407/' | relative_url }}) associated the lights with military illumination or flare activity rather than unknown craft. GWUP’s older case discussion and later CENAP-linked reporting argue that the likely stimulus was battlefield illumination [flares]({{'flares/' | relative_url }}) or magnesium-bearing decoys, a type of explanation that fits a coastal environment where military activity may be visible to civilians without being understood in the moment.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gwup.org/skeptiker-artikel/pseudo-parawissenschaften/das-ufo-phaenomen-von-greifswald-ein-deutscher-klassiker/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gwup.org">[GWUP e. V.]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gwup.org</span><span class="citation-popover-title">e. V.Das UFO-Phänomen von Greifswald</span><span class="citation-popover-snippet">e. V.Das UFO-Phänomen von Greifswald</span></span></span>
 
-The case therefore matters less as a mystery solved to everyone’s satisfaction than as a teaching example. The best evidence confirms that people really saw unusual lights. It does not confirm that the lights were close, solid craft or under intelligent control. The Baltic setting supplies the missing context: distance over water is hard to judge, slow descent can look like hovering, and separate lights can be mentally grouped into a “formation”.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/R-Lacu0VG3Y" title="Is This Boat Floating In Mid-Air? No! But Here&#x27;s Why It Looks That Way" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=R-Lacu0VG3Y" target="_blank" rel="noopener noreferrer">Is This Boat Floating In Mid-Air? No! But Here&#x27;s Why It Looks That Way</a></p><p class="youtube-embed-meta">Channel: Science Channel &middot; Views: 265.8K &middot; Uploaded: April 2017 &middot; Length: 1 minute 55 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=R-Lacu0VG3Y" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=R-Lacu0VG3Y">Open on YouTube</a></p></div></div></div>
+The case therefore matters less as a mystery solved to everyone’s satisfaction than as a teaching example. The best evidence confirms that people really saw unusual lights. It does not confirm that the lights were close, solid craft or under intelligent control. The Baltic setting supplies the missing context: distance over water is hard to judge, slow descent can look like hovering, and separate lights can be mentally grouped into a “formation”.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/R-Lacu0VG3Y" title="Is This Boat Floating In Mid-Air? No! But Here&#x27;s Why It Looks That Way" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=R-Lacu0VG3Y" target="_blank" rel="noopener noreferrer">Is This Boat Floating In Mid-Air? No! But Here&#x27;s Why It Looks That Way</a></p><p class="youtube-embed-meta">Channel: Science Channel &middot; Views: 265.8K &middot; Uploaded: April 2017 &middot; Length: 1 minute 55 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=R-Lacu0VG3Y" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=R-Lacu0VG3Y">Open on YouTube</a></p></div></div></div>
+
+
+
+
 
 ## How haze and layered air affect lights
 
@@ -339,7 +345,13 @@ None of this proves that a particular sighting is military. It does make militar
 
 Tourism increases the reporting pool. Mecklenburg-Vorpommern’s post-reunification tourism grew sharply, from about 2.7 million guest arrivals in 1992 to 8.0 million in 2024, with overnight stays rising from about 9.4 million to 32.9 million over the same period. More visitors mean more eyes on the sky, especially in summer and around the coast.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.laiv-mv.de/static/LAIV/Statistik/Dateien/Publikationen/Kurzberichte/Gastgewerbe%20%26%20Tourismus/KB_35-Jahre-MV_Tourismus.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: laiv-mv.de">[Laiv MV]</a><span class="citation-popover" role="note"><span class="citation-popover-source">laiv-mv.de</span><span class="citation-popover-title">Laiv MVTourismusentwicklung seit der Wiedervereinigung</span><span class="citation-popover-snippet">Laiv MVTourismusentwicklung seit der Wiedervereinigung</span></span></span>
 
-That helps explain why coastal UFO stories can cluster around pleasant viewing conditions: warm evenings, beaches, harbours, promenades and holiday accommodation. These are exactly the settings where people spend time looking out across a darkening horizon, often with cameras ready, but without local knowledge of shipping lanes, training areas, aircraft routes or the look of flares over water.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/aEkRpXuqZqo" title="Twenty-Nine Palms UFO - Flares Identified" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=aEkRpXuqZqo" target="_blank" rel="noopener noreferrer">Twenty-Nine Palms UFO - Flares Identified</a></p><p class="youtube-embed-meta">Channel: Mick West &middot; Views: 26.2K &middot; Uploaded: May 2023 &middot; Length: 2 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=aEkRpXuqZqo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=aEkRpXuqZqo">Open on YouTube</a></p></div></div></div>
+That helps explain why coastal UFO stories can cluster around pleasant viewing conditions: warm evenings, beaches, harbours, promenades and holiday accommodation. These are exactly the settings where people spend time looking out across a darkening horizon, often with cameras ready, but without local knowledge of shipping lanes, training areas, aircraft routes or the look of flares over water.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/aEkRpXuqZqo" title="Twenty-Nine Palms UFO - Flares Identified" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=aEkRpXuqZqo" target="_blank" rel="noopener noreferrer">Twenty-Nine Palms UFO - Flares Identified</a></p><p class="youtube-embed-meta">Channel: Mick West &middot; Views: 26.2K &middot; Uploaded: May 2023 &middot; Length: 2 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=aEkRpXuqZqo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=aEkRpXuqZqo">Open on YouTube</a></p></div></div></div>
+
+
+
+
 
 ## Common Baltic misreadings in UFO reports
 
@@ -359,7 +371,13 @@ The most useful lesson from Mecklenburg-Vorpommern’s Baltic sightings is metho
 A careful first pass asks five questions:
 
 1. **Where was the observer, and in which direction were they looking?** A report from a beach, pier, harbour, ferry route or waterside flat needs a map line of sight before distance claims are trusted.
-2. **Was the light above open sea, a lagoon, a harbour, a distant shoreline or an offshore activity area?** The Greifswald Bodden is not visually the same as the open Baltic, and local geography can strongly affect interpretation.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/wU8IeHY6W48" title="The Mystery Signal That Led A German Fleet to Its Death" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=wU8IeHY6W48" target="_blank" rel="noopener noreferrer">The Mystery Signal That Led A German Fleet to Its Death</a></p><p class="youtube-embed-meta">Channel: Dark Seas &middot; Views: 155.3K &middot; Uploaded: July 2025 &middot; Length: 24 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=wU8IeHY6W48" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=wU8IeHY6W48">Open on YouTube</a></p></div></div></div>
+2. **Was the light above open sea, a lagoon, a harbour, a distant shoreline or an offshore activity area?** The Greifswald Bodden is not visually the same as the open Baltic, and local geography can strongly affect interpretation.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/wU8IeHY6W48" title="The Mystery Signal That Led A German Fleet to Its Death" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=wU8IeHY6W48" target="_blank" rel="noopener noreferrer">The Mystery Signal That Led A German Fleet to Its Death</a></p><p class="youtube-embed-meta">Channel: Dark Seas &middot; Views: 155.3K &middot; Uploaded: July 2025 &middot; Length: 24 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=wU8IeHY6W48" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=wU8IeHY6W48">Open on YouTube</a></p></div></div></div>
+
+
+
+
 
 3. **What were the visibility and weather layers?** Fog, haze, temperature inversion, low cloud and evening cooling can all change the apparent size, height and sharpness of lights. DWD marine forecasts exist precisely because Baltic and North Sea visibility conditions are operationally important. [DWD](https://www.dwd.de/EN/specialusers/shipping/weatheratsea_en/northsea/_node.html)
 

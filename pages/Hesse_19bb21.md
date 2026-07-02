@@ -37,8 +37,8 @@ keywords:
 - hesse
 affiliate_category: hesse
 show_ads: true
-description:'Hesse’s UFO history is less a story of one famous unsolved crash or dramatic state investigation than of a busy modern sky: Frankfurt’s airport corridor,...'
-hero_summary:'Hesse’s UFO history is less a story of one famous unsolved crash or dramatic state investigation than of a busy modern sky: Frankfurt’s airport corridor, former Cold War military aviation, bright planets, Starlink satellites, drones, meteors, event lights and a unusually important private UFO-reporting hub in the Odenwald.'
+description: 'Hesse’s UFO history is less a story of one famous unsolved crash or dramatic state investigation than of a busy modern sky: Frankfurt’s airport corridor,...'
+hero_summary: 'Hesse’s UFO history is less a story of one famous unsolved crash or dramatic state investigation than of a busy modern sky: Frankfurt’s airport corridor, former Cold War military aviation, bright planets, Starlink satellites, drones, meteors, event lights and a unusually important private UFO-reporting hub in the Odenwald.'
 layout: default
 permalink: /why-hesses-ufo-stories-usually-come/
 nav_short_title: Why Hesse's UFO Stories Usually Come Back to Earth
@@ -62,7 +62,7 @@ text_direction: ltr
 ui_strings:
   home: Home
   overview: Overview
-  overview_prefix:'Overview:'
+  overview_prefix: 'Overview:'
   contents: Contents
   close: Close
   open_contents: Open contents
@@ -210,13 +210,13 @@ ui_strings:
   search_this_page_empty_hint: Type to search this page.
   no_search_results: No pages match this search.
   no_search_this_page_results: No sections on this page match this search.
-  search_results_count_template:'{count} results'
+  search_results_count_template: '{count} results'
   search_kind_page_title: Page title
   search_kind_page_summary: Summary of page
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date:'2026-06-30 02:44:13'
+date: '2026-06-30 02:44:13'
 sibling_links:
 - basename: Mecklenburg-Vorpomme_d975e6
   title: MV UFOs
@@ -380,7 +380,13 @@ The same episode shows how UFO reports can overlap with genuine air-safety issue
 
 Hesse also has a Cold War aviation background that can make UFO claims sound more dramatic than the evidence supports. The former [Rhein-Main]({{'rhein-main/' | relative_url }}) Air Base, on the south side of [Frankfurt Airport]({{'airport-lights-61aa10/' | relative_url }}), was a major United States Air Force airlift hub from 1945 until its closure. The US Air Force said the base’s long airlift mission ended in 2005 and that the site would be returned to Germany by the end of that year.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.af.mil/News/Article-Display/Article/133186/rhein-main-mission-ends-but-not-its-legacy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[U.S. Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-title">U.S. Air Force Rhein-Main mission ends, but not its legacy</span><span class="citation-popover-snippet">U.S. Air Force Rhein-Main mission ends, but not its legacy</span></span></span>
 
-This history is relevant because military and airport regions generate many legitimate unusual observations: transport aircraft, helicopters, approach lights, refuelling or training activity, radar-controlled traffic, and restricted airspace procedures. But relevance is not proof. A sighting near Frankfurt or a former military installation should not be treated as stronger simply because military aviation once existed nearby. The better question is whether a given report includes time, direction, duration, independent witnesses, photos or radar evidence, and whether ordinary traffic or known astronomical objects were excluded.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Dj4xuOpwBuc" title="Nazi Occult Secrets and Hidden Technologies: The Dark Truth Behind the Legends 👁️ A Documentary" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Dj4xuOpwBuc" target="_blank" rel="noopener noreferrer">Nazi Occult Secrets and Hidden Technologies: The Dark Truth Behind the Legends 👁️ A Documentary</a></p><p class="youtube-embed-meta">Channel: Get Germanized</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Dj4xuOpwBuc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Dj4xuOpwBuc">Open on YouTube</a></p></div></div></div>
+This history is relevant because military and airport regions generate many legitimate unusual observations: transport aircraft, helicopters, approach lights, refuelling or training activity, radar-controlled traffic, and restricted airspace procedures. But relevance is not proof. A sighting near Frankfurt or a former military installation should not be treated as stronger simply because military aviation once existed nearby. The better question is whether a given report includes time, direction, duration, independent witnesses, photos or radar evidence, and whether ordinary traffic or known astronomical objects were excluded.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Dj4xuOpwBuc" title="Nazi Occult Secrets and Hidden Technologies: The Dark Truth Behind the Legends 👁️ A Documentary" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Dj4xuOpwBuc" target="_blank" rel="noopener noreferrer">Nazi Occult Secrets and Hidden Technologies: The Dark Truth Behind the Legends 👁️ A Documentary</a></p><p class="youtube-embed-meta">Channel: Get Germanized</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Dj4xuOpwBuc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Dj4xuOpwBuc">Open on YouTube</a></p></div></div></div>
+
+
+
+
 
 ## Recent “flaps” in Hesse are mostly technology-driven
 

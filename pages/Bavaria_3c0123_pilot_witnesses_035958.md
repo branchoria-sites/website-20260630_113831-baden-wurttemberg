@@ -52,7 +52,7 @@ text_direction: ltr
 ui_strings:
   home: Home
   overview: Overview
-  overview_prefix:'Overview:'
+  overview_prefix: 'Overview:'
   contents: Contents
   close: Close
   open_contents: Open contents
@@ -200,13 +200,13 @@ ui_strings:
   search_this_page_empty_hint: Type to search this page.
   no_search_results: No pages match this search.
   no_search_this_page_results: No sections on this page match this search.
-  search_results_count_template:'{count} results'
+  search_results_count_template: '{count} results'
   search_kind_page_title: Page title
   search_kind_page_summary: Summary of page
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date:'2026-06-29 22:45:58'
+date: '2026-06-29 22:45:58'
 parent_title: Bavaria UFOs
 parent_permalink: /what-really-happened-over-bavarias-skies/
 parent_nav_short_title: Bavaria UFOs
@@ -318,8 +318,6 @@ A strong pilot report, therefore, is not strong because the pilot is beyond erro
 
 The phrase “trained observer” is often used too loosely in UFO debates. Pilots are trained to fly aircraft safely, identify traffic, use instruments and manage cockpit tasks. They are not immune to visual illusion, surprise, fatigue, expectation or memory distortion. This distinction matters because many UAP reports involve lights seen at night, against a dark sky, at unknown distance. In those conditions, even experienced crews can misjudge range, speed and size.
 
-NASA’s Aviation Safety Reporting System gives a useful aviation example: the parallax effect can make a distant fixed object, such as a planet or star, appear close and in motion as the observer’s aircraft moves. NASA notes that Venus has been mistaken for aircraft position lights by pilots and even by tower controllers.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://asrs.arc.nasa.gov/publications/callback/cb_246.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: asrs.arc.nasa.gov">[asrs.arc.nasa.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">asrs.arc.nasa.gov</span><span class="citation-popover-title">CALLBAC K 246</span><span class="citation-popover-snippet">CALLBAC K 246</span></span></span> That does not mean every Bavarian pilot report is Venus. It means that aviation experience does not remove the basic geometry problem: without reliable distance, a small nearby object, a distant aircraft, a planet, a satellite or a balloon can all be misread.
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/lTGJt7Gho0w" title="Inside the Data: What 1,000+ Pilot Reports Reveal About UAP | iConnections Webinar with Ryan Graves" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=lTGJt7Gho0w" target="_blank" rel="noopener noreferrer">Inside the Data: What 1,000+ Pilot Reports Reveal About UAP | iConnections Webinar with Ryan Graves</a></p><p class="youtube-embed-meta">Channel: iConnections &middot; Views: 287 &middot; Uploaded: April 2026 &middot; Length: 45 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=lTGJt7Gho0w" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=lTGJt7Gho0w">Open on YouTube</a></p></div></div></div>
 
 ## The Munich-area pilot case shows both promise and caution
@@ -346,11 +344,15 @@ The same standard should apply to Bavarian pilot reports. A credible crew statem
 * whether cockpit window reflections, camera rolling shutter, focus problems or compression artefacts affected any video;
 * whether the reported motion remains anomalous after the aircraft’s own movement is modelled.</div>
 
-This is not debunking by default. It is what gives a case a chance to survive ordinary explanations.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/xFndGbYrmJQ" title="IFEX SETI and UAP Conf. - D. Buettner: The UAPs that Pilots, Passengers and Other Cameras “Capture”" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=xFndGbYrmJQ" target="_blank" rel="noopener noreferrer">IFEX SETI and UAP Conf. - D. Buettner: The UAPs that Pilots, Passengers and Other Cameras “Capture”</a></p><p class="youtube-embed-meta">Channel: Professorship for Space Technology Uni Würzburg</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=xFndGbYrmJQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=xFndGbYrmJQ">Open on YouTube</a></p></div></div></div>
+This is not debunking by default. It is what gives a case a chance to survive ordinary explanations.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/xFndGbYrmJQ" title="IFEX SETI and UAP Conf. - D. Buettner: The UAPs that Pilots, Passengers and Other Cameras “Capture”" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=xFndGbYrmJQ" target="_blank" rel="noopener noreferrer">IFEX SETI and UAP Conf. - D. Buettner: The UAPs that Pilots, Passengers and Other Cameras “Capture”</a></p><p class="youtube-embed-meta">Channel: Professorship for Space Technology Uni Würzburg</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=xFndGbYrmJQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=xFndGbYrmJQ">Open on YouTube</a></p></div></div></div>
+
+
+
+
 
 ## Why Bavaria’s reporting route matters
-
-Bavaria’s most important contribution to pilot UAP credibility may be institutional rather than dramatic. IFEX’s pilot reporting platform turns scattered cockpit stories into a format that can be analysed. The form’s required flight number or registration is particularly important because it links a sighting to a reconstructable aviation event, not just a personal memory.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.uni-wuerzburg.de/en/ifex/research-projects/uap-reporting-center-for-pilots/uap-reporting-form-for-pilots/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uni-wuerzburg.de">[University of Würzburg]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uni-wuerzburg.de</span><span class="citation-popover-title">University of Würzburg UAP Reporting Form for Pilots</span><span class="citation-popover-snippet">University of Würzburg UAP Reporting Form for Pilots</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/TbvLKBcQn-A" title="C. Peters: UAP and the Politics of Secrecy and Disclosure: A Conceptual Provocation" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=TbvLKBcQn-A" target="_blank" rel="noopener noreferrer">C. Peters: UAP and the Politics of Secrecy and Disclosure: A Conceptual Provocation</a></p><p class="youtube-embed-meta">Channel: Professorship for Space Technology Uni Würzburg</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=TbvLKBcQn-A" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=TbvLKBcQn-A">Open on YouTube</a></p></div></div></div>
 

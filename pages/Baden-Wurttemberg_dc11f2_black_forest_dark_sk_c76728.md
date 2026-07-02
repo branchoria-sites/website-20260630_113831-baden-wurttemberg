@@ -52,7 +52,7 @@ text_direction: ltr
 ui_strings:
   home: Home
   overview: Overview
-  overview_prefix:'Overview:'
+  overview_prefix: 'Overview:'
   contents: Contents
   close: Close
   open_contents: Open contents
@@ -200,13 +200,13 @@ ui_strings:
   search_this_page_empty_hint: Type to search this page.
   no_search_results: No pages match this search.
   no_search_this_page_results: No sections on this page match this search.
-  search_results_count_template:'{count} results'
+  search_results_count_template: '{count} results'
   search_kind_page_title: Page title
   search_kind_page_summary: Summary of page
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date:'2026-06-29 22:45:40'
+date: '2026-06-29 22:45:40'
 parent_title: Baden UFOs
 parent_permalink: /what-really-happened-over-baden/
 parent_nav_short_title: Baden UFOs
@@ -296,7 +296,13 @@ image: /assets/images/Baden-Wurttemberg_dc11f2_black_forest_dark_sk_c76728-overv
 
 ## Introduction
 
-The Black Forest is one of the places in Baden-Württemberg where ordinary lights can look least ordinary. Its high ridges, wooded valleys and darker rural edges give casual observers a wider, cleaner view of the sky than they get in Stuttgart, [Mannheim]({{'mannheim/' | relative_url }}), Karlsruhe or Freiburg. That is good for astronomy, but it also changes UFO reporting: bright planets, aircraft, satellites, meteors and distant event lights can appear sharper, brighter, slower or stranger than expected.<img src="{{"/assets/images/Baden-Wurttemberg_dc11f2_black_forest_dark_sk_c76728-overview.webp" | relative_url }}" alt="Overview image for Black Forest" loading="eager" decoding="sync" fetchpriority="high"><div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/8dPm7xkNQVQ" title="Germany’s UFO Secrets They Don’t Want You to Know | Black Forest, Die Glocke &amp; More" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=8dPm7xkNQVQ" target="_blank" rel="noopener noreferrer">Germany’s UFO Secrets They Don’t Want You to Know | Black Forest, Die Glocke &amp; More</a></p><p class="youtube-embed-meta">Channel: Get Germanized &middot; Views: 1.3K &middot; Uploaded: August 2025 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=8dPm7xkNQVQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=8dPm7xkNQVQ">Open on YouTube</a></p></div></div></div>
+The Black Forest is one of the places in Baden-Württemberg where ordinary lights can look least ordinary. Its high ridges, wooded valleys and darker rural edges give casual observers a wider, cleaner view of the sky than they get in Stuttgart, [Mannheim]({{'mannheim/' | relative_url }}), Karlsruhe or Freiburg. That is good for astronomy, but it also changes UFO reporting: bright planets, aircraft, satellites, meteors and distant event lights can appear sharper, brighter, slower or stranger than expected.<img src="{{"/assets/images/Baden-Wurttemberg_dc11f2_black_forest_dark_sk_c76728-overview.webp" | relative_url }}" alt="Overview image for Black Forest" loading="eager" decoding="sync" fetchpriority="high">
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/8dPm7xkNQVQ" title="Germany’s UFO Secrets They Don’t Want You to Know | Black Forest, Die Glocke &amp; More" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=8dPm7xkNQVQ" target="_blank" rel="noopener noreferrer">Germany’s UFO Secrets They Don’t Want You to Know | Black Forest, Die Glocke &amp; More</a></p><p class="youtube-embed-meta">Channel: Get Germanized &middot; Views: 1.3K &middot; Uploaded: August 2025 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=8dPm7xkNQVQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=8dPm7xkNQVQ">Open on YouTube</a></p></div></div></div>
+
+
+
+
 
 ## Why rural darkness changes perception
 
@@ -318,8 +324,6 @@ That example is highly relevant to the Black Forest even though it was not confi
 **Satellites and Starlink trains** have changed the modern UFO baseline. CENAP told SWR that Starlink satellites have been a frequent source of reports since late 2019, especially soon after launch when they can appear like lights strung along a “string of pearls”.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.swr.de/swraktuell/baden-wuerttemberg/rekord-ufo-meldungen-100.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: swr.de">[SWR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">swr.de</span><span class="citation-popover-title">rekord ufo meldungen 100</span><span class="citation-popover-snippet">UFO Sichtungen in Deutschland auf Rekord-Niveau - SWR Aktuell...</span></span></span> General sky-identification guides make the same practical point: a steady moving light high in the sky, especially after sunset or before sunrise, is often a satellite, and it may seem to disappear suddenly as it moves into Earth’s shadow.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.bco.ie/how-to-identify-a-ufo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bco.ie">[MTU Blackrock Castle]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bco.ie</span><span class="citation-popover-title">MTU Blackrock Castle How To Identify A UFO</span><span class="citation-popover-snippet">MTU Blackrock Castle How To Identify A UFO</span></span></span>
 
 In the Black Forest, that effect can be intensified by dark foregrounds. A line of satellites crossing above a black ridge can look structured, deliberate and low, even when it is simply a high orbital pass. Recent satellite-brightness research also shows that Starlink visibility is geometry-dependent: the satellites can flare or dim according to the angle between the Sun, the spacecraft and the observer.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2003.07805" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Open source on arxiv.org.</span></span></span> That is exactly the sort of behaviour a casual witness may describe as acceleration, pulsing or disappearance.
-
-**Aircraft and helicopters** are also plausible in a region bordered by transport corridors, cities and valleys. A guide from MTU Blackrock Castle Observatory notes that steady moving lights with flashes are likely aircraft, and that very bright landing lights near airports can overpower the usual flashing beacons.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.bco.ie/how-to-identify-a-ufo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bco.ie">[MTU Blackrock Castle]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bco.ie</span><span class="citation-popover-title">MTU Blackrock Castle How To Identify A UFO</span><span class="citation-popover-snippet">MTU Blackrock Castle How To Identify A UFO</span></span></span> From a hillside or forest road, an aircraft approaching head-on can seem stationary for longer than expected, then suddenly reveal motion as its angle changes.
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/LXxhVSRmsMw" title="Top 20 UFO Sightings That Shocked Europe | Full Documentary" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=LXxhVSRmsMw" target="_blank" rel="noopener noreferrer">Top 20 UFO Sightings That Shocked Europe | Full Documentary</a></p><p class="youtube-embed-meta">Channel: THE STREAM - Movies and More &middot; Views: 49.6K &middot; Uploaded: October 2024 &middot; Length: 1 hour</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=LXxhVSRmsMw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=LXxhVSRmsMw">Open on YouTube</a></p></div></div></div>
 
@@ -350,6 +354,8 @@ Useful details include:
 * nearby airports, events, roads, cableways, towers or drone activity.</div>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ia6Jr198zYs" title="Germany’s Most Mysterious UFO Case: Lost Time, Beings, and a Warning" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ia6Jr198zYs" target="_blank" rel="noopener noreferrer">Germany’s Most Mysterious UFO Case: Lost Time, Beings, and a Warning</a></p><p class="youtube-embed-meta">Channel: Stories Lost &middot; Views: 72.1K &middot; Uploaded: December 2025 &middot; Length: 42 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ia6Jr198zYs" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ia6Jr198zYs">Open on YouTube</a></p></div></div></div>
+
+
 
 ## What the Black Forest adds to Baden-Württemberg’s UFO history
 

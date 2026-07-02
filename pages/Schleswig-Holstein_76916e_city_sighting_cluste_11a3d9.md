@@ -52,7 +52,7 @@ text_direction: ltr
 ui_strings:
   home: Home
   overview: Overview
-  overview_prefix:'Overview:'
+  overview_prefix: 'Overview:'
   contents: Contents
   close: Close
   open_contents: Open contents
@@ -200,13 +200,13 @@ ui_strings:
   search_this_page_empty_hint: Type to search this page.
   no_search_results: No pages match this search.
   no_search_this_page_results: No sections on this page match this search.
-  search_results_count_template:'{count} results'
+  search_results_count_template: '{count} results'
   search_kind_page_title: Page title
   search_kind_page_summary: Summary of page
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date:'2026-06-30 10:10:20'
+date: '2026-06-30 10:10:20'
 parent_title: Schleswig Holstein UFOs
 parent_permalink: /what-really-flew-over-schleswig-holstein/
 parent_nav_short_title: Schleswig Holstein UFOs
@@ -303,7 +303,13 @@ image: /assets/images/Schleswig-Holstein_76916e_city_sighting_cluste_11a3d9-over
 ## Introduction
 
 Kiel, Flensburg and Lübeck are the three clearest city clusters in [Schleswig-Holstein]({{'what-really-flew-over-schleswig-holstein/' | relative_url }})’s public UFO record, but the pattern is best read as a reporting pattern rather than proof of unusual craft. Ufokarte.de’s Schleswig-Holstein page, which organises cases from the German GEP UFO/UAP database, lists 243 investigated cases for the state, including only 2 marked as still unresolved. The same state overview identifies Kiel with 20 listed cases, Flensburg with 17 and Lübeck with 17, making them the leading local clusters in the public record.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ufokarte.de/bundesland/schleswig-holstein" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufokarte.de">[Ufokarte.de]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufokarte.de</span><span class="citation-popover-title">UF O-Sichtungen in Schleswig-Holstein — Ufokarte.de</span><span class="citation-popover-snippet">UF O-Sichtungen in Schleswig-Holstein — Ufokarte.de</span></span></span><img src="{{"/assets/images/Schleswig-Holstein_76916e_city_sighting_cluste_11a3d9-overview.webp" | relative_url }}" alt="Overview image for Hotspots" loading="eager" decoding="sync" fetchpriority="high">
-That matters because these are not random dots on a map. Kiel, Flensburg and Lübeck are population centres, port cities and coastal skywatching locations. They combine more witnesses, more cameras, more night-time activity, more aircraft and more maritime lights than many rural parts of Schleswig-Holstein. The useful question is therefore not “why are UFOs choosing these cities?” but “why do unusual sky reports gather around these places, and what usually explains them?”<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/834sWCl1oio" title="UFO ÜBER KIEL / EURE UFO STORIES - MOTOVLOG #97" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=834sWCl1oio" target="_blank" rel="noopener noreferrer">UFO ÜBER KIEL / EURE UFO STORIES - MOTOVLOG #97</a></p><p class="youtube-embed-meta">Channel: Vinzler</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=834sWCl1oio" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=834sWCl1oio">Open on YouTube</a></p></div></div></div>
+That matters because these are not random dots on a map. Kiel, Flensburg and Lübeck are population centres, port cities and coastal skywatching locations. They combine more witnesses, more cameras, more night-time activity, more aircraft and more maritime lights than many rural parts of Schleswig-Holstein. The useful question is therefore not “why are UFOs choosing these cities?” but “why do unusual sky reports gather around these places, and what usually explains them?”
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/834sWCl1oio" title="UFO ÜBER KIEL / EURE UFO STORIES - MOTOVLOG #97" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=834sWCl1oio" target="_blank" rel="noopener noreferrer">UFO ÜBER KIEL / EURE UFO STORIES - MOTOVLOG #97</a></p><p class="youtube-embed-meta">Channel: Vinzler</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=834sWCl1oio" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=834sWCl1oio">Open on YouTube</a></p></div></div></div>
+
+
+
+
 
 ## The main city clusters in the public record
 
@@ -326,8 +332,6 @@ Kiel is the clearest example. The port’s own description stresses cargo and pa
 
 One Kiel case illustrates the pattern well. On 18 April 2023, a witness in Kiel-Suchsdorf reported a white-green fireball with a white tail moving within seconds towards the south-west. The GEP assessment listed by Ufokarte identifies the likely explanation as a bolide, meaning a bright meteor or fireball.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ufokarte.de/fall/kiel-20230418-a" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufokarte.de">[Ufokarte.de]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufokarte.de</span><span class="citation-popover-snippet">Open source on ufokarte.de.</span></span></span> This is a classic example of a real, striking sky event that can be honestly reported as strange while still having a natural explanation.
 
-Another Kiel case shows how clustered lights become ambiguous. In May 2008, a witness in Kiel-Holtenau reported several yellowish lights in a C-shaped formation that appeared not to move; after several minutes, the witness photographed them. Ufokarte lists the GEP’s favoured explanation as sky lanterns, though with a question mark attached to the suggested identification.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ufokarte.de/fall/kiel-20080518-d" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufokarte.de">[Ufokarte.de]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufokarte.de</span><span class="citation-popover-title">kiel 20080518 d</span><span class="citation-popover-snippet">kiel 20080518 d</span></span></span> That question mark is important. It shows a middle category common in UFO files: not a strong anomaly, but not always a perfectly closed case either.
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/bQo08JRY0iM" title="Public Meeting on Unidentified Anomalous Phenomena (Official NASA Broadcast)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=bQo08JRY0iM" target="_blank" rel="noopener noreferrer">Public Meeting on Unidentified Anomalous Phenomena (Official NASA Broadcast)</a></p><p class="youtube-embed-meta">Channel: NASA Video &middot; Views: 358.7K &middot; Uploaded: May 2023 &middot; Length: 4 hours</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=bQo08JRY0iM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=bQo08JRY0iM">Open on YouTube</a></p></div></div></div>
 
 ## Why these clusters do not automatically mean anomalies
@@ -349,7 +353,13 @@ That does not mean every report should be dismissed. A good local UFO record pre
 
 Kiel matters because it is the state’s largest and busiest reporting environment: a capital, port, canal gateway and fjord city. Flensburg matters because it shows how a smaller northern city can still produce repeated reports through fjord sightlines, border-region activity and clear-sky observations. Lübeck matters because its reports sit between urban life, the Travemünde port area, ferry routes and aviation activity.
 
-The best way to read these three clusters is therefore comparative. If reports concentrate in Kiel, Flensburg and Lübeck rather than evenly across Schleswig-Holstein, that pattern fits ordinary expectations. People report what they see, and they see more from populated, well-lit, mobile and horizon-rich places. The “hotspot” label is still useful, but only if it is understood in a sober way: these are hotspots of observation, reporting and possible misidentification, not proven centres of extraordinary aerial activity.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/dVQkzhEJ3xU" title="Hakan Kayal Ph.D. &quot;UAP Detection on Mars&quot;" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=dVQkzhEJ3xU" target="_blank" rel="noopener noreferrer">Hakan Kayal Ph.D. &quot;UAP Detection on Mars&quot;</a></p><p class="youtube-embed-meta">Channel: Scientific Coalition for UAP Studies &middot; Views: 837 &middot; Uploaded: March 2026 &middot; Length: 48 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=dVQkzhEJ3xU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=dVQkzhEJ3xU">Open on YouTube</a></p></div></div></div>
+The best way to read these three clusters is therefore comparative. If reports concentrate in Kiel, Flensburg and Lübeck rather than evenly across Schleswig-Holstein, that pattern fits ordinary expectations. People report what they see, and they see more from populated, well-lit, mobile and horizon-rich places. The “hotspot” label is still useful, but only if it is understood in a sober way: these are hotspots of observation, reporting and possible misidentification, not proven centres of extraordinary aerial activity.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/dVQkzhEJ3xU" title="Hakan Kayal Ph.D. &quot;UAP Detection on Mars&quot;" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=dVQkzhEJ3xU" target="_blank" rel="noopener noreferrer">Hakan Kayal Ph.D. &quot;UAP Detection on Mars&quot;</a></p><p class="youtube-embed-meta">Channel: Scientific Coalition for UAP Studies &middot; Views: 837 &middot; Uploaded: March 2026 &middot; Length: 48 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=dVQkzhEJ3xU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=dVQkzhEJ3xU">Open on YouTube</a></p></div></div></div>
+
+
+
+
 
 ## How to judge a new report from these hotspots
 

@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /hamburg-155277-index/
 description: Focused pages that expand on What Did Hamburg Really See in the Sky?.
-date:'2026'
+date: '2026'
 layout: default
 parent_basename: Hamburg_155277
 parent_title: What Did Hamburg Really See in the Sky?

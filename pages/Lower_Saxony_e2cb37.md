@@ -62,7 +62,7 @@ text_direction: ltr
 ui_strings:
   home: Home
   overview: Overview
-  overview_prefix:'Overview:'
+  overview_prefix: 'Overview:'
   contents: Contents
   close: Close
   open_contents: Open contents
@@ -210,13 +210,13 @@ ui_strings:
   search_this_page_empty_hint: Type to search this page.
   no_search_results: No pages match this search.
   no_search_this_page_results: No sections on this page match this search.
-  search_results_count_template:'{count} results'
+  search_results_count_template: '{count} results'
   search_kind_page_title: Page title
   search_kind_page_summary: Summary of page
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date:'2026-06-30 04:08:58'
+date: '2026-06-30 04:08:58'
 sibling_links:
 - basename: Mecklenburg-Vorpomme_d975e6
   title: MV UFOs
@@ -385,7 +385,13 @@ This case matters because it separates three things that are often blurred toget
 * **The first official record was cautious.** Police described what residents reported and investigated the likely source.
 * **The UFO label came mainly from public framing.** The later explanation weakened the mystery rather than strengthening it.</div>
 
-In Lower Saxony’s UFO record, Algermissen is best treated as a debunked or explained “UFO alarm”, not an unresolved aerial anomaly.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/QiDdqjVkYaU" title="Luftwaffe&#x27;s A400M Atlas: Tactical Military Aircraft | Season 4 Episode 6 (Full Episode) | MIGHTY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=QiDdqjVkYaU" target="_blank" rel="noopener noreferrer">Luftwaffe&#x27;s A400M Atlas: Tactical Military Aircraft | Season 4 Episode 6 (Full Episode) | MIGHTY</a></p><p class="youtube-embed-meta">Channel: Mighty</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=QiDdqjVkYaU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=QiDdqjVkYaU">Open on YouTube</a></p></div></div></div>
+In Lower Saxony’s UFO record, Algermissen is best treated as a debunked or explained “UFO alarm”, not an unresolved aerial anomaly.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/QiDdqjVkYaU" title="Luftwaffe&#x27;s A400M Atlas: Tactical Military Aircraft | Season 4 Episode 6 (Full Episode) | MIGHTY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=QiDdqjVkYaU" target="_blank" rel="noopener noreferrer">Luftwaffe&#x27;s A400M Atlas: Tactical Military Aircraft | Season 4 Episode 6 (Full Episode) | MIGHTY</a></p><p class="youtube-embed-meta">Channel: Mighty</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=QiDdqjVkYaU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=QiDdqjVkYaU">Open on YouTube</a></p></div></div></div>
+
+
+
+
 
 ## What the Databases Show: Many Reports, Few Strong Mysteries
 
@@ -428,7 +434,13 @@ This matters for UFO history because many future “UFO” cases in Lower Saxony
 
 The wider German context reinforces that shift. Reuters reported in November 2025 that Germany had recorded its highest number of drone sightings over military bases in October, with growing attention to naval installations; it also noted Wilhelmshaven on the North Sea as the Bundeswehr’s largest garrison and important for North Sea and Baltic operations.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/world/drone-sightings-over-german-military-bases-hit-record-high-october-says-official-2025-11-28/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-snippet">Open source on reuters.com.</span></span></span>
 
-For Lower Saxony readers, that makes Wilhelmshaven and the northern coast especially relevant. They belong to the same state-level UFO/UAP map, but the most plausible frame is now security, drones and airspace monitoring rather than traditional UFO lore.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Z_kaTFm5L6A" title="Boeing C-17A Globemaster III U.S. Air Force landing at Wunstorf Air Base ETNW Air Defender 2023 NATO" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Z_kaTFm5L6A" target="_blank" rel="noopener noreferrer">Boeing C-17A Globemaster III U.S. Air Force landing at Wunstorf Air Base ETNW Air Defender 2023 NATO</a></p><p class="youtube-embed-meta">Channel: ChieftainMK12</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Z_kaTFm5L6A" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Z_kaTFm5L6A">Open on YouTube</a></p></div></div></div>
+For Lower Saxony readers, that makes Wilhelmshaven and the northern coast especially relevant. They belong to the same state-level UFO/UAP map, but the most plausible frame is now security, drones and airspace monitoring rather than traditional UFO lore.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Z_kaTFm5L6A" title="Boeing C-17A Globemaster III U.S. Air Force landing at Wunstorf Air Base ETNW Air Defender 2023 NATO" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Z_kaTFm5L6A" target="_blank" rel="noopener noreferrer">Boeing C-17A Globemaster III U.S. Air Force landing at Wunstorf Air Base ETNW Air Defender 2023 NATO</a></p><p class="youtube-embed-meta">Channel: ChieftainMK12</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Z_kaTFm5L6A" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Z_kaTFm5L6A">Open on YouTube</a></p></div></div></div>
+
+
+
+
 
 ## Common Explanations in Lower Saxony Sightings
 
@@ -461,7 +473,13 @@ A stronger Lower Saxony UFO/UAP case would need more than a dramatic witness acc
 
 Recent institutional developments may improve the quality of future reports. The University of Würzburg announced in 2025 that its IFEX research centre and the German Federal Aviation Office were cooperating on UAP reporting for pilots, with the aviation office linking to the Würzburg reporting form and the system expected to expand towards database integration and image or video uploads.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.uni-wuerzburg.de/en/news-and-events/news/detail/news/uap-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uni-wuerzburg.de">[University of Würzburg]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uni-wuerzburg.de</span><span class="citation-popover-snippet">Open source on uni-wuerzburg.de.</span></span></span>
 
-That kind of reporting channel is relevant to Lower Saxony because the state has many plausible aviation and drone contexts. A pilot report from near Wunstorf, Wittmund, Hannover Airport or the North Sea coast would be more useful if it entered a structured system quickly rather than circulating first as a stripped-down social media clip.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/cmM-xVFPsA0" title="German Air Force A400M | Spectacular Night Landing at Wunstorf Air Force Base | Real Airbus Pilot" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=cmM-xVFPsA0" target="_blank" rel="noopener noreferrer">German Air Force A400M | Spectacular Night Landing at Wunstorf Air Force Base | Real Airbus Pilot</a></p><p class="youtube-embed-meta">Channel: A330 Driver</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=cmM-xVFPsA0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=cmM-xVFPsA0">Open on YouTube</a></p></div></div></div>
+That kind of reporting channel is relevant to Lower Saxony because the state has many plausible aviation and drone contexts. A pilot report from near Wunstorf, Wittmund, Hannover Airport or the North Sea coast would be more useful if it entered a structured system quickly rather than circulating first as a stripped-down social media clip.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/cmM-xVFPsA0" title="German Air Force A400M | Spectacular Night Landing at Wunstorf Air Force Base | Real Airbus Pilot" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=cmM-xVFPsA0" target="_blank" rel="noopener noreferrer">German Air Force A400M | Spectacular Night Landing at Wunstorf Air Force Base | Real Airbus Pilot</a></p><p class="youtube-embed-meta">Channel: A330 Driver</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=cmM-xVFPsA0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=cmM-xVFPsA0">Open on YouTube</a></p></div></div></div>
+
+
+
+
 
 ## The Balanced Takeaway for Lower Saxony
 

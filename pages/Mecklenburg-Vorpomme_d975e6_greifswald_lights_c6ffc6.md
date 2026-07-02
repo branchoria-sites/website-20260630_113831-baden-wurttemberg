@@ -52,7 +52,7 @@ text_direction: ltr
 ui_strings:
   home: Home
   overview: Overview
-  overview_prefix:'Overview:'
+  overview_prefix: 'Overview:'
   contents: Contents
   close: Close
   open_contents: Open contents
@@ -200,13 +200,13 @@ ui_strings:
   search_this_page_empty_hint: Type to search this page.
   no_search_results: No pages match this search.
   no_search_this_page_results: No sections on this page match this search.
-  search_results_count_template:'{count} results'
+  search_results_count_template: '{count} results'
   search_kind_page_title: Page title
   search_kind_page_summary: Summary of page
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date:'2026-06-30 03:22:34'
+date: '2026-06-30 03:22:34'
 parent_title: MV UFOs
 parent_permalink: /mecklenburg-vorpommern/
 parent_nav_short_title: MV UFOs
@@ -322,7 +322,13 @@ The timing amplified the mystery. The event occurred in 1990, in the final month
 
 The coastal setting also made the story unusually persuasive to non-specialists. Greifswald sits on the Baltic coast between Rügen and Usedom, where military activity, shipping routes, tourism and open water all overlap. A bright event over the sea can be seen from several places while still being hard for observers to locate accurately. That makes the Bay of Greifswald an ideal stage for a sighting that feels close, silent and structured, even when the source may be distant and conventional.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Greifswald" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span>
 
-For UFO culture, the case had additional appeal because it was not merely an old anecdote. It had moving images. It had witnesses. It had a named place. It also arrived in an era when the Belgian UFO wave and other European cases were being discussed, so it could be folded into a broader narrative of major European sightings around 1989–1990. That broader narrative, however, can blur the most important point: Greifswald’s value lies less in proving an extraordinary object and more in showing how strong-looking evidence can still support an ordinary explanation.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/wU8IeHY6W48" title="The Mystery Signal That Led A German Fleet to Its Death" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=wU8IeHY6W48" target="_blank" rel="noopener noreferrer">The Mystery Signal That Led A German Fleet to Its Death</a></p><p class="youtube-embed-meta">Channel: Dark Seas &middot; Views: 155.3K &middot; Uploaded: July 2025 &middot; Length: 24 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=wU8IeHY6W48" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=wU8IeHY6W48">Open on YouTube</a></p></div></div></div>
+For UFO culture, the case had additional appeal because it was not merely an old anecdote. It had moving images. It had witnesses. It had a named place. It also arrived in an era when the Belgian UFO wave and other European cases were being discussed, so it could be folded into a broader narrative of major European sightings around 1989–1990. That broader narrative, however, can blur the most important point: Greifswald’s value lies less in proving an extraordinary object and more in showing how strong-looking evidence can still support an ordinary explanation.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/wU8IeHY6W48" title="The Mystery Signal That Led A German Fleet to Its Death" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=wU8IeHY6W48" target="_blank" rel="noopener noreferrer">The Mystery Signal That Led A German Fleet to Its Death</a></p><p class="youtube-embed-meta">Channel: Dark Seas &middot; Views: 155.3K &middot; Uploaded: July 2025 &middot; Length: 24 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=wU8IeHY6W48" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=wU8IeHY6W48">Open on YouTube</a></p></div></div></div>
+
+
+
+
 
 ## How the flare explanation changed the story
 
@@ -342,6 +348,8 @@ The best evidence for the Greifswald lights is that many people saw and recorded
 But documentation is not the same as identification. The videos show lights, not a craft. Witnesses could describe direction, brightness, pattern and duration, but distance and size were uncertain. The more extraordinary readings depend on treating apparent hovering, formation and brightness as properties of objects rather than effects of perspective, distance and over-water viewing.
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ojtrYxF75J8" title="UFOs ... und es gibt sie doch! (NDR-Doku, 1994)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ojtrYxF75J8" target="_blank" rel="noopener noreferrer">UFOs ... und es gibt sie doch! (NDR-Doku, 1994)</a></p><p class="youtube-embed-meta">Channel: The real Marcoman</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ojtrYxF75J8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ojtrYxF75J8">Open on YouTube</a></p></div></div></div>
+
+
 
 ## What Greifswald means for Mecklenburg-Vorpommern’s UFO history
 

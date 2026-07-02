@@ -52,7 +52,7 @@ text_direction: ltr
 ui_strings:
   home: Home
   overview: Overview
-  overview_prefix:'Overview:'
+  overview_prefix: 'Overview:'
   contents: Contents
   close: Close
   open_contents: Open contents
@@ -200,13 +200,13 @@ ui_strings:
   search_this_page_empty_hint: Type to search this page.
   no_search_results: No pages match this search.
   no_search_this_page_results: No sections on this page match this search.
-  search_results_count_template:'{count} results'
+  search_results_count_template: '{count} results'
   search_kind_page_title: Page title
   search_kind_page_summary: Summary of page
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date:'2026-06-30 02:44:13'
+date: '2026-06-30 02:44:13'
 parent_title: Hesse UFOs
 parent_permalink: /why-hesses-ufo-stories-usually-come/
 parent_nav_short_title: Hesse UFOs
@@ -332,7 +332,13 @@ The method is object-focused. CENAP tries to match the reported stimulus with kn
 
 The centre also uses accumulated experience. A single light trail can feel unprecedented to the observer, but to a reporting hub it may resemble dozens of previous Starlink, meteor, aircraft or drone cases. Hessischer Rundfunk reported that CENAP checks every submitted photo, but that the “decisive” image proving something extraordinary has not arrived.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.hessenschau.de/panorama/wegen-starlink-und-drohnen-rekordzahl-an-ufo-sichtungen-in-deutschland-eingeschickt-v1%2Cufo-sichtungen-100.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hessenschau.de">[hessenschau.de]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hessenschau.de</span><span class="citation-popover-snippet">Open source on hessenschau.de.</span></span></span>
 
-This is why CENAP’s explanations can feel deflating but still useful. The hub does not need to prove that nothing unusual could ever happen. It needs to ask whether this report, at this time and place, is better explained by a known object or effect than by an unknown craft.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/6NrAQbco7dQ" title="The UFO &#x27;cookbook&#x27;: How the American government investigates the unexplainable" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=6NrAQbco7dQ" target="_blank" rel="noopener noreferrer">The UFO &#x27;cookbook&#x27;: How the American government investigates the unexplainable</a></p><p class="youtube-embed-meta">Channel: PBS NewsHour &middot; Views: 17.1K &middot; Uploaded: May 2025 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=6NrAQbco7dQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=6NrAQbco7dQ">Open on YouTube</a></p></div></div></div>
+This is why CENAP’s explanations can feel deflating but still useful. The hub does not need to prove that nothing unusual could ever happen. It needs to ask whether this report, at this time and place, is better explained by a known object or effect than by an unknown craft.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/6NrAQbco7dQ" title="The UFO &#x27;cookbook&#x27;: How the American government investigates the unexplainable" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=6NrAQbco7dQ" target="_blank" rel="noopener noreferrer">The UFO &#x27;cookbook&#x27;: How the American government investigates the unexplainable</a></p><p class="youtube-embed-meta">Channel: PBS NewsHour &middot; Views: 17.1K &middot; Uploaded: May 2025 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=6NrAQbco7dQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=6NrAQbco7dQ">Open on YouTube</a></p></div></div></div>
+
+
+
+
 
 ## The Starlink and drone era changed the workload
 
@@ -363,7 +369,13 @@ But a private explanation is not the same as an official investigation. CENAP ca
 
 There is also a trust issue. CENAP is widely associated with sceptical UFO investigation. That scepticism is part of its usefulness: it reduces the temptation to treat every puzzling light as extraordinary. Yet it also creates criticism from people who believe CENAP too quickly reduces cases to ordinary causes. Some German UFO circles have accused it of being too desk-based, too dismissive of witnesses or too committed to debunking. Even if those criticisms vary in quality, they matter because public confidence depends not only on the final answer but on whether the process feels fair.
 
-The best way to read CENAP’s output is therefore neither blind acceptance nor automatic dismissal. A strong CENAP explanation should be judged by whether it accounts for the reported time, direction, motion, appearance and duration better than the alternatives. A weak explanation should remain provisional, especially when the original report lacks enough data or when the proposed cause does not match the witness geometry.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Rn39Hhyk7WE" title="Pentagon UFO files show no alien evidence, analyst says" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Rn39Hhyk7WE" target="_blank" rel="noopener noreferrer">Pentagon UFO files show no alien evidence, analyst says</a></p><p class="youtube-embed-meta">Channel: Reuters &middot; Views: 21.3K &middot; Uploaded: May 2026 &middot; Length: 1 minute 10 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Rn39Hhyk7WE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Rn39Hhyk7WE">Open on YouTube</a></p></div></div></div>
+The best way to read CENAP’s output is therefore neither blind acceptance nor automatic dismissal. A strong CENAP explanation should be judged by whether it accounts for the reported time, direction, motion, appearance and duration better than the alternatives. A weak explanation should remain provisional, especially when the original report lacks enough data or when the proposed cause does not match the witness geometry.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Rn39Hhyk7WE" title="Pentagon UFO files show no alien evidence, analyst says" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Rn39Hhyk7WE" target="_blank" rel="noopener noreferrer">Pentagon UFO files show no alien evidence, analyst says</a></p><p class="youtube-embed-meta">Channel: Reuters &middot; Views: 21.3K &middot; Uploaded: May 2026 &middot; Length: 1 minute 10 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Rn39Hhyk7WE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Rn39Hhyk7WE">Open on YouTube</a></p></div></div></div>
+
+
+
+
 
 ## Why the archive matters more than any single sighting
 
@@ -373,7 +385,13 @@ That long memory changes the meaning of a new report. A witness may think, “I 
 
 The archive also helps separate two very different meanings of “unexplained”. One meaning is exciting: a well-documented event survives serious checks and remains puzzling. The other is weaker: a report cannot be resolved because it was late, vague, badly filmed, missing direction, or unsupported by independent data. CENAP’s own public image rests heavily on the claim that most mysteries fall into the second category or can be explained by known causes.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.deutschland.de/en/topic/knowledge/ufos-over-germany-hansjuergen-koehler-and-cenap" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: deutschland.de">[Deutschland]</a><span class="citation-popover" role="note"><span class="citation-popover-source">deutschland.de</span><span class="citation-popover-title">UFOs over Germany: An expert provides clarity</span><span class="citation-popover-snippet">UFOs over Germany: An expert provides clarity</span></span></span>
 
-For Hesse’s UFO history, that is the real importance of Lützelbach. It is less a place where UFO legends are born than a place where many legends are prevented from forming too quickly.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ciopi2r7j-k" title="Not As They Seem - Mick West on UFOs, Conspiracy Theories, and Pseudoscience" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ciopi2r7j-k" target="_blank" rel="noopener noreferrer">Not As They Seem - Mick West on UFOs, Conspiracy Theories, and Pseudoscience</a></p><p class="youtube-embed-meta">Channel: This Week in Space &middot; Views: 7.0K &middot; Uploaded: February 2025 &middot; Length: 1 hour 15 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ciopi2r7j-k" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ciopi2r7j-k">Open on YouTube</a></p></div></div></div>
+For Hesse’s UFO history, that is the real importance of Lützelbach. It is less a place where UFO legends are born than a place where many legends are prevented from forming too quickly.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ciopi2r7j-k" title="Not As They Seem - Mick West on UFOs, Conspiracy Theories, and Pseudoscience" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ciopi2r7j-k" target="_blank" rel="noopener noreferrer">Not As They Seem - Mick West on UFOs, Conspiracy Theories, and Pseudoscience</a></p><p class="youtube-embed-meta">Channel: This Week in Space &middot; Views: 7.0K &middot; Uploaded: February 2025 &middot; Length: 1 hour 15 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ciopi2r7j-k" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ciopi2r7j-k">Open on YouTube</a></p></div></div></div>
+
+
+
+
 
 ## How readers should use CENAP in Hesse UFO research
 

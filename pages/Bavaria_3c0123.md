@@ -62,7 +62,7 @@ text_direction: ltr
 ui_strings:
   home: Home
   overview: Overview
-  overview_prefix:'Overview:'
+  overview_prefix: 'Overview:'
   contents: Contents
   close: Close
   open_contents: Open contents
@@ -210,13 +210,13 @@ ui_strings:
   search_this_page_empty_hint: Type to search this page.
   no_search_results: No pages match this search.
   no_search_this_page_results: No sections on this page match this search.
-  search_results_count_template:'{count} results'
+  search_results_count_template: '{count} results'
   search_kind_page_title: Page title
   search_kind_page_summary: Summary of page
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date:'2026-06-29 22:45:48'
+date: '2026-06-29 22:45:48'
 sibling_links:
 - basename: Mecklenburg-Vorpomme_d975e6
   title: MV UFOs
@@ -383,7 +383,13 @@ Munich appears in the Project Blue Book archive through a February 1960 case lis
 
 This is not a landmark case in the way Roswell, Rendlesham Forest or Washington 1952 became landmark cases. Its value is different. It shows that Bavarian reports could enter the US Air Force’s wider UFO documentation system, especially in a period when West Germany was strategically important and Allied aviation activity was dense. The [Munich file]({{'munich-file/' | relative_url }}) is also a useful reminder that a case being in an official archive does not mean it was judged extraordinary. Official archives contain weak cases, explained cases, incomplete cases and paperwork generated because someone had to log a report.
 
-For Bavaria’s UFO history, the Munich file is best treated as evidence of process rather than proof of an unknown craft. It confirms that Bavarian observations were part of the broader Cold War UFO reporting network, while the available classification hints that investigators leaned towards an ordinary object.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/dVQkzhEJ3xU" title="Hakan Kayal Ph.D. &quot;UAP Detection on Mars&quot;" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=dVQkzhEJ3xU" target="_blank" rel="noopener noreferrer">Hakan Kayal Ph.D. &quot;UAP Detection on Mars&quot;</a></p><p class="youtube-embed-meta">Channel: Scientific Coalition for UAP Studies &middot; Views: 837 &middot; Uploaded: March 2026 &middot; Length: 48 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=dVQkzhEJ3xU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=dVQkzhEJ3xU">Open on YouTube</a></p></div></div></div>
+For Bavaria’s UFO history, the Munich file is best treated as evidence of process rather than proof of an unknown craft. It confirms that Bavarian observations were part of the broader Cold War UFO reporting network, while the available classification hints that investigators leaned towards an ordinary object.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/dVQkzhEJ3xU" title="Hakan Kayal Ph.D. &quot;UAP Detection on Mars&quot;" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=dVQkzhEJ3xU" target="_blank" rel="noopener noreferrer">Hakan Kayal Ph.D. &quot;UAP Detection on Mars&quot;</a></p><p class="youtube-embed-meta">Channel: Scientific Coalition for UAP Studies &middot; Views: 837 &middot; Uploaded: March 2026 &middot; Length: 48 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=dVQkzhEJ3xU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=dVQkzhEJ3xU">Open on YouTube</a></p></div></div></div>
+
+
+
+
 
 ## Modern Bavaria: Würzburg, pilots and the shift from UFO stories to UAP data
 
@@ -414,7 +420,13 @@ In practice, the strongest Bavarian cases would need several of the following:<d
 * **Independent witnesses:** reports from separate locations are more useful than several people standing together.
 * **Original imagery:** compressed social-media clips are weaker than original files with metadata.
 * **Aviation or astronomical cross-checks:** flight tracking, satellite predictions, ISS passes, planet positions and meteor activity often solve cases quickly.
-* **Weather and optical conditions:** haze, ice crystals, low sun, cloud layers and reflections can create dramatic effects.</div><div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/p9vfCUPsCpE" title="A Sun Dog is a Mock Sun is a Parhelion" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=p9vfCUPsCpE" target="_blank" rel="noopener noreferrer">A Sun Dog is a Mock Sun is a Parhelion</a></p><p class="youtube-embed-meta">Channel: Alan Sealls</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=p9vfCUPsCpE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=p9vfCUPsCpE">Open on YouTube</a></p></div></div></div>
+* **Weather and optical conditions:** haze, ice crystals, low sun, cloud layers and reflections can create dramatic effects.</div>
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/p9vfCUPsCpE" title="A Sun Dog is a Mock Sun is a Parhelion" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=p9vfCUPsCpE" target="_blank" rel="noopener noreferrer">A Sun Dog is a Mock Sun is a Parhelion</a></p><p class="youtube-embed-meta">Channel: Alan Sealls</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=p9vfCUPsCpE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=p9vfCUPsCpE">Open on YouTube</a></p></div></div></div>
+
+
+
+
 
 ## Bavaria’s aviation angle: airports, pilots and military geography
 
@@ -422,7 +434,13 @@ Bavaria’s UFO history is hard to separate from aviation. Munich is one of Germ
 
 The 2025 discussion of a reported object east of Munich illustrates the modern version of this problem. Regional coverage described a cockpit crew seeing a group of bright lights without an obvious connecting structure, with the case reportedly being examined by IFEX and checked against flight-tracking data. The public evidence available through journalism is not enough to treat the case as solved or extraordinary, but it is a good example of the kind of report that deserves careful handling: trained witnesses, aviation context, images, possible flight-path reconstruction, and still a need for caution.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.merkur.de/bayern/ueber-bayern-gesichtet-merkwuerdigste-was-wir-je-beobachtet-haben-mysterioeses-flugobjekt-93981574.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: merkur.de">[Merkur]</a><span class="citation-popover" role="note"><span class="citation-popover-source">merkur.de</span><span class="citation-popover-snippet">Open source on merkur.de.</span></span></span>
 
-The key point is that aviation-linked cases should not be inflated simply because pilots are involved. They should be prioritised because they may contain better data. A pilot report can still be a satellite, balloon, drone, reflection, weather phenomenon or distant aircraft. But when the report is detailed enough to test, it has more investigative value than a vague night-light account.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/h-LoPIMYTVs" title="EL MISTERIO DE 1561 EN NÚREMBERG, EL CASO UFOLÓGICO QUE DESAFÍA LA HISTORIA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=h-LoPIMYTVs" target="_blank" rel="noopener noreferrer">EL MISTERIO DE 1561 EN NÚREMBERG, EL CASO UFOLÓGICO QUE DESAFÍA LA HISTORIA</a></p><p class="youtube-embed-meta">Channel: Viajar en la Historia</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=h-LoPIMYTVs" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=h-LoPIMYTVs">Open on YouTube</a></p></div></div></div>
+The key point is that aviation-linked cases should not be inflated simply because pilots are involved. They should be prioritised because they may contain better data. A pilot report can still be a satellite, balloon, drone, reflection, weather phenomenon or distant aircraft. But when the report is detailed enough to test, it has more investigative value than a vague night-light account.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/h-LoPIMYTVs" title="EL MISTERIO DE 1561 EN NÚREMBERG, EL CASO UFOLÓGICO QUE DESAFÍA LA HISTORIA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=h-LoPIMYTVs" target="_blank" rel="noopener noreferrer">EL MISTERIO DE 1561 EN NÚREMBERG, EL CASO UFOLÓGICO QUE DESAFÍA LA HISTORIA</a></p><p class="youtube-embed-meta">Channel: Viajar en la Historia</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=h-LoPIMYTVs" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=h-LoPIMYTVs">Open on YouTube</a></p></div></div></div>
+
+
+
+
 
 ## The main doubts: why Bavaria’s UFO record is interesting but not conclusive
 

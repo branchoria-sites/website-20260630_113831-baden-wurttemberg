@@ -62,7 +62,7 @@ text_direction: ltr
 ui_strings:
   home: Home
   overview: Overview
-  overview_prefix:'Overview:'
+  overview_prefix: 'Overview:'
   contents: Contents
   close: Close
   open_contents: Open contents
@@ -210,13 +210,13 @@ ui_strings:
   search_this_page_empty_hint: Type to search this page.
   no_search_results: No pages match this search.
   no_search_this_page_results: No sections on this page match this search.
-  search_results_count_template:'{count} results'
+  search_results_count_template: '{count} results'
   search_kind_page_title: Page title
   search_kind_page_summary: Summary of page
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date:'2026-06-29 23:32:56'
+date: '2026-06-29 23:32:56'
 sibling_links:
 - basename: Mecklenburg-Vorpomme_d975e6
   title: MV UFOs
@@ -389,7 +389,13 @@ Berlin’s most consequential recent unidentified-object stories are not classic
 
 A later March 2026 incident was reported as a “luminous flying object” near Berlin Brandenburg Airport, close to a German armed forces helicopter hangar. According to Kyiv Post’s account, departures and arrivals were paused for less than half an hour, but police did not substantiate the suspected drone after searching the area.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.kyivpost.com/post/71734" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kyivpost.com">[Kyiv Post]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kyivpost.com</span><span class="citation-popover-title">Kyiv Post Flights Halted After &#x27;Luminous Flying Object&#x27; Sighted Over</span><span class="citation-popover-snippet">Kyiv Post Flights Halted After &#x27;Luminous Flying Object&#x27; Sighted Over</span></span></span>
 
-These incidents matter for a Berlin UFO page because they show how the word “unidentified” now operates in aviation. An object can be unidentified for operational purposes even if no one thinks it is extraterrestrial. Air traffic control has to act before certainty is available. A small drone, balloon or unknown light near a runway is not a folklore problem; it is a safety problem.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/rX0189Ky9G0" title="Germany’s Other Roswell? 1561 Nuremberg Sky Battle Explained" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=rX0189Ky9G0" target="_blank" rel="noopener noreferrer">Germany’s Other Roswell? 1561 Nuremberg Sky Battle Explained</a></p><p class="youtube-embed-meta">Channel: Get Germanized &middot; Views: 3.5K &middot; Uploaded: October 2025 &middot; Length: 6 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=rX0189Ky9G0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=rX0189Ky9G0">Open on YouTube</a></p></div></div></div>
+These incidents matter for a Berlin UFO page because they show how the word “unidentified” now operates in aviation. An object can be unidentified for operational purposes even if no one thinks it is extraterrestrial. Air traffic control has to act before certainty is available. A small drone, balloon or unknown light near a runway is not a folklore problem; it is a safety problem.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/rX0189Ky9G0" title="Germany’s Other Roswell? 1561 Nuremberg Sky Battle Explained" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=rX0189Ky9G0" target="_blank" rel="noopener noreferrer">Germany’s Other Roswell? 1561 Nuremberg Sky Battle Explained</a></p><p class="youtube-embed-meta">Channel: Get Germanized &middot; Views: 3.5K &middot; Uploaded: October 2025 &middot; Length: 6 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=rX0189Ky9G0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=rX0189Ky9G0">Open on YouTube</a></p></div></div></div>
+
+
+
+
 
 ## What official records do and do not say
 
@@ -422,13 +428,25 @@ Berlin’s investigated cases show several recurring explanation families:
 
 **Camera artefacts and reflections.** Several Berlin entries involve objects noticed only after photographs were reviewed. Lens flare, reflections through windows, motion blur, long exposure trails and compression artefacts can all produce shapes that were not seen by the eye at the time.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ufokarte.de/ort/berlin" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufokarte.de">[Ufokarte.de]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufokarte.de</span><span class="citation-popover-title">UF O-Sichtungen in Berlin (Berlin) — Ufokarte.de</span><span class="citation-popover-snippet">UF O-Sichtungen in Berlin (Berlin) — Ufokarte.de</span></span></span>
 
-These explanations are not excuses to ignore reports. They are the working checklist that separates a genuinely puzzling case from a familiar skywatching error.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/eP9VedmXobU" title="UFO in BERLIN: witness of a strangely slow-moving UAP (Flying Saucer Encounter) | BERLINPARANORMAL" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=eP9VedmXobU" target="_blank" rel="noopener noreferrer">UFO in BERLIN: witness of a strangely slow-moving UAP (Flying Saucer Encounter) | BERLINPARANORMAL</a></p><p class="youtube-embed-meta">Channel: IsoladelleroseTV</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=eP9VedmXobU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=eP9VedmXobU">Open on YouTube</a></p></div></div></div>
+These explanations are not excuses to ignore reports. They are the working checklist that separates a genuinely puzzling case from a familiar skywatching error.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/eP9VedmXobU" title="UFO in BERLIN: witness of a strangely slow-moving UAP (Flying Saucer Encounter) | BERLINPARANORMAL" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=eP9VedmXobU" target="_blank" rel="noopener noreferrer">UFO in BERLIN: witness of a strangely slow-moving UAP (Flying Saucer Encounter) | BERLINPARANORMAL</a></p><p class="youtube-embed-meta">Channel: IsoladelleroseTV</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=eP9VedmXobU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=eP9VedmXobU">Open on YouTube</a></p></div></div></div>
+
+
+
+
 
 ## The Cold War setting: why Berlin invites bigger stories
 
 Berlin’s history makes it easy for UFO stories to acquire a heavier meaning. For decades, the city was surrounded by militarised borders, air corridors, allied aircraft, intelligence activity and political tension. An unusual light over Berlin could be imagined not merely as a mystery in the sky but as surveillance, secret technology, a military test or a sign of crisis.
 
-That historical atmosphere is real, but the evidence still has to be local and specific. Broad claims about “UFOs over the Berlin Wall” or mass sightings during reunification are weak unless tied to dated local reporting, named witnesses, official records or preserved investigation files. Searches for a strong, documented Berlin Wall UFO case mostly return later social-media claims or unrelated material, not a robust historical incident.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Ky2cNROU3mM" title="Drone intrusion halts flights at Berlin airport | Morning Report" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Ky2cNROU3mM" target="_blank" rel="noopener noreferrer">Drone intrusion halts flights at Berlin airport | Morning Report</a></p><p class="youtube-embed-meta">Channel: TVP WORLD</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Ky2cNROU3mM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Ky2cNROU3mM">Open on YouTube</a></p></div></div></div>
+That historical atmosphere is real, but the evidence still has to be local and specific. Broad claims about “UFOs over the Berlin Wall” or mass sightings during reunification are weak unless tied to dated local reporting, named witnesses, official records or preserved investigation files. Searches for a strong, documented Berlin Wall UFO case mostly return later social-media claims or unrelated material, not a robust historical incident.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Ky2cNROU3mM" title="Drone intrusion halts flights at Berlin airport | Morning Report" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Ky2cNROU3mM" target="_blank" rel="noopener noreferrer">Drone intrusion halts flights at Berlin airport | Morning Report</a></p><p class="youtube-embed-meta">Channel: TVP WORLD</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Ky2cNROU3mM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Ky2cNROU3mM">Open on YouTube</a></p></div></div></div>
+
+
+
+
 
 ## How to judge a Berlin UFO claim
 

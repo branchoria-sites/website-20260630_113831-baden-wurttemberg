@@ -52,7 +52,7 @@ text_direction: ltr
 ui_strings:
   home: Home
   overview: Overview
-  overview_prefix:'Overview:'
+  overview_prefix: 'Overview:'
   contents: Contents
   close: Close
   open_contents: Open contents
@@ -200,13 +200,13 @@ ui_strings:
   search_this_page_empty_hint: Type to search this page.
   no_search_results: No pages match this search.
   no_search_this_page_results: No sections on this page match this search.
-  search_results_count_template:'{count} results'
+  search_results_count_template: '{count} results'
   search_kind_page_title: Page title
   search_kind_page_summary: Summary of page
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date:'2026-06-29 23:32:59'
+date: '2026-06-29 23:32:59'
 parent_title: Berlin UFOs
 parent_permalink: /what-berlins-ufo-reports-really-show/
 parent_nav_short_title: Berlin UFOs
@@ -316,8 +316,6 @@ The absence of a permanent public national UFO office also changes the tone of t
 
 GEP, the Society for the Study of the UFO Phenomenon, is one of Germany’s central civilian UFO/UAP organisations. Its own public material describes it as a civil citizen-science organisation and a long-running point of contact for sighting reports and questions about UFOs and UAP. Its downloads page includes witness forms, annual reports, monthly summaries, research principles and public-facing material, showing how much of its work depends on structured reporting rather than casual anecdote.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ufo-forschung.de/downloads" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufo-forschung.de">[ufo-forschung.de]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufo-forschung.de</span><span class="citation-popover-title">Downloads – Gesellschaft zur Erforschung des UFO-Phänomens e.V</span><span class="citation-popover-snippet">Downloads – Gesellschaft zur Erforschung des UFO-Phänomens e.V</span></span></span>
 
-For Berlin, GEP’s most visible contribution is the conversion of scattered sightings into searchable, classified records. Ufokarte, an independent portal using GEP [case data]({{'case-data/' | relative_url }}), lists 158 investigated Berlin UFO/UAP cases, zero unresolved cases, four Global Meteor Network fireballs and one public report. The same page makes clear that Ufokarte is not itself an official reporting office, but that its case material is drawn from GEP data.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ufokarte.de/bundesland/berlin" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufokarte.de">[Ufokarte.de]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufokarte.de</span><span class="citation-popover-title">UF O-Sichtungen in Berlin — Ufokarte.de</span><span class="citation-popover-snippet">UF O-Sichtungen in Berlin — Ufokarte.de</span></span></span>
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/L3sZ4bLvpbE" title="Sky Observers Hangout: The Venus-Jupiter Conjunction of 2023" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=L3sZ4bLvpbE" target="_blank" rel="noopener noreferrer">Sky Observers Hangout: The Venus-Jupiter Conjunction of 2023</a></p><p class="youtube-embed-meta">Channel: Adler Planetarium</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=L3sZ4bLvpbE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=L3sZ4bLvpbE">Open on YouTube</a></p></div></div></div>
 
 ## CENAP’s sceptical tradition
@@ -334,8 +332,6 @@ For Berlin readers, the lesson is straightforward: a rise in reports does not au
 Berlin’s investigated cases are often more instructive after follow-up than before it. The raw witness story may sound strange; the finished file usually shows whether the strangeness came from the object, the viewing conditions, the camera, the witness’s incomplete information, or the limits of the record.
 
 One clear example is the [Berlin-Britz]({{'berlin-britz/' | relative_url }}) case of 1 March 2023. A 23-year-old witness filmed two bright lights close together in the evening sky. GEP’s likely explanation, as reproduced by Ufokarte, was a conjunction of planets. That conclusion is strengthened by the wider astronomical context: Venus and Jupiter were making a close, highly visible evening conjunction around 1 March 2023, an event widely noted by astronomy outlets because the two bright planets appeared unusually close to each other.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ufokarte.de/fall/berlin-20230301-f" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufokarte.de">[Ufokarte.de]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufokarte.de</span><span class="citation-popover-title">berlin 20230301 f</span><span class="citation-popover-snippet">berlin 20230301 f</span></span></span>
-
-A second pattern appears in the Starlink cases. On 28 March 2020, a Berlin witness and others saw about 30 white, star-like lights moving in a line with regular spacing; GEP identified the likely explanation as SpaceX Starlink satellites.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ufokarte.de/fall/berlin-20200328-e" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufokarte.de">[Ufokarte.de]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufokarte.de</span><span class="citation-popover-title">berlin 20200328 e</span><span class="citation-popover-snippet">berlin 20200328 e</span></span></span> A similar Berlin report from 26 July 2019 described around six star-like lights moving quickly and silently in a row across a clear sky, with Starlink given as the favoured explanation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ufokarte.de/fall/berlin-20190726-a" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufokarte.de">[Ufokarte.de]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufokarte.de</span><span class="citation-popover-snippet">Open source on ufokarte.de.</span></span></span> These cases matter because they show how a modern satellite train can mimic an organised, artificial formation without requiring anything exotic.
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/IPfnjZkZmnI" title="Jupiter &amp; Venus Conjunction - March 1, 2023 - the closest approach. Two bright objects in the sky!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=IPfnjZkZmnI" target="_blank" rel="noopener noreferrer">Jupiter &amp; Venus Conjunction - March 1, 2023 - the closest approach. Two bright objects in the sky!</a></p><p class="youtube-embed-meta">Channel: Mr SuperMole</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=IPfnjZkZmnI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=IPfnjZkZmnI">Open on YouTube</a></p></div></div></div>
 
@@ -363,7 +359,13 @@ For Berlin casework, this development is relevant but should not be overstated. 
 
 The most responsible way to read Berlin UFO reports is to separate three layers: the witness experience, the case evidence and the investigator’s conclusion. A witness may be sincere and observant, yet still be mistaken about distance, size, speed or altitude. A case may be intriguing but too thinly documented. An investigator’s conclusion may be probable rather than absolute, especially where the file uses language such as a favoured explanation.
 
-Berlin’s urban setting makes this especially important. The city produces many plausible false positives: aircraft on approach, helicopters, drones, police activity, advertising lights, fireworks, balloons, satellites, planets, reflections from windows, and camera artefacts from quick phone recordings. The best casework does not mock witnesses for being puzzled; it explains why a sighting looked strange from that place at that time.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/eP9VedmXobU" title="UFO in BERLIN: witness of a strangely slow-moving UAP (Flying Saucer Encounter) | BERLINPARANORMAL" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=eP9VedmXobU" target="_blank" rel="noopener noreferrer">UFO in BERLIN: witness of a strangely slow-moving UAP (Flying Saucer Encounter) | BERLINPARANORMAL</a></p><p class="youtube-embed-meta">Channel: IsoladelleroseTV</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=eP9VedmXobU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=eP9VedmXobU">Open on YouTube</a></p></div></div></div>
+Berlin’s urban setting makes this especially important. The city produces many plausible false positives: aircraft on approach, helicopters, drones, police activity, advertising lights, fireworks, balloons, satellites, planets, reflections from windows, and camera artefacts from quick phone recordings. The best casework does not mock witnesses for being puzzled; it explains why a sighting looked strange from that place at that time.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/eP9VedmXobU" title="UFO in BERLIN: witness of a strangely slow-moving UAP (Flying Saucer Encounter) | BERLINPARANORMAL" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=eP9VedmXobU" target="_blank" rel="noopener noreferrer">UFO in BERLIN: witness of a strangely slow-moving UAP (Flying Saucer Encounter) | BERLINPARANORMAL</a></p><p class="youtube-embed-meta">Channel: IsoladelleroseTV</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=eP9VedmXobU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=eP9VedmXobU">Open on YouTube</a></p></div></div></div>
+
+
+
+
 
 ## What investigators have added to Berlin’s UFO history
 

@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /thuringia-f28d08-index/
 description: Focused pages that expand on What Really Happened in Thuringia's UFO....
-date:'2026'
+date: '2026'
 layout: default
 parent_basename: Thuringia_f28d08
 parent_title: What Really Happened in Thuringia's UFO...

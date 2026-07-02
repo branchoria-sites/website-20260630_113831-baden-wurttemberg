@@ -52,7 +52,7 @@ text_direction: ltr
 ui_strings:
   home: Home
   overview: Overview
-  overview_prefix:'Overview:'
+  overview_prefix: 'Overview:'
   contents: Contents
   close: Close
   open_contents: Open contents
@@ -200,13 +200,13 @@ ui_strings:
   search_this_page_empty_hint: Type to search this page.
   no_search_results: No pages match this search.
   no_search_this_page_results: No sections on this page match this search.
-  search_results_count_template:'{count} results'
+  search_results_count_template: '{count} results'
   search_kind_page_title: Page title
   search_kind_page_summary: Summary of page
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date:'2026-06-30 05:37:32'
+date: '2026-06-30 05:37:32'
 parent_title: NRW UFOs
 parent_permalink: /north-rhine-westphalia/
 parent_nav_short_title: NRW UFOs
@@ -318,8 +318,6 @@ For a UFO reader, that wording matters. Military radar culture is built around c
 
 An aircraft can become operationally interesting for ordinary reasons. It may have no active transponder, may not be talking to civil air traffic control, may be outside an expected route, or may simply require confirmation. Bundeswehr air-policing guidance explains that if an unknown contact remains unidentified or does not respond to calls, the responsible Quick Reaction Alert aircraft may be launched to identify it visually, observe its behaviour, escort it, or direct it away under established procedures.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.bundeswehr.de/de/organisation/luftwaffe/air-policing-sicherheit-luftraum" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bundeswehr.de">[Bundeswehr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bundeswehr.de</span><span class="citation-popover-title">air policing sicherheit luftraum</span><span class="citation-popover-snippet">air policing sicherheit luftraum</span></span></span>
 
-That is a very different process from the popular idea that a radar return automatically proves a “UFO”. Radar can help establish that something was detected in a certain place at a certain time, but identification normally depends on correlation: radar track, transponder response, flight-plan data, radio contact, visual observation and operational context. Eurocontrol explains the basic distinction clearly: primary radar detects reflected signals from aircraft without needing the aircraft to cooperate, while secondary surveillance radar depends on aircraft transponder replies and supports identification.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.eurocontrol.int/publication/eurocontrol-data-snapshot-surveillance-radar-overload" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eurocontrol.int">[EUROCONTROL]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eurocontrol.int</span><span class="citation-popover-title">data snapshot surveillance radar overload</span><span class="citation-popover-snippet">data snapshot surveillance radar overload</span></span></span>
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/BZ6tLcpgWZA" title="German Eurofighters Protect Baltic Skies - NATO Air Policing in Latvia" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=BZ6tLcpgWZA" target="_blank" rel="noopener noreferrer">German Eurofighters Protect Baltic Skies - NATO Air Policing in Latvia</a></p><p class="youtube-embed-meta">Channel: Defense Now</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=BZ6tLcpgWZA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=BZ6tLcpgWZA">Open on YouTube</a></p></div></div></div>
 
 ## Civil and military radar fusion
@@ -344,7 +342,13 @@ In practice, the evidential ladder looks like this:
 * **Weak evidence:** a visual sighting near North Rhine-Westphalia with no time-stamped image, no flight-path check and no official correlation.
 * **Better evidence:** a visual sighting with photographs, direction, time, location and plausible comparison against aircraft, [drones]({{'drones-af4911/' | relative_url }}), planets, satellites and weather.
 * **Strong operational evidence:** a track correlated across professional systems, with transponder or flight-plan checks and, where necessary, military or civil follow-up.
-* **Still not proof of aliens:** a contact that remains unidentified after checks. That means unresolved on available evidence, not extraterrestrial by default.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/v_I6KqhdYv4" title="Eurofighter-Alarmrotte sichert 24/7 den Luftraum über Deutschland" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=v_I6KqhdYv4" target="_blank" rel="noopener noreferrer">Eurofighter-Alarmrotte sichert 24/7 den Luftraum über Deutschland</a></p><p class="youtube-embed-meta">Channel: BTB-concept</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=v_I6KqhdYv4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=v_I6KqhdYv4">Open on YouTube</a></p></div></div></div>
+* **Still not proof of aliens:** a contact that remains unidentified after checks. That means unresolved on available evidence, not extraterrestrial by default.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/v_I6KqhdYv4" title="Eurofighter-Alarmrotte sichert 24/7 den Luftraum über Deutschland" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=v_I6KqhdYv4" target="_blank" rel="noopener noreferrer">Eurofighter-Alarmrotte sichert 24/7 den Luftraum über Deutschland</a></p><p class="youtube-embed-meta">Channel: BTB-concept</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=v_I6KqhdYv4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=v_I6KqhdYv4">Open on YouTube</a></p></div></div></div>
+
+
+
+
 
 ## Why unidentified aircraft are not alien craft
 
@@ -369,7 +373,13 @@ For UFO case assessment, that connection changes the standard of evidence. A cla
 * Did any official body confirm an unidentified track, or only confirm that it received an enquiry?
 * Did later reporting add evidence, or only repeat the original claim?</div>
 
-These questions do not debunk every sighting in advance. They simply keep the interpretation honest. Erndtebrück’s relevance is that it shows how identification actually works before a story becomes folklore.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/nOy1pynJe1s" title="Quick reaction alert (QRA) at 74th Wing, Bundeswehr Tactical Airforce" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=nOy1pynJe1s" target="_blank" rel="noopener noreferrer">Quick reaction alert (QRA) at 74th Wing, Bundeswehr Tactical Airforce</a></p><p class="youtube-embed-meta">Channel: Bundeswehr</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=nOy1pynJe1s" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=nOy1pynJe1s">Open on YouTube</a></p></div></div></div>
+These questions do not debunk every sighting in advance. They simply keep the interpretation honest. Erndtebrück’s relevance is that it shows how identification actually works before a story becomes folklore.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/nOy1pynJe1s" title="Quick reaction alert (QRA) at 74th Wing, Bundeswehr Tactical Airforce" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=nOy1pynJe1s" target="_blank" rel="noopener noreferrer">Quick reaction alert (QRA) at 74th Wing, Bundeswehr Tactical Airforce</a></p><p class="youtube-embed-meta">Channel: Bundeswehr</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=nOy1pynJe1s" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=nOy1pynJe1s">Open on YouTube</a></p></div></div></div>
+
+
+
+
 
 ## A sober place in UFO history
 

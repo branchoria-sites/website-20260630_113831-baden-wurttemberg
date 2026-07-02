@@ -52,7 +52,7 @@ text_direction: ltr
 ui_strings:
   home: Home
   overview: Overview
-  overview_prefix:'Overview:'
+  overview_prefix: 'Overview:'
   contents: Contents
   close: Close
   open_contents: Open contents
@@ -200,13 +200,13 @@ ui_strings:
   search_this_page_empty_hint: Type to search this page.
   no_search_results: No pages match this search.
   no_search_this_page_results: No sections on this page match this search.
-  search_results_count_template:'{count} results'
+  search_results_count_template: '{count} results'
   search_kind_page_title: Page title
   search_kind_page_summary: Summary of page
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date:'2026-06-30 04:08:57'
+date: '2026-06-30 04:08:57'
 parent_title: MV UFOs
 parent_permalink: /mecklenburg-vorpommern/
 parent_nav_short_title: MV UFOs
@@ -332,7 +332,13 @@ The sceptical explanation rested on several connected details:
 
 This was not a simple “one flare equals one UFO” explanation. The stronger sceptical claim was that several formations were launched over a wider period, so witnesses could experience a long event even though individual video clips showed only a few minutes. That point matters because one objection to a flare explanation is duration. Walter’s answer was that the overall sighting window could be longer than the burn time of a single object because multiple groups of lights appeared in sequence.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gwup.org/skeptiker-artikel/pseudo-parawissenschaften/das-ufo-phaenomen-von-greifswald-ein-deutscher-klassiker/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gwup.org">[GWUP e. V.]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gwup.org</span><span class="citation-popover-title">e. V.Das UFO-Phänomen von Greifswald</span><span class="citation-popover-snippet">e. V.Das UFO-Phänomen von Greifswald</span></span></span>
 
-The case also shows why a sceptical reconstruction can be persuasive without being perfect. It does not require every witness to have judged distance accurately. It does not require every newspaper report to be reliable. It asks whether the observed behaviour — bright lights, apparent hovering, slow descent, wind drift, occasional flashes, and a coastal military setting — fits a known class of military sky phenomena better than it fits an extraordinary craft claim. On the available public record, the flare explanation is the more economical reading.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/NAnBqq7O1r0" title="UFO over Greifswald, East Germany - 1990 [RAW Footage] | UFO Sightings 1990 | UFO Greifswald" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=NAnBqq7O1r0" target="_blank" rel="noopener noreferrer">UFO over Greifswald, East Germany - 1990 [RAW Footage] | UFO Sightings 1990 | UFO Greifswald</a></p><p class="youtube-embed-meta">Channel: Latest UFO Sightings News</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=NAnBqq7O1r0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=NAnBqq7O1r0">Open on YouTube</a></p></div></div></div>
+The case also shows why a sceptical reconstruction can be persuasive without being perfect. It does not require every witness to have judged distance accurately. It does not require every newspaper report to be reliable. It asks whether the observed behaviour — bright lights, apparent hovering, slow descent, wind drift, occasional flashes, and a coastal military setting — fits a known class of military sky phenomena better than it fits an extraordinary craft claim. On the available public record, the flare explanation is the more economical reading.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/NAnBqq7O1r0" title="UFO over Greifswald, East Germany - 1990 [RAW Footage] | UFO Sightings 1990 | UFO Greifswald" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=NAnBqq7O1r0" target="_blank" rel="noopener noreferrer">UFO over Greifswald, East Germany - 1990 [RAW Footage] | UFO Sightings 1990 | UFO Greifswald</a></p><p class="youtube-embed-meta">Channel: Latest UFO Sightings News</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=NAnBqq7O1r0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=NAnBqq7O1r0">Open on YouTube</a></p></div></div></div>
+
+
+
+
 
 ## How sceptical work changed public memory
 
@@ -353,7 +359,13 @@ But private reconstruction has limits. It is often retrospective. It may depend 
 
 GEP’s published research principles are useful here because they set out what careful casework should look like, even outside official science. They stress critical work, willingness to question one’s own results, control of wishful thinking, full documentation of methods and results, separation of personal interpretations from collected data, and long-term preservation of case files.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ufo-forschung.de/forschung/grundsaetze-redlicher-wissenschaftlicher-praxis-in-der-erforschung-des-ufo-phaenomens" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufo-forschung.de">[UFO Forschung]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufo-forschung.de</span><span class="citation-popover-snippet">Open source on ufo-forschung.de.</span></span></span>
 
-That kind of standard is directly relevant to Mecklenburg-Vorpommern. The state’s major UFO stories are not solved by excitement alone. They need patient reconstruction: who saw the lights, from where, at what time, in what direction, under what atmospheric conditions, and against what background of coastal, military or maritime activity? When those questions are asked, the Greifswald case becomes less mysterious but more historically useful.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/t869CzOFy_c" title="NDR-Beitrag über das Greifswald UFO-Phänomen 1990" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=t869CzOFy_c" target="_blank" rel="noopener noreferrer">NDR-Beitrag über das Greifswald UFO-Phänomen 1990</a></p><p class="youtube-embed-meta">Channel: DEGUFO UFO-Meldestelle-official</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=t869CzOFy_c" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=t869CzOFy_c">Open on YouTube</a></p></div></div></div>
+That kind of standard is directly relevant to Mecklenburg-Vorpommern. The state’s major UFO stories are not solved by excitement alone. They need patient reconstruction: who saw the lights, from where, at what time, in what direction, under what atmospheric conditions, and against what background of coastal, military or maritime activity? When those questions are asked, the Greifswald case becomes less mysterious but more historically useful.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/t869CzOFy_c" title="NDR-Beitrag über das Greifswald UFO-Phänomen 1990" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=t869CzOFy_c" target="_blank" rel="noopener noreferrer">NDR-Beitrag über das Greifswald UFO-Phänomen 1990</a></p><p class="youtube-embed-meta">Channel: DEGUFO UFO-Meldestelle-official</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=t869CzOFy_c" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=t869CzOFy_c">Open on YouTube</a></p></div></div></div>
+
+
+
+
 
 ## Beyond Greifswald: Stralsund and the problem of old cases
 
@@ -361,7 +373,13 @@ The same lesson applies, in a different way, to the 1665 [Stralsund]({{'stralsun
 
 Private and sceptical reconstruction is harder with Stralsund because the evidence is historical rather than forensic. There is no radar record to request and no original witness interview to repeat. The useful sceptical move is therefore not to pretend to solve the event neatly, but to reconstruct its transmission: how a frightening sky story became print culture, how religious or symbolic interpretation shaped the account, and how later UFO culture re-read older marvels as possible craft sightings.
 
-This distinction helps keep Mecklenburg-Vorpommern’s UFO history balanced. Greifswald is a modern misidentification case with a strong conventional explanation. Stralsund is a historical “wonder” case whose modern UFO relevance lies mainly in reception and interpretation. Both show why reconstruction matters, but they require different standards of proof.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/xR4SHKLtp7U" title="Germany&#x27;s UFO Projects During the Dictator Years! | Forbidden History | Season 2 Episode 5" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=xR4SHKLtp7U" target="_blank" rel="noopener noreferrer">Germany&#x27;s UFO Projects During the Dictator Years! | Forbidden History | Season 2 Episode 5</a></p><p class="youtube-embed-meta">Channel: Banijay History</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=xR4SHKLtp7U" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=xR4SHKLtp7U">Open on YouTube</a></p></div></div></div>
+This distinction helps keep Mecklenburg-Vorpommern’s UFO history balanced. Greifswald is a modern misidentification case with a strong conventional explanation. Stralsund is a historical “wonder” case whose modern UFO relevance lies mainly in reception and interpretation. Both show why reconstruction matters, but they require different standards of proof.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/xR4SHKLtp7U" title="Germany&#x27;s UFO Projects During the Dictator Years! | Forbidden History | Season 2 Episode 5" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=xR4SHKLtp7U" target="_blank" rel="noopener noreferrer">Germany&#x27;s UFO Projects During the Dictator Years! | Forbidden History | Season 2 Episode 5</a></p><p class="youtube-embed-meta">Channel: Banijay History</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=xR4SHKLtp7U" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=xR4SHKLtp7U">Open on YouTube</a></p></div></div></div>
+
+
+
+
 
 ## The practical test for future Mecklenburg-Vorpommern claims
 

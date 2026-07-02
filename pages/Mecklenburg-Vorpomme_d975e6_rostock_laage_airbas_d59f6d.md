@@ -52,7 +52,7 @@ text_direction: ltr
 ui_strings:
   home: Home
   overview: Overview
-  overview_prefix:'Overview:'
+  overview_prefix: 'Overview:'
   contents: Contents
   close: Close
   open_contents: Open contents
@@ -200,13 +200,13 @@ ui_strings:
   search_this_page_empty_hint: Type to search this page.
   no_search_results: No pages match this search.
   no_search_this_page_results: No sections on this page match this search.
-  search_results_count_template:'{count} results'
+  search_results_count_template: '{count} results'
   search_kind_page_title: Page title
   search_kind_page_summary: Summary of page
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date:'2026-06-30 04:08:55'
+date: '2026-06-30 04:08:55'
 parent_title: MV UFOs
 parent_permalink: /mecklenburg-vorpommern/
 parent_nav_short_title: MV UFOs
@@ -322,7 +322,13 @@ This is not a debunking shortcut. It is a practical starting point. The presence
 
 Recent defence activity has made that baseline even stronger. In 2025, reports said the northern quick reaction alert force operating from Rostock-Laage had launched about 20 times, up from 15 in 2024, in a security environment shaped by Russia’s war against Ukraine. Four Eurofighters were described as permanently ready at Rostock-Laage, with launches used to check or respond to aircraft approaching German airspace, including non-NATO military aircraft or civilian aircraft not answering radio calls.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.welt.de/article69b17eea78590878b6a7aea1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: welt.de">[DIE WELT]</a><span class="citation-popover" role="note"><span class="citation-popover-source">welt.de</span><span class="citation-popover-title">DIE WELTZahl der Starts der Luftwaffen-Alarmrotte ist gestiegen</span><span class="citation-popover-snippet">Die Alarmrotte wird nicht bei jedem russischen Aufklärungsflug über der Ostsee eingesetzt, auch wenn diese nahe am deutschen Luftraum sta...</span></span></span>
 
-That matters because scramble activity is not always predictable to the public. A routine training flight may be announced locally; an alert launch may not be understood by people who hear or glimpse it. A loud departure, a fast climb, a pair of jets leaving together, or aircraft returning in poor light could easily seed a rumour before official or press explanations catch up.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/HGjZYLREIhA" title="UFO 1990" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=HGjZYLREIhA" target="_blank" rel="noopener noreferrer">UFO 1990</a></p><p class="youtube-embed-meta">Channel: Milos Juriga (Milo rec STUDIO)</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=HGjZYLREIhA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=HGjZYLREIhA">Open on YouTube</a></p></div></div></div>
+That matters because scramble activity is not always predictable to the public. A routine training flight may be announced locally; an alert launch may not be understood by people who hear or glimpse it. A loud departure, a fast climb, a pair of jets leaving together, or aircraft returning in poor light could easily seed a rumour before official or press explanations catch up.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/HGjZYLREIhA" title="UFO 1990" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=HGjZYLREIhA" target="_blank" rel="noopener noreferrer">UFO 1990</a></p><p class="youtube-embed-meta">Channel: Milos Juriga (Milo rec STUDIO)</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=HGjZYLREIhA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=HGjZYLREIhA">Open on YouTube</a></p></div></div></div>
+
+
+
+
 
 ## Exercises can create “flap” conditions without creating UFO evidence
 
@@ -349,7 +355,13 @@ The Greifswald lights remain the clearest warning example for the state. The cas
 
 Rostock-Laage should be read through that lesson. A well-witnessed light event can still be explainable. Video does not automatically settle distance, altitude or size. Multiple witnesses can share the same optical mistake if they are all looking from roughly the same region towards the same distant phenomenon.
 
-The local airbase adds another layer. If a sighting is reported from the Rostock, Laage or wider Baltic coast area, military aircraft are not a speculative add-on. They are part of the normal evidential environment. The more a report involves speed, sound, paired lights, repeated passes, sudden climb-outs or activity near known flight corridors, the more carefully [investigators]({{'investigators-a76407/' | relative_url }}) should check aviation explanations before calling it unexplained.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/erBhnHtmp1g" title="Rostock Laage, 24th February 2025. Our first morning." frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=erBhnHtmp1g" target="_blank" rel="noopener noreferrer">Rostock Laage, 24th February 2025. Our first morning.</a></p><p class="youtube-embed-meta">Channel: J F Aviation &amp; Railway videos</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=erBhnHtmp1g" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=erBhnHtmp1g">Open on YouTube</a></p></div></div></div>
+The local airbase adds another layer. If a sighting is reported from the Rostock, Laage or wider Baltic coast area, military aircraft are not a speculative add-on. They are part of the normal evidential environment. The more a report involves speed, sound, paired lights, repeated passes, sudden climb-outs or activity near known flight corridors, the more carefully [investigators]({{'investigators-a76407/' | relative_url }}) should check aviation explanations before calling it unexplained.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/erBhnHtmp1g" title="Rostock Laage, 24th February 2025. Our first morning." frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=erBhnHtmp1g" target="_blank" rel="noopener noreferrer">Rostock Laage, 24th February 2025. Our first morning.</a></p><p class="youtube-embed-meta">Channel: J F Aviation &amp; Railway videos</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=erBhnHtmp1g" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=erBhnHtmp1g">Open on YouTube</a></p></div></div></div>
+
+
+
+
 
 ## What an airbase does not prove
 
@@ -374,7 +386,13 @@ For this part of Mecklenburg-Vorpommern, the most useful classification is not �
 
 **Genuinely interesting:** The report has multiple independent witnesses, good timing, direction, imagery, weather context and no obvious match after aviation checks.
 
-By that standard, Rostock-Laage is not a landmark UFO case in itself. It is a landmark local mechanism.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ewRvFrxyGcU" title="Eurofighter | Tag der Bundeswehr 2026 Laage" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ewRvFrxyGcU" target="_blank" rel="noopener noreferrer">Eurofighter | Tag der Bundeswehr 2026 Laage</a></p><p class="youtube-embed-meta">Channel: Aerowl</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ewRvFrxyGcU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ewRvFrxyGcU">Open on YouTube</a></p></div></div></div>
+By that standard, Rostock-Laage is not a landmark UFO case in itself. It is a landmark local mechanism.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ewRvFrxyGcU" title="Eurofighter | Tag der Bundeswehr 2026 Laage" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ewRvFrxyGcU" target="_blank" rel="noopener noreferrer">Eurofighter | Tag der Bundeswehr 2026 Laage</a></p><p class="youtube-embed-meta">Channel: Aerowl</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ewRvFrxyGcU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ewRvFrxyGcU">Open on YouTube</a></p></div></div></div>
+
+
+
+
 
 ## Why Rostock-Laage belongs in Mecklenburg-Vorpommern’s UFO map
 

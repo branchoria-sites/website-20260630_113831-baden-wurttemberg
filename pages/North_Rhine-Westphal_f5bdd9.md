@@ -62,7 +62,7 @@ text_direction: ltr
 ui_strings:
   home: Home
   overview: Overview
-  overview_prefix:'Overview:'
+  overview_prefix: 'Overview:'
   contents: Contents
   close: Close
   open_contents: Open contents
@@ -210,13 +210,13 @@ ui_strings:
   search_this_page_empty_hint: Type to search this page.
   no_search_results: No pages match this search.
   no_search_this_page_results: No sections on this page match this search.
-  search_results_count_template:'{count} results'
+  search_results_count_template: '{count} results'
   search_kind_page_title: Page title
   search_kind_page_summary: Summary of page
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date:'2026-06-30 05:37:30'
+date: '2026-06-30 05:37:30'
 sibling_links:
 - basename: Mecklenburg-Vorpomme_d975e6
   title: MV UFOs
@@ -377,8 +377,6 @@ GEP’s own broad pattern, as described in German coverage and secondary summari
 
 The most common North Rhine-Westphalian UFO story today is not a landed saucer. It is a light, line of lights, fast streak, hovering dot, silent object or odd shape seen briefly from a balcony, road, garden or phone camera. Recent German reporting on CENAP’s record numbers points to a familiar explanation set: Starlink satellite trains, bright planets and stars, balloons, drones, aircraft, helicopters, event lighting, meteors, lens reflections, insects and birds recorded close to the camera.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.swr.de/swraktuell/baden-wuerttemberg/rekord-ufo-meldungen-100.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: swr.de">[SWR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">swr.de</span><span class="citation-popover-title">Ein UFO über BW? Rekordzahl an Sichtungen</span><span class="citation-popover-snippet">Ein UFO über BW? Rekordzahl an SichtungenJanuary 30, 2026 — 20 Jan 2025 — Ein Alien in seiner fliegenden Untertasse am Himmel über Deu...</span><span class="citation-popover-meta">Published: January 30, 2026</span></span></span>
 
-Starlink is especially important because it creates sightings that feel collective and uncanny. Shortly after launch, the satellites can appear as a bright chain moving across the sky. For a witness who has not seen the effect before, that can look artificial, silent and coordinated in a way that invites a UFO report. SWR’s 2025 coverage of CENAP’s 2024 record specifically identifies Starlink as a frequent explanation for reported UFOs.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.swr.de/swraktuell/baden-wuerttemberg/rekord-ufo-meldungen-100.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: swr.de">[SWR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">swr.de</span><span class="citation-popover-title">Ein UFO über BW? Rekordzahl an Sichtungen</span><span class="citation-popover-snippet">Ein UFO über BW? Rekordzahl an SichtungenJanuary 30, 2026 — 20 Jan 2025 — Ein Alien in seiner fliegenden Untertasse am Himmel über Deu...</span><span class="citation-popover-meta">Published: January 30, 2026</span></span></span>
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/lYVxRHk258g" title="More Evidence for UAPs! Scientists Afraid to Speak Out" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=lYVxRHk258g" target="_blank" rel="noopener noreferrer">More Evidence for UAPs! Scientists Afraid to Speak Out</a></p><p class="youtube-embed-meta">Channel: Sabine Hossenfelder &middot; Views: 377.3K &middot; Uploaded: March 2026 &middot; Length: 6 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=lYVxRHk258g" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=lYVxRHk258g">Open on YouTube</a></p></div></div></div>
 
 ## The Lüdenscheid “spinning object” lesson
@@ -398,8 +396,6 @@ This matters for UFO interpretation in two opposite ways. On one hand, the prese
 Erndtebrück also shows why “military connection” can be misleading. A sighting near a military location may be more interesting, but proximity alone is not evidence. It may simply mean the witness lives near aviation infrastructure, aircraft routes, training areas or radar sites. The stronger question is whether the event produced independent military, aviation or sensor records. In most public North Rhine-Westphalia cases, that level of documentation is absent.<img src="{{"/assets/images/North_Rhine-Westphal_f5bdd9-Illustration-2-dark.svg" | relative_url }}" alt="North Rhine Westphalia illustration 2" data-theme-src-dark="{{"/assets/images/North_Rhine-Westphal_f5bdd9-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{"/assets/images/North_Rhine-Westphal_f5bdd9-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Official records are thinner than many expect
 
-Germany does not have a public official UFO programme comparable to France’s GEIPAN. The German record is instead a mixture of parliamentary questions, civilian research groups, media reporting, aviation safety procedures and scattered official material. Bundestag research documents from the UFO debate show that the subject has been discussed institutionally, especially in relation to whether Germany had or should release UFO files, but they do not amount to a state-level North Rhine-Westphalia government archive of confirmed anomalous craft.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.bundestag.de/resource/blob/408356/32b7d8a6d5868d7a585ba0b2488010c7/wd-11-148-09-pdf-data.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bundestag.de">[Deutscher Bundestag]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bundestag.de</span><span class="citation-popover-title">wd 11 148 09 pdf data</span><span class="citation-popover-snippet">wd 11 148 09 pdf data</span></span></span>
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/pE9-Awz4dr0" title="J. Allen Hynek, Vallee, Steiner, and UAPs with Aaron French" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=pE9-Awz4dr0" target="_blank" rel="noopener noreferrer">J. Allen Hynek, Vallee, Steiner, and UAPs with Aaron French</a></p><p class="youtube-embed-meta">Channel: Hermitix Podcast</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=pE9-Awz4dr0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=pE9-Awz4dr0">Open on YouTube</a></p></div></div></div>
 
 ## How local media shapes the UFO record
@@ -408,7 +404,13 @@ North Rhine-Westphalian UFO coverage often appears in local outlets because loca
 
 Recent German reporting on record sighting numbers shows a healthier model: it treats the rise in reports as interesting, but foregrounds explanations such as Starlink, planets, balloons and drones.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.swr.de/swraktuell/baden-wuerttemberg/rekord-ufo-meldungen-100.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: swr.de">[SWR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">swr.de</span><span class="citation-popover-title">Ein UFO über BW? Rekordzahl an Sichtungen</span><span class="citation-popover-snippet">Ein UFO über BW? Rekordzahl an SichtungenJanuary 30, 2026 — 20 Jan 2025 — Ein Alien in seiner fliegenden Untertasse am Himmel über Deu...</span><span class="citation-popover-meta">Published: January 30, 2026</span></span></span> That is the right balance for North Rhine-Westphalia. The state’s UFO history is real as a social, observational and archival phenomenon. It is not evidence that unexplained sightings are automatically exotic.
 
-The best local UFO reporting therefore does three things: it gives the witness account fairly, checks obvious explanations, and makes clear whether the case remains unresolved or merely uninvestigated. A case with no follow-up is not the same as a case that survived follow-up.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/QCKfseZAIJk" title="UFO über NRW - Frühlingssternenhimmel im Zeitraffer - UFO over Germany" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=QCKfseZAIJk" target="_blank" rel="noopener noreferrer">UFO über NRW - Frühlingssternenhimmel im Zeitraffer - UFO over Germany</a></p><p class="youtube-embed-meta">Channel: fotodesigner</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=QCKfseZAIJk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=QCKfseZAIJk">Open on YouTube</a></p></div></div></div>
+The best local UFO reporting therefore does three things: it gives the witness account fairly, checks obvious explanations, and makes clear whether the case remains unresolved or merely uninvestigated. A case with no follow-up is not the same as a case that survived follow-up.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/QCKfseZAIJk" title="UFO über NRW - Frühlingssternenhimmel im Zeitraffer - UFO over Germany" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=QCKfseZAIJk" target="_blank" rel="noopener noreferrer">UFO über NRW - Frühlingssternenhimmel im Zeitraffer - UFO over Germany</a></p><p class="youtube-embed-meta">Channel: fotodesigner</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=QCKfseZAIJk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=QCKfseZAIJk">Open on YouTube</a></p></div></div></div>
+
+
+
+
 
 ## A practical credibility scale for NRW cases
 

@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /lower-saxony-e2cb37-index/
 description: Focused pages that expand on What Really Happened in Lower Saxony's UFO....
-date:'2026'
+date: '2026'
 layout: default
 parent_basename: Lower_Saxony_e2cb37
 parent_title: What Really Happened in Lower Saxony's UFO...

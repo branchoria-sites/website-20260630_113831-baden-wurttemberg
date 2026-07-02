@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /berlin-062b06-index/
 description: Focused pages that expand on What Berlin's UFO Reports Really Show.
-date:'2026'
+date: '2026'
 layout: default
 parent_basename: Berlin_062b06
 parent_title: What Berlin's UFO Reports Really Show

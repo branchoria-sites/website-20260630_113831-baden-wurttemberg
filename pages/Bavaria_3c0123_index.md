@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /bavaria-3c0123-index/
 description: Focused pages that expand on What Really Happened Over Bavaria's Skies?.
-date:'2026'
+date: '2026'
 layout: default
 parent_basename: Bavaria_3c0123
 parent_title: What Really Happened Over Bavaria's Skies?

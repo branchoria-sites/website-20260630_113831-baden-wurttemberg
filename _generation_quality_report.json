@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-07-02T15:35:48.204240Z",
+  "generated_at_utc": "2026-07-02T18:12:55.619507Z",
   "settings": {
     "enable_page_quality_telemetry": true,
     "enable_format_sensitive_cleanup": false,
@@ -23,7 +23,7 @@
     "total_pages": 208,
     "pages_needing_review": 0,
     "pages_hidden_from_navigation": 0,
-    "average_word_count": 9758,
+    "average_word_count": 9685,
     "pages_with_endnotes_heading": 208,
     "average_inline_internal_links_per_page": 0.0,
     "total_inline_internal_links": 0,
@@ -58,16 +58,16 @@
       "basename": "Baden-Wurttemberg_dc11f2",
       "title": "Baden Wurttemberg",
       "permalink": "/what-really-happened-over-baden/",
-      "word_count": 9603,
-      "char_count": 88339,
-      "line_count": 818,
+      "word_count": 9478,
+      "char_count": 87341,
+      "line_count": 816,
       "heading_count": 10,
       "h2_count": 9,
       "h3_count": 1,
       "endnote_heading_count": 1,
       "footnote_definition_count": 0,
       "numbered_endnote_count": 0,
-      "url_count": 153,
+      "url_count": 152,
       "youtube_embed_count": 3,
       "selected_youtube_video_count": 0,
       "selected_youtube_video_ids": [],
@@ -99,14 +99,14 @@
       "hide_from_navigation": false,
       "issue_samples": [
         {
-          "line": 444,
+          "line": 442,
           "labels": [
             "unresolved_plain_citation"
           ],
           "text": "else if (navigator.language) languages = [navigator.language];"
         },
         {
-          "line": 557,
+          "line": 555,
           "labels": [
             "unresolved_plain_citation"
           ],
@@ -178,16 +178,16 @@
       "basename": "Baden-Wurttemberg_dc11f2_black_forest_dark_sk_c76728",
       "title": "Baden Wurttemberg dc 11 f2 black forest dark",
       "permalink": "/black-forest/",
-      "word_count": 8767,
-      "char_count": 77283,
-      "line_count": 690,
+      "word_count": 8495,
+      "char_count": 75276,
+      "line_count": 685,
       "heading_count": 8,
       "h2_count": 7,
       "h3_count": 1,
       "endnote_heading_count": 1,
       "footnote_definition_count": 0,
       "numbered_endnote_count": 0,
-      "url_count": 116,
+      "url_count": 114,
       "youtube_embed_count": 3,
       "selected_youtube_video_count": 0,
       "selected_youtube_video_ids": [],
@@ -219,14 +219,14 @@
       "hide_from_navigation": false,
       "issue_samples": [
         {
-          "line": 388,
+          "line": 383,
           "labels": [
             "unresolved_plain_citation"
           ],
           "text": "else if (navigator.language) languages = [navigator.language];"
         },
         {
-          "line": 501,
+          "line": 496,
           "labels": [
             "unresolved_plain_citation"
           ],
@@ -239,8 +239,8 @@
       "title": "Baden Wurttemberg dc 11 f2 bright planets siriu",
       "permalink": "/bright-lights/",
       "word_count": 9802,
-      "char_count": 85085,
-      "line_count": 701,
+      "char_count": 85081,
+      "line_count": 699,
       "heading_count": 10,
       "h2_count": 9,
       "h3_count": 1,
@@ -279,14 +279,14 @@
       "hide_from_navigation": false,
       "issue_samples": [
         {
-          "line": 396,
+          "line": 394,
           "labels": [
             "unresolved_plain_citation"
           ],
           "text": "else if (navigator.language) languages = [navigator.language];"
         },
         {
-          "line": 509,
+          "line": 507,
           "labels": [
             "unresolved_plain_citation"
           ],
@@ -298,16 +298,16 @@
       "basename": "Baden-Wurttemberg_dc11f2_cenap_report_counts_30d55f",
       "title": "Baden Wurttemberg dc 11 f2 cenap report counts",
       "permalink": "/report-counts/",
-      "word_count": 8186,
-      "char_count": 74008,
-      "line_count": 677,
+      "word_count": 7859,
+      "char_count": 71374,
+      "line_count": 672,
       "heading_count": 8,
       "h2_count": 7,
       "h3_count": 1,
       "endnote_heading_count": 1,
       "footnote_definition_count": 0,
       "numbered_endnote_count": 0,
-      "url_count": 110,
+      "url_count": 108,
       "youtube_embed_count": 3,
       "selected_youtube_video_count": 0,
       "selected_youtube_video_ids": [],
@@ -339,14 +339,14 @@
       "hide_from_navigation": false,
       "issue_samples": [
         {
-          "line": 379,
+          "line": 374,
           "labels": [
             "unresolved_plain_citation"
           ],
           "text": "else if (navigator.language) languages = [navigator.language];"
         },
         {
-          "line": 492,
+          "line": 487,
           "labels": [
             "unresolved_plain_citation"
           ],
@@ -358,16 +358,16 @@
       "basename": "Baden-Wurttemberg_dc11f2_drone_scares_airport_2ddd9e",
       "title": "Baden Wurttemberg dc 11 f2 drone scares airport",
       "permalink": "/drone-scares/",
-      "word_count": 10871,
-      "char_count": 96818,
-      "line_count": 801,
+      "word_count": 10742,
+      "char_count": 95785,
+      "line_count": 799,
       "heading_count": 10,
       "h2_count": 9,
       "h3_count": 1,
       "endnote_heading_count": 1,
       "footnote_definition_count": 0,
       "numbered_endnote_count": 5,
-      "url_count": 157,
+      "url_count": 156,
       "youtube_embed_count": 3,
       "selected_youtube_video_count": 0,
       "selected_youtube_video_ids": [],
@@ -399,14 +399,14 @@
       "hide_from_navigation": false,
       "issue_samples": [
         {
-          "line": 426,
+          "line": 424,
           "labels": [
             "unresolved_plain_citation"
           ],
           "text": "else if (navigator.language) languages = [navigator.language];"
         },
         {
-          "line": 539,
+          "line": 537,
           "labels": [
             "unresolved_plain_citation"
           ],
@@ -418,16 +418,16 @@
       "basename": "Baden-Wurttemberg_dc11f2_friesenheim_passive_e4b02d",
       "title": "Baden Wurttemberg dc 11 f2 friesenheim passive",
       "permalink": "/friesenheim/",
-      "word_count": 9961,
-      "char_count": 88008,
-      "line_count": 751,
+      "word_count": 9726,
+      "char_count": 86138,
+      "line_count": 747,
       "heading_count": 9,
       "h2_count": 8,
       "h3_count": 1,
       "endnote_heading_count": 1,
       "footnote_definition_count": 0,
       "numbered_endnote_count": 0,
-      "url_count": 157,
+      "url_count": 155,
       "youtube_embed_count": 3,
       "selected_youtube_video_count": 0,
       "selected_youtube_video_ids": [],
@@ -459,14 +459,14 @@
       "hide_from_navigation": false,
       "issue_samples": [
         {
-          "line": 386,
+          "line": 382,
           "labels": [
             "unresolved_plain_citation"
           ],
           "text": "else if (navigator.language) languages = [navigator.language];"
         },
         {
-          "line": 499,
+          "line": 495,
           "labels": [
             "unresolved_plain_citation"
           ],
@@ -478,16 +478,16 @@
       "basename": "Baden-Wurttemberg_dc11f2_lake_constance_sight_ee6ae6",
       "title": "Baden Wurttemberg dc 11 f2 lake constance sight",
       "permalink": "/lake-constance/",
-      "word_count": 9581,
-      "char_count": 84085,
-      "line_count": 771,
+      "word_count": 9427,
+      "char_count": 82857,
+      "line_count": 767,
       "heading_count": 10,
       "h2_count": 9,
       "h3_count": 1,
       "endnote_heading_count": 1,
       "footnote_definition_count": 0,
       "numbered_endnote_count": 0,
-      "url_count": 150,
+      "url_count": 149,
       "youtube_embed_count": 3,
       "selected_youtube_video_count": 0,
       "selected_youtube_video_ids": [],
@@ -519,14 +519,14 @@
       "hide_from_navigation": false,
       "issue_samples": [
         {
-          "line": 396,
+          "line": 392,
           "labels": [
             "unresolved_plain_citation"
           ],
           "text": "else if (navigator.language) languages = [navigator.language];"
         },
         {
-          "line": 509,
+          "line": 505,
           "labels": [
             "unresolved_plain_citation"
           ],
@@ -538,16 +538,16 @@
       "basename": "Baden-Wurttemberg_dc11f2_mannheim_cenap_scept_04203d",
       "title": "Baden Wurttemberg dc 11 f2 mannheim cenap scept",
       "permalink": "/mannheim/",
-      "word_count": 10277,
-      "char_count": 90541,
-      "line_count": 750,
+      "word_count": 10161,
+      "char_count": 89713,
+      "line_count": 748,
       "heading_count": 11,
       "h2_count": 10,
       "h3_count": 1,
       "endnote_heading_count": 1,
       "footnote_definition_count": 0,
       "numbered_endnote_count": 0,
-      "url_count": 140,
+      "url_count": 139,
       "youtube_embed_count": 3,
       "selected_youtube_video_count": 0,
       "selected_youtube_video_ids": [],
@@ -579,14 +579,14 @@
       "hide_from_navigation": false,
       "issue_samples": [
         {
-          "line": 410,
+          "line": 408,
           "labels": [
             "unresolved_plain_citation"
           ],
           "text": "else if (navigator.language) languages = [navigator.language];"
         },
         {
-          "line": 523,
+          "line": 521,
           "labels": [
             "unresolved_plain_citation"
           ],
@@ -598,16 +598,16 @@
       "basename": "Baden-Wurttemberg_dc11f2_official_records_gap_43c6bb",
       "title": "Baden Wurttemberg dc 11 f2 official records gap",
       "permalink": "/records-gap/",
-      "word_count": 9491,
-      "char_count": 83806,
-      "line_count": 745,
+      "word_count": 9350,
+      "char_count": 82793,
+      "line_count": 743,
       "heading_count": 8,
       "h2_count": 7,
       "h3_count": 1,
       "endnote_heading_count": 1,
       "footnote_definition_count": 0,
       "numbered_endnote_count": 0,
-      "url_count": 150,
+      "url_count": 149,
       "youtube_embed_count": 3,
       "selected_youtube_video_count": 0,
       "selected_youtube_video_ids": [],
@@ -639,14 +639,14 @@
       "hide_from_navigation": false,
       "issue_samples": [
         {
-          "line": 379,
+          "line": 377,
           "labels": [
             "unresolved_plain_citation"
           ],
           "text": "else if (navigator.language) languages = [navigator.language];"
         },
         {
-          "line": 492,
+          "line": 490,
           "labels": [
             "unresolved_plain_citation"
           ],
@@ -778,16 +778,16 @@
       "basename": "Baden-Wurttemberg_dc11f2_stuttgart_aviation_m_24ef53",
       "title": "Baden Wurttemberg dc 11 f2 stuttgart aviation",
       "permalink": "/stuttgart-skies/",
-      "word_count": 12325,
-      "char_count": 108358,
-      "line_count": 962,
+      "word_count": 12020,
+      "char_count": 105974,
+      "line_count": 958,
       "heading_count": 13,
       "h2_count": 12,
       "h3_count": 1,
       "endnote_heading_count": 1,
       "footnote_definition_count": 0,
       "numbered_endnote_count": 0,
-      "url_count": 239,
+      "url_count": 237,
       "youtube_embed_count": 3,
       "selected_youtube_video_count": 0,
       "selected_youtube_video_ids": [],
@@ -819,14 +819,14 @@
       "hide_from_navigation": false,
       "issue_samples": [
         {
-          "line": 403,
+          "line": 399,
           "labels": [
             "unresolved_plain_citation"
           ],
           "text": "else if (navigator.language) languages = [navigator.language];"
         },
         {
-          "line": 516,
+          "line": 512,
           "labels": [
             "unresolved_plain_citation"
           ],
@@ -839,8 +839,8 @@
       "title": "Bavaria",
       "permalink": "/what-really-happened-over-bavarias-skies/",
       "word_count": 10057,
-      "char_count": 89892,
-      "line_count": 828,
+      "char_count": 89888,
+      "line_count": 826,
       "heading_count": 12,
       "h2_count": 11,
       "h3_count": 1,
@@ -879,14 +879,14 @@
       "hide_from_navigation": false,
       "issue_samples": [
         {
-          "line": 463,
+          "line": 461,
           "labels": [
             "unresolved_plain_citation"
           ],
           "text": "else if (navigator.language) languages = [navigator.language];"
         },
         {
-          "line": 576,
+          "line": 574,
           "labels": [
             "unresolved_plain_citation"
           ],
@@ -898,16 +898,16 @@
       "basename": "Bavaria_3c0123_1948_flying_disc_mem_394896",
       "title": "Bavaria 3 c0123 1948 flying disc",
       "permalink": "/1948-memo/",
-      "word_count": 7675,
-      "char_count": 70259,
-      "line_count": 625,
+      "word_count": 7343,
+      "char_count": 67429,
+      "line_count": 620,
       "heading_count": 8,
       "h2_count": 7,
       "h3_count": 1,
       "endnote_heading_count": 1,
       "footnote_definition_count": 0,
       "numbered_endnote_count": 0,
-      "url_count": 87,
+      "url_count": 85,
       "youtube_embed_count": 3,
       "selected_youtube_video_count": 0,
       "selected_youtube_video_ids": [],
@@ -939,14 +939,14 @@
       "hide_from_navigation": false,
       "issue_samples": [
         {
-          "line": 372,
+          "line": 367,
           "labels": [
             "unresolved_plain_citation"
           ],
           "text": "else if (navigator.language) languages = [navigator.language];"
         },
         {
-          "line": 485,
+          "line": 480,
           "labels": [
             "unresolved_plain_citation"
           ],
@@ -959,8 +959,8 @@
       "title": "Bavaria 3 c0123 bavaria UFO timeline",
       "permalink": "/timeline/",
       "word_count": 9450,
-      "char_count": 82337,
-      "line_count": 764,
+      "char_count": 82333,
+      "line_count": 762,
       "heading_count": 8,
       "h2_count": 7,
       "h3_count": 1,
@@ -999,14 +999,14 @@
       "hide_from_navigation": false,
       "issue_samples": [
         {
-          "line": 393,
+          "line": 391,
           "labels": [
             "unresolved_plain_citation"
           ],
           "text": "else if (navigator.language) languages = [navigator.language];"
         },
         {
-          "line": 506,
+          "line": 504,
           "labels": [
             "unresolved_plain_citation"
           ],
@@ -1018,16 +1018,16 @@
       "basename": "Bavaria_3c0123_cold_war_airspace_e02009",
       "title": "Bavaria 3 c0123 cold war airspace",
       "permalink": "/cold-war-skies/",
-      "word_count": 8811,
-      "char_count": 77581,
-      "line_count": 645,
+      "word_count": 8707,
+      "char_count": 76723,
+      "line_count": 643,
       "heading_count": 11,
       "h2_count": 10,
       "h3_count": 1,
       "endnote_heading_count": 1,
       "footnote_definition_count": 0,
       "numbered_endnote_count": 0,
-      "url_count": 89,
+      "url_count": 88,
       "youtube_embed_count": 3,
       "selected_youtube_video_count": 0,
       "selected_youtube_video_ids": [],
@@ -1059,14 +1059,14 @@
       "hide_from_navigation": false,
       "issue_samples": [
         {
-          "line": 409,
+          "line": 407,
           "labels": [
             "unresolved_plain_citation"
           ],
           "text": "else if (navigator.language) languages = [navigator.language];"
         },
         {
-          "line": 522,
+          "line": 520,
           "labels": [
             "unresolved_plain_citation"
           ],
@@ -1078,16 +1078,16 @@
       "basename": "Bavaria_3c0123_dawn_sun_phenomena_befec9",
       "title": "Bavaria 3 c0123 dawn sun phenomena",
       "permalink": "/sun-effects/",
-      "word_count": 9210,
-      "char_count": 79965,
-      "line_count": 710,
+      "word_count": 8871,
+      "char_count": 77373,
+      "line_count": 707,
       "heading_count": 8,
       "h2_count": 7,
       "h3_count": 1,
       "endnote_heading_count": 1,
       "footnote_definition_count": 0,
       "numbered_endnote_count": 0,
-      "url_count": 130,
+      "url_count": 128,
       "youtube_embed_count": 3,
       "selected_youtube_video_count": 0,
       "selected_youtube_video_ids": [],
@@ -1119,14 +1119,14 @@
       "hide_from_navigation": false,
       "issue_samples": [
         {
-          "line": 380,
+          "line": 377,
           "labels": [
             "unresolved_plain_citation"
           ],
           "text": "else if (navigator.language) languages = [navigator.language];"
         },
         {
-          "line": 493,
+          "line": 490,
           "labels": [
             "unresolved_plain_citation"
           ],
@@ -1198,16 +1198,16 @@
       "basename": "Bavaria_3c0123_modern_sky_misidenti_8e2f46",
       "title": "Bavaria 3 c0123 modern sky misidenti",
       "permalink": "/modern-skies/",
-      "word_count": 9958,
-      "char_count": 86699,
-      "line_count": 712,
+      "word_count": 9816,
+      "char_count": 85564,
+      "line_count": 710,
       "heading_count": 9,
       "h2_count": 8,
       "h3_count": 1,
       "endnote_heading_count": 1,
       "footnote_definition_count": 0,
       "numbered_endnote_count": 6,
-      "url_count": 123,
+      "url_count": 122,
       "youtube_embed_count": 3,
       "selected_youtube_video_count": 0,
       "selected_youtube_video_ids": [],
@@ -1239,14 +1239,14 @@
       "hide_from_navigation": false,
       "issue_samples": [
         {
-          "line": 409,
+          "line": 407,
           "labels": [
             "unresolved_plain_citation"
           ],
           "text": "else if (navigator.language) languages = [navigator.language];"
         },
         {
-          "line": 522,
+          "line": 520,
           "labels": [
             "unresolved_plain_citation"
           ],
@@ -1258,16 +1258,16 @@
       "basename": "Bavaria_3c0123_mundane_objects_f866c6",
       "title": "Bavaria 3 c0123 mundane objects",
       "permalink": "/mundane-causes/",
-      "word_count": 8712,
-      "char_count": 76924,
-      "line_count": 656,
+      "word_count": 8569,
+      "char_count": 75848,
+      "line_count": 652,
       "heading_count": 9,
       "h2_count": 8,
       "h3_count": 1,
       "endnote_heading_count": 1,
       "footnote_definition_count": 0,
       "numbered_endnote_count": 0,
-      "url_count": 95,
+      "url_count": 94,
       "youtube_embed_count": 3,
       "selected_youtube_video_count": 0,
       "selected_youtube_video_ids": [],
@@ -1299,14 +1299,14 @@
       "hide_from_navigation": false,
       "issue_samples": [
         {
-          "line": 398,
+          "line": 394,
           "labels": [
             "unresolved_plain_citation"
           ],
           "text": "else if (navigator.language) languages = [navigator.language];"
         },
         {
-          "line": 511,
+          "line": 507,
           "labels": [
             "unresolved_plain_citation"
           ],
@@ -1319,8 +1319,8 @@
       "title": "Bavaria 3 c0123 munich blue book",
       "permalink": "/munich-file/",
       "word_count": 7292,
-      "char_count": 64667,
-      "line_count": 603,
+      "char_count": 64659,
+      "line_count": 599,
       "heading_count": 8,
       "h2_count": 7,
       "h3_count": 1,
@@ -1359,14 +1359,14 @@
       "hide_from_navigation": false,
       "issue_samples": [
         {
-          "line": 375,
+          "line": 371,
           "labels": [
             "unresolved_plain_citation"
           ],
           "text": "else if (navigator.language) languages = [navigator.language];"
         },
         {
-          "line": 488,
+          "line": 484,
           "labels": [
             "unresolved_plain_citation"
           ],
@@ -1438,16 +1438,16 @@
       "basename": "Bavaria_3c0123_pilot_witnesses_035958",
       "title": "Bavaria 3 c0123 pilot witnesses",
       "permalink": "/pilot-witnesses/",
-      "word_count": 10020,
-      "char_count": 87527,
-      "line_count": 800,
+      "word_count": 9752,
+      "char_count": 85623,
+      "line_count": 796,
       "heading_count": 10,
       "h2_count": 9,
       "h3_count": 1,
       "endnote_heading_count": 1,
       "footnote_definition_count": 0,
       "numbered_endnote_count": 0,
-      "url_count": 157,
+      "url_count": 155,
       "youtube_embed_count": 3,
       "selected_youtube_video_count": 0,
       "selected_youtube_video_ids": [],
@@ -1479,14 +1479,14 @@
       "hide_from_navigation": false,
       "issue_samples": [
         {
-          "line": 401,
+          "line": 397,
           "labels": [
             "unresolved_plain_citation"
           ],
           "text": "else if (navigator.language) languages = [navigator.language];"
         },
         {
-          "line": 514,
+          "line": 510,
           "labels": [
             "unresolved_plain_citation"
           ],
@@ -1499,8 +1499,8 @@
       "title": "Bavaria 3 c0123 smartphone sightings",
       "permalink": "/phone-clips/",
       "word_count": 9137,
-      "char_count": 80428,
-      "line_count": 710,
+      "char_count": 80424,
+      "line_count": 708,
       "heading_count": 10,
       "h2_count": 9,
       "h3_count": 1,
@@ -1539,14 +1539,14 @@
       "hide_from_navigation": false,
       "issue_samples": [
         {
-          "line": 399,
+          "line": 397,
           "labels": [
             "unresolved_plain_citation"
           ],
           "text": "else if (navigator.language) languages = [navigator.language];"
         },
         {
-          "line": 512,
+          "line": 510,
           "labels": [
             "unresolved_plain_citation"
           ],
@@ -1558,16 +1558,16 @@
       "basename": "Bavaria_3c0123_wurzburg_uap_reporti_a45ac3",
       "title": "Bavaria 3 c0123 wurzburg UAP reporti",
       "permalink": "/wurzburg-uap/",
-      "word_count": 10293,
-      "char_count": 91368,
-      "line_count": 782,
+      "word_count": 10154,
+      "char_count": 90354,
+      "line_count": 780,
       "heading_count": 9,
       "h2_count": 8,
       "h3_count": 1,
       "endnote_heading_count": 1,
       "footnote_definition_count": 0,
       "numbered_endnote_count": 0,
-      "url_count": 160,
+      "url_count": 159,
       "youtube_embed_count": 3,
       "selected_youtube_video_count": 0,
       "selected_youtube_video_ids": [],
@@ -1599,14 +1599,14 @@
       "hide_from_navigation": false,
       "issue_samples": [
         {
-          "line": 382,
+          "line": 380,
           "labels": [
             "unresolved_plain_citation"
           ],
           "text": "else if (navigator.language) languages = [navigator.language];"
         },
         {
-          "line": 495,
+          "line": 493,
           "labels": [
             "unresolved_plain_citation"
           ],
@@ -1619,8 +1619,8 @@
       "title": "Berlin",
       "permalink": "/what-berlins-ufo-reports-really-show/",
       "word_count": 10098,
-      "char_count": 88905,
-      "line_count": 811,
+      "char_count": 88897,
+      "line_count": 807,
       "heading_count": 13,
       "h2_count": 12,
       "h3_count": 1,
@@ -1659,14 +1659,14 @@
       "hide_from_navigation": false,
       "issue_samples": [
         {
-          "line": 479,
+          "line": 475,
           "labels": [
             "unresolved_plain_citation"
           ],
           "text": "else if (navigator.language) languages = [navigator.language];"
         },
         {
-          "line": 592,
+          "line": 588,
           "labels": [
             "unresolved_plain_citation"
           ],
@@ -1679,8 +1679,8 @@
       "title": "Berlin 062 b06 ber airport drones",
       "permalink": "/airport-drones/",
       "word_count": 10596,
-      "char_count": 90907,
-      "line_count": 737,
+      "char_count": 90903,
+      "line_count": 735,
       "heading_count": 12,
       "h2_count": 11,
       "h3_count": 1,
@@ -1719,14 +1719,14 @@
       "hide_from_navigation": false,
       "issue_samples": [
         {
-          "line": 404,
+          "line": 402,
           "labels": [
             "unresolved_plain_citation"
           ],
           "text": "else if (navigator.language) languages = [navigator.language];"
         },
         {
-          "line": 517,
+          "line": 515,
           "labels": [
             "unresolved_plain_citation"
           ],
@@ -1738,16 +1738,16 @@
       "basename": "Berlin_062b06_berlin_britz_lights_a9d57b",
       "title": "Berlin 062 b06 berlin britz lights",
       "permalink": "/berlin-britz/",
-      "word_count": 8961,
-      "char_count": 78502,
-      "line_count": 700,
+      "word_count": 8700,
+      "char_count": 76607,
+      "line_count": 696,
       "heading_count": 9,
       "h2_count": 8,
       "h3_count": 1,
       "endnote_heading_count": 1,
       "footnote_definition_count": 0,
       "numbered_endnote_count": 0,
-      "url_count": 134,
+      "url_count": 132,
       "youtube_embed_count": 3,
       "selected_youtube_video_count": 0,
       "selected_youtube_video_ids": [],
@@ -1779,14 +1779,14 @@
       "hide_from_navigation": false,
       "issue_samples": [
         {
-          "line": 376,
+          "line": 372,
           "labels": [
             "unresolved_plain_citation"
           ],
           "text": "else if (navigator.language) languages = [navigator.language];"
         },
         {
-          "line": 489,
+          "line": 485,
           "labels": [
             "unresolved_plain_citation"
           ],
@@ -1798,16 +1798,16 @@
       "basename": "Berlin_062b06_berlin_case_data_8c5ad1",
       "title": "Berlin 062 b06 berlin case data",
       "permalink": "/case-data/",
-      "word_count": 9854,
-      "char_count": 84696,
-      "line_count": 741,
+      "word_count": 9699,
+      "char_count": 83557,
+      "line_count": 739,
       "heading_count": 12,
       "h2_count": 11,
       "h3_count": 1,
       "endnote_heading_count": 1,
       "footnote_definition_count": 0,
       "numbered_endnote_count": 0,
-      "url_count": 140,
+      "url_count": 139,
       "youtube_embed_count": 3,
       "selected_youtube_video_count": 0,
       "selected_youtube_video_ids": [],
@@ -1839,14 +1839,14 @@
       "hide_from_navigation": false,
       "issue_samples": [
         {
-          "line": 409,
+          "line": 407,
           "labels": [
             "unresolved_plain_citation"
           ],
           "text": "else if (navigator.language) languages = [navigator.language];"
         },
         {
-          "line": 522,
+          "line": 520,
           "labels": [
             "unresolved_plain_citation"
           ],
@@ -1978,16 +1978,16 @@
       "basename": "Berlin_062b06_cold_war_airspace_e02009",
       "title": "Berlin 062 b06 cold war airspace",
       "permalink": "/cold-war/",
-      "word_count": 12458,
-      "char_count": 104147,
-      "line_count": 909,
+      "word_count": 12319,
+      "char_count": 103152,
+      "line_count": 907,
       "heading_count": 9,
       "h2_count": 8,
       "h3_count": 1,
       "endnote_heading_count": 1,
       "footnote_definition_count": 0,
       "numbered_endnote_count": 0,
-      "url_count": 215,
+      "url_count": 214,
       "youtube_embed_count": 3,
       "selected_youtube_video_count": 0,
       "selected_youtube_video_ids": [],
@@ -2019,14 +2019,14 @@
       "hide_from_navigation": false,
       "issue_samples": [
         {
-          "line": 401,
+          "line": 399,
           "labels": [
             "unresolved_plain_citation"
           ],
           "text": "else if (navigator.language) languages = [navigator.language];"
         },
         {
-          "line": 514,
+          "line": 512,
           "labels": [
             "unresolved_plain_citation"
           ],
@@ -2039,8 +2039,8 @@
       "title": "Berlin 062 b06 landmark sighting",
       "permalink": "/landmarks/",
       "word_count": 9161,
-      "char_count": 79708,
-      "line_count": 694,
+      "char_count": 79704,
+      "line_count": 692,
       "heading_count": 10,
       "h2_count": 9,
       "h3_count": 1,
@@ -2079,14 +2079,14 @@
       "hide_from_navigation": false,
       "issue_samples": [
         {
-          "line": 405,
+          "line": 403,
           "labels": [
             "unresolved_plain_citation"
           ],
           "text": "else if (navigator.language) languages = [navigator.language];"
         },
         {
-          "line": 518,
+          "line": 516,
           "labels": [
             "unresolved_plain_citation"
           ],
@@ -2099,8 +2099,8 @@
       "title": "Berlin 062 b06 official UFO records",
       "permalink": "/official-files/",
       "word_count": 9564,
-      "char_count": 84018,
-      "line_count": 796,
+      "char_count": 84014,
+      "line_count": 794,
       "heading_count": 9,
       "h2_count": 8,
       "h3_count": 1,
@@ -2108,6 +2108,66 @@
       "footnote_definition_count": 0,
       "numbered_endnote_count": 0,
       "url_count": 163,
+      "youtube_embed_count": 3,
+      "selected_youtube_video_count": 0,
+      "selected_youtube_video_ids": [],
+      "selected_youtube_videos": [],
+      "youtube_fallback_count": 0,
+      "has_related_reports_panel": false,
+      "internal_link_candidate_pool_size": 0,
+      "internal_link_eligible_match_count": 0,
+      "inline_internal_link_count": 0,
+      "internal_link_unselected_match_count": 0,
+      "internal_link_duplicate_target_match_count": 0,
+      "internal_linked_target_count": 0,
+      "selected_internal_link_texts": [],
+      "selected_internal_link_targets": [],
+      "related_report_count": 0,
+      "internal_link_hit_page_cap": false,
+      "internal_link_hit_paragraph_cap": false,
+      "prompt_leak_hit_count": 0,
+      "mojibake_hit_count": 0,
+      "structured_output_hit_count": 0,
+      "broken_citation_artifact_hit_count": 0,
+      "inline_citation_domain_fallback_count": 0,
+      "unresolved_plain_citation_hit_count": 2,
+      "placeholder_citation_hit_count": 0,
+      "malformed_heading_artifact_hit_count": 0,
+      "suspicious_markdown_link_boundary_hit_count": 0,
+      "embed_integrity_hit_count": 0,
+      "needs_review": false,
+      "hide_from_navigation": false,
+      "issue_samples": [
+        {
+          "line": 388,
+          "labels": [
+            "unresolved_plain_citation"
+          ],
+          "text": "else if (navigator.language) languages = [navigator.language];"
+        },
+        {
+          "line": 501,
+          "labels": [
+            "unresolved_plain_citation"
+          ],
+          "text": "if (select && select.selectedIndex >= 0) selectedText = select.options[select.selectedIndex].text;"
+        }
+      ]
+    },
+    {
+      "basename": "Berlin_062b06_satellite_train_sigh_48e28a",
+      "title": "Berlin 062 b06 satellite train sigh",
+      "permalink": "/light-trains/",
+      "word_count": 9376,
+      "char_count": 81480,
+      "line_count": 710,
+      "heading_count": 9,
+      "h2_count": 8,
+      "h3_count": 1,
+      "endnote_heading_count": 1,
+      "footnote_definition_count": 0,
+      "numbered_endnote_count": 0,
+      "url_count": 125,
       "youtube_embed_count": 3,
       "selected_youtube_video_count": 0,
       "selected_youtube_video_ids": [],
@@ -2155,79 +2215,19 @@
       ]
     },
     {
-      "basename": "Berlin_062b06_satellite_train_sigh_48e28a",
-      "title": "Berlin 062 b06 satellite train sigh",
-      "permalink": "/light-trains/",
-      "word_count": 9502,
-      "char_count": 82406,
-      "line_count": 714,
-      "heading_count": 9,
-      "h2_count": 8,
-      "h3_count": 1,
-      "endnote_heading_count": 1,
-      "footnote_definition_count": 0,
-      "numbered_endnote_count": 0,
-      "url_count": 126,
-      "youtube_embed_count": 3,
-      "selected_youtube_video_count": 0,
-      "selected_youtube_video_ids": [],
-      "selected_youtube_videos": [],
-      "youtube_fallback_count": 0,
-      "has_related_reports_panel": false,
-      "internal_link_candidate_pool_size": 0,
-      "internal_link_eligible_match_count": 0,
-      "inline_internal_link_count": 0,
-      "internal_link_unselected_match_count": 0,
-      "internal_link_duplicate_target_match_count": 0,
-      "internal_linked_target_count": 0,
-      "selected_internal_link_texts": [],
-      "selected_internal_link_targets": [],
-      "related_report_count": 0,
-      "internal_link_hit_page_cap": false,
-      "internal_link_hit_paragraph_cap": false,
-      "prompt_leak_hit_count": 0,
-      "mojibake_hit_count": 0,
-      "structured_output_hit_count": 0,
-      "broken_citation_artifact_hit_count": 0,
-      "inline_citation_domain_fallback_count": 0,
-      "unresolved_plain_citation_hit_count": 2,
-      "placeholder_citation_hit_count": 0,
-      "malformed_heading_artifact_hit_count": 0,
-      "suspicious_markdown_link_boundary_hit_count": 0,
-      "embed_integrity_hit_count": 0,
-      "needs_review": false,
-      "hide_from_navigation": false,
-      "issue_samples": [
-        {
-          "line": 394,
-          "labels": [
-            "unresolved_plain_citation"
-          ],
-          "text": "else if (navigator.language) languages = [navigator.language];"
-        },
-        {
-          "line": 507,
-          "labels": [
-            "unresolved_plain_citation"
-          ],
-          "text": "if (select && select.selectedIndex >= 0) selectedText = select.options[select.selectedIndex].text;"
-        }
-      ]
-    },
-    {
       "basename": "Berlin_062b06_ufo_investigators_c9d8d2",
       "title": "Berlin 062 b06 UFO investigators",
       "permalink": "/investigators/",
-      "word_count": 9678,
-      "char_count": 84432,
-      "line_count": 777,
+      "word_count": 9419,
+      "char_count": 82493,
+      "line_count": 771,
       "heading_count": 11,
       "h2_count": 10,
       "h3_count": 1,
       "endnote_heading_count": 1,
       "footnote_definition_count": 0,
       "numbered_endnote_count": 0,
-      "url_count": 154,
+      "url_count": 152,
       "youtube_embed_count": 3,
       "selected_youtube_video_count": 0,
       "selected_youtube_video_ids": [],
@@ -2259,14 +2259,14 @@
       "hide_from_navigation": false,
       "issue_samples": [
         {
-          "line": 401,
+          "line": 395,
           "labels": [
             "unresolved_plain_citation"
           ],
           "text": "else if (navigator.language) languages = [navigator.language];"
         },
         {
-          "line": 514,
+          "line": 508,
           "labels": [
             "unresolved_plain_citation"
           ],
@@ -2338,16 +2338,16 @@
       "basename": "Berlin_062b06_witness_credibility_c6d46d",
       "title": "Berlin 062 b06 witness credibility",
       "permalink": "/witnesses/",
-      "word_count": 9447,
-      "char_count": 81988,
-      "line_count": 705,
+      "word_count": 9306,
+      "char_count": 80955,
+      "line_count": 703,
       "heading_count": 11,
       "h2_count": 10,
       "h3_count": 1,
       "endnote_heading_count": 1,
       "footnote_definition_count": 0,
       "numbered_endnote_count": 3,
-      "url_count": 120,
+      "url_count": 119,
       "youtube_embed_count": 3,
       "selected_youtube_video_count": 0,
       "selected_youtube_video_ids": [],
@@ -2379,14 +2379,14 @@
       "hide_from_navigation": false,
       "issue_samples": [
         {
-          "line": 405,
+          "line": 403,
           "labels": [
             "unresolved_plain_citation"
           ],
           "text": "else if (navigator.language) languages = [navigator.language];"
         },
         {
-          "line": 518,
+          "line": 516,
           "labels": [
             "unresolved_plain_citation"
           ],
@@ -2398,16 +2398,16 @@
       "basename": "Brandenburg_a1d94c",
       "title": "Brandenburg",
       "permalink": "/what-really-lights-up-brandenburgs-skies/",
-      "word_count": 11958,
-      "char_count": 109320,
-      "line_count": 1003,
+      "word_count": 11831,
+      "char_count": 108322,
+      "line_count": 1001,
       "heading_count": 10,
       "h2_count": 9,
       "h3_count": 1,
       "endnote_heading_count": 1,
       "footnote_definition_count": 0,
       "numbered_endnote_count": 0,
-      "url_count": 236,
+      "url_count": 235,
       "youtube_embed_count": 3,
       "selected_youtube_video_count": 0,
       "selected_youtube_video_ids": [],
@@ -2439,14 +2439,14 @@
       "hide_from_navigation": false,
       "issue_samples": [
         {
-          "line": 455,
+          "line": 453,
           "labels": [
             "unresolved_plain_citation"
           ],
           "text": "else if (navigator.language) languages = [navigator.language];"
         },
         {
-          "line": 568,
+          "line": 566,
           "labels": [
             "unresolved_plain_citation"
           ],
@@ -2518,16 +2518,16 @@
       "basename": "Brandenburg_a1d94c_cenap_explanations_3e3765",
       "title": "Brandenburg a1 d94 c cenap explanations",
       "permalink": "/cenap/",
-      "word_count": 10210,
-      "char_count": 90089,
-      "line_count": 786,
+      "word_count": 10102,
+      "char_count": 89184,
+      "line_count": 784,
       "heading_count": 10,
       "h2_count": 9,
       "h3_count": 1,
       "endnote_heading_count": 1,
       "footnote_definition_count": 0,
       "numbered_endnote_count": 0,
-      "url_count": 153,
+      "url_count": 152,
       "youtube_embed_count": 3,
       "selected_youtube_video_count": 0,
       "selected_youtube_video_ids": [],
@@ -2559,14 +2559,14 @@
       "hide_from_navigation": false,
       "issue_samples": [
         {
-          "line": 404,
+          "line": 402,
           "labels": [
             "unresolved_plain_citation"
           ],
           "text": "else if (navigator.language) languages = [navigator.language];"
         },
         {
-          "line": 517,
+          "line": 515,
           "labels": [
             "unresolved_plain_citation"
           ],
@@ -2638,16 +2638,16 @@
       "basename": "Brandenburg_a1d94c_gep_records_6e25d2",
       "title": "Brandenburg a1 d94 c gep records",
       "permalink": "/gep-records/",
-      "word_count": 10259,
-      "char_count": 89941,
-      "line_count": 744,
+      "word_count": 9957,
+      "char_count": 87512,
+      "line_count": 740,
       "heading_count": 10,
       "h2_count": 9,
       "h3_count": 1,
       "endnote_heading_count": 1,
       "footnote_definition_count": 0,
       "numbered_endnote_count": 0,
-      "url_count": 149,
+      "url_count": 147,
       "youtube_embed_count": 3,
       "selected_youtube_video_count": 0,
       "selected_youtube_video_ids": [],
@@ -2679,14 +2679,14 @@
       "hide_from_navigation": false,
       "issue_samples": [
         {
-          "line": 394,
+          "line": 390,
           "labels": [
             "unresolved_plain_citation"
           ],
           "text": "else if (navigator.language) languages = [navigator.language];"
         },
         {
-          "line": 507,
+          "line": 503,
           "labels": [
             "unresolved_plain_citation"
           ],
@@ -2698,16 +2698,16 @@
       "basename": "Brandenburg_a1d94c_no_single_famous_cas_e88740",
       "title": "Brandenburg a1 d94 c no single famous cas",
       "permalink": "/no-big-case/",
-      "word_count": 10348,
-      "char_count": 90632,
-      "line_count": 820,
+      "word_count": 10224,
+      "char_count": 89605,
+      "line_count": 818,
       "heading_count": 10,
       "h2_count": 9,
       "h3_count": 1,
       "endnote_heading_count": 1,
       "footnote_definition_count": 0,
       "numbered_endnote_count": 0,
-      "url_count": 164,
+      "url_count": 163,
       "youtube_embed_count": 3,
       "selected_youtube_video_count": 0,
       "selected_youtube_video_ids": [],
@@ -2739,14 +2739,14 @@
       "hide_from_navigation": false,
       "issue_samples": [
         {
-          "line": 408,
+          "line": 406,
           "labels": [
             "unresolved_plain_citation"
           ],
           "text": "else if (navigator.language) languages = [navigator.language];"
         },
         {
-          "line": 521,
+          "line": 519,
           "labels": [
             "unresolved_plain_citation"
           ],
@@ -2819,8 +2819,8 @@
       "title": "Brandenburg a1 d94 c ribbeck meteorite",
       "permalink": "/ribbeck/",
       "word_count": 9972,
-      "char_count": 87706,
-      "line_count": 739,
+      "char_count": 87702,
+      "line_count": 737,
       "heading_count": 10,
       "h2_count": 9,
       "h3_count": 1,
@@ -2859,14 +2859,14 @@
       "hide_from_navigation": false,
       "issue_samples": [
         {
-          "line": 401,
+          "line": 399,
           "labels": [
             "unresolved_plain_citation"
           ],
           "text": "else if (navigator.language) languages = [navigator.language];"
         },
         {
-          "line": 514,
+          "line": 512,
           "labels": [
             "unresolved_plain_citation"
           ],
@@ -2939,8 +2939,8 @@
       "title": "Brandenburg a1 d94 c sighting identificat",
       "permalink": "/identification/",
       "word_count": 9947,
-      "char_count": 86621,
-      "line_count": 792,
+      "char_count": 86613,
+      "line_count": 788,
       "heading_count": 11,
       "h2_count": 10,
       "h3_count": 1,
@@ -2979,14 +2979,14 @@
       "hide_from_navigation": false,
       "issue_samples": [
         {
-          "line": 425,
+          "line": 421,
           "labels": [
             "unresolved_plain_citation"
           ],
           "text": "else if (navigator.language) languages = [navigator.language];"
         },
         {
-          "line": 538,
+          "line": 534,
           "labels": [
             "unresolved_plain_citation"
           ],
@@ -2999,8 +2999,8 @@
       "title": "Brandenburg a1 d94 c starlink satellite",
       "permalink": "/starlink-bdbbb9/",
       "word_count": 9728,
-      "char_count": 86218,
-      "line_count": 810,
+      "char_count": 86212,
+      "line_count": 807,
       "heading_count": 11,
       "h2_count": 10,
       "h3_count": 1,
@@ -3039,14 +3039,14 @@
       "hide_from_navigation": false,
       "issue_samples": [
         {
-          "line": 420,
+          "line": 417,
           "labels": [
             "unresolved_plain_citation"
           ],
           "text": "else if (navigator.language) languages = [navigator.language];"
         },
         {
-          "line": 533,
+          "line": 530,
           "labels": [
             "unresolved_plain_citation"
           ],
@@ -3059,8 +3059,8 @@
       "title": "Brandenburg a1 d94 c three report types",
       "permalink": "/report-types/",
       "word_count": 10141,
-      "char_count": 88692,
-      "line_count": 770,
+      "char_count": 88688,
+      "line_count": 768,
       "heading_count": 10,
       "h2_count": 9,
       "h3_count": 1,
@@ -3099,14 +3099,14 @@
       "hide_from_navigation": false,
       "issue_samples": [
         {
-          "line": 412,
+          "line": 410,
           "labels": [
             "unresolved_plain_citation"
           ],
           "text": "else if (navigator.language) languages = [navigator.language];"
         },
         {
-          "line": 525,
+          "line": 523,
           "labels": [
             "unresolved_plain_citation"
           ],
@@ -3118,16 +3118,16 @@
       "basename": "Brandenburg_a1d94c_westhavelland_dark_s_dd89f1",
       "title": "Brandenburg a1 d94 c westhavelland dark",
       "permalink": "/westhavelland/",
-      "word_count": 10368,
-      "char_count": 92250,
-      "line_count": 788,
+      "word_count": 10249,
+      "char_count": 91300,
+      "line_count": 786,
       "heading_count": 9,
       "h2_count": 8,
       "h3_count": 1,
       "endnote_heading_count": 1,
       "footnote_definition_count": 0,
       "numbered_endnote_count": 0,
-      "url_count": 163,
+      "url_count": 162,
       "youtube_embed_count": 3,
       "selected_youtube_video_count": 0,
       "selected_youtube_video_ids": [],
@@ -3159,14 +3159,14 @@
       "hide_from_navigation": false,
       "issue_samples": [
         {
-          "line": 388,
+          "line": 386,
           "labels": [
             "unresolved_plain_citation"
           ],
           "text": "else if (navigator.language) languages = [navigator.language];"
         },
         {
-          "line": 501,
+          "line": 499,
           "labels": [
             "unresolved_plain_citation"
           ],
@@ -3299,8 +3299,8 @@
       "title": "Bremen 20 b942 bremen airport",
       "permalink": "/2014-incident/",
       "word_count": 10736,
-      "char_count": 93969,
-      "line_count": 705,
+      "char_count": 93965,
+      "line_count": 703,
       "heading_count": 10,
       "h2_count": 9,
       "h3_count": 1,
@@ -3339,14 +3339,14 @@
       "hide_from_navigation": false,
       "issue_samples": [
         {
-          "line": 413,
+          "line": 411,
           "labels": [
             "unresolved_plain_citation"
           ],
           "text": "else if (navigator.language) languages = [navigator.language];"
         },
         {
-          "line": 526,
+          "line": 524,
           "labels": [
             "unresolved_plain_citation"
           ],
@@ -3419,8 +3419,8 @@
       "title": "Bremen 20 b942 drone shift airspace",
       "permalink": "/drone-shift/",
       "word_count": 9866,
-      "char_count": 84736,
-      "line_count": 722,
+      "char_count": 84732,
+      "line_count": 720,
       "heading_count": 10,
       "h2_count": 9,
       "h3_count": 1,
@@ -3459,14 +3459,14 @@
       "hide_from_navigation": false,
       "issue_samples": [
         {
-          "line": 403,
+          "line": 401,
           "labels": [
             "unresolved_plain_citation"
           ],
           "text": "else if (navigator.language) languages = [navigator.language];"
         },
         {
-          "line": 516,
+          "line": 514,
           "labels": [
             "unresolved_plain_citation"
           ],
@@ -3478,16 +3478,16 @@
       "basename": "Bremen_20b942_media_coverage_018ad5",
       "title": "Bremen 20 b942 media coverage",
       "permalink": "/media-story/",
-      "word_count": 9071,
-      "char_count": 80569,
-      "line_count": 703,
+      "word_count": 8881,
+      "char_count": 79088,
+      "line_count": 702,
       "heading_count": 8,
       "h2_count": 7,
       "h3_count": 1,
       "endnote_heading_count": 1,
       "footnote_definition_count": 0,
       "numbered_endnote_count": 0,
-      "url_count": 125,
+      "url_count": 124,
       "youtube_embed_count": 3,
       "selected_youtube_video_count": 0,
       "selected_youtube_video_ids": [],
@@ -3519,14 +3519,14 @@
       "hide_from_navigation": false,
       "issue_samples": [
         {
-          "line": 392,
+          "line": 391,
           "labels": [
             "unresolved_plain_citation"
           ],
           "text": "else if (navigator.language) languages = [navigator.language];"
         },
         {
-          "line": 505,
+          "line": 504,
           "labels": [
             "unresolved_plain_citation"
           ],
@@ -3538,16 +3538,16 @@
       "basename": "Bremen_20b942_model_aircraft_expla_e9084b",
       "title": "Bremen 20 b942 model aircraft expla",
       "permalink": "/police-view/",
-      "word_count": 8978,
-      "char_count": 78950,
-      "line_count": 652,
+      "word_count": 8658,
+      "char_count": 76507,
+      "line_count": 648,
       "heading_count": 7,
       "h2_count": 6,
       "h3_count": 1,
       "endnote_heading_count": 1,
       "footnote_definition_count": 0,
       "numbered_endnote_count": 0,
-      "url_count": 114,
+      "url_count": 112,
       "youtube_embed_count": 3,
       "selected_youtube_video_count": 0,
       "selected_youtube_video_ids": [],
@@ -3579,14 +3579,14 @@
       "hide_from_navigation": false,
       "issue_samples": [
         {
-          "line": 372,
+          "line": 368,
           "labels": [
             "unresolved_plain_citation"
           ],
           "text": "else if (navigator.language) languages = [navigator.language];"
         },
         {
-          "line": 485,
+          "line": 481,
           "labels": [
             "unresolved_plain_citation"
           ],
@@ -3658,76 +3658,16 @@
       "basename": "Bremen_20b942_radar_evidence_limit_dc54c2",
       "title": "Bremen 20 b942 radar evidence limit",
       "permalink": "/radar-evidence/",
-      "word_count": 9383,
-      "char_count": 82089,
-      "line_count": 708,
+      "word_count": 9245,
+      "char_count": 81010,
+      "line_count": 706,
       "heading_count": 9,
       "h2_count": 8,
       "h3_count": 1,
       "endnote_heading_count": 1,
       "footnote_definition_count": 0,
       "numbered_endnote_count": 0,
-      "url_count": 125,
-      "youtube_embed_count": 3,
-      "selected_youtube_video_count": 0,
-      "selected_youtube_video_ids": [],
-      "selected_youtube_videos": [],
-      "youtube_fallback_count": 0,
-      "has_related_reports_panel": false,
-      "internal_link_candidate_pool_size": 0,
-      "internal_link_eligible_match_count": 0,
-      "inline_internal_link_count": 0,
-      "internal_link_unselected_match_count": 0,
-      "internal_link_duplicate_target_match_count": 0,
-      "internal_linked_target_count": 0,
-      "selected_internal_link_texts": [],
-      "selected_internal_link_targets": [],
-      "related_report_count": 0,
-      "internal_link_hit_page_cap": false,
-      "internal_link_hit_paragraph_cap": false,
-      "prompt_leak_hit_count": 0,
-      "mojibake_hit_count": 0,
-      "structured_output_hit_count": 0,
-      "broken_citation_artifact_hit_count": 0,
-      "inline_citation_domain_fallback_count": 0,
-      "unresolved_plain_citation_hit_count": 2,
-      "placeholder_citation_hit_count": 0,
-      "malformed_heading_artifact_hit_count": 0,
-      "suspicious_markdown_link_boundary_hit_count": 0,
-      "embed_integrity_hit_count": 0,
-      "needs_review": false,
-      "hide_from_navigation": false,
-      "issue_samples": [
-        {
-          "line": 396,
-          "labels": [
-            "unresolved_plain_citation"
-          ],
-          "text": "else if (navigator.language) languages = [navigator.language];"
-        },
-        {
-          "line": 509,
-          "labels": [
-            "unresolved_plain_citation"
-          ],
-          "text": "if (select && select.selectedIndex >= 0) selectedText = select.options[select.selectedIndex].text;"
-        }
-      ]
-    },
-    {
-      "basename": "Bremen_20b942_ufo_meaning_bremen_178685",
-      "title": "Bremen 20 b942 UFO meaning bremen",
-      "permalink": "/ufo-meaning/",
-      "word_count": 8360,
-      "char_count": 73850,
-      "line_count": 683,
-      "heading_count": 9,
-      "h2_count": 8,
-      "h3_count": 1,
-      "endnote_heading_count": 1,
-      "footnote_definition_count": 0,
-      "numbered_endnote_count": 3,
-      "url_count": 112,
+      "url_count": 124,
       "youtube_embed_count": 3,
       "selected_youtube_video_count": 0,
       "selected_youtube_video_ids": [],
@@ -3775,139 +3715,19 @@
       ]
     },
     {
-      "basename": "Bremen_20b942_unresolved_questions_41a51c",
-      "title": "Bremen 20 b942 unresolved questions",
-      "permalink": "/open-questions/",
-      "word_count": 9140,
-      "char_count": 81308,
-      "line_count": 720,
-      "heading_count": 10,
-      "h2_count": 9,
-      "h3_count": 1,
-      "endnote_heading_count": 1,
-      "footnote_definition_count": 0,
-      "numbered_endnote_count": 0,
-      "url_count": 127,
-      "youtube_embed_count": 3,
-      "selected_youtube_video_count": 0,
-      "selected_youtube_video_ids": [],
-      "selected_youtube_videos": [],
-      "youtube_fallback_count": 0,
-      "has_related_reports_panel": false,
-      "internal_link_candidate_pool_size": 0,
-      "internal_link_eligible_match_count": 0,
-      "inline_internal_link_count": 0,
-      "internal_link_unselected_match_count": 0,
-      "internal_link_duplicate_target_match_count": 0,
-      "internal_linked_target_count": 0,
-      "selected_internal_link_texts": [],
-      "selected_internal_link_targets": [],
-      "related_report_count": 0,
-      "internal_link_hit_page_cap": false,
-      "internal_link_hit_paragraph_cap": false,
-      "prompt_leak_hit_count": 0,
-      "mojibake_hit_count": 0,
-      "structured_output_hit_count": 0,
-      "broken_citation_artifact_hit_count": 0,
-      "inline_citation_domain_fallback_count": 0,
-      "unresolved_plain_citation_hit_count": 2,
-      "placeholder_citation_hit_count": 0,
-      "malformed_heading_artifact_hit_count": 0,
-      "suspicious_markdown_link_boundary_hit_count": 0,
-      "embed_integrity_hit_count": 0,
-      "needs_review": false,
-      "hide_from_navigation": false,
-      "issue_samples": [
-        {
-          "line": 401,
-          "labels": [
-            "unresolved_plain_citation"
-          ],
-          "text": "else if (navigator.language) languages = [navigator.language];"
-        },
-        {
-          "line": 514,
-          "labels": [
-            "unresolved_plain_citation"
-          ],
-          "text": "if (select && select.selectedIndex >= 0) selectedText = select.options[select.selectedIndex].text;"
-        }
-      ]
-    },
-    {
-      "basename": "Bremen_20b942_wider_ufo_record_142400",
-      "title": "Bremen 20 b942 wider UFO record",
-      "permalink": "/beyond-airport/",
-      "word_count": 8433,
-      "char_count": 74324,
-      "line_count": 697,
+      "basename": "Bremen_20b942_ufo_meaning_bremen_178685",
+      "title": "Bremen 20 b942 UFO meaning bremen",
+      "permalink": "/ufo-meaning/",
+      "word_count": 8360,
+      "char_count": 73846,
+      "line_count": 681,
       "heading_count": 9,
       "h2_count": 8,
       "h3_count": 1,
       "endnote_heading_count": 1,
       "footnote_definition_count": 0,
-      "numbered_endnote_count": 0,
-      "url_count": 122,
-      "youtube_embed_count": 3,
-      "selected_youtube_video_count": 0,
-      "selected_youtube_video_ids": [],
-      "selected_youtube_videos": [],
-      "youtube_fallback_count": 0,
-      "has_related_reports_panel": false,
-      "internal_link_candidate_pool_size": 0,
-      "internal_link_eligible_match_count": 0,
-      "inline_internal_link_count": 0,
-      "internal_link_unselected_match_count": 0,
-      "internal_link_duplicate_target_match_count": 0,
-      "internal_linked_target_count": 0,
-      "selected_internal_link_texts": [],
-      "selected_internal_link_targets": [],
-      "related_report_count": 0,
-      "internal_link_hit_page_cap": false,
-      "internal_link_hit_paragraph_cap": false,
-      "prompt_leak_hit_count": 0,
-      "mojibake_hit_count": 0,
-      "structured_output_hit_count": 0,
-      "broken_citation_artifact_hit_count": 0,
-      "inline_citation_domain_fallback_count": 0,
-      "unresolved_plain_citation_hit_count": 2,
-      "placeholder_citation_hit_count": 0,
-      "malformed_heading_artifact_hit_count": 0,
-      "suspicious_markdown_link_boundary_hit_count": 0,
-      "embed_integrity_hit_count": 0,
-      "needs_review": false,
-      "hide_from_navigation": false,
-      "issue_samples": [
-        {
-          "line": 382,
-          "labels": [
-            "unresolved_plain_citation"
-          ],
-          "text": "else if (navigator.language) languages = [navigator.language];"
-        },
-        {
-          "line": 495,
-          "labels": [
-            "unresolved_plain_citation"
-          ],
-          "text": "if (select && select.selectedIndex >= 0) selectedText = select.options[select.selectedIndex].text;"
-        }
-      ]
-    },
-    {
-      "basename": "Bremen_20b942_witness_reports_78ec97",
-      "title": "Bremen 20 b942 witness reports",
-      "permalink": "/witnesses-0d1ceb/",
-      "word_count": 9727,
-      "char_count": 86008,
-      "line_count": 708,
-      "heading_count": 10,
-      "h2_count": 9,
-      "h3_count": 1,
-      "endnote_heading_count": 1,
-      "footnote_definition_count": 0,
-      "numbered_endnote_count": 0,
-      "url_count": 130,
+      "numbered_endnote_count": 3,
+      "url_count": 112,
       "youtube_embed_count": 3,
       "selected_youtube_video_count": 0,
       "selected_youtube_video_ids": [],
@@ -3947,6 +3767,186 @@
         },
         {
           "line": 505,
+          "labels": [
+            "unresolved_plain_citation"
+          ],
+          "text": "if (select && select.selectedIndex >= 0) selectedText = select.options[select.selectedIndex].text;"
+        }
+      ]
+    },
+    {
+      "basename": "Bremen_20b942_unresolved_questions_41a51c",
+      "title": "Bremen 20 b942 unresolved questions",
+      "permalink": "/open-questions/",
+      "word_count": 9140,
+      "char_count": 81304,
+      "line_count": 718,
+      "heading_count": 10,
+      "h2_count": 9,
+      "h3_count": 1,
+      "endnote_heading_count": 1,
+      "footnote_definition_count": 0,
+      "numbered_endnote_count": 0,
+      "url_count": 127,
+      "youtube_embed_count": 3,
+      "selected_youtube_video_count": 0,
+      "selected_youtube_video_ids": [],
+      "selected_youtube_videos": [],
+      "youtube_fallback_count": 0,
+      "has_related_reports_panel": false,
+      "internal_link_candidate_pool_size": 0,
+      "internal_link_eligible_match_count": 0,
+      "inline_internal_link_count": 0,
+      "internal_link_unselected_match_count": 0,
+      "internal_link_duplicate_target_match_count": 0,
+      "internal_linked_target_count": 0,
+      "selected_internal_link_texts": [],
+      "selected_internal_link_targets": [],
+      "related_report_count": 0,
+      "internal_link_hit_page_cap": false,
+      "internal_link_hit_paragraph_cap": false,
+      "prompt_leak_hit_count": 0,
+      "mojibake_hit_count": 0,
+      "structured_output_hit_count": 0,
+      "broken_citation_artifact_hit_count": 0,
+      "inline_citation_domain_fallback_count": 0,
+      "unresolved_plain_citation_hit_count": 2,
+      "placeholder_citation_hit_count": 0,
+      "malformed_heading_artifact_hit_count": 0,
+      "suspicious_markdown_link_boundary_hit_count": 0,
+      "embed_integrity_hit_count": 0,
+      "needs_review": false,
+      "hide_from_navigation": false,
+      "issue_samples": [
+        {
+          "line": 399,
+          "labels": [
+            "unresolved_plain_citation"
+          ],
+          "text": "else if (navigator.language) languages = [navigator.language];"
+        },
+        {
+          "line": 512,
+          "labels": [
+            "unresolved_plain_citation"
+          ],
+          "text": "if (select && select.selectedIndex >= 0) selectedText = select.options[select.selectedIndex].text;"
+        }
+      ]
+    },
+    {
+      "basename": "Bremen_20b942_wider_ufo_record_142400",
+      "title": "Bremen 20 b942 wider UFO record",
+      "permalink": "/beyond-airport/",
+      "word_count": 8273,
+      "char_count": 73198,
+      "line_count": 693,
+      "heading_count": 9,
+      "h2_count": 8,
+      "h3_count": 1,
+      "endnote_heading_count": 1,
+      "footnote_definition_count": 0,
+      "numbered_endnote_count": 0,
+      "url_count": 121,
+      "youtube_embed_count": 3,
+      "selected_youtube_video_count": 0,
+      "selected_youtube_video_ids": [],
+      "selected_youtube_videos": [],
+      "youtube_fallback_count": 0,
+      "has_related_reports_panel": false,
+      "internal_link_candidate_pool_size": 0,
+      "internal_link_eligible_match_count": 0,
+      "inline_internal_link_count": 0,
+      "internal_link_unselected_match_count": 0,
+      "internal_link_duplicate_target_match_count": 0,
+      "internal_linked_target_count": 0,
+      "selected_internal_link_texts": [],
+      "selected_internal_link_targets": [],
+      "related_report_count": 0,
+      "internal_link_hit_page_cap": false,
+      "internal_link_hit_paragraph_cap": false,
+      "prompt_leak_hit_count": 0,
+      "mojibake_hit_count": 0,
+      "structured_output_hit_count": 0,
+      "broken_citation_artifact_hit_count": 0,
+      "inline_citation_domain_fallback_count": 0,
+      "unresolved_plain_citation_hit_count": 2,
+      "placeholder_citation_hit_count": 0,
+      "malformed_heading_artifact_hit_count": 0,
+      "suspicious_markdown_link_boundary_hit_count": 0,
+      "embed_integrity_hit_count": 0,
+      "needs_review": false,
+      "hide_from_navigation": false,
+      "issue_samples": [
+        {
+          "line": 378,
+          "labels": [
+            "unresolved_plain_citation"
+          ],
+          "text": "else if (navigator.language) languages = [navigator.language];"
+        },
+        {
+          "line": 491,
+          "labels": [
+            "unresolved_plain_citation"
+          ],
+          "text": "if (select && select.selectedIndex >= 0) selectedText = select.options[select.selectedIndex].text;"
+        }
+      ]
+    },
+    {
+      "basename": "Bremen_20b942_witness_reports_78ec97",
+      "title": "Bremen 20 b942 witness reports",
+      "permalink": "/witnesses-0d1ceb/",
+      "word_count": 9600,
+      "char_count": 85016,
+      "line_count": 704,
+      "heading_count": 10,
+      "h2_count": 9,
+      "h3_count": 1,
+      "endnote_heading_count": 1,
+      "footnote_definition_count": 0,
+      "numbered_endnote_count": 0,
+      "url_count": 129,
+      "youtube_embed_count": 3,
+      "selected_youtube_video_count": 0,
+      "selected_youtube_video_ids": [],
+      "selected_youtube_videos": [],
+      "youtube_fallback_count": 0,
+      "has_related_reports_panel": false,
+      "internal_link_candidate_pool_size": 0,
+      "internal_link_eligible_match_count": 0,
+      "inline_internal_link_count": 0,
+      "internal_link_unselected_match_count": 0,
+      "internal_link_duplicate_target_match_count": 0,
+      "internal_linked_target_count": 0,
+      "selected_internal_link_texts": [],
+      "selected_internal_link_targets": [],
+      "related_report_count": 0,
+      "internal_link_hit_page_cap": false,
+      "internal_link_hit_paragraph_cap": false,
+      "prompt_leak_hit_count": 0,
+      "mojibake_hit_count": 0,
+      "structured_output_hit_count": 0,
+      "broken_citation_artifact_hit_count": 0,
+      "inline_citation_domain_fallback_count": 0,
+      "unresolved_plain_citation_hit_count": 2,
+      "placeholder_citation_hit_count": 0,
+      "malformed_heading_artifact_hit_count": 0,
+      "suspicious_markdown_link_boundary_hit_count": 0,
+      "embed_integrity_hit_count": 0,
+      "needs_review": false,
+      "hide_from_navigation": false,
+      "issue_samples": [
+        {
+          "line": 388,
+          "labels": [
+            "unresolved_plain_citation"
+          ],
+          "text": "else if (navigator.language) languages = [navigator.language];"
+        },
+        {
+          "line": 501,
           "labels": [
             "unresolved_plain_citation"
           ],
@@ -4078,16 +4078,16 @@
       "basename": "Hamburg_155277_1958_cigar_lights_78885c",
       "title": "Hamburg 155277 1958 cigar lights",
       "permalink": "/cigar-shaped-lights-of-february-1958/",
-      "word_count": 9174,
-      "char_count": 80291,
-      "line_count": 717,
+      "word_count": 9004,
+      "char_count": 79001,
+      "line_count": 716,
       "heading_count": 8,
       "h2_count": 7,
       "h3_count": 1,
       "endnote_heading_count": 1,
       "footnote_definition_count": 0,
       "numbered_endnote_count": 0,
-      "url_count": 142,
+      "url_count": 141,
       "youtube_embed_count": 3,
       "selected_youtube_video_count": 0,
       "selected_youtube_video_ids": [],
@@ -4119,14 +4119,14 @@
       "hide_from_navigation": false,
       "issue_samples": [
         {
-          "line": 369,
+          "line": 368,
           "labels": [
             "unresolved_plain_citation"
           ],
           "text": "else if (navigator.language) languages = [navigator.language];"
         },
         {
-          "line": 482,
+          "line": 481,
           "labels": [
             "unresolved_plain_citation"
           ],
@@ -4139,8 +4139,8 @@
       "title": "Hamburg 155277 airport aviation lig",
       "permalink": "/airport-lights/",
       "word_count": 9958,
-      "char_count": 88169,
-      "line_count": 852,
+      "char_count": 88161,
+      "line_count": 848,
       "heading_count": 10,
       "h2_count": 9,
       "h3_count": 1,
@@ -4179,14 +4179,14 @@
       "hide_from_navigation": false,
       "issue_samples": [
         {
-          "line": 407,
+          "line": 403,
           "labels": [
             "unresolved_plain_citation"
           ],
           "text": "else if (navigator.language) languages = [navigator.language];"
         },
         {
-          "line": 520,
+          "line": 516,
           "labels": [
             "unresolved_plain_citation"
           ],
@@ -4199,8 +4199,8 @@
       "title": "Hamburg 155277 boxing light show",
       "permalink": "/boxing-lights/",
       "word_count": 8067,
-      "char_count": 70834,
-      "line_count": 647,
+      "char_count": 70830,
+      "line_count": 645,
       "heading_count": 8,
       "h2_count": 7,
       "h3_count": 1,
@@ -4239,14 +4239,14 @@
       "hide_from_navigation": false,
       "issue_samples": [
         {
-          "line": 385,
+          "line": 383,
           "labels": [
             "unresolved_plain_citation"
           ],
           "text": "else if (navigator.language) languages = [navigator.language];"
         },
         {
-          "line": 498,
+          "line": 496,
           "labels": [
             "unresolved_plain_citation"
           ],
@@ -4258,16 +4258,16 @@
       "basename": "Hamburg_155277_case_strength_fc4fea",
       "title": "Hamburg 155277 case strength",
       "permalink": "/case-strength/",
-      "word_count": 10327,
-      "char_count": 91374,
-      "line_count": 789,
+      "word_count": 10139,
+      "char_count": 89897,
+      "line_count": 787,
       "heading_count": 10,
       "h2_count": 9,
       "h3_count": 1,
       "endnote_heading_count": 1,
       "footnote_definition_count": 0,
       "numbered_endnote_count": 0,
-      "url_count": 163,
+      "url_count": 161,
       "youtube_embed_count": 3,
       "selected_youtube_video_count": 0,
       "selected_youtube_video_ids": [],
@@ -4299,14 +4299,14 @@
       "hide_from_navigation": false,
       "issue_samples": [
         {
-          "line": 400,
+          "line": 398,
           "labels": [
             "unresolved_plain_citation"
           ],
           "text": "else if (navigator.language) languages = [navigator.language];"
         },
         {
-          "line": 513,
+          "line": 511,
           "labels": [
             "unresolved_plain_citation"
           ],
@@ -4438,16 +4438,196 @@
       "basename": "Hamburg_155277_harbour_city_lights_52e719",
       "title": "Hamburg 155277 harbour city lights",
       "permalink": "/harbour-lights/",
-      "word_count": 10398,
-      "char_count": 88923,
-      "line_count": 846,
+      "word_count": 10170,
+      "char_count": 87201,
+      "line_count": 844,
       "heading_count": 10,
       "h2_count": 9,
       "h3_count": 1,
       "endnote_heading_count": 1,
       "footnote_definition_count": 0,
       "numbered_endnote_count": 0,
-      "url_count": 188,
+      "url_count": 186,
+      "youtube_embed_count": 3,
+      "selected_youtube_video_count": 0,
+      "selected_youtube_video_ids": [],
+      "selected_youtube_videos": [],
+      "youtube_fallback_count": 0,
+      "has_related_reports_panel": false,
+      "internal_link_candidate_pool_size": 0,
+      "internal_link_eligible_match_count": 0,
+      "inline_internal_link_count": 0,
+      "internal_link_unselected_match_count": 0,
+      "internal_link_duplicate_target_match_count": 0,
+      "internal_linked_target_count": 0,
+      "selected_internal_link_texts": [],
+      "selected_internal_link_targets": [],
+      "related_report_count": 0,
+      "internal_link_hit_page_cap": false,
+      "internal_link_hit_paragraph_cap": false,
+      "prompt_leak_hit_count": 0,
+      "mojibake_hit_count": 0,
+      "structured_output_hit_count": 0,
+      "broken_citation_artifact_hit_count": 0,
+      "inline_citation_domain_fallback_count": 0,
+      "unresolved_plain_citation_hit_count": 2,
+      "placeholder_citation_hit_count": 0,
+      "malformed_heading_artifact_hit_count": 0,
+      "suspicious_markdown_link_boundary_hit_count": 0,
+      "embed_integrity_hit_count": 0,
+      "needs_review": false,
+      "hide_from_navigation": false,
+      "issue_samples": [
+        {
+          "line": 396,
+          "labels": [
+            "unresolved_plain_citation"
+          ],
+          "text": "else if (navigator.language) languages = [navigator.language];"
+        },
+        {
+          "line": 509,
+          "labels": [
+            "unresolved_plain_citation"
+          ],
+          "text": "if (select && select.selectedIndex >= 0) selectedText = select.options[select.selectedIndex].text;"
+        }
+      ]
+    },
+    {
+      "basename": "Hamburg_155277_local_media_stories_523bb8",
+      "title": "Hamburg 155277 local media stories",
+      "permalink": "/media-stories/",
+      "word_count": 9800,
+      "char_count": 86352,
+      "line_count": 742,
+      "heading_count": 9,
+      "h2_count": 8,
+      "h3_count": 1,
+      "endnote_heading_count": 1,
+      "footnote_definition_count": 0,
+      "numbered_endnote_count": 0,
+      "url_count": 140,
+      "youtube_embed_count": 3,
+      "selected_youtube_video_count": 0,
+      "selected_youtube_video_ids": [],
+      "selected_youtube_videos": [],
+      "youtube_fallback_count": 0,
+      "has_related_reports_panel": false,
+      "internal_link_candidate_pool_size": 0,
+      "internal_link_eligible_match_count": 0,
+      "inline_internal_link_count": 0,
+      "internal_link_unselected_match_count": 0,
+      "internal_link_duplicate_target_match_count": 0,
+      "internal_linked_target_count": 0,
+      "selected_internal_link_texts": [],
+      "selected_internal_link_targets": [],
+      "related_report_count": 0,
+      "internal_link_hit_page_cap": false,
+      "internal_link_hit_paragraph_cap": false,
+      "prompt_leak_hit_count": 0,
+      "mojibake_hit_count": 0,
+      "structured_output_hit_count": 0,
+      "broken_citation_artifact_hit_count": 0,
+      "inline_citation_domain_fallback_count": 0,
+      "unresolved_plain_citation_hit_count": 2,
+      "placeholder_citation_hit_count": 0,
+      "malformed_heading_artifact_hit_count": 0,
+      "suspicious_markdown_link_boundary_hit_count": 0,
+      "embed_integrity_hit_count": 0,
+      "needs_review": false,
+      "hide_from_navigation": false,
+      "issue_samples": [
+        {
+          "line": 397,
+          "labels": [
+            "unresolved_plain_citation"
+          ],
+          "text": "else if (navigator.language) languages = [navigator.language];"
+        },
+        {
+          "line": 510,
+          "labels": [
+            "unresolved_plain_citation"
+          ],
+          "text": "if (select && select.selectedIndex >= 0) selectedText = select.options[select.selectedIndex].text;"
+        }
+      ]
+    },
+    {
+      "basename": "Hamburg_155277_red_light_formations_c77d67",
+      "title": "Hamburg 155277 red light formations",
+      "permalink": "/red-lights/",
+      "word_count": 8260,
+      "char_count": 72856,
+      "line_count": 678,
+      "heading_count": 9,
+      "h2_count": 8,
+      "h3_count": 1,
+      "endnote_heading_count": 1,
+      "footnote_definition_count": 0,
+      "numbered_endnote_count": 0,
+      "url_count": 110,
+      "youtube_embed_count": 3,
+      "selected_youtube_video_count": 0,
+      "selected_youtube_video_ids": [],
+      "selected_youtube_videos": [],
+      "youtube_fallback_count": 0,
+      "has_related_reports_panel": false,
+      "internal_link_candidate_pool_size": 0,
+      "internal_link_eligible_match_count": 0,
+      "inline_internal_link_count": 0,
+      "internal_link_unselected_match_count": 0,
+      "internal_link_duplicate_target_match_count": 0,
+      "internal_linked_target_count": 0,
+      "selected_internal_link_texts": [],
+      "selected_internal_link_targets": [],
+      "related_report_count": 0,
+      "internal_link_hit_page_cap": false,
+      "internal_link_hit_paragraph_cap": false,
+      "prompt_leak_hit_count": 0,
+      "mojibake_hit_count": 0,
+      "structured_output_hit_count": 0,
+      "broken_citation_artifact_hit_count": 0,
+      "inline_citation_domain_fallback_count": 0,
+      "unresolved_plain_citation_hit_count": 2,
+      "placeholder_citation_hit_count": 0,
+      "malformed_heading_artifact_hit_count": 0,
+      "suspicious_markdown_link_boundary_hit_count": 0,
+      "embed_integrity_hit_count": 0,
+      "needs_review": false,
+      "hide_from_navigation": false,
+      "issue_samples": [
+        {
+          "line": 379,
+          "labels": [
+            "unresolved_plain_citation"
+          ],
+          "text": "else if (navigator.language) languages = [navigator.language];"
+        },
+        {
+          "line": 492,
+          "labels": [
+            "unresolved_plain_citation"
+          ],
+          "text": "if (select && select.selectedIndex >= 0) selectedText = select.options[select.selectedIndex].text;"
+        }
+      ]
+    },
+    {
+      "basename": "Hamburg_155277_sasel_burning_object_2ef432",
+      "title": "Hamburg 155277 sasel burning object",
+      "permalink": "/sasel-objects/",
+      "word_count": 10205,
+      "char_count": 87521,
+      "line_count": 852,
+      "heading_count": 10,
+      "h2_count": 9,
+      "h3_count": 1,
+      "endnote_heading_count": 1,
+      "footnote_definition_count": 0,
+      "numbered_endnote_count": 5,
+      "url_count": 185,
       "youtube_embed_count": 3,
       "selected_youtube_video_count": 0,
       "selected_youtube_video_ids": [],
@@ -4487,186 +4667,6 @@
         },
         {
           "line": 511,
-          "labels": [
-            "unresolved_plain_citation"
-          ],
-          "text": "if (select && select.selectedIndex >= 0) selectedText = select.options[select.selectedIndex].text;"
-        }
-      ]
-    },
-    {
-      "basename": "Hamburg_155277_local_media_stories_523bb8",
-      "title": "Hamburg 155277 local media stories",
-      "permalink": "/media-stories/",
-      "word_count": 10044,
-      "char_count": 88253,
-      "line_count": 744,
-      "heading_count": 9,
-      "h2_count": 8,
-      "h3_count": 1,
-      "endnote_heading_count": 1,
-      "footnote_definition_count": 0,
-      "numbered_endnote_count": 0,
-      "url_count": 142,
-      "youtube_embed_count": 3,
-      "selected_youtube_video_count": 0,
-      "selected_youtube_video_ids": [],
-      "selected_youtube_videos": [],
-      "youtube_fallback_count": 0,
-      "has_related_reports_panel": false,
-      "internal_link_candidate_pool_size": 0,
-      "internal_link_eligible_match_count": 0,
-      "inline_internal_link_count": 0,
-      "internal_link_unselected_match_count": 0,
-      "internal_link_duplicate_target_match_count": 0,
-      "internal_linked_target_count": 0,
-      "selected_internal_link_texts": [],
-      "selected_internal_link_targets": [],
-      "related_report_count": 0,
-      "internal_link_hit_page_cap": false,
-      "internal_link_hit_paragraph_cap": false,
-      "prompt_leak_hit_count": 0,
-      "mojibake_hit_count": 0,
-      "structured_output_hit_count": 0,
-      "broken_citation_artifact_hit_count": 0,
-      "inline_citation_domain_fallback_count": 0,
-      "unresolved_plain_citation_hit_count": 2,
-      "placeholder_citation_hit_count": 0,
-      "malformed_heading_artifact_hit_count": 0,
-      "suspicious_markdown_link_boundary_hit_count": 0,
-      "embed_integrity_hit_count": 0,
-      "needs_review": false,
-      "hide_from_navigation": false,
-      "issue_samples": [
-        {
-          "line": 399,
-          "labels": [
-            "unresolved_plain_citation"
-          ],
-          "text": "else if (navigator.language) languages = [navigator.language];"
-        },
-        {
-          "line": 512,
-          "labels": [
-            "unresolved_plain_citation"
-          ],
-          "text": "if (select && select.selectedIndex >= 0) selectedText = select.options[select.selectedIndex].text;"
-        }
-      ]
-    },
-    {
-      "basename": "Hamburg_155277_red_light_formations_c77d67",
-      "title": "Hamburg 155277 red light formations",
-      "permalink": "/red-lights/",
-      "word_count": 8373,
-      "char_count": 73718,
-      "line_count": 682,
-      "heading_count": 9,
-      "h2_count": 8,
-      "h3_count": 1,
-      "endnote_heading_count": 1,
-      "footnote_definition_count": 0,
-      "numbered_endnote_count": 0,
-      "url_count": 111,
-      "youtube_embed_count": 3,
-      "selected_youtube_video_count": 0,
-      "selected_youtube_video_ids": [],
-      "selected_youtube_videos": [],
-      "youtube_fallback_count": 0,
-      "has_related_reports_panel": false,
-      "internal_link_candidate_pool_size": 0,
-      "internal_link_eligible_match_count": 0,
-      "inline_internal_link_count": 0,
-      "internal_link_unselected_match_count": 0,
-      "internal_link_duplicate_target_match_count": 0,
-      "internal_linked_target_count": 0,
-      "selected_internal_link_texts": [],
-      "selected_internal_link_targets": [],
-      "related_report_count": 0,
-      "internal_link_hit_page_cap": false,
-      "internal_link_hit_paragraph_cap": false,
-      "prompt_leak_hit_count": 0,
-      "mojibake_hit_count": 0,
-      "structured_output_hit_count": 0,
-      "broken_citation_artifact_hit_count": 0,
-      "inline_citation_domain_fallback_count": 0,
-      "unresolved_plain_citation_hit_count": 2,
-      "placeholder_citation_hit_count": 0,
-      "malformed_heading_artifact_hit_count": 0,
-      "suspicious_markdown_link_boundary_hit_count": 0,
-      "embed_integrity_hit_count": 0,
-      "needs_review": false,
-      "hide_from_navigation": false,
-      "issue_samples": [
-        {
-          "line": 383,
-          "labels": [
-            "unresolved_plain_citation"
-          ],
-          "text": "else if (navigator.language) languages = [navigator.language];"
-        },
-        {
-          "line": 496,
-          "labels": [
-            "unresolved_plain_citation"
-          ],
-          "text": "if (select && select.selectedIndex >= 0) selectedText = select.options[select.selectedIndex].text;"
-        }
-      ]
-    },
-    {
-      "basename": "Hamburg_155277_sasel_burning_object_2ef432",
-      "title": "Hamburg 155277 sasel burning object",
-      "permalink": "/sasel-objects/",
-      "word_count": 10205,
-      "char_count": 87525,
-      "line_count": 854,
-      "heading_count": 10,
-      "h2_count": 9,
-      "h3_count": 1,
-      "endnote_heading_count": 1,
-      "footnote_definition_count": 0,
-      "numbered_endnote_count": 5,
-      "url_count": 185,
-      "youtube_embed_count": 3,
-      "selected_youtube_video_count": 0,
-      "selected_youtube_video_ids": [],
-      "selected_youtube_videos": [],
-      "youtube_fallback_count": 0,
-      "has_related_reports_panel": false,
-      "internal_link_candidate_pool_size": 0,
-      "internal_link_eligible_match_count": 0,
-      "inline_internal_link_count": 0,
-      "internal_link_unselected_match_count": 0,
-      "internal_link_duplicate_target_match_count": 0,
-      "internal_linked_target_count": 0,
-      "selected_internal_link_texts": [],
-      "selected_internal_link_targets": [],
-      "related_report_count": 0,
-      "internal_link_hit_page_cap": false,
-      "internal_link_hit_paragraph_cap": false,
-      "prompt_leak_hit_count": 0,
-      "mojibake_hit_count": 0,
-      "structured_output_hit_count": 0,
-      "broken_citation_artifact_hit_count": 0,
-      "inline_citation_domain_fallback_count": 0,
-      "unresolved_plain_citation_hit_count": 2,
-      "placeholder_citation_hit_count": 0,
-      "malformed_heading_artifact_hit_count": 0,
-      "suspicious_markdown_link_boundary_hit_count": 0,
-      "embed_integrity_hit_count": 0,
-      "needs_review": false,
-      "hide_from_navigation": false,
-      "issue_samples": [
-        {
-          "line": 400,
-          "labels": [
-            "unresolved_plain_citation"
-          ],
-          "text": "else if (navigator.language) languages = [navigator.language];"
-        },
-        {
-          "line": 513,
           "labels": [
             "unresolved_plain_citation"
           ],
@@ -4739,8 +4739,8 @@
       "title": "Hesse",
       "permalink": "/why-hesses-ufo-stories-usually-come/",
       "word_count": 10010,
-      "char_count": 89621,
-      "line_count": 789,
+      "char_count": 89617,
+      "line_count": 787,
       "heading_count": 11,
       "h2_count": 10,
       "h3_count": 1,
@@ -4779,14 +4779,14 @@
       "hide_from_navigation": false,
       "issue_samples": [
         {
-          "line": 443,
+          "line": 441,
           "labels": [
             "unresolved_plain_citation"
           ],
           "text": "else if (navigator.language) languages = [navigator.language];"
         },
         {
-          "line": 556,
+          "line": 554,
           "labels": [
             "unresolved_plain_citation"
           ],
@@ -4918,16 +4918,16 @@
       "basename": "Hesse_19bb21_common_causes_footag_465aeb",
       "title": "Hesse 19 bb 21 common causes footag",
       "permalink": "/common-causes/",
-      "word_count": 8214,
-      "char_count": 73524,
-      "line_count": 669,
+      "word_count": 8024,
+      "char_count": 72002,
+      "line_count": 664,
       "heading_count": 8,
       "h2_count": 7,
       "h3_count": 1,
       "endnote_heading_count": 1,
       "footnote_definition_count": 0,
       "numbered_endnote_count": 0,
-      "url_count": 111,
+      "url_count": 110,
       "youtube_embed_count": 3,
       "selected_youtube_video_count": 0,
       "selected_youtube_video_ids": [],
@@ -4959,14 +4959,14 @@
       "hide_from_navigation": false,
       "issue_samples": [
         {
-          "line": 379,
+          "line": 374,
           "labels": [
             "unresolved_plain_citation"
           ],
           "text": "else if (navigator.language) languages = [navigator.language];"
         },
         {
-          "line": 492,
+          "line": 487,
           "labels": [
             "unresolved_plain_citation"
           ],
@@ -4978,16 +4978,16 @@
       "basename": "Hesse_19bb21_drone_safety_problem_a93434",
       "title": "Hesse 19 bb 21 drone safety problem",
       "permalink": "/drone-risk/",
-      "word_count": 10848,
-      "char_count": 93981,
-      "line_count": 815,
+      "word_count": 10516,
+      "char_count": 91327,
+      "line_count": 811,
       "heading_count": 10,
       "h2_count": 9,
       "h3_count": 1,
       "endnote_heading_count": 1,
       "footnote_definition_count": 0,
       "numbered_endnote_count": 0,
-      "url_count": 165,
+      "url_count": 162,
       "youtube_embed_count": 3,
       "selected_youtube_video_count": 0,
       "selected_youtube_video_ids": [],
@@ -5019,14 +5019,14 @@
       "hide_from_navigation": false,
       "issue_samples": [
         {
-          "line": 414,
+          "line": 410,
           "labels": [
             "unresolved_plain_citation"
           ],
           "text": "else if (navigator.language) languages = [navigator.language];"
         },
         {
-          "line": 527,
+          "line": 523,
           "labels": [
             "unresolved_plain_citation"
           ],
@@ -5039,8 +5039,8 @@
       "title": "Hesse 19 bb 21 frankfurt airport",
       "permalink": "/airport-lights-61aa10/",
       "word_count": 11741,
-      "char_count": 102605,
-      "line_count": 868,
+      "char_count": 102601,
+      "line_count": 866,
       "heading_count": 11,
       "h2_count": 10,
       "h3_count": 1,
@@ -5079,14 +5079,14 @@
       "hide_from_navigation": false,
       "issue_samples": [
         {
-          "line": 403,
+          "line": 401,
           "labels": [
             "unresolved_plain_citation"
           ],
           "text": "else if (navigator.language) languages = [navigator.language];"
         },
         {
-          "line": 516,
+          "line": 514,
           "labels": [
             "unresolved_plain_citation"
           ],
@@ -5099,8 +5099,8 @@
       "title": "Hesse 19 bb 21 frankfurt light show",
       "permalink": "/light-show/",
       "word_count": 9529,
-      "char_count": 83574,
-      "line_count": 753,
+      "char_count": 83566,
+      "line_count": 749,
       "heading_count": 9,
       "h2_count": 8,
       "h3_count": 1,
@@ -5139,14 +5139,14 @@
       "hide_from_navigation": false,
       "issue_samples": [
         {
-          "line": 396,
+          "line": 392,
           "labels": [
             "unresolved_plain_citation"
           ],
           "text": "else if (navigator.language) languages = [navigator.language];"
         },
         {
-          "line": 509,
+          "line": 505,
           "labels": [
             "unresolved_plain_citation"
           ],
@@ -5218,16 +5218,16 @@
       "basename": "Hesse_19bb21_record_sighting_year_e2776d",
       "title": "Hesse 19 bb 21 record sighting year",
       "permalink": "/record-years/",
-      "word_count": 9260,
-      "char_count": 82114,
-      "line_count": 686,
+      "word_count": 8909,
+      "char_count": 79047,
+      "line_count": 685,
       "heading_count": 8,
       "h2_count": 7,
       "h3_count": 1,
       "endnote_heading_count": 1,
       "footnote_definition_count": 0,
       "numbered_endnote_count": 0,
-      "url_count": 128,
+      "url_count": 124,
       "youtube_embed_count": 3,
       "selected_youtube_video_count": 0,
       "selected_youtube_video_ids": [],
@@ -5259,14 +5259,14 @@
       "hide_from_navigation": false,
       "issue_samples": [
         {
-          "line": 383,
+          "line": 382,
           "labels": [
             "unresolved_plain_citation"
           ],
           "text": "else if (navigator.language) languages = [navigator.language];"
         },
         {
-          "line": 496,
+          "line": 495,
           "labels": [
             "unresolved_plain_citation"
           ],
@@ -5399,8 +5399,8 @@
       "title": "Hesse 19 bb 21 unexplained case tes",
       "permalink": "/mystery-test/",
       "word_count": 10151,
-      "char_count": 87044,
-      "line_count": 750,
+      "char_count": 87036,
+      "line_count": 746,
       "heading_count": 10,
       "h2_count": 9,
       "h3_count": 1,
@@ -5439,14 +5439,14 @@
       "hide_from_navigation": false,
       "issue_samples": [
         {
-          "line": 441,
+          "line": 437,
           "labels": [
             "unresolved_plain_citation"
           ],
           "text": "else if (navigator.language) languages = [navigator.language];"
         },
         {
-          "line": 554,
+          "line": 550,
           "labels": [
             "unresolved_plain_citation"
           ],
@@ -5459,8 +5459,8 @@
       "title": "Hesse 19 bb 21 useful witness repor",
       "permalink": "/witness-notes/",
       "word_count": 9205,
-      "char_count": 79894,
-      "line_count": 714,
+      "char_count": 79890,
+      "line_count": 712,
       "heading_count": 9,
       "h2_count": 8,
       "h3_count": 1,
@@ -5499,14 +5499,14 @@
       "hide_from_navigation": false,
       "issue_samples": [
         {
-          "line": 383,
+          "line": 381,
           "labels": [
             "unresolved_plain_citation"
           ],
           "text": "else if (navigator.language) languages = [navigator.language];"
         },
         {
-          "line": 496,
+          "line": 494,
           "labels": [
             "unresolved_plain_citation"
           ],
@@ -5578,16 +5578,16 @@
       "basename": "Lower_Saxony_e2cb37_algermissen_ufo_alar_696dec",
       "title": "Lower Saxony e2 cb 37 algermissen UFO alar",
       "permalink": "/algermissen/",
-      "word_count": 8919,
-      "char_count": 77533,
-      "line_count": 695,
+      "word_count": 8771,
+      "char_count": 76431,
+      "line_count": 693,
       "heading_count": 10,
       "h2_count": 9,
       "h3_count": 1,
       "endnote_heading_count": 1,
       "footnote_definition_count": 0,
       "numbered_endnote_count": 0,
-      "url_count": 130,
+      "url_count": 129,
       "youtube_embed_count": 3,
       "selected_youtube_video_count": 0,
       "selected_youtube_video_ids": [],
@@ -5619,14 +5619,14 @@
       "hide_from_navigation": false,
       "issue_samples": [
         {
-          "line": 372,
+          "line": 370,
           "labels": [
             "unresolved_plain_citation"
           ],
           "text": "else if (navigator.language) languages = [navigator.language];"
         },
         {
-          "line": 485,
+          "line": 483,
           "labels": [
             "unresolved_plain_citation"
           ],
@@ -5639,8 +5639,8 @@
       "title": "Lower Saxony e2 cb 37 astronomy misidentif",
       "permalink": "/planets/",
       "word_count": 8936,
-      "char_count": 77483,
-      "line_count": 712,
+      "char_count": 77481,
+      "line_count": 711,
       "heading_count": 8,
       "h2_count": 7,
       "h3_count": 1,
@@ -5679,14 +5679,14 @@
       "hide_from_navigation": false,
       "issue_samples": [
         {
-          "line": 382,
+          "line": 381,
           "labels": [
             "unresolved_plain_citation"
           ],
           "text": "else if (navigator.language) languages = [navigator.language];"
         },
         {
-          "line": 495,
+          "line": 494,
           "labels": [
             "unresolved_plain_citation"
           ],
@@ -5819,8 +5819,8 @@
       "title": "Lower Saxony e2 cb 37 goslar photo anomali",
       "permalink": "/goslar-photos/",
       "word_count": 8495,
-      "char_count": 77073,
-      "line_count": 701,
+      "char_count": 77069,
+      "line_count": 699,
       "heading_count": 8,
       "h2_count": 7,
       "h3_count": 1,
@@ -5859,14 +5859,14 @@
       "hide_from_navigation": false,
       "issue_samples": [
         {
-          "line": 375,
+          "line": 373,
           "labels": [
             "unresolved_plain_citation"
           ],
           "text": "else if (navigator.language) languages = [navigator.language];"
         },
         {
-          "line": 488,
+          "line": 486,
           "labels": [
             "unresolved_plain_citation"
           ],
@@ -6059,8 +6059,8 @@
       "title": "Lower Saxony e2 cb 37 sky lantern driver",
       "permalink": "/sky-lanterns/",
       "word_count": 8717,
-      "char_count": 77313,
-      "line_count": 672,
+      "char_count": 77309,
+      "line_count": 670,
       "heading_count": 10,
       "h2_count": 9,
       "h3_count": 1,
@@ -6099,14 +6099,14 @@
       "hide_from_navigation": false,
       "issue_samples": [
         {
-          "line": 399,
+          "line": 397,
           "labels": [
             "unresolved_plain_citation"
           ],
           "text": "else if (navigator.language) languages = [navigator.language];"
         },
         {
-          "line": 512,
+          "line": 510,
           "labels": [
             "unresolved_plain_citation"
           ],
@@ -6119,8 +6119,8 @@
       "title": "Lower Saxony e2 cb 37 weakly unresolved",
       "permalink": "/weak-cases/",
       "word_count": 10140,
-      "char_count": 88933,
-      "line_count": 795,
+      "char_count": 88929,
+      "line_count": 793,
       "heading_count": 12,
       "h2_count": 11,
       "h3_count": 1,
@@ -6159,14 +6159,14 @@
       "hide_from_navigation": false,
       "issue_samples": [
         {
-          "line": 432,
+          "line": 430,
           "labels": [
             "unresolved_plain_citation"
           ],
           "text": "else if (navigator.language) languages = [navigator.language];"
         },
         {
-          "line": 545,
+          "line": 543,
           "labels": [
             "unresolved_plain_citation"
           ],
@@ -6179,8 +6179,8 @@
       "title": "Lower Saxony e2 cb 37 wittmund eurofighter",
       "permalink": "/wittmund/",
       "word_count": 11191,
-      "char_count": 97446,
-      "line_count": 811,
+      "char_count": 97442,
+      "line_count": 809,
       "heading_count": 11,
       "h2_count": 10,
       "h3_count": 1,
@@ -6219,14 +6219,14 @@
       "hide_from_navigation": false,
       "issue_samples": [
         {
-          "line": 413,
+          "line": 411,
           "labels": [
             "unresolved_plain_citation"
           ],
           "text": "else if (navigator.language) languages = [navigator.language];"
         },
         {
-          "line": 526,
+          "line": 524,
           "labels": [
             "unresolved_plain_citation"
           ],
@@ -6298,16 +6298,16 @@
       "basename": "Mecklenburg-Vorpomme_d975e6",
       "title": "Mecklenburg Vorpomme",
       "permalink": "/mecklenburg-vorpommern/",
-      "word_count": 11445,
-      "char_count": 103606,
-      "line_count": 895,
+      "word_count": 11315,
+      "char_count": 102581,
+      "line_count": 893,
       "heading_count": 13,
       "h2_count": 10,
       "h3_count": 3,
       "endnote_heading_count": 1,
       "footnote_definition_count": 0,
       "numbered_endnote_count": 0,
-      "url_count": 191,
+      "url_count": 190,
       "youtube_embed_count": 3,
       "selected_youtube_video_count": 0,
       "selected_youtube_video_ids": [],
@@ -6339,14 +6339,14 @@
       "hide_from_navigation": false,
       "issue_samples": [
         {
-          "line": 458,
+          "line": 456,
           "labels": [
             "unresolved_plain_citation"
           ],
           "text": "else if (navigator.language) languages = [navigator.language];"
         },
         {
-          "line": 571,
+          "line": 569,
           "labels": [
             "unresolved_plain_citation"
           ],
@@ -6418,16 +6418,16 @@
       "basename": "Mecklenburg-Vorpomme_d975e6_baltic_naval_context_ef8ee3",
       "title": "Mecklenburg Vorpomme d975 e6 baltic naval context",
       "permalink": "/naval-context/",
-      "word_count": 9599,
-      "char_count": 85876,
-      "line_count": 771,
+      "word_count": 9486,
+      "char_count": 84999,
+      "line_count": 769,
       "heading_count": 9,
       "h2_count": 8,
       "h3_count": 1,
       "endnote_heading_count": 1,
       "footnote_definition_count": 0,
       "numbered_endnote_count": 0,
-      "url_count": 147,
+      "url_count": 146,
       "youtube_embed_count": 3,
       "selected_youtube_video_count": 0,
       "selected_youtube_video_ids": [],
@@ -6459,14 +6459,14 @@
       "hide_from_navigation": false,
       "issue_samples": [
         {
-          "line": 397,
+          "line": 395,
           "labels": [
             "unresolved_plain_citation"
           ],
           "text": "else if (navigator.language) languages = [navigator.language];"
         },
         {
-          "line": 510,
+          "line": 508,
           "labels": [
             "unresolved_plain_citation"
           ],
@@ -6538,16 +6538,16 @@
       "basename": "Mecklenburg-Vorpomme_d975e6_greifswald_lights_c6ffc6",
       "title": "Mecklenburg Vorpomme d975 e6 greifswald lights",
       "permalink": "/greifswald/",
-      "word_count": 8791,
-      "char_count": 79457,
-      "line_count": 711,
+      "word_count": 8660,
+      "char_count": 78419,
+      "line_count": 709,
       "heading_count": 8,
       "h2_count": 7,
       "h3_count": 1,
       "endnote_heading_count": 1,
       "footnote_definition_count": 0,
       "numbered_endnote_count": 0,
-      "url_count": 130,
+      "url_count": 129,
       "youtube_embed_count": 2,
       "selected_youtube_video_count": 0,
       "selected_youtube_video_ids": [],
@@ -6579,14 +6579,14 @@
       "hide_from_navigation": false,
       "issue_samples": [
         {
-          "line": 377,
+          "line": 375,
           "labels": [
             "unresolved_plain_citation"
           ],
           "text": "else if (navigator.language) languages = [navigator.language];"
         },
         {
-          "line": 490,
+          "line": 488,
           "labels": [
             "unresolved_plain_citation"
           ],
@@ -6598,16 +6598,16 @@
       "basename": "Mecklenburg-Vorpomme_d975e6_greifswald_witnesses_131a12",
       "title": "Mecklenburg Vorpomme d975 e6 greifswald witnesses",
       "permalink": "/witnesses-2c8b7b/",
-      "word_count": 8793,
-      "char_count": 79002,
-      "line_count": 683,
+      "word_count": 8472,
+      "char_count": 76697,
+      "line_count": 679,
       "heading_count": 9,
       "h2_count": 8,
       "h3_count": 1,
       "endnote_heading_count": 1,
       "footnote_definition_count": 0,
       "numbered_endnote_count": 0,
-      "url_count": 123,
+      "url_count": 121,
       "youtube_embed_count": 3,
       "selected_youtube_video_count": 0,
       "selected_youtube_video_ids": [],
@@ -6639,14 +6639,14 @@
       "hide_from_navigation": false,
       "issue_samples": [
         {
-          "line": 366,
+          "line": 362,
           "labels": [
             "unresolved_plain_citation"
           ],
           "text": "else if (navigator.language) languages = [navigator.language];"
         },
         {
-          "line": 479,
+          "line": 475,
           "labels": [
             "unresolved_plain_citation"
           ],
@@ -6659,8 +6659,8 @@
       "title": "Mecklenburg Vorpomme d975 e6 local media UFO",
       "permalink": "/media/",
       "word_count": 10197,
-      "char_count": 89615,
-      "line_count": 807,
+      "char_count": 89611,
+      "line_count": 805,
       "heading_count": 12,
       "h2_count": 11,
       "h3_count": 1,
@@ -6699,14 +6699,14 @@
       "hide_from_navigation": false,
       "issue_samples": [
         {
-          "line": 411,
+          "line": 409,
           "labels": [
             "unresolved_plain_citation"
           ],
           "text": "else if (navigator.language) languages = [navigator.language];"
         },
         {
-          "line": 524,
+          "line": 522,
           "labels": [
             "unresolved_plain_citation"
           ],
@@ -6719,8 +6719,8 @@
       "title": "Mecklenburg Vorpomme d975 e6 military flares",
       "permalink": "/flares/",
       "word_count": 9171,
-      "char_count": 81571,
-      "line_count": 703,
+      "char_count": 81567,
+      "line_count": 701,
       "heading_count": 9,
       "h2_count": 8,
       "h3_count": 1,
@@ -6759,14 +6759,14 @@
       "hide_from_navigation": false,
       "issue_samples": [
         {
-          "line": 395,
+          "line": 393,
           "labels": [
             "unresolved_plain_citation"
           ],
           "text": "else if (navigator.language) languages = [navigator.language];"
         },
         {
-          "line": 508,
+          "line": 506,
           "labels": [
             "unresolved_plain_citation"
           ],
@@ -6899,8 +6899,8 @@
       "title": "Mecklenburg Vorpomme d975 e6 ruegen usedom corrid",
       "permalink": "/rügen-usedom/",
       "word_count": 9593,
-      "char_count": 85458,
-      "line_count": 738,
+      "char_count": 85454,
+      "line_count": 736,
       "heading_count": 10,
       "h2_count": 9,
       "h3_count": 1,
@@ -6939,14 +6939,14 @@
       "hide_from_navigation": false,
       "issue_samples": [
         {
-          "line": 394,
+          "line": 392,
           "labels": [
             "unresolved_plain_citation"
           ],
           "text": "else if (navigator.language) languages = [navigator.language];"
         },
         {
-          "line": 507,
+          "line": 505,
           "labels": [
             "unresolved_plain_citation"
           ],
@@ -6959,8 +6959,8 @@
       "title": "Mecklenburg Vorpomme d975 e6 stralsund",
       "permalink": "/stralsund-1665/",
       "word_count": 9859,
-      "char_count": 85434,
-      "line_count": 724,
+      "char_count": 85430,
+      "line_count": 722,
       "heading_count": 12,
       "h2_count": 11,
       "h3_count": 1,
@@ -6999,14 +6999,14 @@
       "hide_from_navigation": false,
       "issue_samples": [
         {
-          "line": 406,
+          "line": 404,
           "labels": [
             "unresolved_plain_citation"
           ],
           "text": "else if (navigator.language) languages = [navigator.language];"
         },
         {
-          "line": 519,
+          "line": 517,
           "labels": [
             "unresolved_plain_citation"
           ],
@@ -7018,16 +7018,16 @@
       "basename": "Mecklenburg-Vorpomme_d975e6_ufo_video_limits_51f21c",
       "title": "Mecklenburg Vorpomme d975 e6 UFO video limits",
       "permalink": "/video-limits/",
-      "word_count": 7898,
-      "char_count": 71667,
-      "line_count": 677,
+      "word_count": 7781,
+      "char_count": 70778,
+      "line_count": 673,
       "heading_count": 8,
       "h2_count": 7,
       "h3_count": 1,
       "endnote_heading_count": 1,
       "footnote_definition_count": 0,
       "numbered_endnote_count": 0,
-      "url_count": 105,
+      "url_count": 104,
       "youtube_embed_count": 2,
       "selected_youtube_video_count": 0,
       "selected_youtube_video_ids": [],
@@ -7059,14 +7059,14 @@
       "hide_from_navigation": false,
       "issue_samples": [
         {
-          "line": 379,
+          "line": 375,
           "labels": [
             "unresolved_plain_citation"
           ],
           "text": "else if (navigator.language) languages = [navigator.language];"
         },
         {
-          "line": 492,
+          "line": 488,
           "labels": [
             "unresolved_plain_citation"
           ],
@@ -7078,16 +7078,16 @@
       "basename": "North_Rhine-Westphal_f5bdd9",
       "title": "North Rhine Westphal",
       "permalink": "/north-rhine-westphalia/",
-      "word_count": 10189,
-      "char_count": 91150,
-      "line_count": 834,
+      "word_count": 9835,
+      "char_count": 88375,
+      "line_count": 830,
       "heading_count": 12,
       "h2_count": 11,
       "h3_count": 1,
       "endnote_heading_count": 1,
       "footnote_definition_count": 0,
       "numbered_endnote_count": 0,
-      "url_count": 156,
+      "url_count": 153,
       "youtube_embed_count": 3,
       "selected_youtube_video_count": 0,
       "selected_youtube_video_ids": [],
@@ -7119,14 +7119,14 @@
       "hide_from_navigation": false,
       "issue_samples": [
         {
-          "line": 457,
+          "line": 453,
           "labels": [
             "unresolved_plain_citation"
           ],
           "text": "else if (navigator.language) languages = [navigator.language];"
         },
         {
-          "line": 570,
+          "line": 566,
           "labels": [
             "unresolved_plain_citation"
           ],
@@ -7199,8 +7199,8 @@
       "title": "North Rhine Westphal f5 bdd 9 cenap 2024 reports",
       "permalink": "/2024-reports/",
       "word_count": 9242,
-      "char_count": 80729,
-      "line_count": 658,
+      "char_count": 80725,
+      "line_count": 656,
       "heading_count": 9,
       "h2_count": 8,
       "h3_count": 1,
@@ -7239,14 +7239,14 @@
       "hide_from_navigation": false,
       "issue_samples": [
         {
-          "line": 384,
+          "line": 382,
           "labels": [
             "unresolved_plain_citation"
           ],
           "text": "else if (navigator.language) languages = [navigator.language];"
         },
         {
-          "line": 497,
+          "line": 495,
           "labels": [
             "unresolved_plain_citation"
           ],
@@ -7258,16 +7258,16 @@
       "basename": "North_Rhine-Westphal_f5bdd9_city_density_reports_f14597",
       "title": "North Rhine Westphal f5 bdd 9 city density reports",
       "permalink": "/city-skies-4d151f/",
-      "word_count": 9401,
-      "char_count": 83751,
-      "line_count": 817,
+      "word_count": 9276,
+      "char_count": 82772,
+      "line_count": 814,
       "heading_count": 8,
       "h2_count": 7,
       "h3_count": 1,
       "endnote_heading_count": 1,
       "footnote_definition_count": 0,
       "numbered_endnote_count": 0,
-      "url_count": 176,
+      "url_count": 175,
       "youtube_embed_count": 3,
       "selected_youtube_video_count": 0,
       "selected_youtube_video_ids": [],
@@ -7299,14 +7299,14 @@
       "hide_from_navigation": false,
       "issue_samples": [
         {
-          "line": 375,
+          "line": 372,
           "labels": [
             "unresolved_plain_citation"
           ],
           "text": "else if (navigator.language) languages = [navigator.language];"
         },
         {
-          "line": 488,
+          "line": 485,
           "labels": [
             "unresolved_plain_citation"
           ],
@@ -7318,16 +7318,16 @@
       "basename": "North_Rhine-Westphal_f5bdd9_drones_airport_confu_352cd8",
       "title": "North Rhine Westphal f5 bdd 9 drones airport confu",
       "permalink": "/drones-af4911/",
-      "word_count": 9418,
-      "char_count": 83021,
-      "line_count": 734,
+      "word_count": 9295,
+      "char_count": 82125,
+      "line_count": 732,
       "heading_count": 11,
       "h2_count": 10,
       "h3_count": 1,
       "endnote_heading_count": 1,
       "footnote_definition_count": 0,
       "numbered_endnote_count": 0,
-      "url_count": 129,
+      "url_count": 128,
       "youtube_embed_count": 3,
       "selected_youtube_video_count": 0,
       "selected_youtube_video_ids": [],
@@ -7359,14 +7359,14 @@
       "hide_from_navigation": false,
       "issue_samples": [
         {
-          "line": 410,
+          "line": 408,
           "labels": [
             "unresolved_plain_citation"
           ],
           "text": "else if (navigator.language) languages = [navigator.language];"
         },
         {
-          "line": 523,
+          "line": 521,
           "labels": [
             "unresolved_plain_citation"
           ],
@@ -7378,16 +7378,16 @@
       "basename": "North_Rhine-Westphal_f5bdd9_erndtebruck_radar_cu_ac68ae",
       "title": "North Rhine Westphal f5 bdd 9 erndtebruck radar",
       "permalink": "/radar/",
-      "word_count": 10249,
-      "char_count": 92341,
-      "line_count": 767,
+      "word_count": 10124,
+      "char_count": 91417,
+      "line_count": 765,
       "heading_count": 10,
       "h2_count": 9,
       "h3_count": 1,
       "endnote_heading_count": 1,
       "footnote_definition_count": 0,
       "numbered_endnote_count": 0,
-      "url_count": 153,
+      "url_count": 152,
       "youtube_embed_count": 3,
       "selected_youtube_video_count": 0,
       "selected_youtube_video_ids": [],
@@ -7419,14 +7419,14 @@
       "hide_from_navigation": false,
       "issue_samples": [
         {
-          "line": 403,
+          "line": 401,
           "labels": [
             "unresolved_plain_citation"
           ],
           "text": "else if (navigator.language) languages = [navigator.language];"
         },
         {
-          "line": 516,
+          "line": 514,
           "labels": [
             "unresolved_plain_citation"
           ],
@@ -7439,8 +7439,8 @@
       "title": "North Rhine Westphal f5 bdd 9 fireballs meteors",
       "permalink": "/fireballs/",
       "word_count": 11717,
-      "char_count": 100294,
-      "line_count": 852,
+      "char_count": 100290,
+      "line_count": 850,
       "heading_count": 13,
       "h2_count": 12,
       "h3_count": 1,
@@ -7479,14 +7479,14 @@
       "hide_from_navigation": false,
       "issue_samples": [
         {
-          "line": 475,
+          "line": 473,
           "labels": [
             "unresolved_plain_citation"
           ],
           "text": "else if (navigator.language) languages = [navigator.language];"
         },
         {
-          "line": 588,
+          "line": 586,
           "labels": [
             "unresolved_plain_citation"
           ],
@@ -7499,8 +7499,8 @@
       "title": "North Rhine Westphal f5 bdd 9 gep luedenscheid arc",
       "permalink": "/gep-archive/",
       "word_count": 9155,
-      "char_count": 83034,
-      "line_count": 746,
+      "char_count": 83026,
+      "line_count": 742,
       "heading_count": 10,
       "h2_count": 9,
       "h3_count": 1,
@@ -7539,14 +7539,14 @@
       "hide_from_navigation": false,
       "issue_samples": [
         {
-          "line": 389,
+          "line": 385,
           "labels": [
             "unresolved_plain_citation"
           ],
           "text": "else if (navigator.language) languages = [navigator.language];"
         },
         {
-          "line": 502,
+          "line": 498,
           "labels": [
             "unresolved_plain_citation"
           ],
@@ -7558,16 +7558,16 @@
       "basename": "North_Rhine-Westphal_f5bdd9_local_media_ufo_stor_dfa1e9",
       "title": "North Rhine Westphal f5 bdd 9 local media UFO stor",
       "permalink": "/local-media/",
-      "word_count": 9140,
-      "char_count": 80645,
-      "line_count": 678,
+      "word_count": 9004,
+      "char_count": 79558,
+      "line_count": 676,
       "heading_count": 11,
       "h2_count": 10,
       "h3_count": 1,
       "endnote_heading_count": 1,
       "footnote_definition_count": 0,
       "numbered_endnote_count": 0,
-      "url_count": 100,
+      "url_count": 99,
       "youtube_embed_count": 3,
       "selected_youtube_video_count": 0,
       "selected_youtube_video_ids": [],
@@ -7599,14 +7599,14 @@
       "hide_from_navigation": false,
       "issue_samples": [
         {
-          "line": 415,
+          "line": 413,
           "labels": [
             "unresolved_plain_citation"
           ],
           "text": "else if (navigator.language) languages = [navigator.language];"
         },
         {
-          "line": 528,
+          "line": 526,
           "labels": [
             "unresolved_plain_citation"
           ],
@@ -7798,16 +7798,16 @@
       "basename": "North_Rhine-Westphal_f5bdd9_witness_report_check_c2dcb1",
       "title": "North Rhine Westphal f5 bdd 9 witness report check",
       "permalink": "/report-checklist/",
-      "word_count": 9374,
-      "char_count": 82945,
-      "line_count": 737,
+      "word_count": 9247,
+      "char_count": 82008,
+      "line_count": 735,
       "heading_count": 10,
       "h2_count": 9,
       "h3_count": 1,
       "endnote_heading_count": 1,
       "footnote_definition_count": 0,
       "numbered_endnote_count": 0,
-      "url_count": 128,
+      "url_count": 127,
       "youtube_embed_count": 3,
       "selected_youtube_video_count": 0,
       "selected_youtube_video_ids": [],
@@ -7839,14 +7839,14 @@
       "hide_from_navigation": false,
       "issue_samples": [
         {
-          "line": 416,
+          "line": 414,
           "labels": [
             "unresolved_plain_citation"
           ],
           "text": "else if (navigator.language) languages = [navigator.language];"
         },
         {
-          "line": 529,
+          "line": 527,
           "labels": [
             "unresolved_plain_citation"
           ],
@@ -7858,16 +7858,16 @@
       "basename": "Rhineland-Palatinate_9f2211",
       "title": "Rhineland Palatinate",
       "permalink": "/rhineland-palatinate/",
-      "word_count": 10584,
-      "char_count": 93845,
-      "line_count": 862,
+      "word_count": 10337,
+      "char_count": 91844,
+      "line_count": 858,
       "heading_count": 12,
       "h2_count": 11,
       "h3_count": 1,
       "endnote_heading_count": 1,
       "footnote_definition_count": 0,
       "numbered_endnote_count": 0,
-      "url_count": 165,
+      "url_count": 163,
       "youtube_embed_count": 3,
       "selected_youtube_video_count": 0,
       "selected_youtube_video_ids": [],
@@ -7899,14 +7899,14 @@
       "hide_from_navigation": false,
       "issue_samples": [
         {
-          "line": 465,
+          "line": 461,
           "labels": [
             "unresolved_plain_citation"
           ],
           "text": "else if (navigator.language) languages = [navigator.language];"
         },
         {
-          "line": 578,
+          "line": 574,
           "labels": [
             "unresolved_plain_citation"
           ],
@@ -7918,16 +7918,16 @@
       "basename": "Rhineland-Palatinate_9f2211_baumholder_fireballs_1510ef",
       "title": "Rhineland Palatinate 9 f2211 baumholder fireballs",
       "permalink": "/fireballs-856039/",
-      "word_count": 9290,
-      "char_count": 83756,
-      "line_count": 742,
+      "word_count": 9090,
+      "char_count": 82159,
+      "line_count": 741,
       "heading_count": 8,
       "h2_count": 7,
       "h3_count": 1,
       "endnote_heading_count": 1,
       "footnote_definition_count": 0,
       "numbered_endnote_count": 0,
-      "url_count": 148,
+      "url_count": 147,
       "youtube_embed_count": 3,
       "selected_youtube_video_count": 0,
       "selected_youtube_video_ids": [],
@@ -7959,14 +7959,14 @@
       "hide_from_navigation": false,
       "issue_samples": [
         {
-          "line": 377,
+          "line": 376,
           "labels": [
             "unresolved_plain_citation"
           ],
           "text": "else if (navigator.language) languages = [navigator.language];"
         },
         {
-          "line": 490,
+          "line": 489,
           "labels": [
             "unresolved_plain_citation"
           ],
@@ -7979,8 +7979,8 @@
       "title": "Rhineland Palatinate 9 f2211 blue book context",
       "permalink": "/blue-book/",
       "word_count": 9995,
-      "char_count": 86838,
-      "line_count": 754,
+      "char_count": 86834,
+      "line_count": 752,
       "heading_count": 11,
       "h2_count": 10,
       "h3_count": 1,
@@ -8019,14 +8019,14 @@
       "hide_from_navigation": false,
       "issue_samples": [
         {
-          "line": 394,
+          "line": 392,
           "labels": [
             "unresolved_plain_citation"
           ],
           "text": "else if (navigator.language) languages = [navigator.language];"
         },
         {
-          "line": 507,
+          "line": 505,
           "labels": [
             "unresolved_plain_citation"
           ],
@@ -8039,8 +8039,8 @@
       "title": "Rhineland Palatinate 9 f2211 case categories",
       "permalink": "/case-labels/",
       "word_count": 10810,
-      "char_count": 92675,
-      "line_count": 826,
+      "char_count": 92671,
+      "line_count": 824,
       "heading_count": 12,
       "h2_count": 11,
       "h3_count": 1,
@@ -8079,14 +8079,14 @@
       "hide_from_navigation": false,
       "issue_samples": [
         {
-          "line": 430,
+          "line": 428,
           "labels": [
             "unresolved_plain_citation"
           ],
           "text": "else if (navigator.language) languages = [navigator.language];"
         },
         {
-          "line": 543,
+          "line": 541,
           "labels": [
             "unresolved_plain_citation"
           ],
@@ -8098,16 +8098,16 @@
       "basename": "Rhineland-Palatinate_9f2211_cenap_methods_a92499",
       "title": "Rhineland Palatinate 9 f2211 cenap methods",
       "permalink": "/cenap-checks/",
-      "word_count": 10212,
-      "char_count": 89350,
-      "line_count": 884,
+      "word_count": 10067,
+      "char_count": 88343,
+      "line_count": 882,
       "heading_count": 10,
       "h2_count": 9,
       "h3_count": 1,
       "endnote_heading_count": 1,
       "footnote_definition_count": 0,
       "numbered_endnote_count": 6,
-      "url_count": 198,
+      "url_count": 197,
       "youtube_embed_count": 3,
       "selected_youtube_video_count": 0,
       "selected_youtube_video_ids": [],
@@ -8139,14 +8139,14 @@
       "hide_from_navigation": false,
       "issue_samples": [
         {
-          "line": 399,
+          "line": 397,
           "labels": [
             "unresolved_plain_citation"
           ],
           "text": "else if (navigator.language) languages = [navigator.language];"
         },
         {
-          "line": 512,
+          "line": 510,
           "labels": [
             "unresolved_plain_citation"
           ],
@@ -8159,8 +8159,8 @@
       "title": "Rhineland Palatinate 9 f2211 military airspace",
       "permalink": "/busy-airspace/",
       "word_count": 11224,
-      "char_count": 98382,
-      "line_count": 891,
+      "char_count": 98378,
+      "line_count": 889,
       "heading_count": 10,
       "h2_count": 9,
       "h3_count": 1,
@@ -8199,14 +8199,14 @@
       "hide_from_navigation": false,
       "issue_samples": [
         {
-          "line": 411,
+          "line": 409,
           "labels": [
             "unresolved_plain_citation"
           ],
           "text": "else if (navigator.language) languages = [navigator.language];"
         },
         {
-          "line": 524,
+          "line": 522,
           "labels": [
             "unresolved_plain_citation"
           ],
@@ -8339,8 +8339,8 @@
       "title": "Rhineland Palatinate 9 f2211 ramstein 1962",
       "permalink": "/ramstein-1962/",
       "word_count": 9352,
-      "char_count": 82914,
-      "line_count": 736,
+      "char_count": 82910,
+      "line_count": 734,
       "heading_count": 10,
       "h2_count": 9,
       "h3_count": 1,
@@ -8379,14 +8379,14 @@
       "hide_from_navigation": false,
       "issue_samples": [
         {
-          "line": 395,
+          "line": 393,
           "labels": [
             "unresolved_plain_citation"
           ],
           "text": "else if (navigator.language) languages = [navigator.language];"
         },
         {
-          "line": 508,
+          "line": 506,
           "labels": [
             "unresolved_plain_citation"
           ],
@@ -8399,8 +8399,8 @@
       "title": "Rhineland Palatinate 9 f2211 ramstein claims",
       "permalink": "/ramstein-claims/",
       "word_count": 10964,
-      "char_count": 96621,
-      "line_count": 903,
+      "char_count": 96617,
+      "line_count": 901,
       "heading_count": 9,
       "h2_count": 8,
       "h3_count": 1,
@@ -8439,14 +8439,14 @@
       "hide_from_navigation": false,
       "issue_samples": [
         {
-          "line": 408,
+          "line": 406,
           "labels": [
             "unresolved_plain_citation"
           ],
           "text": "else if (navigator.language) languages = [navigator.language];"
         },
         {
-          "line": 521,
+          "line": 519,
           "labels": [
             "unresolved_plain_citation"
           ],
@@ -8578,16 +8578,16 @@
       "basename": "Rhineland-Palatinate_9f2211_witness_credibility_c6d46d",
       "title": "Rhineland Palatinate 9 f2211 witness credibility",
       "permalink": "/witnesses-565fa5/",
-      "word_count": 10928,
-      "char_count": 94793,
-      "line_count": 828,
+      "word_count": 10786,
+      "char_count": 93686,
+      "line_count": 824,
       "heading_count": 11,
       "h2_count": 10,
       "h3_count": 1,
       "endnote_heading_count": 1,
       "footnote_definition_count": 0,
       "numbered_endnote_count": 0,
-      "url_count": 171,
+      "url_count": 170,
       "youtube_embed_count": 3,
       "selected_youtube_video_count": 0,
       "selected_youtube_video_ids": [],
@@ -8619,14 +8619,14 @@
       "hide_from_navigation": false,
       "issue_samples": [
         {
-          "line": 411,
+          "line": 407,
           "labels": [
             "unresolved_plain_citation"
           ],
           "text": "else if (navigator.language) languages = [navigator.language];"
         },
         {
-          "line": 524,
+          "line": 520,
           "labels": [
             "unresolved_plain_citation"
           ],
@@ -8699,8 +8699,8 @@
       "title": "Saarland af 09 d5 aviation border conf",
       "permalink": "/aviation/",
       "word_count": 9846,
-      "char_count": 87153,
-      "line_count": 772,
+      "char_count": 87149,
+      "line_count": 770,
       "heading_count": 10,
       "h2_count": 9,
       "h3_count": 1,
@@ -8739,14 +8739,14 @@
       "hide_from_navigation": false,
       "issue_samples": [
         {
-          "line": 398,
+          "line": 396,
           "labels": [
             "unresolved_plain_citation"
           ],
           "text": "else if (navigator.language) languages = [navigator.language];"
         },
         {
-          "line": 511,
+          "line": 509,
           "labels": [
             "unresolved_plain_citation"
           ],
@@ -8938,16 +8938,16 @@
       "basename": "Saarland_af09d5_johannes_becker_witn_c050a2",
       "title": "Saarland af 09 d5 johannes becker witn",
       "permalink": "/witness/",
-      "word_count": 9614,
-      "char_count": 83968,
-      "line_count": 735,
+      "word_count": 9475,
+      "char_count": 82936,
+      "line_count": 733,
       "heading_count": 11,
       "h2_count": 10,
       "h3_count": 1,
       "endnote_heading_count": 1,
       "footnote_definition_count": 0,
       "numbered_endnote_count": 0,
-      "url_count": 146,
+      "url_count": 145,
       "youtube_embed_count": 3,
       "selected_youtube_video_count": 0,
       "selected_youtube_video_ids": [],
@@ -8979,14 +8979,14 @@
       "hide_from_navigation": false,
       "issue_samples": [
         {
-          "line": 382,
+          "line": 380,
           "labels": [
             "unresolved_plain_citation"
           ],
           "text": "else if (navigator.language) languages = [navigator.language];"
         },
         {
-          "line": 495,
+          "line": 493,
           "labels": [
             "unresolved_plain_citation"
           ],
@@ -8998,16 +8998,16 @@
       "basename": "Saarland_af09d5_local_media_memory_8f14da",
       "title": "Saarland af 09 d5 local media memory",
       "permalink": "/media-memory/",
-      "word_count": 9184,
-      "char_count": 80872,
-      "line_count": 712,
+      "word_count": 8935,
+      "char_count": 78819,
+      "line_count": 708,
       "heading_count": 10,
       "h2_count": 9,
       "h3_count": 1,
       "endnote_heading_count": 1,
       "footnote_definition_count": 0,
       "numbered_endnote_count": 0,
-      "url_count": 131,
+      "url_count": 129,
       "youtube_embed_count": 3,
       "selected_youtube_video_count": 0,
       "selected_youtube_video_ids": [],
@@ -9039,14 +9039,14 @@
       "hide_from_navigation": false,
       "issue_samples": [
         {
-          "line": 384,
+          "line": 380,
           "labels": [
             "unresolved_plain_citation"
           ],
           "text": "else if (navigator.language) languages = [navigator.language];"
         },
         {
-          "line": 497,
+          "line": 493,
           "labels": [
             "unresolved_plain_citation"
           ],
@@ -9179,8 +9179,8 @@
       "title": "Saarland af 09 d5 phone footage proble",
       "permalink": "/phone-footage/",
       "word_count": 8789,
-      "char_count": 77399,
-      "line_count": 712,
+      "char_count": 77395,
+      "line_count": 710,
       "heading_count": 9,
       "h2_count": 8,
       "h3_count": 1,
@@ -9219,14 +9219,14 @@
       "hide_from_navigation": false,
       "issue_samples": [
         {
-          "line": 394,
+          "line": 392,
           "labels": [
             "unresolved_plain_citation"
           ],
           "text": "else if (navigator.language) languages = [navigator.language];"
         },
         {
-          "line": 507,
+          "line": 505,
           "labels": [
             "unresolved_plain_citation"
           ],
@@ -9298,16 +9298,16 @@
       "basename": "Saarland_af09d5_rastpfuhl_explanatio_9bd7ea",
       "title": "Saarland af 09 d5 rastpfuhl explanatio",
       "permalink": "/explanations/",
-      "word_count": 9162,
-      "char_count": 80123,
-      "line_count": 702,
+      "word_count": 9008,
+      "char_count": 79020,
+      "line_count": 700,
       "heading_count": 9,
       "h2_count": 8,
       "h3_count": 1,
       "endnote_heading_count": 1,
       "footnote_definition_count": 0,
       "numbered_endnote_count": 0,
-      "url_count": 129,
+      "url_count": 128,
       "youtube_embed_count": 3,
       "selected_youtube_video_count": 0,
       "selected_youtube_video_ids": [],
@@ -9339,14 +9339,14 @@
       "hide_from_navigation": false,
       "issue_samples": [
         {
-          "line": 384,
+          "line": 382,
           "labels": [
             "unresolved_plain_citation"
           ],
           "text": "else if (navigator.language) languages = [navigator.language];"
         },
         {
-          "line": 497,
+          "line": 495,
           "labels": [
             "unresolved_plain_citation"
           ],
@@ -9418,16 +9418,16 @@
       "basename": "Saxony-Anhalt_5678a0",
       "title": "Saxony Anhalt",
       "permalink": "/what-really-happened-in-saxony-anhalts/",
-      "word_count": 10612,
-      "char_count": 94605,
-      "line_count": 821,
+      "word_count": 10505,
+      "char_count": 93758,
+      "line_count": 819,
       "heading_count": 12,
       "h2_count": 11,
       "h3_count": 1,
       "endnote_heading_count": 1,
       "footnote_definition_count": 0,
       "numbered_endnote_count": 0,
-      "url_count": 154,
+      "url_count": 153,
       "youtube_embed_count": 3,
       "selected_youtube_video_count": 0,
       "selected_youtube_video_ids": [],
@@ -9459,14 +9459,14 @@
       "hide_from_navigation": false,
       "issue_samples": [
         {
-          "line": 460,
+          "line": 458,
           "labels": [
             "unresolved_plain_citation"
           ],
           "text": "else if (navigator.language) languages = [navigator.language];"
         },
         {
-          "line": 573,
+          "line": 571,
           "labels": [
             "unresolved_plain_citation"
           ],
@@ -9478,16 +9478,16 @@
       "basename": "Saxony-Anhalt_5678a0_check_sighting_b73287",
       "title": "Saxony Anhalt 5678 a0 check sighting",
       "permalink": "/check-a-sighting/",
-      "word_count": 10432,
-      "char_count": 89870,
-      "line_count": 809,
+      "word_count": 10322,
+      "char_count": 89027,
+      "line_count": 805,
       "heading_count": 11,
       "h2_count": 10,
       "h3_count": 1,
       "endnote_heading_count": 1,
       "footnote_definition_count": 0,
       "numbered_endnote_count": 8,
-      "url_count": 159,
+      "url_count": 158,
       "youtube_embed_count": 3,
       "selected_youtube_video_count": 0,
       "selected_youtube_video_ids": [],
@@ -9519,14 +9519,14 @@
       "hide_from_navigation": false,
       "issue_samples": [
         {
-          "line": 433,
+          "line": 429,
           "labels": [
             "unresolved_plain_citation"
           ],
           "text": "else if (navigator.language) languages = [navigator.language];"
         },
         {
-          "line": 546,
+          "line": 542,
           "labels": [
             "unresolved_plain_citation"
           ],
@@ -9539,8 +9539,8 @@
       "title": "Saxony Anhalt 5678 a0 ddr UFO reporting",
       "permalink": "/ddr-records/",
       "word_count": 10427,
-      "char_count": 91714,
-      "line_count": 765,
+      "char_count": 91710,
+      "line_count": 763,
       "heading_count": 9,
       "h2_count": 8,
       "h3_count": 1,
@@ -9579,14 +9579,14 @@
       "hide_from_navigation": false,
       "issue_samples": [
         {
-          "line": 388,
+          "line": 386,
           "labels": [
             "unresolved_plain_citation"
           ],
           "text": "else if (navigator.language) languages = [navigator.language];"
         },
         {
-          "line": 501,
+          "line": 499,
           "labels": [
             "unresolved_plain_citation"
           ],
@@ -9658,16 +9658,16 @@
       "basename": "Saxony-Anhalt_5678a0_halle_1985_meteor_8ed999",
       "title": "Saxony Anhalt 5678 a0 halle 1985 meteor",
       "permalink": "/halle-1985/",
-      "word_count": 8880,
-      "char_count": 78344,
-      "line_count": 681,
+      "word_count": 8728,
+      "char_count": 77272,
+      "line_count": 679,
       "heading_count": 8,
       "h2_count": 7,
       "h3_count": 1,
       "endnote_heading_count": 1,
       "footnote_definition_count": 0,
       "numbered_endnote_count": 0,
-      "url_count": 123,
+      "url_count": 122,
       "youtube_embed_count": 3,
       "selected_youtube_video_count": 0,
       "selected_youtube_video_ids": [],
@@ -9699,14 +9699,14 @@
       "hide_from_navigation": false,
       "issue_samples": [
         {
-          "line": 373,
+          "line": 371,
           "labels": [
             "unresolved_plain_citation"
           ],
           "text": "else if (navigator.language) languages = [navigator.language];"
         },
         {
-          "line": 486,
+          "line": 484,
           "labels": [
             "unresolved_plain_citation"
           ],
@@ -9718,16 +9718,136 @@
       "basename": "Saxony-Anhalt_5678a0_local_media_amplific_37d097",
       "title": "Saxony Anhalt 5678 a0 local media amplific",
       "permalink": "/media-04b098/",
-      "word_count": 9079,
-      "char_count": 80691,
-      "line_count": 695,
+      "word_count": 8935,
+      "char_count": 79626,
+      "line_count": 691,
       "heading_count": 9,
       "h2_count": 8,
       "h3_count": 1,
       "endnote_heading_count": 1,
       "footnote_definition_count": 0,
       "numbered_endnote_count": 0,
-      "url_count": 120,
+      "url_count": 119,
+      "youtube_embed_count": 3,
+      "selected_youtube_video_count": 0,
+      "selected_youtube_video_ids": [],
+      "selected_youtube_videos": [],
+      "youtube_fallback_count": 0,
+      "has_related_reports_panel": false,
+      "internal_link_candidate_pool_size": 0,
+      "internal_link_eligible_match_count": 0,
+      "inline_internal_link_count": 0,
+      "internal_link_unselected_match_count": 0,
+      "internal_link_duplicate_target_match_count": 0,
+      "internal_linked_target_count": 0,
+      "selected_internal_link_texts": [],
+      "selected_internal_link_targets": [],
+      "related_report_count": 0,
+      "internal_link_hit_page_cap": false,
+      "internal_link_hit_paragraph_cap": false,
+      "prompt_leak_hit_count": 0,
+      "mojibake_hit_count": 0,
+      "structured_output_hit_count": 0,
+      "broken_citation_artifact_hit_count": 0,
+      "inline_citation_domain_fallback_count": 0,
+      "unresolved_plain_citation_hit_count": 2,
+      "placeholder_citation_hit_count": 0,
+      "malformed_heading_artifact_hit_count": 0,
+      "suspicious_markdown_link_boundary_hit_count": 0,
+      "embed_integrity_hit_count": 0,
+      "needs_review": false,
+      "hide_from_navigation": false,
+      "issue_samples": [
+        {
+          "line": 384,
+          "labels": [
+            "unresolved_plain_citation"
+          ],
+          "text": "else if (navigator.language) languages = [navigator.language];"
+        },
+        {
+          "line": 497,
+          "labels": [
+            "unresolved_plain_citation"
+          ],
+          "text": "if (select && select.selectedIndex >= 0) selectedText = select.options[select.selectedIndex].text;"
+        }
+      ]
+    },
+    {
+      "basename": "Saxony-Anhalt_5678a0_magdeburg_lamp_photo_c2d80d",
+      "title": "Saxony Anhalt 5678 a0 magdeburg lamp photo",
+      "permalink": "/magdeburg-photo/",
+      "word_count": 8053,
+      "char_count": 72621,
+      "line_count": 676,
+      "heading_count": 9,
+      "h2_count": 8,
+      "h3_count": 1,
+      "endnote_heading_count": 1,
+      "footnote_definition_count": 0,
+      "numbered_endnote_count": 4,
+      "url_count": 108,
+      "youtube_embed_count": 3,
+      "selected_youtube_video_count": 0,
+      "selected_youtube_video_ids": [],
+      "selected_youtube_videos": [],
+      "youtube_fallback_count": 0,
+      "has_related_reports_panel": false,
+      "internal_link_candidate_pool_size": 0,
+      "internal_link_eligible_match_count": 0,
+      "inline_internal_link_count": 0,
+      "internal_link_unselected_match_count": 0,
+      "internal_link_duplicate_target_match_count": 0,
+      "internal_linked_target_count": 0,
+      "selected_internal_link_texts": [],
+      "selected_internal_link_targets": [],
+      "related_report_count": 0,
+      "internal_link_hit_page_cap": false,
+      "internal_link_hit_paragraph_cap": false,
+      "prompt_leak_hit_count": 0,
+      "mojibake_hit_count": 0,
+      "structured_output_hit_count": 0,
+      "broken_citation_artifact_hit_count": 0,
+      "inline_citation_domain_fallback_count": 0,
+      "unresolved_plain_citation_hit_count": 2,
+      "placeholder_citation_hit_count": 0,
+      "malformed_heading_artifact_hit_count": 0,
+      "suspicious_markdown_link_boundary_hit_count": 0,
+      "embed_integrity_hit_count": 0,
+      "needs_review": false,
+      "hide_from_navigation": false,
+      "issue_samples": [
+        {
+          "line": 385,
+          "labels": [
+            "unresolved_plain_citation"
+          ],
+          "text": "else if (navigator.language) languages = [navigator.language];"
+        },
+        {
+          "line": 498,
+          "labels": [
+            "unresolved_plain_citation"
+          ],
+          "text": "if (select && select.selectedIndex >= 0) selectedText = select.options[select.selectedIndex].text;"
+        }
+      ]
+    },
+    {
+      "basename": "Saxony-Anhalt_5678a0_ordinary_sky_confusi_1af8c6",
+      "title": "Saxony Anhalt 5678 a0 ordinary sky confusi",
+      "permalink": "/sky-confusion/",
+      "word_count": 9359,
+      "char_count": 82126,
+      "line_count": 734,
+      "heading_count": 8,
+      "h2_count": 7,
+      "h3_count": 1,
+      "endnote_heading_count": 1,
+      "footnote_definition_count": 0,
+      "numbered_endnote_count": 3,
+      "url_count": 139,
       "youtube_embed_count": 3,
       "selected_youtube_video_count": 0,
       "selected_youtube_video_ids": [],
@@ -9767,126 +9887,6 @@
         },
         {
           "line": 501,
-          "labels": [
-            "unresolved_plain_citation"
-          ],
-          "text": "if (select && select.selectedIndex >= 0) selectedText = select.options[select.selectedIndex].text;"
-        }
-      ]
-    },
-    {
-      "basename": "Saxony-Anhalt_5678a0_magdeburg_lamp_photo_c2d80d",
-      "title": "Saxony Anhalt 5678 a0 magdeburg lamp photo",
-      "permalink": "/magdeburg-photo/",
-      "word_count": 8053,
-      "char_count": 72629,
-      "line_count": 680,
-      "heading_count": 9,
-      "h2_count": 8,
-      "h3_count": 1,
-      "endnote_heading_count": 1,
-      "footnote_definition_count": 0,
-      "numbered_endnote_count": 4,
-      "url_count": 108,
-      "youtube_embed_count": 3,
-      "selected_youtube_video_count": 0,
-      "selected_youtube_video_ids": [],
-      "selected_youtube_videos": [],
-      "youtube_fallback_count": 0,
-      "has_related_reports_panel": false,
-      "internal_link_candidate_pool_size": 0,
-      "internal_link_eligible_match_count": 0,
-      "inline_internal_link_count": 0,
-      "internal_link_unselected_match_count": 0,
-      "internal_link_duplicate_target_match_count": 0,
-      "internal_linked_target_count": 0,
-      "selected_internal_link_texts": [],
-      "selected_internal_link_targets": [],
-      "related_report_count": 0,
-      "internal_link_hit_page_cap": false,
-      "internal_link_hit_paragraph_cap": false,
-      "prompt_leak_hit_count": 0,
-      "mojibake_hit_count": 0,
-      "structured_output_hit_count": 0,
-      "broken_citation_artifact_hit_count": 0,
-      "inline_citation_domain_fallback_count": 0,
-      "unresolved_plain_citation_hit_count": 2,
-      "placeholder_citation_hit_count": 0,
-      "malformed_heading_artifact_hit_count": 0,
-      "suspicious_markdown_link_boundary_hit_count": 0,
-      "embed_integrity_hit_count": 0,
-      "needs_review": false,
-      "hide_from_navigation": false,
-      "issue_samples": [
-        {
-          "line": 389,
-          "labels": [
-            "unresolved_plain_citation"
-          ],
-          "text": "else if (navigator.language) languages = [navigator.language];"
-        },
-        {
-          "line": 502,
-          "labels": [
-            "unresolved_plain_citation"
-          ],
-          "text": "if (select && select.selectedIndex >= 0) selectedText = select.options[select.selectedIndex].text;"
-        }
-      ]
-    },
-    {
-      "basename": "Saxony-Anhalt_5678a0_ordinary_sky_confusi_1af8c6",
-      "title": "Saxony Anhalt 5678 a0 ordinary sky confusi",
-      "permalink": "/sky-confusion/",
-      "word_count": 9359,
-      "char_count": 82132,
-      "line_count": 737,
-      "heading_count": 8,
-      "h2_count": 7,
-      "h3_count": 1,
-      "endnote_heading_count": 1,
-      "footnote_definition_count": 0,
-      "numbered_endnote_count": 3,
-      "url_count": 139,
-      "youtube_embed_count": 3,
-      "selected_youtube_video_count": 0,
-      "selected_youtube_video_ids": [],
-      "selected_youtube_videos": [],
-      "youtube_fallback_count": 0,
-      "has_related_reports_panel": false,
-      "internal_link_candidate_pool_size": 0,
-      "internal_link_eligible_match_count": 0,
-      "inline_internal_link_count": 0,
-      "internal_link_unselected_match_count": 0,
-      "internal_link_duplicate_target_match_count": 0,
-      "internal_linked_target_count": 0,
-      "selected_internal_link_texts": [],
-      "selected_internal_link_targets": [],
-      "related_report_count": 0,
-      "internal_link_hit_page_cap": false,
-      "internal_link_hit_paragraph_cap": false,
-      "prompt_leak_hit_count": 0,
-      "mojibake_hit_count": 0,
-      "structured_output_hit_count": 0,
-      "broken_citation_artifact_hit_count": 0,
-      "inline_citation_domain_fallback_count": 0,
-      "unresolved_plain_citation_hit_count": 2,
-      "placeholder_citation_hit_count": 0,
-      "malformed_heading_artifact_hit_count": 0,
-      "suspicious_markdown_link_boundary_hit_count": 0,
-      "embed_integrity_hit_count": 0,
-      "needs_review": false,
-      "hide_from_navigation": false,
-      "issue_samples": [
-        {
-          "line": 391,
-          "labels": [
-            "unresolved_plain_citation"
-          ],
-          "text": "else if (navigator.language) languages = [navigator.language];"
-        },
-        {
-          "line": 504,
           "labels": [
             "unresolved_plain_citation"
           ],
@@ -9958,16 +9958,16 @@
       "basename": "Saxony-Anhalt_5678a0_ufokarte_hotspots_425707",
       "title": "Saxony Anhalt 5678 a0 ufokarte hotspots",
       "permalink": "/case-map/",
-      "word_count": 9855,
-      "char_count": 85912,
-      "line_count": 710,
+      "word_count": 9584,
+      "char_count": 83905,
+      "line_count": 706,
       "heading_count": 9,
       "h2_count": 8,
       "h3_count": 1,
       "endnote_heading_count": 1,
       "footnote_definition_count": 0,
       "numbered_endnote_count": 0,
-      "url_count": 137,
+      "url_count": 135,
       "youtube_embed_count": 3,
       "selected_youtube_video_count": 0,
       "selected_youtube_video_ids": [],
@@ -9999,14 +9999,14 @@
       "hide_from_navigation": false,
       "issue_samples": [
         {
-          "line": 388,
+          "line": 384,
           "labels": [
             "unresolved_plain_citation"
           ],
           "text": "else if (navigator.language) languages = [navigator.language];"
         },
         {
-          "line": 501,
+          "line": 497,
           "labels": [
             "unresolved_plain_citation"
           ],
@@ -10018,16 +10018,16 @@
       "basename": "Saxony-Anhalt_5678a0_unresolved_evidence_216035",
       "title": "Saxony Anhalt 5678 a0 unresolved evidence",
       "permalink": "/unresolved-b01a0e/",
-      "word_count": 9520,
-      "char_count": 84626,
-      "line_count": 776,
+      "word_count": 9380,
+      "char_count": 83529,
+      "line_count": 774,
       "heading_count": 10,
       "h2_count": 9,
       "h3_count": 1,
       "endnote_heading_count": 1,
       "footnote_definition_count": 0,
       "numbered_endnote_count": 0,
-      "url_count": 150,
+      "url_count": 149,
       "youtube_embed_count": 3,
       "selected_youtube_video_count": 0,
       "selected_youtube_video_ids": [],
@@ -10059,14 +10059,14 @@
       "hide_from_navigation": false,
       "issue_samples": [
         {
-          "line": 408,
+          "line": 406,
           "labels": [
             "unresolved_plain_citation"
           ],
           "text": "else if (navigator.language) languages = [navigator.language];"
         },
         {
-          "line": 521,
+          "line": 519,
           "labels": [
             "unresolved_plain_citation"
           ],
@@ -10138,256 +10138,16 @@
       "basename": "Saxony-Anhalt_5678a0_zeitz_1997_disc_f86805",
       "title": "Saxony Anhalt 5678 a0 zeitz 1997 disc",
       "permalink": "/zeitz-1997/",
-      "word_count": 8477,
-      "char_count": 73788,
-      "line_count": 670,
+      "word_count": 8335,
+      "char_count": 72615,
+      "line_count": 666,
       "heading_count": 10,
       "h2_count": 9,
       "h3_count": 1,
       "endnote_heading_count": 1,
       "footnote_definition_count": 0,
       "numbered_endnote_count": 0,
-      "url_count": 114,
-      "youtube_embed_count": 3,
-      "selected_youtube_video_count": 0,
-      "selected_youtube_video_ids": [],
-      "selected_youtube_videos": [],
-      "youtube_fallback_count": 0,
-      "has_related_reports_panel": false,
-      "internal_link_candidate_pool_size": 0,
-      "internal_link_eligible_match_count": 0,
-      "inline_internal_link_count": 0,
-      "internal_link_unselected_match_count": 0,
-      "internal_link_duplicate_target_match_count": 0,
-      "internal_linked_target_count": 0,
-      "selected_internal_link_texts": [],
-      "selected_internal_link_targets": [],
-      "related_report_count": 0,
-      "internal_link_hit_page_cap": false,
-      "internal_link_hit_paragraph_cap": false,
-      "prompt_leak_hit_count": 0,
-      "mojibake_hit_count": 0,
-      "structured_output_hit_count": 0,
-      "broken_citation_artifact_hit_count": 0,
-      "inline_citation_domain_fallback_count": 0,
-      "unresolved_plain_citation_hit_count": 2,
-      "placeholder_citation_hit_count": 0,
-      "malformed_heading_artifact_hit_count": 0,
-      "suspicious_markdown_link_boundary_hit_count": 0,
-      "embed_integrity_hit_count": 0,
-      "needs_review": false,
-      "hide_from_navigation": false,
-      "issue_samples": [
-        {
-          "line": 376,
-          "labels": [
-            "unresolved_plain_citation"
-          ],
-          "text": "else if (navigator.language) languages = [navigator.language];"
-        },
-        {
-          "line": 489,
-          "labels": [
-            "unresolved_plain_citation"
-          ],
-          "text": "if (select && select.selectedIndex >= 0) selectedText = select.options[select.selectedIndex].text;"
-        }
-      ]
-    },
-    {
-      "basename": "Saxony_caf030",
-      "title": "Saxony",
-      "permalink": "/what-really-happened-in-saxonys-ufo/",
-      "word_count": 10818,
-      "char_count": 93933,
-      "line_count": 809,
-      "heading_count": 13,
-      "h2_count": 12,
-      "h3_count": 1,
-      "endnote_heading_count": 1,
-      "footnote_definition_count": 0,
-      "numbered_endnote_count": 5,
-      "url_count": 150,
-      "youtube_embed_count": 3,
-      "selected_youtube_video_count": 0,
-      "selected_youtube_video_ids": [],
-      "selected_youtube_videos": [],
-      "youtube_fallback_count": 0,
-      "has_related_reports_panel": false,
-      "internal_link_candidate_pool_size": 0,
-      "internal_link_eligible_match_count": 0,
-      "inline_internal_link_count": 0,
-      "internal_link_unselected_match_count": 0,
-      "internal_link_duplicate_target_match_count": 0,
-      "internal_linked_target_count": 0,
-      "selected_internal_link_texts": [],
-      "selected_internal_link_targets": [],
-      "related_report_count": 0,
-      "internal_link_hit_page_cap": false,
-      "internal_link_hit_paragraph_cap": false,
-      "prompt_leak_hit_count": 0,
-      "mojibake_hit_count": 0,
-      "structured_output_hit_count": 0,
-      "broken_citation_artifact_hit_count": 0,
-      "inline_citation_domain_fallback_count": 0,
-      "unresolved_plain_citation_hit_count": 2,
-      "placeholder_citation_hit_count": 0,
-      "malformed_heading_artifact_hit_count": 0,
-      "suspicious_markdown_link_boundary_hit_count": 0,
-      "embed_integrity_hit_count": 0,
-      "needs_review": false,
-      "hide_from_navigation": false,
-      "issue_samples": [
-        {
-          "line": 470,
-          "labels": [
-            "unresolved_plain_citation"
-          ],
-          "text": "else if (navigator.language) languages = [navigator.language];"
-        },
-        {
-          "line": 583,
-          "labels": [
-            "unresolved_plain_citation"
-          ],
-          "text": "if (select && select.selectedIndex >= 0) selectedText = select.options[select.selectedIndex].text;"
-        }
-      ]
-    },
-    {
-      "basename": "Saxony_caf030_balloons_lanterns_sa_6f195c",
-      "title": "Saxony caf 030 balloons lanterns",
-      "permalink": "/balloons/",
-      "word_count": 9534,
-      "char_count": 81733,
-      "line_count": 726,
-      "heading_count": 11,
-      "h2_count": 10,
-      "h3_count": 1,
-      "endnote_heading_count": 1,
-      "footnote_definition_count": 0,
-      "numbered_endnote_count": 0,
-      "url_count": 118,
-      "youtube_embed_count": 3,
-      "selected_youtube_video_count": 0,
-      "selected_youtube_video_ids": [],
-      "selected_youtube_videos": [],
-      "youtube_fallback_count": 0,
-      "has_related_reports_panel": false,
-      "internal_link_candidate_pool_size": 0,
-      "internal_link_eligible_match_count": 0,
-      "inline_internal_link_count": 0,
-      "internal_link_unselected_match_count": 0,
-      "internal_link_duplicate_target_match_count": 0,
-      "internal_linked_target_count": 0,
-      "selected_internal_link_texts": [],
-      "selected_internal_link_targets": [],
-      "related_report_count": 0,
-      "internal_link_hit_page_cap": false,
-      "internal_link_hit_paragraph_cap": false,
-      "prompt_leak_hit_count": 0,
-      "mojibake_hit_count": 0,
-      "structured_output_hit_count": 0,
-      "broken_citation_artifact_hit_count": 0,
-      "inline_citation_domain_fallback_count": 0,
-      "unresolved_plain_citation_hit_count": 2,
-      "placeholder_citation_hit_count": 0,
-      "malformed_heading_artifact_hit_count": 0,
-      "suspicious_markdown_link_boundary_hit_count": 0,
-      "embed_integrity_hit_count": 0,
-      "needs_review": false,
-      "hide_from_navigation": false,
-      "issue_samples": [
-        {
-          "line": 417,
-          "labels": [
-            "unresolved_plain_citation"
-          ],
-          "text": "else if (navigator.language) languages = [navigator.language];"
-        },
-        {
-          "line": 530,
-          "labels": [
-            "unresolved_plain_citation"
-          ],
-          "text": "if (select && select.selectedIndex >= 0) selectedText = select.options[select.selectedIndex].text;"
-        }
-      ]
-    },
-    {
-      "basename": "Saxony_caf030_camera_video_pitfall_1ee3d4",
-      "title": "Saxony caf 030 camera video pitfall",
-      "permalink": "/photo-pitfalls/",
-      "word_count": 9810,
-      "char_count": 83516,
-      "line_count": 757,
-      "heading_count": 13,
-      "h2_count": 9,
-      "h3_count": 4,
-      "endnote_heading_count": 1,
-      "footnote_definition_count": 0,
-      "numbered_endnote_count": 7,
-      "url_count": 134,
-      "youtube_embed_count": 3,
-      "selected_youtube_video_count": 0,
-      "selected_youtube_video_ids": [],
-      "selected_youtube_videos": [],
-      "youtube_fallback_count": 0,
-      "has_related_reports_panel": false,
-      "internal_link_candidate_pool_size": 0,
-      "internal_link_eligible_match_count": 0,
-      "inline_internal_link_count": 0,
-      "internal_link_unselected_match_count": 0,
-      "internal_link_duplicate_target_match_count": 0,
-      "internal_linked_target_count": 0,
-      "selected_internal_link_texts": [],
-      "selected_internal_link_targets": [],
-      "related_report_count": 0,
-      "internal_link_hit_page_cap": false,
-      "internal_link_hit_paragraph_cap": false,
-      "prompt_leak_hit_count": 0,
-      "mojibake_hit_count": 0,
-      "structured_output_hit_count": 0,
-      "broken_citation_artifact_hit_count": 0,
-      "inline_citation_domain_fallback_count": 0,
-      "unresolved_plain_citation_hit_count": 2,
-      "placeholder_citation_hit_count": 0,
-      "malformed_heading_artifact_hit_count": 0,
-      "suspicious_markdown_link_boundary_hit_count": 0,
-      "embed_integrity_hit_count": 0,
-      "needs_review": false,
-      "hide_from_navigation": false,
-      "issue_samples": [
-        {
-          "line": 415,
-          "labels": [
-            "unresolved_plain_citation"
-          ],
-          "text": "else if (navigator.language) languages = [navigator.language];"
-        },
-        {
-          "line": 528,
-          "labels": [
-            "unresolved_plain_citation"
-          ],
-          "text": "if (select && select.selectedIndex >= 0) selectedText = select.options[select.selectedIndex].text;"
-        }
-      ]
-    },
-    {
-      "basename": "Saxony_caf030_dresden_elbe_lights_ef9b41",
-      "title": "Saxony caf 030 dresden elbe lights",
-      "permalink": "/dresden-lights/",
-      "word_count": 8772,
-      "char_count": 76901,
-      "line_count": 678,
-      "heading_count": 7,
-      "h2_count": 6,
-      "h3_count": 1,
-      "endnote_heading_count": 1,
-      "footnote_definition_count": 0,
-      "numbered_endnote_count": 0,
-      "url_count": 122,
+      "url_count": 113,
       "youtube_embed_count": 3,
       "selected_youtube_video_count": 0,
       "selected_youtube_video_ids": [],
@@ -10435,12 +10195,252 @@
       ]
     },
     {
+      "basename": "Saxony_caf030",
+      "title": "Saxony",
+      "permalink": "/what-really-happened-in-saxonys-ufo/",
+      "word_count": 10472,
+      "char_count": 91314,
+      "line_count": 805,
+      "heading_count": 13,
+      "h2_count": 12,
+      "h3_count": 1,
+      "endnote_heading_count": 1,
+      "footnote_definition_count": 0,
+      "numbered_endnote_count": 5,
+      "url_count": 147,
+      "youtube_embed_count": 3,
+      "selected_youtube_video_count": 0,
+      "selected_youtube_video_ids": [],
+      "selected_youtube_videos": [],
+      "youtube_fallback_count": 0,
+      "has_related_reports_panel": false,
+      "internal_link_candidate_pool_size": 0,
+      "internal_link_eligible_match_count": 0,
+      "inline_internal_link_count": 0,
+      "internal_link_unselected_match_count": 0,
+      "internal_link_duplicate_target_match_count": 0,
+      "internal_linked_target_count": 0,
+      "selected_internal_link_texts": [],
+      "selected_internal_link_targets": [],
+      "related_report_count": 0,
+      "internal_link_hit_page_cap": false,
+      "internal_link_hit_paragraph_cap": false,
+      "prompt_leak_hit_count": 0,
+      "mojibake_hit_count": 0,
+      "structured_output_hit_count": 0,
+      "broken_citation_artifact_hit_count": 0,
+      "inline_citation_domain_fallback_count": 0,
+      "unresolved_plain_citation_hit_count": 2,
+      "placeholder_citation_hit_count": 0,
+      "malformed_heading_artifact_hit_count": 0,
+      "suspicious_markdown_link_boundary_hit_count": 0,
+      "embed_integrity_hit_count": 0,
+      "needs_review": false,
+      "hide_from_navigation": false,
+      "issue_samples": [
+        {
+          "line": 466,
+          "labels": [
+            "unresolved_plain_citation"
+          ],
+          "text": "else if (navigator.language) languages = [navigator.language];"
+        },
+        {
+          "line": 579,
+          "labels": [
+            "unresolved_plain_citation"
+          ],
+          "text": "if (select && select.selectedIndex >= 0) selectedText = select.options[select.selectedIndex].text;"
+        }
+      ]
+    },
+    {
+      "basename": "Saxony_caf030_balloons_lanterns_sa_6f195c",
+      "title": "Saxony caf 030 balloons lanterns",
+      "permalink": "/balloons/",
+      "word_count": 9534,
+      "char_count": 81725,
+      "line_count": 722,
+      "heading_count": 11,
+      "h2_count": 10,
+      "h3_count": 1,
+      "endnote_heading_count": 1,
+      "footnote_definition_count": 0,
+      "numbered_endnote_count": 0,
+      "url_count": 118,
+      "youtube_embed_count": 3,
+      "selected_youtube_video_count": 0,
+      "selected_youtube_video_ids": [],
+      "selected_youtube_videos": [],
+      "youtube_fallback_count": 0,
+      "has_related_reports_panel": false,
+      "internal_link_candidate_pool_size": 0,
+      "internal_link_eligible_match_count": 0,
+      "inline_internal_link_count": 0,
+      "internal_link_unselected_match_count": 0,
+      "internal_link_duplicate_target_match_count": 0,
+      "internal_linked_target_count": 0,
+      "selected_internal_link_texts": [],
+      "selected_internal_link_targets": [],
+      "related_report_count": 0,
+      "internal_link_hit_page_cap": false,
+      "internal_link_hit_paragraph_cap": false,
+      "prompt_leak_hit_count": 0,
+      "mojibake_hit_count": 0,
+      "structured_output_hit_count": 0,
+      "broken_citation_artifact_hit_count": 0,
+      "inline_citation_domain_fallback_count": 0,
+      "unresolved_plain_citation_hit_count": 2,
+      "placeholder_citation_hit_count": 0,
+      "malformed_heading_artifact_hit_count": 0,
+      "suspicious_markdown_link_boundary_hit_count": 0,
+      "embed_integrity_hit_count": 0,
+      "needs_review": false,
+      "hide_from_navigation": false,
+      "issue_samples": [
+        {
+          "line": 413,
+          "labels": [
+            "unresolved_plain_citation"
+          ],
+          "text": "else if (navigator.language) languages = [navigator.language];"
+        },
+        {
+          "line": 526,
+          "labels": [
+            "unresolved_plain_citation"
+          ],
+          "text": "if (select && select.selectedIndex >= 0) selectedText = select.options[select.selectedIndex].text;"
+        }
+      ]
+    },
+    {
+      "basename": "Saxony_caf030_camera_video_pitfall_1ee3d4",
+      "title": "Saxony caf 030 camera video pitfall",
+      "permalink": "/photo-pitfalls/",
+      "word_count": 9810,
+      "char_count": 83512,
+      "line_count": 755,
+      "heading_count": 13,
+      "h2_count": 9,
+      "h3_count": 4,
+      "endnote_heading_count": 1,
+      "footnote_definition_count": 0,
+      "numbered_endnote_count": 7,
+      "url_count": 134,
+      "youtube_embed_count": 3,
+      "selected_youtube_video_count": 0,
+      "selected_youtube_video_ids": [],
+      "selected_youtube_videos": [],
+      "youtube_fallback_count": 0,
+      "has_related_reports_panel": false,
+      "internal_link_candidate_pool_size": 0,
+      "internal_link_eligible_match_count": 0,
+      "inline_internal_link_count": 0,
+      "internal_link_unselected_match_count": 0,
+      "internal_link_duplicate_target_match_count": 0,
+      "internal_linked_target_count": 0,
+      "selected_internal_link_texts": [],
+      "selected_internal_link_targets": [],
+      "related_report_count": 0,
+      "internal_link_hit_page_cap": false,
+      "internal_link_hit_paragraph_cap": false,
+      "prompt_leak_hit_count": 0,
+      "mojibake_hit_count": 0,
+      "structured_output_hit_count": 0,
+      "broken_citation_artifact_hit_count": 0,
+      "inline_citation_domain_fallback_count": 0,
+      "unresolved_plain_citation_hit_count": 2,
+      "placeholder_citation_hit_count": 0,
+      "malformed_heading_artifact_hit_count": 0,
+      "suspicious_markdown_link_boundary_hit_count": 0,
+      "embed_integrity_hit_count": 0,
+      "needs_review": false,
+      "hide_from_navigation": false,
+      "issue_samples": [
+        {
+          "line": 413,
+          "labels": [
+            "unresolved_plain_citation"
+          ],
+          "text": "else if (navigator.language) languages = [navigator.language];"
+        },
+        {
+          "line": 526,
+          "labels": [
+            "unresolved_plain_citation"
+          ],
+          "text": "if (select && select.selectedIndex >= 0) selectedText = select.options[select.selectedIndex].text;"
+        }
+      ]
+    },
+    {
+      "basename": "Saxony_caf030_dresden_elbe_lights_ef9b41",
+      "title": "Saxony caf 030 dresden elbe lights",
+      "permalink": "/dresden-lights/",
+      "word_count": 8624,
+      "char_count": 75818,
+      "line_count": 674,
+      "heading_count": 7,
+      "h2_count": 6,
+      "h3_count": 1,
+      "endnote_heading_count": 1,
+      "footnote_definition_count": 0,
+      "numbered_endnote_count": 0,
+      "url_count": 121,
+      "youtube_embed_count": 3,
+      "selected_youtube_video_count": 0,
+      "selected_youtube_video_ids": [],
+      "selected_youtube_videos": [],
+      "youtube_fallback_count": 0,
+      "has_related_reports_panel": false,
+      "internal_link_candidate_pool_size": 0,
+      "internal_link_eligible_match_count": 0,
+      "inline_internal_link_count": 0,
+      "internal_link_unselected_match_count": 0,
+      "internal_link_duplicate_target_match_count": 0,
+      "internal_linked_target_count": 0,
+      "selected_internal_link_texts": [],
+      "selected_internal_link_targets": [],
+      "related_report_count": 0,
+      "internal_link_hit_page_cap": false,
+      "internal_link_hit_paragraph_cap": false,
+      "prompt_leak_hit_count": 0,
+      "mojibake_hit_count": 0,
+      "structured_output_hit_count": 0,
+      "broken_citation_artifact_hit_count": 0,
+      "inline_citation_domain_fallback_count": 0,
+      "unresolved_plain_citation_hit_count": 2,
+      "placeholder_citation_hit_count": 0,
+      "malformed_heading_artifact_hit_count": 0,
+      "suspicious_markdown_link_boundary_hit_count": 0,
+      "embed_integrity_hit_count": 0,
+      "needs_review": false,
+      "hide_from_navigation": false,
+      "issue_samples": [
+        {
+          "line": 368,
+          "labels": [
+            "unresolved_plain_citation"
+          ],
+          "text": "else if (navigator.language) languages = [navigator.language];"
+        },
+        {
+          "line": 481,
+          "labels": [
+            "unresolved_plain_citation"
+          ],
+          "text": "if (select && select.selectedIndex >= 0) selectedText = select.options[select.selectedIndex].text;"
+        }
+      ]
+    },
+    {
       "basename": "Saxony_caf030_east_german_archival_330140",
       "title": "Saxony caf 030 east german archival",
       "permalink": "/east-german/",
       "word_count": 10218,
-      "char_count": 88473,
-      "line_count": 747,
+      "char_count": 88469,
+      "line_count": 745,
       "heading_count": 10,
       "h2_count": 9,
       "h3_count": 1,
@@ -10479,14 +10479,14 @@
       "hide_from_navigation": false,
       "issue_samples": [
         {
-          "line": 403,
+          "line": 401,
           "labels": [
             "unresolved_plain_citation"
           ],
           "text": "else if (navigator.language) languages = [navigator.language];"
         },
         {
-          "line": 516,
+          "line": 514,
           "labels": [
             "unresolved_plain_citation"
           ],
@@ -10498,16 +10498,16 @@
       "basename": "Saxony_caf030_erzgebirge_rural_sig_d151fe",
       "title": "Saxony caf 030 erzgebirge rural sig",
       "permalink": "/erzgebirge/",
-      "word_count": 9825,
-      "char_count": 84571,
-      "line_count": 714,
+      "word_count": 9661,
+      "char_count": 83420,
+      "line_count": 710,
       "heading_count": 9,
       "h2_count": 8,
       "h3_count": 1,
       "endnote_heading_count": 1,
       "footnote_definition_count": 0,
       "numbered_endnote_count": 0,
-      "url_count": 132,
+      "url_count": 131,
       "youtube_embed_count": 3,
       "selected_youtube_video_count": 0,
       "selected_youtube_video_ids": [],
@@ -10539,14 +10539,14 @@
       "hide_from_navigation": false,
       "issue_samples": [
         {
-          "line": 394,
+          "line": 390,
           "labels": [
             "unresolved_plain_citation"
           ],
           "text": "else if (navigator.language) languages = [navigator.language];"
         },
         {
-          "line": 507,
+          "line": 503,
           "labels": [
             "unresolved_plain_citation"
           ],
@@ -10558,16 +10558,16 @@
       "basename": "Saxony_caf030_gep_saxony_records_b78883",
       "title": "Saxony caf 030 gep saxony records",
       "permalink": "/gep-records-43631a/",
-      "word_count": 9493,
-      "char_count": 83722,
-      "line_count": 732,
+      "word_count": 9353,
+      "char_count": 82699,
+      "line_count": 730,
       "heading_count": 11,
       "h2_count": 10,
       "h3_count": 1,
       "endnote_heading_count": 1,
       "footnote_definition_count": 0,
       "numbered_endnote_count": 0,
-      "url_count": 130,
+      "url_count": 129,
       "youtube_embed_count": 3,
       "selected_youtube_video_count": 0,
       "selected_youtube_video_ids": [],
@@ -10599,14 +10599,14 @@
       "hide_from_navigation": false,
       "issue_samples": [
         {
-          "line": 412,
+          "line": 410,
           "labels": [
             "unresolved_plain_citation"
           ],
           "text": "else if (navigator.language) languages = [navigator.language];"
         },
         {
-          "line": 525,
+          "line": 523,
           "labels": [
             "unresolved_plain_citation"
           ],
@@ -10678,16 +10678,16 @@
       "basename": "Saxony_caf030_police_official_chec_1b55c3",
       "title": "Saxony caf 030 police official chec",
       "permalink": "/police-checks/",
-      "word_count": 9406,
-      "char_count": 82822,
-      "line_count": 738,
+      "word_count": 9287,
+      "char_count": 81964,
+      "line_count": 736,
       "heading_count": 9,
       "h2_count": 8,
       "h3_count": 1,
       "endnote_heading_count": 1,
       "footnote_definition_count": 0,
       "numbered_endnote_count": 4,
-      "url_count": 138,
+      "url_count": 137,
       "youtube_embed_count": 3,
       "selected_youtube_video_count": 0,
       "selected_youtube_video_ids": [],
@@ -10719,14 +10719,14 @@
       "hide_from_navigation": false,
       "issue_samples": [
         {
-          "line": 396,
+          "line": 394,
           "labels": [
             "unresolved_plain_citation"
           ],
           "text": "else if (navigator.language) languages = [navigator.language];"
         },
         {
-          "line": 509,
+          "line": 507,
           "labels": [
             "unresolved_plain_citation"
           ],
@@ -10738,16 +10738,16 @@
       "basename": "Saxony_caf030_saxony_hotspot_compa_2a3066",
       "title": "Saxony caf 030 saxony hotspot compa",
       "permalink": "/hotspots/",
-      "word_count": 9878,
-      "char_count": 85041,
-      "line_count": 760,
+      "word_count": 9756,
+      "char_count": 84143,
+      "line_count": 758,
       "heading_count": 7,
       "h2_count": 6,
       "h3_count": 1,
       "endnote_heading_count": 1,
       "footnote_definition_count": 0,
       "numbered_endnote_count": 0,
-      "url_count": 158,
+      "url_count": 157,
       "youtube_embed_count": 3,
       "selected_youtube_video_count": 0,
       "selected_youtube_video_ids": [],
@@ -10779,14 +10779,14 @@
       "hide_from_navigation": false,
       "issue_samples": [
         {
-          "line": 383,
+          "line": 381,
           "labels": [
             "unresolved_plain_citation"
           ],
           "text": "else if (navigator.language) languages = [navigator.language];"
         },
         {
-          "line": 496,
+          "line": 494,
           "labels": [
             "unresolved_plain_citation"
           ],
@@ -10859,8 +10859,8 @@
       "title": "Saxony caf 030 unresolved weak evid",
       "permalink": "/unresolved/",
       "word_count": 9623,
-      "char_count": 83268,
-      "line_count": 740,
+      "char_count": 83264,
+      "line_count": 738,
       "heading_count": 11,
       "h2_count": 10,
       "h3_count": 1,
@@ -10899,14 +10899,14 @@
       "hide_from_navigation": false,
       "issue_samples": [
         {
-          "line": 409,
+          "line": 407,
           "labels": [
             "unresolved_plain_citation"
           ],
           "text": "else if (navigator.language) languages = [navigator.language];"
         },
         {
-          "line": 522,
+          "line": 520,
           "labels": [
             "unresolved_plain_citation"
           ],
@@ -10918,16 +10918,16 @@
       "basename": "Saxony_caf030_vogtland_contrail_ca_19d26b",
       "title": "Saxony caf 030 vogtland contrail",
       "permalink": "/vogtland-case/",
-      "word_count": 10318,
-      "char_count": 91364,
-      "line_count": 702,
+      "word_count": 10190,
+      "char_count": 90391,
+      "line_count": 700,
       "heading_count": 11,
       "h2_count": 10,
       "h3_count": 1,
       "endnote_heading_count": 1,
       "footnote_definition_count": 0,
       "numbered_endnote_count": 0,
-      "url_count": 132,
+      "url_count": 131,
       "youtube_embed_count": 3,
       "selected_youtube_video_count": 0,
       "selected_youtube_video_ids": [],
@@ -10959,14 +10959,14 @@
       "hide_from_navigation": false,
       "issue_samples": [
         {
-          "line": 400,
+          "line": 398,
           "labels": [
             "unresolved_plain_citation"
           ],
           "text": "else if (navigator.language) languages = [navigator.language];"
         },
         {
-          "line": 513,
+          "line": 511,
           "labels": [
             "unresolved_plain_citation"
           ],
@@ -11038,16 +11038,16 @@
       "basename": "Schleswig-Holstein_76916e_balloon_ufo_reports_166753",
       "title": "Schleswig Holstein 76916 e balloon UFO reports",
       "permalink": "/balloons-776206/",
-      "word_count": 9152,
-      "char_count": 80974,
-      "line_count": 749,
+      "word_count": 9034,
+      "char_count": 80030,
+      "line_count": 747,
       "heading_count": 9,
       "h2_count": 8,
       "h3_count": 1,
       "endnote_heading_count": 1,
       "footnote_definition_count": 0,
       "numbered_endnote_count": 0,
-      "url_count": 144,
+      "url_count": 143,
       "youtube_embed_count": 3,
       "selected_youtube_video_count": 0,
       "selected_youtube_video_ids": [],
@@ -11079,14 +11079,14 @@
       "hide_from_navigation": false,
       "issue_samples": [
         {
-          "line": 383,
+          "line": 381,
           "labels": [
             "unresolved_plain_citation"
           ],
           "text": "else if (navigator.language) languages = [navigator.language];"
         },
         {
-          "line": 496,
+          "line": 494,
           "labels": [
             "unresolved_plain_citation"
           ],
@@ -11098,16 +11098,16 @@
       "basename": "Schleswig-Holstein_76916e_city_sighting_cluste_11a3d9",
       "title": "Schleswig Holstein 76916 e city sighting cluste",
       "permalink": "/hotspots-3f61cf/",
-      "word_count": 9556,
-      "char_count": 84479,
-      "line_count": 718,
+      "word_count": 9427,
+      "char_count": 83516,
+      "line_count": 716,
       "heading_count": 8,
       "h2_count": 7,
       "h3_count": 1,
       "endnote_heading_count": 1,
       "footnote_definition_count": 0,
       "numbered_endnote_count": 0,
-      "url_count": 135,
+      "url_count": 134,
       "youtube_embed_count": 3,
       "selected_youtube_video_count": 0,
       "selected_youtube_video_ids": [],
@@ -11139,14 +11139,14 @@
       "hide_from_navigation": false,
       "issue_samples": [
         {
-          "line": 391,
+          "line": 389,
           "labels": [
             "unresolved_plain_citation"
           ],
           "text": "else if (navigator.language) languages = [navigator.language];"
         },
         {
-          "line": 504,
+          "line": 502,
           "labels": [
             "unresolved_plain_citation"
           ],
@@ -11338,16 +11338,16 @@
       "basename": "Schleswig-Holstein_76916e_flensburg_meteorite_ac5f5e",
       "title": "Schleswig Holstein 76916 e flensburg meteorite",
       "permalink": "/meteorite/",
-      "word_count": 9779,
-      "char_count": 86154,
-      "line_count": 726,
+      "word_count": 9443,
+      "char_count": 83616,
+      "line_count": 722,
       "heading_count": 9,
       "h2_count": 8,
       "h3_count": 1,
       "endnote_heading_count": 1,
       "footnote_definition_count": 0,
       "numbered_endnote_count": 0,
-      "url_count": 144,
+      "url_count": 141,
       "youtube_embed_count": 3,
       "selected_youtube_video_count": 0,
       "selected_youtube_video_ids": [],
@@ -11379,14 +11379,14 @@
       "hide_from_navigation": false,
       "issue_samples": [
         {
-          "line": 389,
+          "line": 385,
           "labels": [
             "unresolved_plain_citation"
           ],
           "text": "else if (navigator.language) languages = [navigator.language];"
         },
         {
-          "line": 502,
+          "line": 498,
           "labels": [
             "unresolved_plain_citation"
           ],
@@ -11518,16 +11518,16 @@
       "basename": "Schleswig-Holstein_76916e_planet_light_scares_463d20",
       "title": "Schleswig Holstein 76916 e planet light scares",
       "permalink": "/planets-9a1d7f/",
-      "word_count": 8880,
-      "char_count": 78932,
-      "line_count": 686,
+      "word_count": 8686,
+      "char_count": 77341,
+      "line_count": 685,
       "heading_count": 8,
       "h2_count": 7,
       "h3_count": 1,
       "endnote_heading_count": 1,
       "footnote_definition_count": 0,
       "numbered_endnote_count": 0,
-      "url_count": 120,
+      "url_count": 119,
       "youtube_embed_count": 3,
       "selected_youtube_video_count": 0,
       "selected_youtube_video_ids": [],
@@ -11559,14 +11559,14 @@
       "hide_from_navigation": false,
       "issue_samples": [
         {
-          "line": 379,
+          "line": 378,
           "labels": [
             "unresolved_plain_citation"
           ],
           "text": "else if (navigator.language) languages = [navigator.language];"
         },
         {
-          "line": 492,
+          "line": 491,
           "labels": [
             "unresolved_plain_citation"
           ],
@@ -11639,8 +11639,8 @@
       "title": "Schleswig Holstein 76916 e UFO investigation",
       "permalink": "/checking/",
       "word_count": 10485,
-      "char_count": 93176,
-      "line_count": 794,
+      "char_count": 93172,
+      "line_count": 792,
       "heading_count": 14,
       "h2_count": 9,
       "h3_count": 5,
@@ -11679,14 +11679,14 @@
       "hide_from_navigation": false,
       "issue_samples": [
         {
-          "line": 441,
+          "line": 439,
           "labels": [
             "unresolved_plain_citation"
           ],
           "text": "else if (navigator.language) languages = [navigator.language];"
         },
         {
-          "line": 554,
+          "line": 552,
           "labels": [
             "unresolved_plain_citation"
           ],
@@ -11699,8 +11699,8 @@
       "title": "Schleswig Holstein 76916 e ufokarte case count",
       "permalink": "/case-count/",
       "word_count": 8277,
-      "char_count": 74577,
-      "line_count": 691,
+      "char_count": 74573,
+      "line_count": 689,
       "heading_count": 9,
       "h2_count": 8,
       "h3_count": 1,
@@ -11739,14 +11739,14 @@
       "hide_from_navigation": false,
       "issue_samples": [
         {
-          "line": 380,
+          "line": 378,
           "labels": [
             "unresolved_plain_citation"
           ],
           "text": "else if (navigator.language) languages = [navigator.language];"
         },
         {
-          "line": 493,
+          "line": 491,
           "labels": [
             "unresolved_plain_citation"
           ],
@@ -11758,16 +11758,16 @@
       "basename": "Thuringia_f28d08",
       "title": "Thuringia",
       "permalink": "/what-really-happened-in-thuringias-ufo/",
-      "word_count": 10878,
-      "char_count": 97213,
-      "line_count": 835,
+      "word_count": 10638,
+      "char_count": 95476,
+      "line_count": 831,
       "heading_count": 11,
       "h2_count": 10,
       "h3_count": 1,
       "endnote_heading_count": 1,
       "footnote_definition_count": 0,
       "numbered_endnote_count": 0,
-      "url_count": 168,
+      "url_count": 166,
       "youtube_embed_count": 3,
       "selected_youtube_video_count": 0,
       "selected_youtube_video_ids": [],
@@ -11799,14 +11799,14 @@
       "hide_from_navigation": false,
       "issue_samples": [
         {
-          "line": 455,
+          "line": 451,
           "labels": [
             "unresolved_plain_citation"
           ],
           "text": "else if (navigator.language) languages = [navigator.language];"
         },
         {
-          "line": 568,
+          "line": 564,
           "labels": [
             "unresolved_plain_citation"
           ],
@@ -11879,8 +11879,8 @@
       "title": "Thuringia f28 d08 case strength rating",
       "permalink": "/case-ratings-e223f7/",
       "word_count": 9864,
-      "char_count": 86347,
-      "line_count": 727,
+      "char_count": 86343,
+      "line_count": 725,
       "heading_count": 11,
       "h2_count": 10,
       "h3_count": 1,
@@ -11919,14 +11919,14 @@
       "hide_from_navigation": false,
       "issue_samples": [
         {
-          "line": 407,
+          "line": 405,
           "labels": [
             "unresolved_plain_citation"
           ],
           "text": "else if (navigator.language) languages = [navigator.language];"
         },
         {
-          "line": 520,
+          "line": 518,
           "labels": [
             "unresolved_plain_citation"
           ],
@@ -11938,16 +11938,16 @@
       "basename": "Thuringia_f28d08_fehrenbach_photo_hoa_868d68",
       "title": "Thuringia f28 d08 fehrenbach photo hoa",
       "permalink": "/fehrenbach/",
-      "word_count": 8847,
-      "char_count": 78154,
-      "line_count": 653,
+      "word_count": 8432,
+      "char_count": 75064,
+      "line_count": 647,
       "heading_count": 10,
       "h2_count": 9,
       "h3_count": 1,
       "endnote_heading_count": 1,
       "footnote_definition_count": 0,
       "numbered_endnote_count": 0,
-      "url_count": 111,
+      "url_count": 108,
       "youtube_embed_count": 3,
       "selected_youtube_video_count": 0,
       "selected_youtube_video_ids": [],
@@ -11979,14 +11979,14 @@
       "hide_from_navigation": false,
       "issue_samples": [
         {
-          "line": 382,
+          "line": 376,
           "labels": [
             "unresolved_plain_citation"
           ],
           "text": "else if (navigator.language) languages = [navigator.language];"
         },
         {
-          "line": 495,
+          "line": 489,
           "labels": [
             "unresolved_plain_citation"
           ],
@@ -11999,8 +11999,8 @@
       "title": "Thuringia f28 d08 german UFO investiga",
       "permalink": "/investigators-032033/",
       "word_count": 9174,
-      "char_count": 81731,
-      "line_count": 702,
+      "char_count": 81723,
+      "line_count": 698,
       "heading_count": 10,
       "h2_count": 9,
       "h3_count": 1,
@@ -12039,14 +12039,14 @@
       "hide_from_navigation": false,
       "issue_samples": [
         {
-          "line": 394,
+          "line": 390,
           "labels": [
             "unresolved_plain_citation"
           ],
           "text": "else if (navigator.language) languages = [navigator.language];"
         },
         {
-          "line": 507,
+          "line": 503,
           "labels": [
             "unresolved_plain_citation"
           ],
@@ -12058,16 +12058,16 @@
       "basename": "Thuringia_f28d08_haselbach_linke_clai_c5ac23",
       "title": "Thuringia f28 d08 haselbach linke clai",
       "permalink": "/haselbach/",
-      "word_count": 9434,
-      "char_count": 81667,
-      "line_count": 684,
+      "word_count": 9128,
+      "char_count": 79436,
+      "line_count": 680,
       "heading_count": 9,
       "h2_count": 8,
       "h3_count": 1,
       "endnote_heading_count": 1,
       "footnote_definition_count": 0,
       "numbered_endnote_count": 0,
-      "url_count": 124,
+      "url_count": 122,
       "youtube_embed_count": 3,
       "selected_youtube_video_count": 0,
       "selected_youtube_video_ids": [],
@@ -12099,14 +12099,14 @@
       "hide_from_navigation": false,
       "issue_samples": [
         {
-          "line": 378,
+          "line": 374,
           "labels": [
             "unresolved_plain_citation"
           ],
           "text": "else if (navigator.language) languages = [navigator.language];"
         },
         {
-          "line": 491,
+          "line": 487,
           "labels": [
             "unresolved_plain_citation"
           ],
@@ -12119,8 +12119,8 @@
       "title": "Thuringia f28 d08 media priming",
       "permalink": "/media-effects/",
       "word_count": 8933,
-      "char_count": 78589,
-      "line_count": 681,
+      "char_count": 78585,
+      "line_count": 679,
       "heading_count": 10,
       "h2_count": 9,
       "h3_count": 1,
@@ -12159,14 +12159,14 @@
       "hide_from_navigation": false,
       "issue_samples": [
         {
-          "line": 398,
+          "line": 396,
           "labels": [
             "unresolved_plain_citation"
           ],
           "text": "else if (navigator.language) languages = [navigator.language];"
         },
         {
-          "line": 511,
+          "line": 509,
           "labels": [
             "unresolved_plain_citation"
           ],
@@ -12239,8 +12239,8 @@
       "title": "Thuringia f28 d08 ronneburg lesser rep",
       "permalink": "/other-reports/",
       "word_count": 8778,
-      "char_count": 76203,
-      "line_count": 675,
+      "char_count": 76195,
+      "line_count": 671,
       "heading_count": 11,
       "h2_count": 10,
       "h3_count": 1,
@@ -12279,14 +12279,14 @@
       "hide_from_navigation": false,
       "issue_samples": [
         {
-          "line": 411,
+          "line": 407,
           "labels": [
             "unresolved_plain_citation"
           ],
           "text": "else if (navigator.language) languages = [navigator.language];"
         },
         {
-          "line": 524,
+          "line": 520,
           "labels": [
             "unresolved_plain_citation"
           ],
@@ -12358,16 +12358,16 @@
       "basename": "Thuringia_f28d08_stasi_files_ufo_repo_08b8af",
       "title": "Thuringia f28 d08 stasi files UFO repo",
       "permalink": "/stasi-files/",
-      "word_count": 9866,
-      "char_count": 87518,
-      "line_count": 758,
+      "word_count": 9729,
+      "char_count": 86415,
+      "line_count": 756,
       "heading_count": 9,
       "h2_count": 8,
       "h3_count": 1,
       "endnote_heading_count": 1,
       "footnote_definition_count": 0,
       "numbered_endnote_count": 0,
-      "url_count": 156,
+      "url_count": 155,
       "youtube_embed_count": 3,
       "selected_youtube_video_count": 0,
       "selected_youtube_video_ids": [],
@@ -12399,14 +12399,14 @@
       "hide_from_navigation": false,
       "issue_samples": [
         {
-          "line": 385,
+          "line": 383,
           "labels": [
             "unresolved_plain_citation"
           ],
           "text": "else if (navigator.language) languages = [navigator.language];"
         },
         {
-          "line": 498,
+          "line": 496,
           "labels": [
             "unresolved_plain_citation"
           ],
@@ -12478,16 +12478,16 @@
       "basename": "Thuringia_f28d08_witness_to_case_file_2b6e1e",
       "title": "Thuringia f28 d08 witness to case file",
       "permalink": "/case-trail/",
-      "word_count": 10121,
-      "char_count": 89750,
-      "line_count": 828,
+      "word_count": 9992,
+      "char_count": 88734,
+      "line_count": 826,
       "heading_count": 10,
       "h2_count": 9,
       "h3_count": 1,
       "endnote_heading_count": 1,
       "footnote_definition_count": 0,
       "numbered_endnote_count": 0,
-      "url_count": 175,
+      "url_count": 174,
       "youtube_embed_count": 3,
       "selected_youtube_video_count": 0,
       "selected_youtube_video_ids": [],
@@ -12519,14 +12519,14 @@
       "hide_from_navigation": false,
       "issue_samples": [
         {
-          "line": 402,
+          "line": 400,
           "labels": [
             "unresolved_plain_citation"
           ],
           "text": "else if (navigator.language) languages = [navigator.language];"
         },
         {
-          "line": 515,
+          "line": 513,
           "labels": [
             "unresolved_plain_citation"
           ],

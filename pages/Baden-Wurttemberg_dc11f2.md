@@ -62,7 +62,7 @@ text_direction: ltr
 ui_strings:
   home: Home
   overview: Overview
-  overview_prefix:'Overview:'
+  overview_prefix: 'Overview:'
   contents: Contents
   close: Close
   open_contents: Open contents
@@ -210,13 +210,13 @@ ui_strings:
   search_this_page_empty_hint: Type to search this page.
   no_search_results: No pages match this search.
   no_search_this_page_results: No sections on this page match this search.
-  search_results_count_template:'{count} results'
+  search_results_count_template: '{count} results'
   search_kind_page_title: Page title
   search_kind_page_summary: Summary of page
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date:'2026-06-29 22:45:31'
+date: '2026-06-29 22:45:31'
 sibling_links:
 - basename: Mecklenburg-Vorpomme_d975e6
   title: MV UFOs
@@ -367,8 +367,6 @@ The numbers need careful handling. A high count of reports does not mean a high 
 The modern satellite era has changed the baseline. CENAP has linked recent increases in reports to [Starlink satellites]({{'starlink/' | relative_url }}), which can appear as striking strings of lights after launch or as unexpected bright moving points after deployment. That matters for Baden-Württemberg because the state’s sightings are often reported from ordinary homes, roads and towns rather than from specialised observing sites; many witnesses are seeing real lights, but not necessarily unusual craft.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.deutschland.de/de/topic/wissen/ufos-ueber-deutschland-hansjuergen-koehler-und-cenap" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: deutschland.de">[Deutschland]</a><span class="citation-popover" role="note"><span class="citation-popover-source">deutschland.de</span><span class="citation-popover-title">Ufos über Deutschland: Ein Experte klärt auf</span><span class="citation-popover-snippet">Ufos über Deutschland: Ein Experte klärt auf</span></span></span><img src="{{"/assets/images/Baden-Wurttemberg_dc11f2-Illustration-1-dark.svg" | relative_url }}" alt="What Really Happened Over Baden Wurttemberg? illustration 1" data-theme-src-dark="{{"/assets/images/Baden-Wurttemberg_dc11f2-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{"/assets/images/Baden-Wurttemberg_dc11f2-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Mannheim’s role: the state helped shape German UFO scepticism
 
-One of Baden-Württemberg’s most important contributions to German UFO history is institutional rather than spectacular. CENAP traces its origins to Mannheim, where Hansjürgen Köhler and Werner Walter began their UFO work in the 1970s. Forbes Austria describes the centre as operating since 1976, with Köhler handling reports around the clock and explaining many sightings through astronomy, aviation and space activity; it also records the Mannheim origin story, in which Köhler and Walter saw the need for a public contact point after learning how often observatories were being interrupted by sighting calls.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.forbes.at/artikel/der-ufo-enttarner" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: forbes.at">[Forbes]</a><span class="citation-popover" role="note"><span class="citation-popover-source">forbes.at</span><span class="citation-popover-title">Der Ufo-Enttarner</span><span class="citation-popover-snippet">Der Ufo-Enttarner</span></span></span>
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/TQcqOW39ksk" title="Unidentified Anomalous Phenomena Independent Study Report" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=TQcqOW39ksk" target="_blank" rel="noopener noreferrer">Unidentified Anomalous Phenomena Independent Study Report</a></p><p class="youtube-embed-meta">Channel: NASA &middot; Views: 107.4K &middot; Uploaded: September 2023 &middot; Length: 59 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=TQcqOW39ksk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=TQcqOW39ksk">Open on YouTube</a></p></div></div></div>
 
 ## The Friesenheim-Oberweier case: why one 2024 report stands out
@@ -377,7 +375,13 @@ The most notable recent Baden-Württemberg case is the 20 September 2024 sightin
 
 The reason this case attracted wider attention is the claimed passive-radar correlation. GEP says a passive radar signal confirmed the sighting, and the associated Zenodo record preserves a case dataset for the event. Passive radar is significant because it does not transmit its own beam; it receives and analyses reflections from existing third-party transmitters. Hensoldt’s description of its Twinvis system explains the same basic principle and notes that passive radar can be used for long-range airspace surveillance and civil air traffic control.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ufo-forschung.de/kurz-notiert/gep-erreicht-weltweit-bislang-einmaligen-erfolg-passivradarsignal-bestaetigt-ufo-sichtung" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufo-forschung.de">[UFO Forschung+2Zenodo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufo-forschung.de</span><span class="citation-popover-snippet">Open source on ufo-forschung.de.</span></span></span>
 
-Even here, caution is essential. A radar-correlated sighting would be stronger than a lone witness report, but it would not by itself identify an object as extraordinary. Passive radar can detect ordinary aircraft, helicopters, balloons, meteor-related events or other physical objects under the right conditions. The Friesenheim-Oberweier case is therefore best described as interesting and still requiring technical scrutiny, not as a settled landmark proving non-human technology. Its real value for Baden-Württemberg’s UFO history is methodological: it shows how future cases may move beyond memory and phone reports into timestamped sensor records.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/06RYLvQ0DF0" title="Sensation ! UFO sighting, Germany - UFO Sichtung, Deutschland" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=06RYLvQ0DF0" target="_blank" rel="noopener noreferrer">Sensation ! UFO sighting, Germany - UFO Sichtung, Deutschland</a></p><p class="youtube-embed-meta">Channel: walkoARTvideos</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=06RYLvQ0DF0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=06RYLvQ0DF0">Open on YouTube</a></p></div></div></div>
+Even here, caution is essential. A radar-correlated sighting would be stronger than a lone witness report, but it would not by itself identify an object as extraordinary. Passive radar can detect ordinary aircraft, helicopters, balloons, meteor-related events or other physical objects under the right conditions. The Friesenheim-Oberweier case is therefore best described as interesting and still requiring technical scrutiny, not as a settled landmark proving non-human technology. Its real value for Baden-Württemberg’s UFO history is methodological: it shows how future cases may move beyond memory and phone reports into timestamped sensor records.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/06RYLvQ0DF0" title="Sensation ! UFO sighting, Germany - UFO Sichtung, Deutschland" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=06RYLvQ0DF0" target="_blank" rel="noopener noreferrer">Sensation ! UFO sighting, Germany - UFO Sichtung, Deutschland</a></p><p class="youtube-embed-meta">Channel: walkoARTvideos</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=06RYLvQ0DF0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=06RYLvQ0DF0">Open on YouTube</a></p></div></div></div>
+
+
+
+
 
 ## Aviation, military and drone context without overclaiming
 
@@ -394,7 +398,13 @@ The same paper also records a clear government answer to parliamentary questions
 
 The later public dispute over this paper is often more dramatic than the paper itself. Netzpolitik reported that the document was released after a four-year legal effort and several court stages, but described its contents as unspectacular: a short research paper, not a secret operational UFO file.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://netzpolitik.org/2015/nach-vier-jahren-und-drei-instanzen-bundestag-gibt-ufo-gutachten-frei/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: netzpolitik.org">[netzpolitik.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">netzpolitik.org</span><span class="citation-popover-title">Nach vier Jahren und drei Instanzen: Bundestag gibt UFO-Gutachten frei</span><span class="citation-popover-snippet">Nach vier Jahren und drei Instanzen: Bundestag gibt UFO-Gutachten frei</span></span></span>
 
-For Baden-Württemberg, this means there is no strong public evidence of a hidden state UFO programme. The best-documented record is civilian: CENAP reports, GEP cases, local journalism, witness accounts and occasional technical datasets.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/1KjffJAtIWc" title="German police investigates drone sightings after airspace violations • FRANCE 24 English" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=1KjffJAtIWc" target="_blank" rel="noopener noreferrer">German police investigates drone sightings after airspace violations • FRANCE 24 English</a></p><p class="youtube-embed-meta">Channel: FRANCE 24 English</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=1KjffJAtIWc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=1KjffJAtIWc">Open on YouTube</a></p></div></div></div>
+For Baden-Württemberg, this means there is no strong public evidence of a hidden state UFO programme. The best-documented record is civilian: CENAP reports, GEP cases, local journalism, witness accounts and occasional technical datasets.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/1KjffJAtIWc" title="German police investigates drone sightings after airspace violations • FRANCE 24 English" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=1KjffJAtIWc" target="_blank" rel="noopener noreferrer">German police investigates drone sightings after airspace violations • FRANCE 24 English</a></p><p class="youtube-embed-meta">Channel: FRANCE 24 English</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=1KjffJAtIWc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=1KjffJAtIWc">Open on YouTube</a></p></div></div></div>
+
+
+
+
 
 ## How to judge Baden-Württemberg sightings
 

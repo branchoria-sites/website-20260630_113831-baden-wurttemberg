@@ -52,7 +52,7 @@ text_direction: ltr
 ui_strings:
   home: Home
   overview: Overview
-  overview_prefix:'Overview:'
+  overview_prefix: 'Overview:'
   contents: Contents
   close: Close
   open_contents: Open contents
@@ -200,13 +200,13 @@ ui_strings:
   search_this_page_empty_hint: Type to search this page.
   no_search_results: No pages match this search.
   no_search_this_page_results: No sections on this page match this search.
-  search_results_count_template:'{count} results'
+  search_results_count_template: '{count} results'
   search_kind_page_title: Page title
   search_kind_page_summary: Summary of page
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date:'2026-06-30 09:13:05'
+date: '2026-06-30 09:13:05'
 parent_title: Saxony Anhalt UFOs
 parent_permalink: /what-really-happened-in-saxony-anhalts/
 parent_nav_short_title: Saxony Anhalt UFOs
@@ -322,7 +322,13 @@ Modern UAP researchers in Germany make a similar distinction. A 2023 article on 
 
 That limitation fits the Halle case neatly. Multiple witnesses strengthen the case that something visible crossed the sky over the region. Yet their differing descriptions weaken any attempt to claim a precise shape, size or structure. A meteor or fireball can be spectacular enough to generate alarm, appear to move rapidly, fragment, change brightness and leave observers with sharply different impressions. MDR reports that two days after the Halle sighting, western press accounts described calls to airports, weather stations and police offices from observers who had seen one or two recognisable meteorites travelling from south to north shortly before midnight.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mdr.de/geschichte/ddr/alltag/erziehung-bildung/ufo-sichtung-halle-stasi-thueringen-100.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mdr.de">[mdr.de]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mdr.de</span><span class="citation-popover-title">UF O-Sichtungen in der DDR &#124; mdr.de</span><span class="citation-popover-snippet">UF O-Sichtungen in der DDR &#124; mdr.de</span></span></span>
 
-This is the central credibility paradox: the better witnesses may be right that the event was real, while still being wrong about what kind of thing it was. In UFO history, that distinction matters more than whether a witness seems respectable.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/GXnZuQysIMU" title="Outer Space UFO an der Arche Nebra eröffnet: Neuer Lern- und Erlebnisort nach Modernisierung" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=GXnZuQysIMU" target="_blank" rel="noopener noreferrer">Outer Space UFO an der Arche Nebra eröffnet: Neuer Lern- und Erlebnisort nach Modernisierung</a></p><p class="youtube-embed-meta">Channel: BLKregionalTV</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=GXnZuQysIMU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=GXnZuQysIMU">Open on YouTube</a></p></div></div></div>
+This is the central credibility paradox: the better witnesses may be right that the event was real, while still being wrong about what kind of thing it was. In UFO history, that distinction matters more than whether a witness seems respectable.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/GXnZuQysIMU" title="Outer Space UFO an der Arche Nebra eröffnet: Neuer Lern- und Erlebnisort nach Modernisierung" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=GXnZuQysIMU" target="_blank" rel="noopener noreferrer">Outer Space UFO an der Arche Nebra eröffnet: Neuer Lern- und Erlebnisort nach Modernisierung</a></p><p class="youtube-embed-meta">Channel: BLKregionalTV</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=GXnZuQysIMU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=GXnZuQysIMU">Open on YouTube</a></p></div></div></div>
+
+
+
+
 
 ## Civilian reports show the same pattern at smaller scale
 
@@ -332,7 +338,13 @@ Ufokarte’s GEP-based entries for Saxony-Anhalt illustrate this well. In Salzat
 
 A second Landsberg-Peißen case from 20 December 2022 shows the grey area. A witness supplied video of a light phenomenon that appeared to move back and forth over a longer period, but the case was not finally classified. The entry also notes that no Global Meteor Network fireballs were documented nearby for that night, while cautioning that this does not rule out a meteor because coverage is not complete.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ufokarte.de/fall/landsberg-20221220-a" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufokarte.de">[Ufokarte.de]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufokarte.de</span><span class="citation-popover-snippet">Open source on ufokarte.de.</span></span></span>
 
-These examples are useful because they avoid two common mistakes. The first is dismissing civilian witnesses as foolish. In each case, the witness noticed something real enough to report or record. The second is treating “unidentified by the witness” as “unidentified after investigation”. Once satellites, drones, aircraft, planets, [meteors]({{'meteors/' | relative_url }}) and camera effects are checked, many puzzling reports become ordinary sky events seen under confusing conditions.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ChgPk2OiZCw" title="How Reliable is Eyewitness Testimony?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ChgPk2OiZCw" target="_blank" rel="noopener noreferrer">How Reliable is Eyewitness Testimony?</a></p><p class="youtube-embed-meta">Channel: National Science Foundation News &middot; Views: 173.1K &middot; Uploaded: July 2015 &middot; Length: 4 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ChgPk2OiZCw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ChgPk2OiZCw">Open on YouTube</a></p></div></div></div>
+These examples are useful because they avoid two common mistakes. The first is dismissing civilian witnesses as foolish. In each case, the witness noticed something real enough to report or record. The second is treating “unidentified by the witness” as “unidentified after investigation”. Once satellites, drones, aircraft, planets, [meteors]({{'meteors/' | relative_url }}) and camera effects are checked, many puzzling reports become ordinary sky events seen under confusing conditions.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ChgPk2OiZCw" title="How Reliable is Eyewitness Testimony?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ChgPk2OiZCw" target="_blank" rel="noopener noreferrer">How Reliable is Eyewitness Testimony?</a></p><p class="youtube-embed-meta">Channel: National Science Foundation News &middot; Views: 173.1K &middot; Uploaded: July 2015 &middot; Length: 4 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ChgPk2OiZCw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ChgPk2OiZCw">Open on YouTube</a></p></div></div></div>
+
+
+
+
 
 ## How investigators weigh testimony against checks
 
@@ -351,7 +363,13 @@ Research on eyewitness testimony in other fields helps explain why this happens.
 
 This does not mean UFO witnesses are inventing stories. It means that a report given after a startling sky event is a human reconstruction, not a calibrated instrument reading. The witness may be honestly reporting the strongest impression left by the event: “huge”, “silent”, “fast”, “square”, “cigar-shaped”, “hovering”, “moving strangely”. Investigators then have to ask which parts are observational data and which parts are interpretation under pressure.
 
-In Halle, the differing descriptions are therefore not an embarrassment to be hidden. They are part of what makes the case instructive. The witnesses were credible enough for the event to be taken seriously, but the variation in their accounts is exactly what one would expect from a sudden night-time phenomenon later linked to meteors.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/8BMoiKg83mQ" title="Eyewitness: How accurate is visual memory? | 60 Minutes Archive" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=8BMoiKg83mQ" target="_blank" rel="noopener noreferrer">Eyewitness: How accurate is visual memory? | 60 Minutes Archive</a></p><p class="youtube-embed-meta">Channel: 60 Minutes &middot; Views: 153.0K &middot; Uploaded: March 2024 &middot; Length: 26 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=8BMoiKg83mQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=8BMoiKg83mQ">Open on YouTube</a></p></div></div></div>
+In Halle, the differing descriptions are therefore not an embarrassment to be hidden. They are part of what makes the case instructive. The witnesses were credible enough for the event to be taken seriously, but the variation in their accounts is exactly what one would expect from a sudden night-time phenomenon later linked to meteors.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/8BMoiKg83mQ" title="Eyewitness: How accurate is visual memory? | 60 Minutes Archive" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=8BMoiKg83mQ" target="_blank" rel="noopener noreferrer">Eyewitness: How accurate is visual memory? | 60 Minutes Archive</a></p><p class="youtube-embed-meta">Channel: 60 Minutes &middot; Views: 153.0K &middot; Uploaded: March 2024 &middot; Length: 26 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=8BMoiKg83mQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=8BMoiKg83mQ">Open on YouTube</a></p></div></div></div>
+
+
+
+
 
 ## What strengthens or weakens a Saxony-Anhalt report
 

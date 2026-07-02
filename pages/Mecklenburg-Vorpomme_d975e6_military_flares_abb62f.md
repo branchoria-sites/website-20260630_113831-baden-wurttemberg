@@ -52,7 +52,7 @@ text_direction: ltr
 ui_strings:
   home: Home
   overview: Overview
-  overview_prefix:'Overview:'
+  overview_prefix: 'Overview:'
   contents: Contents
   close: Close
   open_contents: Open contents
@@ -200,13 +200,13 @@ ui_strings:
   search_this_page_empty_hint: Type to search this page.
   no_search_results: No pages match this search.
   no_search_this_page_results: No sections on this page match this search.
-  search_results_count_template:'{count} results'
+  search_results_count_template: '{count} results'
   search_kind_page_title: Page title
   search_kind_page_summary: Summary of page
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date:'2026-06-30 04:08:54'
+date: '2026-06-30 04:08:54'
 parent_title: MV UFOs
 parent_permalink: /mecklenburg-vorpommern/
 parent_nav_short_title: MV UFOs
@@ -324,7 +324,13 @@ CENAP investigator Werner Walter’s account, later hosted by GWUP, argued that 
 
 That testimony matters because it came from people who had seen similar displays before, not only from outside sceptics applying a generic explanation afterwards. According to the same account, the former Warsaw Pact firing area east of Rügen and north of Usedom had been used for air and naval exercises, including illumination rockets and light targets for missiles with infrared seekers. That places the Greifswald event in a plausible local military setting rather than in an abstract catalogue of things often mistaken for UFOs.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gwup.org/skeptiker-artikel/pseudo-parawissenschaften/das-ufo-phaenomen-von-greifswald-ein-deutscher-klassiker/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gwup.org">[GWUP e. V.]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gwup.org</span><span class="citation-popover-title">e. V.Das UFO-Phänomen von Greifswald</span><span class="citation-popover-snippet">e. V.Das UFO-Phänomen von Greifswald</span></span></span>
 
-There is still a caution. Recognition testimony is not the same as a complete firing log. The flare hypothesis is strongest as a reconstruction from behaviour, location, known military practice and witness familiarity. It is weaker if presented as a fully documented official admission for every light seen that evening. A balanced reading treats the flare model as highly plausible, not as a licence to dismiss every witness detail without checking timing, direction and line of sight.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/8op0_N59rkU" title="Report on Greifswald UFO case (1990)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=8op0_N59rkU" target="_blank" rel="noopener noreferrer">Report on Greifswald UFO case (1990)</a></p><p class="youtube-embed-meta">Channel: zerwas2ky &middot; Views: 12.7K &middot; Uploaded: October 2012 &middot; Length: 4 minutes 2 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=8op0_N59rkU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=8op0_N59rkU">Open on YouTube</a></p></div></div></div>
+There is still a caution. Recognition testimony is not the same as a complete firing log. The flare hypothesis is strongest as a reconstruction from behaviour, location, known military practice and witness familiarity. It is weaker if presented as a fully documented official admission for every light seen that evening. A balanced reading treats the flare model as highly plausible, not as a licence to dismiss every witness detail without checking timing, direction and line of sight.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/8op0_N59rkU" title="Report on Greifswald UFO case (1990)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=8op0_N59rkU" target="_blank" rel="noopener noreferrer">Report on Greifswald UFO case (1990)</a></p><p class="youtube-embed-meta">Channel: zerwas2ky &middot; Views: 12.7K &middot; Uploaded: October 2012 &middot; Length: 4 minutes 2 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=8op0_N59rkU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=8op0_N59rkU">Open on YouTube</a></p></div></div></div>
+
+
+
+
 
 ## What the Greifswald reconstruction suggests
 
@@ -351,7 +357,13 @@ Several conditions make careful witnesses vulnerable to the same error:<div clas
 * **Dusk contrast:** A bright flare against a late-summer evening sky can look like a self-luminous object rather than illumination equipment.
 * **Partial visibility:** The burning element may be visible while the parachute, smoke and launch source are not.</div>
 
-This is why the Greifswald case is such a strong teaching example for the wider Baltic coast. It gives readers a concrete way to evaluate later reports of orange, red or white lights over Mecklenburg-Vorpommern: not by mocking the witness, but by asking whether the sighting was near a military exercise area, whether the lights faded in sequence, whether they drifted with wind, whether they were low over the sea, and whether any aircraft, naval or training activity was reported nearby.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/_KKAUZMaZ30" title="The mysterious lights of the Greifswald UFO incident, August 24, 1990" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=_KKAUZMaZ30" target="_blank" rel="noopener noreferrer">The mysterious lights of the Greifswald UFO incident, August 24, 1990</a></p><p class="youtube-embed-meta">Channel: Eyes On Cinema</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=_KKAUZMaZ30" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=_KKAUZMaZ30">Open on YouTube</a></p></div></div></div>
+This is why the Greifswald case is such a strong teaching example for the wider Baltic coast. It gives readers a concrete way to evaluate later reports of orange, red or white lights over Mecklenburg-Vorpommern: not by mocking the witness, but by asking whether the sighting was near a military exercise area, whether the lights faded in sequence, whether they drifted with wind, whether they were low over the sea, and whether any aircraft, naval or training activity was reported nearby.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/_KKAUZMaZ30" title="The mysterious lights of the Greifswald UFO incident, August 24, 1990" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=_KKAUZMaZ30" target="_blank" rel="noopener noreferrer">The mysterious lights of the Greifswald UFO incident, August 24, 1990</a></p><p class="youtube-embed-meta">Channel: Eyes On Cinema</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=_KKAUZMaZ30" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=_KKAUZMaZ30">Open on YouTube</a></p></div></div></div>
+
+
+
+
 
 ## Where the flare explanation has limits
 
@@ -359,7 +371,13 @@ The flare model is strong, but it should be used carefully. It is strongest when
 
 Greifswald still contains disputed edges because different [investigators]({{'investigators-a76407/' | relative_url }}) give different weight to witness statements, video interpretation and the absence or presence of official confirmation. UFO-oriented accounts have argued that the flare explanation does not fully settle the case, citing questions about burn duration, exact location and documentation. The more cautious conclusion is that the extraordinary claim was substantially weakened, not that every secondary detail has been reconstructed beyond argument.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://uapglobe.com/cases/greifswald-1990" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uapglobe.com">[UAP Globe]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uapglobe.com</span><span class="citation-popover-title">greifswald 1990</span><span class="citation-popover-snippet">greifswald 1990</span></span></span>
 
-That distinction matters for a public-facing UFO history. A debunking explanation can be persuasive without being omniscient. It can show that a normal mechanism probably accounts for the main event while still leaving room for uncertainty about witness memory, exact timing, [media]({{'media/' | relative_url }}) edits or the specific munition used. In practice, that is often how real UFO investigation works: not a courtroom confession, but a convergence of mundane clues that makes the exotic reading unnecessary.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/UzDXwZ2ZoDE" title="UFO Greifswald Lights - August 24, 1990 Germany" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=UzDXwZ2ZoDE" target="_blank" rel="noopener noreferrer">UFO Greifswald Lights - August 24, 1990 Germany</a></p><p class="youtube-embed-meta">Channel: eeasynow</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=UzDXwZ2ZoDE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=UzDXwZ2ZoDE">Open on YouTube</a></p></div></div></div>
+That distinction matters for a public-facing UFO history. A debunking explanation can be persuasive without being omniscient. It can show that a normal mechanism probably accounts for the main event while still leaving room for uncertainty about witness memory, exact timing, [media]({{'media/' | relative_url }}) edits or the specific munition used. In practice, that is often how real UFO investigation works: not a courtroom confession, but a convergence of mundane clues that makes the exotic reading unnecessary.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/UzDXwZ2ZoDE" title="UFO Greifswald Lights - August 24, 1990 Germany" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=UzDXwZ2ZoDE" target="_blank" rel="noopener noreferrer">UFO Greifswald Lights - August 24, 1990 Germany</a></p><p class="youtube-embed-meta">Channel: eeasynow</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=UzDXwZ2ZoDE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=UzDXwZ2ZoDE">Open on YouTube</a></p></div></div></div>
+
+
+
+
 
 ## What this means for Mecklenburg-Vorpommern’s UFO record
 

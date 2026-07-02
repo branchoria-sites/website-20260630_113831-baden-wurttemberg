@@ -50,7 +50,7 @@ text_direction: ltr
 ui_strings:
   home: Home
   overview: Overview
-  overview_prefix:'Overview:'
+  overview_prefix: 'Overview:'
   contents: Contents
   close: Close
   open_contents: Open contents
@@ -198,13 +198,13 @@ ui_strings:
   search_this_page_empty_hint: Type to search this page.
   no_search_results: No pages match this search.
   no_search_this_page_results: No sections on this page match this search.
-  search_results_count_template:'{count} results'
+  search_results_count_template: '{count} results'
   search_kind_page_title: Page title
   search_kind_page_summary: Summary of page
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date:'2026-06-30 04:08:55'
+date: '2026-06-30 04:08:55'
 parent_title: MV UFOs
 parent_permalink: /mecklenburg-vorpommern/
 parent_nav_short_title: MV UFOs
@@ -320,7 +320,13 @@ That wide spread is one reason the case became famous. Multiple witnesses and vi
 
 The case also shows how “many witnesses” can mean several different things. Some witnesses reportedly saw mysterious objects. Others saw lights but interpreted them as military illumination. The sceptical account by GWUP and CENAP records witnesses who described the lights as military flares or light targets rather than unknown craft, including a sailor on the Greifswald Bodden and another witness who recognised them as army light rockets used for exercises.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gwup.org/skeptiker-artikel/pseudo-parawissenschaften/das-ufo-phaenomen-von-greifswald-ein-deutscher-klassiker/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gwup.org">[GWUP e. V.]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gwup.org</span><span class="citation-popover-title">e. V.Das UFO-Phänomen von Greifswald</span><span class="citation-popover-snippet">e. V.Das UFO-Phänomen von Greifswald</span></span></span>
 
-For a reader assessing the corridor, that distinction is crucial. The same event can produce sincere UFO testimony and sincere non-UFO testimony. The geography made the lights visible; the witnesses’ prior knowledge shaped what they thought they were seeing.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/aDjj3Om0h_w" title="Underwater UFO explorer finds movielike object in Baltic Sea | Reality Check" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=aDjj3Om0h_w" target="_blank" rel="noopener noreferrer">Underwater UFO explorer finds movielike object in Baltic Sea | Reality Check</a></p><p class="youtube-embed-meta">Channel: NewsNation &middot; Views: 622.2K &middot; Uploaded: February 2025 &middot; Length: 48 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=aDjj3Om0h_w" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=aDjj3Om0h_w">Open on YouTube</a></p></div></div></div>
+For a reader assessing the corridor, that distinction is crucial. The same event can produce sincere UFO testimony and sincere non-UFO testimony. The geography made the lights visible; the witnesses’ prior knowledge shaped what they thought they were seeing.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/aDjj3Om0h_w" title="Underwater UFO explorer finds movielike object in Baltic Sea | Reality Check" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=aDjj3Om0h_w" target="_blank" rel="noopener noreferrer">Underwater UFO explorer finds movielike object in Baltic Sea | Reality Check</a></p><p class="youtube-embed-meta">Channel: NewsNation &middot; Views: 622.2K &middot; Uploaded: February 2025 &middot; Length: 48 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=aDjj3Om0h_w" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=aDjj3Om0h_w">Open on YouTube</a></p></div></div></div>
+
+
+
+
 
 ## Offshore Training Areas and Visible Lights
 
@@ -339,13 +345,25 @@ This also affected later memory. “Greifswald” became the convenient label, b
 
 The 1990 timing deepened the ambiguity. East Germany was in its final weeks before reunification on 3 October 1990. Military structures, public trust, press habits and record-keeping were all in transition. A spectacular light display in this setting could easily become a story about secrecy, uncertainty and vanished explanations. The German Bundestag’s later research on UFO policy underlines a broader issue: Germany was not legally obliged to document or investigate UFO or extraterrestrial reports under the cited UN framework, and the federal government stated that it had no reliable knowledge of such sightings.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.bundestag.de/resource/blob/406336/741fdc9b7e96b9346e4e3414225b2835/wd-8-104-09-pdf-data.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bundestag.de">[Deutscher Bundestag]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bundestag.de</span><span class="citation-popover-title">wd 8 104 09 pdf data</span><span class="citation-popover-snippet">wd 8 104 09 pdf data</span></span></span>
 
-That weak official framework is part of why the Greifswald story has stayed alive. There is footage, there are witnesses, there are plausible sceptical explanations, and there are still claims that no fully satisfying official exercise record has been produced in public. The corridor therefore becomes a lesson in evidence handling: a case can be famous, filmed and regionally important without being proven exotic.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/P9I84_R4L4A" title="Strange lights. Unexplained encounters. Shocking truths | TOP 20 UFO ENCOUNTERS IN EUROPE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=P9I84_R4L4A" target="_blank" rel="noopener noreferrer">Strange lights. Unexplained encounters. Shocking truths | TOP 20 UFO ENCOUNTERS IN EUROPE</a></p><p class="youtube-embed-meta">Channel: FilmIsNow Movies &middot; Views: 11.9K &middot; Uploaded: March 2025 &middot; Length: 1 hour</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=P9I84_R4L4A" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=P9I84_R4L4A">Open on YouTube</a></p></div></div></div>
+That weak official framework is part of why the Greifswald story has stayed alive. There is footage, there are witnesses, there are plausible sceptical explanations, and there are still claims that no fully satisfying official exercise record has been produced in public. The corridor therefore becomes a lesson in evidence handling: a case can be famous, filmed and regionally important without being proven exotic.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/P9I84_R4L4A" title="Strange lights. Unexplained encounters. Shocking truths | TOP 20 UFO ENCOUNTERS IN EUROPE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=P9I84_R4L4A" target="_blank" rel="noopener noreferrer">Strange lights. Unexplained encounters. Shocking truths | TOP 20 UFO ENCOUNTERS IN EUROPE</a></p><p class="youtube-embed-meta">Channel: FilmIsNow Movies &middot; Views: 11.9K &middot; Uploaded: March 2025 &middot; Length: 1 hour</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=P9I84_R4L4A" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=P9I84_R4L4A">Open on YouTube</a></p></div></div></div>
+
+
+
+
 
 ## The Role of Tourism and Local Memory
 
 Tourism made the Rügen-Usedom corridor a natural amplifier. Visitors are more likely to notice and report unusual lights because they are outdoors, looking across unfamiliar horizons and less familiar with local military or maritime routines. A resident sailor may recognise light targets; a visitor may see a silent formation hanging over water and reach for a more dramatic explanation.
 
-The islands also carry strong visual identities. Rügen is associated with cliffs, peninsulas, open water and resort viewpoints. Usedom is associated with beaches, Peenemünde and the Baltic horizon. When a UFO report attaches itself to these places, it inherits a ready-made landscape: remote-looking coast, wartime technology history, Cold War traces and summer eyewitnesses. This is why the Rügen-Usedom corridor is more than a backdrop. It actively shaped how the Greifswald lights were seen, reported and remembered.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/wU8IeHY6W48" title="The Mystery Signal That Led A German Fleet to Its Death" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=wU8IeHY6W48" target="_blank" rel="noopener noreferrer">The Mystery Signal That Led A German Fleet to Its Death</a></p><p class="youtube-embed-meta">Channel: Dark Seas &middot; Views: 155.3K &middot; Uploaded: July 2025 &middot; Length: 24 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=wU8IeHY6W48" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=wU8IeHY6W48">Open on YouTube</a></p></div></div></div>
+The islands also carry strong visual identities. Rügen is associated with cliffs, peninsulas, open water and resort viewpoints. Usedom is associated with beaches, Peenemünde and the Baltic horizon. When a UFO report attaches itself to these places, it inherits a ready-made landscape: remote-looking coast, wartime technology history, Cold War traces and summer eyewitnesses. This is why the Rügen-Usedom corridor is more than a backdrop. It actively shaped how the Greifswald lights were seen, reported and remembered.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/wU8IeHY6W48" title="The Mystery Signal That Led A German Fleet to Its Death" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=wU8IeHY6W48" target="_blank" rel="noopener noreferrer">The Mystery Signal That Led A German Fleet to Its Death</a></p><p class="youtube-embed-meta">Channel: Dark Seas &middot; Views: 155.3K &middot; Uploaded: July 2025 &middot; Length: 24 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=wU8IeHY6W48" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=wU8IeHY6W48">Open on YouTube</a></p></div></div></div>
+
+
+
+
 
 ## What the Evidence Supports
 

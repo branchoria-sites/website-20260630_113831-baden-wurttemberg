@@ -52,7 +52,7 @@ text_direction: ltr
 ui_strings:
   home: Home
   overview: Overview
-  overview_prefix:'Overview:'
+  overview_prefix: 'Overview:'
   contents: Contents
   close: Close
   open_contents: Open contents
@@ -200,13 +200,13 @@ ui_strings:
   search_this_page_empty_hint: Type to search this page.
   no_search_results: No pages match this search.
   no_search_this_page_results: No sections on this page match this search.
-  search_results_count_template:'{count} results'
+  search_results_count_template: '{count} results'
   search_kind_page_title: Page title
   search_kind_page_summary: Summary of page
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date:'2026-06-29 22:45:52'
+date: '2026-06-29 22:45:52'
 parent_title: Bavaria UFOs
 parent_permalink: /what-really-happened-over-bavarias-skies/
 parent_nav_short_title: Bavaria UFOs
@@ -298,6 +298,8 @@ image: /assets/images/Bavaria_3c0123_1948_flying_disc_mem_394896-overview-social
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Og93FKQ3wG0" title="How a Cold War Airlift Saved Berlin With Food, Medicine and Chocolate | Retro Report" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Og93FKQ3wG0" target="_blank" rel="noopener noreferrer">How a Cold War Airlift Saved Berlin With Food, Medicine and Chocolate | Retro Report</a></p><p class="youtube-embed-meta">Channel: RETRO REPORT</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Og93FKQ3wG0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Og93FKQ3wG0">Open on YouTube</a></p></div></div></div>
 
+
+
 ## Why did Bavaria start logging flying discs?
 
 The timing is crucial. Reports of mysterious"flying saucers" spread rapidly after pilot Kenneth Arnold's famous June 1947 sighting in the United States. Newspapers across Europe covered the phenomenon, and military authorities became concerned that some reports might involve unfamiliar aircraft, intelligence activity or public confusion rather than genuine unknown objects.
@@ -314,7 +316,10 @@ The document demonstrates several important points:
 *"Flying discs" had become an official reporting category by spring 1948.
 * Military government offices were expected to forward reports through established channels instead of handling them informally.
 * The reporting system was driven by intelligence requirements from higher headquarters rather than local enthusiasm for UFO stories.
+
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/dgroqLFDaW0" title="FBI UFO Files Reveal Chilling 1948 Encounters Near Military Bases | WION Podcast" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=dgroqLFDaW0" target="_blank" rel="noopener noreferrer">FBI UFO Files Reveal Chilling 1948 Encounters Near Military Bases | WION Podcast</a></p><p class="youtube-embed-meta">Channel: WION &middot; Views: 2.3K &middot; Uploaded: May 2026 &middot; Length: 3 minutes 55 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=dgroqLFDaW0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=dgroqLFDaW0">Open on YouTube</a></p></div></div></div>
+
+
 
 ## What the memo does not prove
 
@@ -333,7 +338,13 @@ Although the memo is modest in scope, it occupies an important place in Bavaria'
 
 Earlier pages in Bavaria's UFO history concern inherited stories such as the 1561 Nuremberg sky spectacle, which survive through printed accounts and later reinterpretation. The 1948 instructions represent something different: contemporary government paperwork created during an unfolding series of reports.
 
-That shift matters because it marks the transition from folklore and historical narrative to documentary administration. Instead of asking whether witnesses in previous centuries accurately described strange skies, historians can examine how modern officials reacted to reports in real time.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/gzTDbsQKKpo" title="The Berlin Airlift - The Cold War Mission to Save a City" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=gzTDbsQKKpo" target="_blank" rel="noopener noreferrer">The Berlin Airlift - The Cold War Mission to Save a City</a></p><p class="youtube-embed-meta">Channel: Mark Felton Productions</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=gzTDbsQKKpo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=gzTDbsQKKpo">Open on YouTube</a></p></div></div></div>
+That shift matters because it marks the transition from folklore and historical narrative to documentary administration. Instead of asking whether witnesses in previous centuries accurately described strange skies, historians can examine how modern officials reacted to reports in real time.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/gzTDbsQKKpo" title="The Berlin Airlift - The Cold War Mission to Save a City" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=gzTDbsQKKpo" target="_blank" rel="noopener noreferrer">The Berlin Airlift - The Cold War Mission to Save a City</a></p><p class="youtube-embed-meta">Channel: Mark Felton Productions</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=gzTDbsQKKpo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=gzTDbsQKKpo">Open on YouTube</a></p></div></div></div>
+
+
+
+
 
 ## How historians assess the evidence today
 

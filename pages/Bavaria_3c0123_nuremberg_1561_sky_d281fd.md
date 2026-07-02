@@ -52,7 +52,7 @@ text_direction: ltr
 ui_strings:
   home: Home
   overview: Overview
-  overview_prefix:'Overview:'
+  overview_prefix: 'Overview:'
   contents: Contents
   close: Close
   open_contents: Open contents
@@ -200,13 +200,13 @@ ui_strings:
   search_this_page_empty_hint: Type to search this page.
   no_search_results: No pages match this search.
   no_search_this_page_results: No sections on this page match this search.
-  search_results_count_template:'{count} results'
+  search_results_count_template: '{count} results'
   search_kind_page_title: Page title
   search_kind_page_summary: Summary of page
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date:'2026-06-29 22:45:48'
+date: '2026-06-29 22:45:48'
 parent_title: Bavaria UFOs
 parent_permalink: /what-really-happened-over-bavarias-skies/
 parent_nav_short_title: Bavaria UFOs
@@ -322,7 +322,13 @@ Its modern afterlife owes much to the mid-20th-century habit of reading older pr
 
 Once placed in UFO literature, the broadsheet could be detached from its early modern religious setting. The “battle” became literal. The black spear became a craft. The globes became vehicles. The smoke became crash evidence. This is the key shift: modern UFO claims often treat Glaser’s printed language as if it were a neutral technical report, while the original text treats the event as a sign from God.
 
-That does not mean the UFO reading is irrational in a simple sense. It responds to real features in the account: movement, multiplicity, formation, apparent interaction and falling objects. But it depends on translating early modern symbolic and religious language into a modern technological vocabulary. That translation is the weakest part of the claim.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/rX0189Ky9G0" title="Germany’s Other Roswell? 1561 Nuremberg Sky Battle Explained" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=rX0189Ky9G0" target="_blank" rel="noopener noreferrer">Germany’s Other Roswell? 1561 Nuremberg Sky Battle Explained</a></p><p class="youtube-embed-meta">Channel: Get Germanized &middot; Views: 3.5K &middot; Uploaded: October 2025 &middot; Length: 6 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=rX0189Ky9G0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=rX0189Ky9G0">Open on YouTube</a></p></div></div></div>
+That does not mean the UFO reading is irrational in a simple sense. It responds to real features in the account: movement, multiplicity, formation, apparent interaction and falling objects. But it depends on translating early modern symbolic and religious language into a modern technological vocabulary. That translation is the weakest part of the claim.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/rX0189Ky9G0" title="Germany’s Other Roswell? 1561 Nuremberg Sky Battle Explained" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=rX0189Ky9G0" target="_blank" rel="noopener noreferrer">Germany’s Other Roswell? 1561 Nuremberg Sky Battle Explained</a></p><p class="youtube-embed-meta">Channel: Get Germanized &middot; Views: 3.5K &middot; Uploaded: October 2025 &middot; Length: 6 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=rX0189Ky9G0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=rX0189Ky9G0">Open on YouTube</a></p></div></div></div>
+
+
+
+
 
 ## Atmospheric and cultural explanations
 
@@ -354,7 +360,13 @@ The case also helps separate three categories that are often blurred:
 
 **Extraterrestrial** is a much stronger claim, and the Nuremberg broadsheet does not supply the kind of evidence needed for it.
 
-That distinction is valuable across the wider Bavaria project. Many UFO stories survive because they are memorable, not because they are evidentially strong. Nuremberg is memorable in the extreme. Its evidential value is more limited.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/tifpLEFjz3U" title="Nuremberg Sky Battle of 1561 from a Catholic Perspective" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=tifpLEFjz3U" target="_blank" rel="noopener noreferrer">Nuremberg Sky Battle of 1561 from a Catholic Perspective</a></p><p class="youtube-embed-meta">Channel: Heroic Lives</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=tifpLEFjz3U" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=tifpLEFjz3U">Open on YouTube</a></p></div></div></div>
+That distinction is valuable across the wider Bavaria project. Many UFO stories survive because they are memorable, not because they are evidentially strong. Nuremberg is memorable in the extreme. Its evidential value is more limited.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/tifpLEFjz3U" title="Nuremberg Sky Battle of 1561 from a Catholic Perspective" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=tifpLEFjz3U" target="_blank" rel="noopener noreferrer">Nuremberg Sky Battle of 1561 from a Catholic Perspective</a></p><p class="youtube-embed-meta">Channel: Heroic Lives</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=tifpLEFjz3U" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=tifpLEFjz3U">Open on YouTube</a></p></div></div></div>
+
+
+
+
 
 ## What later reporting changed
 
@@ -362,7 +374,13 @@ Later reporting has strengthened the case’s cultural importance but weakened i
 
 Modern atmospheric science has also made the natural starting point clearer. We do not need to identify the exact cloud field above Nuremberg on 14 April 1561 to know that low-sun ice-crystal phenomena can generate multiple bright forms, colour separation, halos and apparent “extra suns”. That is not a perfect reconstruction, but it is a more evidence-led explanation than spacecraft, because it fits the time of day, the solar focus and known optical mechanisms.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/blogs/earth-matters/2014/02/03/reader-pics-sundogs/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science Reader Pics: Sundogs</span><span class="citation-popover-snippet">Science Reader Pics: Sundogs</span></span></span>
 
-At the same time, a fair assessment should not overclaim. The Nuremberg broadsheet cannot be reduced neatly to “just a sundog” with every rod, globe, cross and spear accounted for. Its image is too stylised and its text too interpretive for that. The stronger conclusion is that the source is too culturally mediated to bear the weight placed on it by modern UFO claims.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/zkLA5_dyOlc" title="The Day the Sky Went to War: World’s 1561 UFO Mystery" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=zkLA5_dyOlc" target="_blank" rel="noopener noreferrer">The Day the Sky Went to War: World’s 1561 UFO Mystery</a></p><p class="youtube-embed-meta">Channel: Bright Side Mystery</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=zkLA5_dyOlc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=zkLA5_dyOlc">Open on YouTube</a></p></div></div></div>
+At the same time, a fair assessment should not overclaim. The Nuremberg broadsheet cannot be reduced neatly to “just a sundog” with every rod, globe, cross and spear accounted for. Its image is too stylised and its text too interpretive for that. The stronger conclusion is that the source is too culturally mediated to bear the weight placed on it by modern UFO claims.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/zkLA5_dyOlc" title="The Day the Sky Went to War: World’s 1561 UFO Mystery" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=zkLA5_dyOlc" target="_blank" rel="noopener noreferrer">The Day the Sky Went to War: World’s 1561 UFO Mystery</a></p><p class="youtube-embed-meta">Channel: Bright Side Mystery</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=zkLA5_dyOlc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=zkLA5_dyOlc">Open on YouTube</a></p></div></div></div>
+
+
+
+
 
 ## A balanced judgement
 

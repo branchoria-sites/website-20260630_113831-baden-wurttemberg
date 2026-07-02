@@ -52,7 +52,7 @@ text_direction: ltr
 ui_strings:
   home: Home
   overview: Overview
-  overview_prefix:'Overview:'
+  overview_prefix: 'Overview:'
   contents: Contents
   close: Close
   open_contents: Open contents
@@ -200,13 +200,13 @@ ui_strings:
   search_this_page_empty_hint: Type to search this page.
   no_search_results: No pages match this search.
   no_search_this_page_results: No sections on this page match this search.
-  search_results_count_template:'{count} results'
+  search_results_count_template: '{count} results'
   search_kind_page_title: Page title
   search_kind_page_summary: Summary of page
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date:'2026-06-30 03:22:33'
+date: '2026-06-30 03:22:33'
 parent_title: Hesse UFOs
 parent_permalink: /why-hesses-ufo-stories-usually-come/
 parent_nav_short_title: Hesse UFOs
@@ -304,6 +304,8 @@ image: /assets/images/Hesse_19bb21_record_sighting_year_e2776d-overview-social.j
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/TQcqOW39ksk" title="Unidentified Anomalous Phenomena Independent Study Report" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=TQcqOW39ksk" target="_blank" rel="noopener noreferrer">Unidentified Anomalous Phenomena Independent Study Report</a></p><p class="youtube-embed-meta">Channel: NASA &middot; Views: 107.4K &middot; Uploaded: September 2023 &middot; Length: 59 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=TQcqOW39ksk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=TQcqOW39ksk">Open on YouTube</a></p></div></div></div>
 
+
+
 ## What changed after 2019
 
 The most important dividing line in the recent Hesse-linked data is 2019. That is when Starlink, SpaceX’s satellite internet constellation, began turning into a common skywatching problem. The International Astronomical Union notes that the number of satellites has increased rapidly since 2019, with plans for tens of thousands of new objects in orbit; CENAP-linked reporting in Germany shows the same change from the public-observer side, with Starlink repeatedly producing strings of lights that look unfamiliar to casual viewers.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://iauarchive.eso.org/public/themes/satellite-constellations/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iauarchive.eso.org">[IAU Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iauarchive.eso.org</span><span class="citation-popover-title">IAU Archive Satellite Constellations &#124; IAU</span><span class="citation-popover-snippet">IAU Archive Satellite Constellations &#124; IAU</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.fr.de/wissen/ufo-meldestelle-cenap-statistik-2022-ungeklaert-starlink-astronomie-himmel-ungeklaert-zr-92045530.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fr.de">[FR.de]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fr.de</span><span class="citation-popover-snippet">Open source on fr.de.</span></span></span>
@@ -327,7 +329,13 @@ In Hesse’s case, CENAP’s record years are best read through several overlapp
 
 **More phone evidence, but not always better evidence.** A smartphone photograph can help an investigator, but it can also create new false leads. CENAP says every submitted photo is checked, while Köhler has linked the increase in reports partly to the fact that many people now carry phones and take pictures. That means the reporting pipeline has widened: more people can document a puzzling light, but many images still show lens reflections, distant aircraft, blurred birds, insects, balloons or overexposed points of light.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.hessenschau.de/panorama/wegen-starlink-und-drohnen-rekordzahl-an-ufo-sichtungen-in-deutschland-eingeschickt-v1%2Cufo-sichtungen-100.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hessenschau.de">[hessenschau.de]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hessenschau.de</span><span class="citation-popover-snippet">Open source on hessenschau.de.</span></span></span>
 
-This is why the Hesse-linked record years should be read as “record reports”, not “record mysteries”. The distinction is central. A busier reporting centre can mean better public engagement with sky phenomena, but it can also mean more ordinary stimuli arriving in the same inbox.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/7ihnbzWqRjc" title="UFO report shows increase in number of sightings" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=7ihnbzWqRjc" target="_blank" rel="noopener noreferrer">UFO report shows increase in number of sightings</a></p><p class="youtube-embed-meta">Channel: CBS News &middot; Views: 25.3K &middot; Uploaded: January 2023 &middot; Length: 4 minutes 31 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=7ihnbzWqRjc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=7ihnbzWqRjc">Open on YouTube</a></p></div></div></div>
+This is why the Hesse-linked record years should be read as “record reports”, not “record mysteries”. The distinction is central. A busier reporting centre can mean better public engagement with sky phenomena, but it can also mean more ordinary stimuli arriving in the same inbox.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/7ihnbzWqRjc" title="UFO report shows increase in number of sightings" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=7ihnbzWqRjc" target="_blank" rel="noopener noreferrer">UFO report shows increase in number of sightings</a></p><p class="youtube-embed-meta">Channel: CBS News &middot; Views: 25.3K &middot; Uploaded: January 2023 &middot; Length: 4 minutes 31 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=7ihnbzWqRjc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=7ihnbzWqRjc">Open on YouTube</a></p></div></div></div>
+
+
+
+
 
 ## The useful numbers are the explained ones
 
@@ -348,7 +356,13 @@ The second caution is definitional. A UFO report begins as “unidentified to th
 
 The third caution is statistical. Report counts are sensitive to attention. A 2024 study using US National UFO Reporting Center data found strong seasonal variation, with more reports in good-weather summer months, and described large swings over time that suggest changing public attention can strongly affect sighting totals. That study is not about Hesse, but it supports a useful general lesson for interpreting Hesse-linked records: counts measure people’s encounters with the sky and their willingness to report them, not just the objective number of strange aerial events.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41599-024-04182-z" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Open source on nature.com.</span></span></span>
 
-The fourth caution is evidential. A record year can produce more solved cases without producing better unsolved cases. In fact, the more a reporting centre receives repeatable Starlink, Venus, drone and balloon cases, the more the archive may grow while the genuinely hard residue remains small, poorly documented or dependent on missing details.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ZfW1gbqC14g" title="We Are Not Alone: Over 2k UFO sightings reported in 2025" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ZfW1gbqC14g" target="_blank" rel="noopener noreferrer">We Are Not Alone: Over 2k UFO sightings reported in 2025</a></p><p class="youtube-embed-meta">Channel: Queen City News &middot; Views: 16.1K &middot; Uploaded: July 2025 &middot; Length: 4 minutes 37 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ZfW1gbqC14g" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ZfW1gbqC14g">Open on YouTube</a></p></div></div></div>
+The fourth caution is evidential. A record year can produce more solved cases without producing better unsolved cases. In fact, the more a reporting centre receives repeatable Starlink, Venus, drone and balloon cases, the more the archive may grow while the genuinely hard residue remains small, poorly documented or dependent on missing details.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ZfW1gbqC14g" title="We Are Not Alone: Over 2k UFO sightings reported in 2025" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ZfW1gbqC14g" target="_blank" rel="noopener noreferrer">We Are Not Alone: Over 2k UFO sightings reported in 2025</a></p><p class="youtube-embed-meta">Channel: Queen City News &middot; Views: 16.1K &middot; Uploaded: July 2025 &middot; Length: 4 minutes 37 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ZfW1gbqC14g" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ZfW1gbqC14g">Open on YouTube</a></p></div></div></div>
+
+
+
+
 
 ## What the record years really mean for Hesse
 

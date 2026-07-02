@@ -52,7 +52,7 @@ text_direction: ltr
 ui_strings:
   home: Home
   overview: Overview
-  overview_prefix:'Overview:'
+  overview_prefix: 'Overview:'
   contents: Contents
   close: Close
   open_contents: Open contents
@@ -200,13 +200,13 @@ ui_strings:
   search_this_page_empty_hint: Type to search this page.
   no_search_results: No pages match this search.
   no_search_this_page_results: No sections on this page match this search.
-  search_results_count_template:'{count} results'
+  search_results_count_template: '{count} results'
   search_kind_page_title: Page title
   search_kind_page_summary: Summary of page
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date:'2026-06-29 22:45:45'
+date: '2026-06-29 22:45:45'
 parent_title: Baden UFOs
 parent_permalink: /what-really-happened-over-baden/
 parent_nav_short_title: Baden UFOs
@@ -333,7 +333,13 @@ The wider German data supports this pattern. The German Aerospace Center, DLR, e
 
 The Baden-Württemberg comparison is striking. A Staatsanzeiger report in early 2026 noted that airports in the south-west had fewer drone incidents than elsewhere. It cited DFS figures up to November 2025 showing 45 drone sightings at Frankfurt, 14 at Cologne/Bonn, 13 at Hamburg and 12 at Munich, while a Stuttgart Airport spokesperson said there had been no disruption of flight operations there in 2025 due to such incidents.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.staatsanzeiger.de/nachrichten/politik-und-verwaltung/drohnen-alarm-an-sensiblen-orten-im-suedwesten-nimmt-zu/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: staatsanzeiger.de">[Staatsanzeiger BW]</a><span class="citation-popover" role="note"><span class="citation-popover-source">staatsanzeiger.de</span><span class="citation-popover-title">BWDrohnen-Alarm an sensiblen Orten im Südwesten nimmt zu &#124; Staatsanzeiger BW</span><span class="citation-popover-snippet">BWDrohnen-Alarm an sensiblen Orten im Südwesten nimmt zu &#124; Staatsanzeiger BW</span></span></span>
 
-That does not make Baden-Württemberg irrelevant. It makes the state a useful control case. Its main airport was not one of Germany’s highest-profile disruption sites, yet it had to absorb diverted traffic from a nearby incident and was simultaneously building drone-response capacity. In UFO-history terms, Baden-Württemberg’s significance lies less in a spectacular airport sighting and more in how the state’s institutions adapted to the new category of “unidentified but safety-relevant”.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/14NQbf9m2VU" title="Gatwick Airport: Drone sightings cause delays - BBC News" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=14NQbf9m2VU" target="_blank" rel="noopener noreferrer">Gatwick Airport: Drone sightings cause delays - BBC News</a></p><p class="youtube-embed-meta">Channel: BBC News</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=14NQbf9m2VU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=14NQbf9m2VU">Open on YouTube</a></p></div></div></div>
+That does not make Baden-Württemberg irrelevant. It makes the state a useful control case. Its main airport was not one of Germany’s highest-profile disruption sites, yet it had to absorb diverted traffic from a nearby incident and was simultaneously building drone-response capacity. In UFO-history terms, Baden-Württemberg’s significance lies less in a spectacular airport sighting and more in how the state’s institutions adapted to the new category of “unidentified but safety-relevant”.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/14NQbf9m2VU" title="Gatwick Airport: Drone sightings cause delays - BBC News" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=14NQbf9m2VU" target="_blank" rel="noopener noreferrer">Gatwick Airport: Drone sightings cause delays - BBC News</a></p><p class="youtube-embed-meta">Channel: BBC News</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=14NQbf9m2VU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=14NQbf9m2VU">Open on YouTube</a></p></div></div></div>
+
+
+
+
 
 ## Stuttgart Airport as a boundary case
 
@@ -376,15 +382,19 @@ The state’s institutional base predates the 2026 conference. Baden-Württember
 
 Local reporting also describes a drone competence and defence centre within the Baden-Württemberg police structure, responsible for detecting and countering drones and linked to wider airspace-protection work. The same coverage notes that officials see shooting down a drone as a last resort, partly because falling debris or projectiles can create new dangers in densely populated areas.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.staatsanzeiger.de/nachrichten/politik-und-verwaltung/eine-drohne-abzuschiessen-ist-fuer-die-polizei-immer-das-letzte-mittel/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: staatsanzeiger.de">[Staatsanzeiger BW]</a><span class="citation-popover" role="note"><span class="citation-popover-source">staatsanzeiger.de</span><span class="citation-popover-title">BWEin Drohnenabschuss ist immer das letzte Mittel</span><span class="citation-popover-snippet">BWEin Drohnenabschuss ist immer das letzte Mittel</span></span></span>
 
-For a UFO-history page, the governance angle matters because it changes the evidential environment. A sighting near sensitive infrastructure is no longer only a witness story. It may activate air traffic control, police aviation, counter-drone specialists, airport operators, local press and national security debate. That creates more records, but not always more certainty. Security agencies may also withhold details about detection methods or protective measures.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/GHQ32j59SsM" title="Munich Airport Under Drone Threat: Putin TARGETS Another NATO Nation After Romania? | Ukraine War" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=GHQ32j59SsM" target="_blank" rel="noopener noreferrer">Munich Airport Under Drone Threat: Putin TARGETS Another NATO Nation After Romania? | Ukraine War</a></p><p class="youtube-embed-meta">Channel: Oneindia News</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=GHQ32j59SsM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=GHQ32j59SsM">Open on YouTube</a></p></div></div></div>
+For a UFO-history page, the governance angle matters because it changes the evidential environment. A sighting near sensitive infrastructure is no longer only a witness story. It may activate air traffic control, police aviation, counter-drone specialists, airport operators, local press and national security debate. That creates more records, but not always more certainty. Security agencies may also withhold details about detection methods or protective measures.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/GHQ32j59SsM" title="Munich Airport Under Drone Threat: Putin TARGETS Another NATO Nation After Romania? | Ukraine War" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=GHQ32j59SsM" target="_blank" rel="noopener noreferrer">Munich Airport Under Drone Threat: Putin TARGETS Another NATO Nation After Romania? | Ukraine War</a></p><p class="youtube-embed-meta">Channel: Oneindia News</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=GHQ32j59SsM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=GHQ32j59SsM">Open on YouTube</a></p></div></div></div>
+
+
+
+
 
 ## What makes a drone report stronger or weaker
 
 Airport-related UFO and drone reports should be judged differently from older anecdotal sightings, but not uncritically. A shutdown, diversion or police response is evidence that authorities took a report seriously; it is not, by itself, proof of a drone.
 
 A stronger airport-drone case usually has several converging features: multiple trained witnesses, a clear location near protected airspace, radar or sensor support, police visual confirmation, images or video, recovery of the drone, identification of an operator, or a documented legal case. A weaker case may rely on a fleeting night-time observation, a single witness, no sensor record, no recovered object and no later confirmation.
-
-The May 2026 Munich case that affected Stuttgart sits in the middle. It involved two pilots reporting a suspicious observation, which gives the report more weight than a vague social-media claim. But the later search found nothing, and SWR’s account described the event as a suspected drone sighting rather than a confirmed recovered drone incident.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.swr.de/swraktuell/baden-wuerttemberg/stuttgart/drohne-flughafen-muenchen-fluege-umgeleitet-100.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: swr.de">[SWR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">swr.de</span><span class="citation-popover-title">drohne flughafen muenchen fluege umgeleitet 100</span><span class="citation-popover-snippet">Drohne am Flughafen? Flüge von München nach Stuttgart umgeleitet - SWR Aktuell...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/So4BiNhd0VU" title="Innovationskonferenz Drohnen bei der Polizei BW" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=So4BiNhd0VU" target="_blank" rel="noopener noreferrer">Innovationskonferenz Drohnen bei der Polizei BW</a></p><p class="youtube-embed-meta">Channel: Polizei Baden-Württemberg</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=So4BiNhd0VU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=So4BiNhd0VU">Open on YouTube</a></p></div></div></div>
 

@@ -52,7 +52,7 @@ text_direction: ltr
 ui_strings:
   home: Home
   overview: Overview
-  overview_prefix:'Overview:'
+  overview_prefix: 'Overview:'
   contents: Contents
   close: Close
   open_contents: Open contents
@@ -200,13 +200,13 @@ ui_strings:
   search_this_page_empty_hint: Type to search this page.
   no_search_results: No pages match this search.
   no_search_this_page_results: No sections on this page match this search.
-  search_results_count_template:'{count} results'
+  search_results_count_template: '{count} results'
   search_kind_page_title: Page title
   search_kind_page_summary: Summary of page
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date:'2026-06-30 07:01:46'
+date: '2026-06-30 07:01:46'
 parent_title: Rhineland UFOs
 parent_permalink: /rhineland-palatinate/
 parent_nav_short_title: Rhineland UFOs
@@ -352,7 +352,13 @@ Another strong-explanation pattern is the Starlink satellite train. Recent repor
 
 Rocket-related effects can also produce large, strange-looking displays. In 2025, a broad light streak visible across parts of central Europe, including Rhineland-Palatinate, Baden-Württemberg, Hesse, Switzerland and Austria, was linked in German reporting to fuel release from a Chinese Long March 8 rocket stage, with frozen fuel droplets reflecting sunlight.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.welt.de/article68ad7a128c33b226bcae8323" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: welt.de">[DIE WELT]</a><span class="citation-popover" role="note"><span class="citation-popover-source">welt.de</span><span class="citation-popover-title">DIE WELTUngewöhnlich großer Lichtstreifen am Himmel</span><span class="citation-popover-snippet">DIE WELTUngewöhnlich großer Lichtstreifen am Himmel</span></span></span> A sighting like that can look too large or too strange to be an aircraft, yet still have a conventional spaceflight explanation.
 
-An explanation is strongest when it matches the witness report on timing, direction, appearance, duration and geography. It is weaker when it merely names a possible cause without showing the fit. “Probably a drone” is not enough if the object was seen at high altitude for twenty minutes across several towns. “Venus and Jupiter” is strong if the report describes two bright stationary lights in the correct part of the dawn sky on the correct date.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/CeCFwMuh0a4" title="VFX Artists Debunk... REAL UFO Videos" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=CeCFwMuh0a4" target="_blank" rel="noopener noreferrer">VFX Artists Debunk... REAL UFO Videos</a></p><p class="youtube-embed-meta">Channel: Corridor Crew &middot; Views: 1.5M &middot; Uploaded: July 2025 &middot; Length: 28 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=CeCFwMuh0a4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=CeCFwMuh0a4">Open on YouTube</a></p></div></div></div>
+An explanation is strongest when it matches the witness report on timing, direction, appearance, duration and geography. It is weaker when it merely names a possible cause without showing the fit. “Probably a drone” is not enough if the object was seen at high altitude for twenty minutes across several towns. “Venus and Jupiter” is strong if the report describes two bright stationary lights in the correct part of the dawn sky on the correct date.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/CeCFwMuh0a4" title="VFX Artists Debunk... REAL UFO Videos" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=CeCFwMuh0a4" target="_blank" rel="noopener noreferrer">VFX Artists Debunk... REAL UFO Videos</a></p><p class="youtube-embed-meta">Channel: Corridor Crew &middot; Views: 1.5M &middot; Uploaded: July 2025 &middot; Length: 28 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=CeCFwMuh0a4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=CeCFwMuh0a4">Open on YouTube</a></p></div></div></div>
+
+
+
+
 
 ## The three-label system readers should use
 
@@ -382,7 +388,13 @@ CENAP’s recent record illustrates the shift. German media reported that CENAP 
 
 NASA’s UAP work points in the same direction from a scientific angle. Its UAP material stresses that without extensive data it is extremely difficult to verify or explain observations, and the 2023 independent study argued for more rigorous, evidence-based data collection.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/uap/faqs/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science UAP FAQs</span><span class="citation-popover-snippet">Science UAP FAQs</span></span></span> That is directly relevant to Rhineland-Palatinate because many local cases will never be solved unless the initial report includes testable information.
 
-The practical effect is that modern cases can be resolved faster than older ones when the data are good. A dated video with visible stars, a clear horizon and a known location can be checked against satellite passes, planet positions, aircraft tracks and weather. A dramatic written account with no time, no direction and no image may remain “unknown” only because it is impossible to test.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/64zlyzojpPM" title="I Honestly Felt Bad Debunking This" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=64zlyzojpPM" target="_blank" rel="noopener noreferrer">I Honestly Felt Bad Debunking This</a></p><p class="youtube-embed-meta">Channel: Hank Green &middot; Views: 1.9M &middot; Uploaded: September 2025 &middot; Length: 14 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=64zlyzojpPM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=64zlyzojpPM">Open on YouTube</a></p></div></div></div>
+The practical effect is that modern cases can be resolved faster than older ones when the data are good. A dated video with visible stars, a clear horizon and a known location can be checked against satellite passes, planet positions, aircraft tracks and weather. A dramatic written account with no time, no direction and no image may remain “unknown” only because it is impossible to test.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/64zlyzojpPM" title="I Honestly Felt Bad Debunking This" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=64zlyzojpPM" target="_blank" rel="noopener noreferrer">I Honestly Felt Bad Debunking This</a></p><p class="youtube-embed-meta">Channel: Hank Green &middot; Views: 1.9M &middot; Uploaded: September 2025 &middot; Length: 14 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=64zlyzojpPM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=64zlyzojpPM">Open on YouTube</a></p></div></div></div>
+
+
+
+
 
 ## The policy value of careful labels
 
@@ -390,7 +402,13 @@ This page is not just about wording. Case labels shape how a state UFO history i
 
 For Rhineland-Palatinate, careful labels prevent three common mistakes. The first is **inflation**, where a weak report becomes a landmark mystery because it happened near Ramstein or another military site. The second is **over-debunking**, where a sincere but unresolved report is dismissed too quickly because many other cases are ordinary. The third is **category drift**, where “unidentified” is allowed to imply “alien” in headlines, summaries or social-media retellings.
 
-A useful public-facing archive should therefore separate the judgement from the story. It can say that a witness saw something; that the report entered a file; that a likely explanation was or was not found; and that the remaining uncertainty is large or small. Those are different claims, and mixing them is where many UFO narratives become misleading.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/q0HRS_IzTmU" title="Are they aliens?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=q0HRS_IzTmU" target="_blank" rel="noopener noreferrer">Are they aliens?</a></p><p class="youtube-embed-meta">Channel: ReasonTV &middot; Views: 20.7K &middot; Uploaded: October 2022 &middot; Length: 8 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=q0HRS_IzTmU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=q0HRS_IzTmU">Open on YouTube</a></p></div></div></div>
+A useful public-facing archive should therefore separate the judgement from the story. It can say that a witness saw something; that the report entered a file; that a likely explanation was or was not found; and that the remaining uncertainty is large or small. Those are different claims, and mixing them is where many UFO narratives become misleading.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/q0HRS_IzTmU" title="Are they aliens?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=q0HRS_IzTmU" target="_blank" rel="noopener noreferrer">Are they aliens?</a></p><p class="youtube-embed-meta">Channel: ReasonTV &middot; Views: 20.7K &middot; Uploaded: October 2022 &middot; Length: 8 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=q0HRS_IzTmU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=q0HRS_IzTmU">Open on YouTube</a></p></div></div></div>
+
+
+
+
 
 ## A practical reading guide for Rhineland-Palatinate cases
 

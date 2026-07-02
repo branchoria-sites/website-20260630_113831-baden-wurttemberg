@@ -52,7 +52,7 @@ text_direction: ltr
 ui_strings:
   home: Home
   overview: Overview
-  overview_prefix:'Overview:'
+  overview_prefix: 'Overview:'
   contents: Contents
   close: Close
   open_contents: Open contents
@@ -200,13 +200,13 @@ ui_strings:
   search_this_page_empty_hint: Type to search this page.
   no_search_results: No pages match this search.
   no_search_this_page_results: No sections on this page match this search.
-  search_results_count_template:'{count} results'
+  search_results_count_template: '{count} results'
   search_kind_page_title: Page title
   search_kind_page_summary: Summary of page
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date:'2026-06-29 22:45:32'
+date: '2026-06-29 22:45:32'
 parent_title: Baden UFOs
 parent_permalink: /what-really-happened-over-baden/
 parent_nav_short_title: Baden UFOs
@@ -304,6 +304,8 @@ image: /assets/images/Baden-Wurttemberg_dc11f2_cenap_report_counts_30d55f-overvi
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/96nU9AAnKw0" title="Heute ist Welt-UFO-Tag | maintower" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=96nU9AAnKw0" target="_blank" rel="noopener noreferrer">Heute ist Welt-UFO-Tag | maintower</a></p><p class="youtube-embed-meta">Channel: Hessischer Rundfunk</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=96nU9AAnKw0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=96nU9AAnKw0">Open on YouTube</a></p></div></div></div>
 
+
+
 ## Why the 2023 and 2024 numbers stand out
 
 The 2023 figure matters because Baden-Württemberg led Germany in CENAP’s state-by-state count. Deutschland.de reported that CENAP received 746 sightings across Germany in 2023, with Baden-Württemberg contributing 144, ahead of Bavaria with 124 and North Rhine-Westphalia with 115. That makes the state prominent in the recent German UFO-reporting map, even before the larger 2024 surge.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.deutschland.de/de/topic/wissen/ufos-ueber-deutschland-hansjuergen-koehler-und-cenap" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: deutschland.de">[Deutschland]</a><span class="citation-popover" role="note"><span class="citation-popover-source">deutschland.de</span><span class="citation-popover-title">Ufos über Deutschland: Ein Experte klärt auf</span><span class="citation-popover-snippet">Ufos über Deutschland: Ein Experte klärt aufNovember 29, 2024 — 29 Nov 2024 — Die Meldungen zu Ufos reißen nicht ab: Allein 20...</span><span class="citation-popover-meta">Published: November 29, 2024</span></span></span>
@@ -316,8 +318,6 @@ That distinction is crucial. Absolute totals favour large, populous states with 
 ## What report totals can and cannot prove
 
 CENAP’s figures prove that people filed reports. They do not prove that each report described a separate object, a genuinely anomalous event, or anything extraterrestrial. The same bright satellite train, planet pairing or meteor can be seen by many people over a wide area, producing multiple reports from one cause. Conversely, a genuinely unusual sighting might generate only one report if few people saw it or if witnesses did not know where to send it.
-
-CENAP’s own public explanations point strongly towards ordinary causes. In 2024, the organisation and German media coverage linked many reports to Starlink satellites, bright planets such as Venus and Jupiter, the bright star Sirius, LED balloons, foil balloons, private and industrial drones, aircraft, helicopters, event lighting and bright meteors. SWR also reported that submitted photos and videos with strange light points were often explained as lens reflections or nearby insects and birds rendered out of focus.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.swr.de/swraktuell/baden-wuerttemberg/rekord-ufo-meldungen-100.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: swr.de">[SWR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">swr.de</span><span class="citation-popover-title">rekord ufo meldungen 100</span><span class="citation-popover-snippet">rekord ufo meldungen 100</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/LPSKB6ZZQm0" title="Data drives disclosure: Creating a civilian UFO reporting network | Reality Check" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=LPSKB6ZZQm0" target="_blank" rel="noopener noreferrer">Data drives disclosure: Creating a civilian UFO reporting network | Reality Check</a></p><p class="youtube-embed-meta">Channel: NewsNation &middot; Views: 163.4K &middot; Uploaded: March 2026 &middot; Length: 1 hour 10 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=LPSKB6ZZQm0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=LPSKB6ZZQm0">Open on YouTube</a></p></div></div></div>
 
@@ -340,7 +340,13 @@ The 2023 and 2024 counts also help separate three ideas that are often blurred t
 
 * **A high number of reports** means many people contacted a reporting body.
 * **A high number of unexplained cases** would mean many reports resisted identification after serious checking.
-* **Evidence of extraordinary craft** would require much stronger, independently verifiable data than a report count.</div><div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/lZC7NeKu2Vw" title="UFO sighting likely Starlink satellites" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=lZC7NeKu2Vw" target="_blank" rel="noopener noreferrer">UFO sighting likely Starlink satellites</a></p><p class="youtube-embed-meta">Channel: WSMV 4 Nashville &middot; Views: 6.4K &middot; Uploaded: March 2024 &middot; Length: 53 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=lZC7NeKu2Vw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=lZC7NeKu2Vw">Open on YouTube</a></p></div></div></div>
+* **Evidence of extraordinary craft** would require much stronger, independently verifiable data than a report count.</div>
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/lZC7NeKu2Vw" title="UFO sighting likely Starlink satellites" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=lZC7NeKu2Vw" target="_blank" rel="noopener noreferrer">UFO sighting likely Starlink satellites</a></p><p class="youtube-embed-meta">Channel: WSMV 4 Nashville &middot; Views: 6.4K &middot; Uploaded: March 2024 &middot; Length: 53 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=lZC7NeKu2Vw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=lZC7NeKu2Vw">Open on YouTube</a></p></div></div></div>
+
+
+
+
 
 ## The most useful way to read the counts
 

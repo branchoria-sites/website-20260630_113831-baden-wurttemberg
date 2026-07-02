@@ -52,7 +52,7 @@ text_direction: ltr
 ui_strings:
   home: Home
   overview: Overview
-  overview_prefix:'Overview:'
+  overview_prefix: 'Overview:'
   contents: Contents
   close: Close
   open_contents: Open contents
@@ -200,13 +200,13 @@ ui_strings:
   search_this_page_empty_hint: Type to search this page.
   no_search_results: No pages match this search.
   no_search_this_page_results: No sections on this page match this search.
-  search_results_count_template:'{count} results'
+  search_results_count_template: '{count} results'
   search_kind_page_title: Page title
   search_kind_page_summary: Summary of page
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date:'2026-06-29 22:45:36'
+date: '2026-06-29 22:45:36'
 parent_title: Baden UFOs
 parent_permalink: /what-really-happened-over-baden/
 parent_nav_short_title: Baden UFOs
@@ -328,8 +328,6 @@ For readers, the archive matters because it shows that Mannheim’s sceptical tr
 
 Köhler and Walter became public figures because they made themselves available at the point where curiosity, anxiety and media demand met. Walter was the better-known media sceptic for many years. Deutschlandfunk called him Germany’s most prominent UFO critic after his death in 2016 and described his long-running Mannheim hotline, his amateur astronomy background and his repeated identification of reports as Venus, rocket stages, weather balloons, paper lanterns and other ordinary causes.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.deutschlandfunk.de/zum-todestag-von-werner-walter-deutschlands-bekanntester-100.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: deutschlandfunk.de">[Deutschlandfunk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">deutschlandfunk.de</span><span class="citation-popover-title">Zum Todestag von Werner Walter</span><span class="citation-popover-snippet">Zum Todestag von Werner Walter - Deutschlands bekanntester UFO-Skeptiker...</span></span></span>
 
-Walter’s public role was sometimes abrasive because sceptical UFO work disappoints people who want mystery to survive. ntv’s report of his death described him as a Mannheim UFO researcher who investigated the causes of UFO reports and “did not only make friends” with his findings. It also summarised CENAP’s role as a reporting office that evaluated sightings of alleged flying objects or mysterious lights.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.n-tv.de/der_tag/Ufo-Forscher-Werner-Walter-ist-tot-article19048266.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: n-tv.de">[Ntv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">n-tv.de</span><span class="citation-popover-title">Ntv Der Tag: Ufo-Forscher Werner Walter ist tot</span><span class="citation-popover-snippet">Ntv Der Tag: Ufo-Forscher Werner Walter ist tot</span></span></span>
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/LPSKB6ZZQm0" title="Data drives disclosure: Creating a civilian UFO reporting network | Reality Check" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=LPSKB6ZZQm0" target="_blank" rel="noopener noreferrer">Data drives disclosure: Creating a civilian UFO reporting network | Reality Check</a></p><p class="youtube-embed-meta">Channel: NewsNation &middot; Views: 163.4K &middot; Uploaded: March 2026 &middot; Length: 1 hour 10 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=LPSKB6ZZQm0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=LPSKB6ZZQm0">Open on YouTube</a></p></div></div></div>
 
 ## How the Mannheim method changed UFO reporting
@@ -364,7 +362,13 @@ The newer reports are not always from casual observers. Deutschland.de notes tha
 
 By 2025, the burden had grown further. Stern reported that CENAP counted 1,348 sightings in 2025 from Germany, Austria, Switzerland and a few other countries, the highest figure reported by the centre. Köhler again said there had been no alien spacecraft, and identified common causes including bright planets, Sirius, meteors, Starlink, rocket-stage restarts, fuel releases lit by the Sun, re-entering satellites and space debris, as well as a growing number of drone-related reports.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.stern.de/panorama/weltgeschehen/himmelsphaenomene--ufo-meldestelle-verzeichnet-rekordzahl-37012656.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: stern.de">[stern.de]</a><span class="citation-popover" role="note"><span class="citation-popover-source">stern.de</span><span class="citation-popover-title">Himmelsphänomene: Ufo-Meldestelle verzeichnet Rekordzahl &#124; STERN.de</span><span class="citation-popover-snippet">Himmelsphänomene: Ufo-Meldestelle verzeichnet Rekordzahl &#124; STERN.de</span></span></span>
 
-This matters for Mannheim’s legacy because it shows that sceptical UFO work is not just old debunking from the flying-saucer era. The objects change. The method survives. Paper lanterns, skybeams and Venus have been joined by satellite trains, drone videos and mobile-phone artefacts, but the core task remains the same: reconstruct what happened before turning a witness’s uncertainty into a mystery claim.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/57jRz1LB6nc" title="Haben Sie schon mal ein Ufo gesehen? - Werner Walter | Frank Elstner Menschen" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=57jRz1LB6nc" target="_blank" rel="noopener noreferrer">Haben Sie schon mal ein Ufo gesehen? - Werner Walter | Frank Elstner Menschen</a></p><p class="youtube-embed-meta">Channel: Frank Elstner &middot; Views: 13.2K &middot; Uploaded: June 2018 &middot; Length: 9 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=57jRz1LB6nc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=57jRz1LB6nc">Open on YouTube</a></p></div></div></div>
+This matters for Mannheim’s legacy because it shows that sceptical UFO work is not just old debunking from the flying-saucer era. The objects change. The method survives. Paper lanterns, skybeams and Venus have been joined by satellite trains, drone videos and mobile-phone artefacts, but the core task remains the same: reconstruct what happened before turning a witness’s uncertainty into a mystery claim.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/57jRz1LB6nc" title="Haben Sie schon mal ein Ufo gesehen? - Werner Walter | Frank Elstner Menschen" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=57jRz1LB6nc" target="_blank" rel="noopener noreferrer">Haben Sie schon mal ein Ufo gesehen? - Werner Walter | Frank Elstner Menschen</a></p><p class="youtube-embed-meta">Channel: Frank Elstner &middot; Views: 13.2K &middot; Uploaded: June 2018 &middot; Length: 9 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=57jRz1LB6nc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=57jRz1LB6nc">Open on YouTube</a></p></div></div></div>
+
+
+
+
 
 ## What CENAP’s scepticism can and cannot prove
 
@@ -374,7 +378,13 @@ The weakness is equally important. If a report lacks basic information, is repor
 
 That is the most careful way to read Mannheim’s sceptical tradition. It does not prove that every witness was wrong, nor that every historical report has been solved. It shows that a very large share of UFO reporting can be explained when investigators treat the sky as a busy environment rather than an empty stage. The state-level lesson for Baden-Württemberg is therefore modest but valuable: high report numbers, vivid testimony and local media interest are not the same as strong evidence for extraordinary craft.
 
-CENAP also has a cultural limit. Its blunt scepticism has sometimes irritated UFO believers and rival investigators. That friction is part of the history. A sceptical reporting centre can look like a spoiler to people who value unresolved cases as signs of a deeper mystery. Yet the public value of the Mannheim approach lies precisely there: it protects the difference between curiosity and credulity.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/nraHhvzdZAQ" title="AI Found Hidden Patterns in 150,000 UFO Reports | ft. Christian Stepien, National UFO Database CTO" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=nraHhvzdZAQ" target="_blank" rel="noopener noreferrer">AI Found Hidden Patterns in 150,000 UFO Reports | ft. Christian Stepien, National UFO Database CTO</a></p><p class="youtube-embed-meta">Channel: TechUnhinged &middot; Views: 18 &middot; Uploaded: May 2026 &middot; Length: 34 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=nraHhvzdZAQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=nraHhvzdZAQ">Open on YouTube</a></p></div></div></div>
+CENAP also has a cultural limit. Its blunt scepticism has sometimes irritated UFO believers and rival investigators. That friction is part of the history. A sceptical reporting centre can look like a spoiler to people who value unresolved cases as signs of a deeper mystery. Yet the public value of the Mannheim approach lies precisely there: it protects the difference between curiosity and credulity.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/nraHhvzdZAQ" title="AI Found Hidden Patterns in 150,000 UFO Reports | ft. Christian Stepien, National UFO Database CTO" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=nraHhvzdZAQ" target="_blank" rel="noopener noreferrer">AI Found Hidden Patterns in 150,000 UFO Reports | ft. Christian Stepien, National UFO Database CTO</a></p><p class="youtube-embed-meta">Channel: TechUnhinged &middot; Views: 18 &middot; Uploaded: May 2026 &middot; Length: 34 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=nraHhvzdZAQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=nraHhvzdZAQ">Open on YouTube</a></p></div></div></div>
+
+
+
+
 
 ## Why Mannheim still matters in Baden-Württemberg’s UFO history
 

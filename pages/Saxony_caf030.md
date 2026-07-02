@@ -62,7 +62,7 @@ text_direction: ltr
 ui_strings:
   home: Home
   overview: Overview
-  overview_prefix:'Overview:'
+  overview_prefix: 'Overview:'
   contents: Contents
   close: Close
   open_contents: Open contents
@@ -210,13 +210,13 @@ ui_strings:
   search_this_page_empty_hint: Type to search this page.
   no_search_results: No pages match this search.
   no_search_this_page_results: No sections on this page match this search.
-  search_results_count_template:'{count} results'
+  search_results_count_template: '{count} results'
   search_kind_page_title: Page title
   search_kind_page_summary: Summary of page
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date:'2026-06-30 07:43:23'
+date: '2026-06-30 07:43:23'
 sibling_links:
 - basename: Mecklenburg-Vorpomme_d975e6
   title: MV UFOs
@@ -377,8 +377,6 @@ That sequence is a useful model for Saxony’s UFO history. The first report was
 
 Leipzig and Dresden are not just population centres; they are places where more people are looking up, filming with phones, and living under active aviation corridors. That makes them natural sources of UFO reports, but also natural places for misidentification.
 
-Leipzig is especially prone to ordinary aerial explanations because of the wider Leipzig/Halle aviation environment. DHL describes its Leipzig hub as operating 24 hours a day, 365 days a year, handling freight night after night.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dhl.com/de-en/microsites/express/hubs/hub-leipzig/discover.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dhl.com">[DHL]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dhl.com</span><span class="citation-popover-title">In Action 24/7, 365 Days a Year</span><span class="citation-popover-snippet">In Action 24/7, 365 Days a Year</span></span></span> Its aviation arm, European Air Transport Leipzig, says it has operated at Leipzig/Halle since 2008 and uses Airbus and Boeing aircraft from a major maintenance and cargo base.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dhl.com/de-en/microsites/express/hubs/hub-leipzig/discover/aviation.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dhl.com">[DHL]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dhl.com</span><span class="citation-popover-snippet">Open source on dhl.com.</span></span></span> A busy night-freight environment does not explain every sighting, but it changes the baseline: lights, engine noise, approach paths, contrails and low-angle aircraft can all become part of the local UFO ecology.
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Rj4ypTSgEXw" title="Saxony - Airfield Großenhain" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Rj4ypTSgEXw" target="_blank" rel="noopener noreferrer">Saxony - Airfield Großenhain</a></p><p class="youtube-embed-meta">Channel: Lars Hoffmann</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Rj4ypTSgEXw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Rj4ypTSgEXw">Open on YouTube</a></p></div></div></div>
 
 ## The Erzgebirge and rural Saxony: fewer lights, not fewer explanations
@@ -412,8 +410,6 @@ Across the public Saxon record, several explanations appear again and again.
 
 **Balloons, sky lanterns and model hot-air balloons.** Leipzig and Dresden cases show this pattern clearly. Reddish balls over the Elbe were identified as model hot-air balloons; Leipzig reports include helium balloons and sky lanterns among the listed explanations.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://zenodo.org/records/10547073/files/UFO-UAP-Falldaten_GEP_1972-2023.csv?download=1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: zenodo.org">[Zenodo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">zenodo.org</span><span class="citation-popover-title">UFO UAP Falldaten GEP 1972 2023.csv</span><span class="citation-popover-snippet">UFO UAP Falldaten GEP 1972 2023.csv</span></span></span> These objects can move silently, appear in groups, change brightness, and vanish as fuel burns out or distance increases.
 
-**Aircraft, contrails and cargo traffic.** The [Vogtland case]({{'vogtland-case/' | relative_url }}) is the strongest recent example of contrails mimicking a falling or burning object.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mdr.de/nachrichten/sachsen/chemnitz/vogtland/flugobjekt-unbekannt-absturz-suche-polizei-102.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mdr.de">[mdr.de]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mdr.de</span><span class="citation-popover-title">Ufo-Meldestelle liefert Lösung für Himmels-Rätsel im Vogtland &#124; mdr.de</span><span class="citation-popover-snippet">Ufo-Meldestelle liefert Lösung für Himmels-Rätsel im Vogtland &#124; mdr.de</span></span></span> Leipzig’s night-freight environment makes aircraft-related explanations especially important in that part of Saxony, because repeated night movements can produce lights and sounds that seem strange to witnesses who do not know the flight paths.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dhl.com/de-en/microsites/express/hubs/hub-leipzig/discover.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dhl.com">[DHL]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dhl.com</span><span class="citation-popover-title">In Action 24/7, 365 Days a Year</span><span class="citation-popover-snippet">In Action 24/7, 365 Days a Year</span></span></span>
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/vGB_43nau1M" title="► UFO Doku Classics - Besucher aus dem Weltall - Das UFO Phänomen - Teil 1 - DokuPeter" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=vGB_43nau1M" target="_blank" rel="noopener noreferrer">► UFO Doku Classics - Besucher aus dem Weltall - Das UFO Phänomen - Teil 1 - DokuPeter</a></p><p class="youtube-embed-meta">Channel: DokuPeter</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=vGB_43nau1M" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=vGB_43nau1M">Open on YouTube</a></p></div></div></div>
 
 ## Are there unresolved Saxony cases?
@@ -422,7 +418,13 @@ Yes, but “[unresolved]({{'unresolved/' | relative_url }})” needs careful han
 
 Those cases are worth preserving, but they are not strong evidence of alien craft or secret technology. The reason is simple: most unresolved entries lack the kind of independent, measurable evidence that would let investigators rule out ordinary causes. A good unresolved case would need precise time, duration, direction, elevation, weather, camera originals, metadata, multiple independent witnesses, aircraft and satellite checks, and ideally radar or sensor correlation. Most local reports do not have that full package.
 
-The fairest conclusion is that Saxony contains unresolved reports, but the public evidence is generally thin. Later reporting has tended to weaken dramatic claims when enough data became available, as with the Vogtland contrail case. Where the data stays sparse, the right category is not “solved” or “extraordinary”, but “not enough information”.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Q_M0lajcNs8" title="Sachsen - Flugplatz Großenhain" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Q_M0lajcNs8" target="_blank" rel="noopener noreferrer">Sachsen - Flugplatz Großenhain</a></p><p class="youtube-embed-meta">Channel: Lars Hoffmann</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Q_M0lajcNs8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Q_M0lajcNs8">Open on YouTube</a></p></div></div></div>
+The fairest conclusion is that Saxony contains unresolved reports, but the public evidence is generally thin. Later reporting has tended to weaken dramatic claims when enough data became available, as with the Vogtland contrail case. Where the data stays sparse, the right category is not “solved” or “extraordinary”, but “not enough information”.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Q_M0lajcNs8" title="Sachsen - Flugplatz Großenhain" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Q_M0lajcNs8" target="_blank" rel="noopener noreferrer">Sachsen - Flugplatz Großenhain</a></p><p class="youtube-embed-meta">Channel: Lars Hoffmann</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Q_M0lajcNs8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Q_M0lajcNs8">Open on YouTube</a></p></div></div></div>
+
+
+
+
 
 ## How to read a Saxony UFO story without being misled
 

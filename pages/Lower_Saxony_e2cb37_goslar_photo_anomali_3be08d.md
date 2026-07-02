@@ -52,7 +52,7 @@ text_direction: ltr
 ui_strings:
   home: Home
   overview: Overview
-  overview_prefix:'Overview:'
+  overview_prefix: 'Overview:'
   contents: Contents
   close: Close
   open_contents: Open contents
@@ -200,13 +200,13 @@ ui_strings:
   search_this_page_empty_hint: Type to search this page.
   no_search_results: No pages match this search.
   no_search_this_page_results: No sections on this page match this search.
-  search_results_count_template:'{count} results'
+  search_results_count_template: '{count} results'
   search_kind_page_title: Page title
   search_kind_page_summary: Summary of page
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date:'2026-06-30 04:55:11'
+date: '2026-06-30 04:55:11'
 parent_title: Lower Saxony UFOs
 parent_permalink: /what-really-happened-in-lower-saxonys/
 parent_nav_short_title: Lower Saxony UFOs
@@ -316,7 +316,13 @@ Birds and insects are unusually good at producing false UFO impressions in photo
 
 CENAP’s own image-reference material is built around exactly these effects. Its “insect and bird UFO photo effects” archive includes examples labelled as swallows, crows, kestrels, gulls, sparrows, dragonflies, bees, flies, beetles and other close-range or motion-blurred objects. The value of that archive is not that every Goslar image must be one of those things. It is that it shows a repeatable photographic mechanism: ordinary animals can look artificial when frozen, enlarged and stripped of scale.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.hjkc.de/73.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hjkc.de">[CENAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hjkc.de</span><span class="citation-popover-title">CENAPRaumfahrt+Astronomie-Blog von CENAP</span><span class="citation-popover-snippet">CENAPRaumfahrt+Astronomie-Blog von CENAP</span></span></span>
 
-This is especially relevant in a place like Goslar and the Harz edge, where photographs often include sky, wooded slopes, old-town rooflines, open viewpoints and tourist scenery. A person taking a landscape photograph may not be tracking the airspace. Only later, when scrolling through images, a dark or bright mark appears. At that point the image can feel like evidence, but the observation itself is weak: no continuous visual track, no sound, no estimated distance, no second witness watching the object, and often no unedited image context.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/PDcI_N2aH4Q" title="NASA discusses findings from UFO study | full video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=PDcI_N2aH4Q" target="_blank" rel="noopener noreferrer">NASA discusses findings from UFO study | full video</a></p><p class="youtube-embed-meta">Channel: CBS News &middot; Views: 34.2K &middot; Uploaded: September 2023 &middot; Length: 59 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=PDcI_N2aH4Q" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=PDcI_N2aH4Q">Open on YouTube</a></p></div></div></div>
+This is especially relevant in a place like Goslar and the Harz edge, where photographs often include sky, wooded slopes, old-town rooflines, open viewpoints and tourist scenery. A person taking a landscape photograph may not be tracking the airspace. Only later, when scrolling through images, a dark or bright mark appears. At that point the image can feel like evidence, but the observation itself is weak: no continuous visual track, no sound, no estimated distance, no second witness watching the object, and often no unedited image context.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/PDcI_N2aH4Q" title="NASA discusses findings from UFO study | full video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=PDcI_N2aH4Q" target="_blank" rel="noopener noreferrer">NASA discusses findings from UFO study | full video</a></p><p class="youtube-embed-meta">Channel: CBS News &middot; Views: 34.2K &middot; Uploaded: September 2023 &middot; Length: 59 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=PDcI_N2aH4Q" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=PDcI_N2aH4Q">Open on YouTube</a></p></div></div></div>
+
+
+
+
 
 ## Why photo-only cases feel stronger than they are
 
@@ -337,7 +343,15 @@ Goslar is not Lower Saxony’s strongest UFO hotspot in the way Hannover became 
 
 This matters for Lower Saxony because the state’s UFO history is not built only from spectacular encounters. It is also built from everyday reporting pathways: a resident contacts police, a local outlet publishes a short item, a private reporting group compares the case with known causes, and later readers encounter the story without the original uncertainty. Goslar-area photo anomalies belong in that chain. They show how a minor image can become folklore if the explanation is not kept attached to the claim.
 
-They also connect naturally with other Lower Saxony subtopics: sky-lantern waves around Hannover, local [police reports]({{'police-reports/' | relative_url }}), drone-era airspace concerns, and sceptical re-readings of older sightings. The common thread is not that every report is foolish. It is that sincere witnesses often meet difficult viewing conditions, unfamiliar lights or misleading images. A careful state-level history should preserve both sides: the curiosity that made people report the event and the ordinary mechanisms that often explain it.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/nXK5EAOhTRI" title="How to get blurred backgrounds in your wildlife photography" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=nXK5EAOhTRI" target="_blank" rel="noopener noreferrer">How to get blurred backgrounds in your wildlife photography</a></p><p class="youtube-embed-meta">Channel: Darrell Oakden Photography</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=nXK5EAOhTRI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=nXK5EAOhTRI">Open on YouTube</a></p></div></div></div><div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ef9qw4xIjy0" title="How I Focused the Shot - Photographing Flying Insects with OM System Super Telephoto Lenses" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ef9qw4xIjy0" target="_blank" rel="noopener noreferrer">How I Focused the Shot - Photographing Flying Insects with OM System Super Telephoto Lenses</a></p><p class="youtube-embed-meta">Channel: Lee Hoy Photography</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ef9qw4xIjy0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ef9qw4xIjy0">Open on YouTube</a></p></div></div></div>
+They also connect naturally with other Lower Saxony subtopics: sky-lantern waves around Hannover, local [police reports]({{'police-reports/' | relative_url }}), drone-era airspace concerns, and sceptical re-readings of older sightings. The common thread is not that every report is foolish. It is that sincere witnesses often meet difficult viewing conditions, unfamiliar lights or misleading images. A careful state-level history should preserve both sides: the curiosity that made people report the event and the ordinary mechanisms that often explain it.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/nXK5EAOhTRI" title="How to get blurred backgrounds in your wildlife photography" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=nXK5EAOhTRI" target="_blank" rel="noopener noreferrer">How to get blurred backgrounds in your wildlife photography</a></p><p class="youtube-embed-meta">Channel: Darrell Oakden Photography</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=nXK5EAOhTRI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=nXK5EAOhTRI">Open on YouTube</a></p></div></div></div>
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ef9qw4xIjy0" title="How I Focused the Shot - Photographing Flying Insects with OM System Super Telephoto Lenses" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ef9qw4xIjy0" target="_blank" rel="noopener noreferrer">How I Focused the Shot - Photographing Flying Insects with OM System Super Telephoto Lenses</a></p><p class="youtube-embed-meta">Channel: Lee Hoy Photography</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ef9qw4xIjy0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ef9qw4xIjy0">Open on YouTube</a></p></div></div></div>
+
+
+
+
 
 ## How photo-only cases should be weighed
 

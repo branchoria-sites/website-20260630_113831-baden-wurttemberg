@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /schleswig-holstein-76916e-index/
 description: Focused pages that expand on What Really Flew Over Schleswig Holstein?.
-date:'2026'
+date: '2026'
 layout: default
 parent_basename: Schleswig-Holstein_76916e
 parent_title: What Really Flew Over Schleswig Holstein?

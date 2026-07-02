@@ -52,7 +52,7 @@ text_direction: ltr
 ui_strings:
   home: Home
   overview: Overview
-  overview_prefix:'Overview:'
+  overview_prefix: 'Overview:'
   contents: Contents
   close: Close
   open_contents: Open contents
@@ -200,13 +200,13 @@ ui_strings:
   search_this_page_empty_hint: Type to search this page.
   no_search_results: No pages match this search.
   no_search_this_page_results: No sections on this page match this search.
-  search_results_count_template:'{count} results'
+  search_results_count_template: '{count} results'
   search_kind_page_title: Page title
   search_kind_page_summary: Summary of page
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date:'2026-06-30 00:48:05'
+date: '2026-06-30 00:48:05'
 parent_title: Brandenburg Skies
 parent_permalink: /what-really-lights-up-brandenburgs-skies/
 parent_nav_short_title: Brandenburg Skies
@@ -324,8 +324,6 @@ The following explanations matter most for Brandenburg.
 
 **Bright planets and stars.** Venus, Jupiter and Sirius are repeatedly named in CENAP-related reporting because they can look wrong to casual observers: too bright, too low, too steady, or apparently “hovering” near the horizon. In 2023, one report summarising CENAP figures said Venus was reported 164 times, Jupiter 83 times and Sirius 31 times.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.merkur.de/wissen/jupiter-starlink-astronomie-ufo-meldestelle-807-meldungen-himmel-objekte-stern-planet-venus-zr-92756211.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: merkur.de">[Merkur]</a><span class="citation-popover" role="note"><span class="citation-popover-source">merkur.de</span><span class="citation-popover-snippet">Open source on merkur.de.</span></span></span> In August 2025, CENAP again received many enquiries about unusual morning lights, described by some witnesses as “drone twins” or car-headlights in the sky; the explanation was the bright pairing of Jupiter and Venus.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.zdfheute.de/panorama/lichter-himmel-ufo-jupiter-venus-100.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: zdfheute.de">[ZDFheute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">zdfheute.de</span><span class="citation-popover-title">Ungewöhnliche Lichter am Himmel sind keine Ufos</span><span class="citation-popover-snippet">Ungewöhnliche Lichter am Himmel sind keine Ufos</span></span></span>
 
-**Drones and aircraft.** Brandenburg’s modern UFO story cannot be separated from aviation. A drone near Berlin Brandenburg Airport is not a paranormal mystery, but it may still be an “unidentified flying object” in the practical sense until authorities know what it is and whether it threatens air traffic. Reports in 2025 described temporary disruption at Berlin Brandenburg Airport after drone sightings, showing how unidentified lights can quickly move from curiosity to security concern.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://aerospacetechreview.com/drone-sighting-shuts-down-berlin-brandenburg-airport/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aerospacetechreview.com">[Aerospace Tech Review]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aerospacetechreview.com</span><span class="citation-popover-title">Aerospace Tech Review Drone sighting shuts down Berlin Brandenburg Airport</span><span class="citation-popover-snippet">Aerospace Tech Review Drone sighting shuts down Berlin Brandenburg Airport</span></span></span>
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ugB5tfk_TEk" title="Why Are These Dots Moving in the Sky? 🌌-Starlink Explained" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ugB5tfk_TEk" target="_blank" rel="noopener noreferrer">Why Are These Dots Moving in the Sky? 🌌-Starlink Explained</a></p><p class="youtube-embed-meta">Channel: ReTro Science &middot; Views: 70.2K &middot; Uploaded: July 2025 &middot; Length: 29 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ugB5tfk_TEk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ugB5tfk_TEk">Open on YouTube</a></p></div></div></div>
 
 ## How reports cluster in Brandenburg
@@ -349,7 +347,13 @@ CENAP’s public explanations also show why photographs and videos are not autom
 
 This matters in Brandenburg because many likely reports are made from ordinary places: gardens, country roads, lakesides, campsites, airport-adjacent areas and dark-sky viewing points. A phone video may capture only a moving dot without enough stars, horizon markers or audio context to reconstruct the event. Sceptical checking does not simply “debunk” the claim; it tells readers whether the available evidence is precise enough to support any conclusion at all.
 
-The best outcome is not always a dramatic answer. Sometimes the result is a firm [identification]({{'identification/' | relative_url }}). Sometimes it is a likely identification. Sometimes the report remains unresolved because key details are missing. CENAP’s approach is strongest when it makes that difference visible.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/VN4a4sB54wI" title="Are SpaceX Satellites Mistaken for UFOs?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=VN4a4sB54wI" target="_blank" rel="noopener noreferrer">Are SpaceX Satellites Mistaken for UFOs?</a></p><p class="youtube-embed-meta">Channel: JRE Highlights</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=VN4a4sB54wI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=VN4a4sB54wI">Open on YouTube</a></p></div></div></div>
+The best outcome is not always a dramatic answer. Sometimes the result is a firm [identification]({{'identification/' | relative_url }}). Sometimes it is a likely identification. Sometimes the report remains unresolved because key details are missing. CENAP’s approach is strongest when it makes that difference visible.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/VN4a4sB54wI" title="Are SpaceX Satellites Mistaken for UFOs?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=VN4a4sB54wI" target="_blank" rel="noopener noreferrer">Are SpaceX Satellites Mistaken for UFOs?</a></p><p class="youtube-embed-meta">Channel: JRE Highlights</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=VN4a4sB54wI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=VN4a4sB54wI">Open on YouTube</a></p></div></div></div>
+
+
+
+
 
 ## Why “record numbers” do not mean stronger mysteries
 
@@ -368,7 +372,13 @@ That limitation matters most for higher-stakes Brandenburg cases. A drone report
 
 There is also a difference between explaining a wave and explaining every individual report within it. If a Starlink pass caused dozens of reports across Germany on a clear night, that does not automatically identify a separate report from another time and direction. Each case still needs its own timing, location and context. The strength of CENAP’s work is pattern recognition; the risk is over-compressing ambiguous individual experiences into a familiar category before all details are known.
 
-For a balanced Brandenburg UFO history, CENAP should therefore be used as a filter, not a final ideology. Its explanations are powerful when the facts match: satellite train, bright planet, meteor, drone, aircraft, balloon, rocket burn or camera artefact. Where the facts are incomplete, the right conclusion may be weaker: probably explained, insufficiently documented, or unresolved rather than sensational.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/_TpAvQ_kPMc" title="Unidentified Drone Sightings Raise Security Concerns in Europe | WION News" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=_TpAvQ_kPMc" target="_blank" rel="noopener noreferrer">Unidentified Drone Sightings Raise Security Concerns in Europe | WION News</a></p><p class="youtube-embed-meta">Channel: WION</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=_TpAvQ_kPMc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=_TpAvQ_kPMc">Open on YouTube</a></p></div></div></div>
+For a balanced Brandenburg UFO history, CENAP should therefore be used as a filter, not a final ideology. Its explanations are powerful when the facts match: satellite train, bright planet, meteor, drone, aircraft, balloon, rocket burn or camera artefact. Where the facts are incomplete, the right conclusion may be weaker: probably explained, insufficiently documented, or unresolved rather than sensational.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/_TpAvQ_kPMc" title="Unidentified Drone Sightings Raise Security Concerns in Europe | WION News" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=_TpAvQ_kPMc" target="_blank" rel="noopener noreferrer">Unidentified Drone Sightings Raise Security Concerns in Europe | WION News</a></p><p class="youtube-embed-meta">Channel: WION</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=_TpAvQ_kPMc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=_TpAvQ_kPMc">Open on YouTube</a></p></div></div></div>
+
+
+
+
 
 ## What Brandenburg readers should take from CENAP’s work
 

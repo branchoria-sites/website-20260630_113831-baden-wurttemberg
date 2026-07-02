@@ -52,7 +52,7 @@ text_direction: ltr
 ui_strings:
   home: Home
   overview: Overview
-  overview_prefix:'Overview:'
+  overview_prefix: 'Overview:'
   contents: Contents
   close: Close
   open_contents: Open contents
@@ -200,13 +200,13 @@ ui_strings:
   search_this_page_empty_hint: Type to search this page.
   no_search_results: No pages match this search.
   no_search_this_page_results: No sections on this page match this search.
-  search_results_count_template:'{count} results'
+  search_results_count_template: '{count} results'
   search_kind_page_title: Page title
   search_kind_page_summary: Summary of page
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date:'2026-06-30 10:10:19'
+date: '2026-06-30 10:10:19'
 parent_title: Saxony Anhalt UFOs
 parent_permalink: /what-really-happened-in-saxony-anhalts/
 parent_nav_short_title: Saxony Anhalt UFOs
@@ -341,7 +341,13 @@ For a more official aviation check, Deutsche Flugsicherung explains that its STA
 
 Drones need their own category. They can hover, change direction quickly, show coloured lights and fly low enough to feel local and intrusive. Saxony-Anhalt has had recent public attention on drone regulation and enforcement: MDR reported 34 complaints over unauthorised drone flights in the state in 2025, following 35 in 2024, with penalties already imposed in some cases.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mdr.de/nachrichten/sachsen-anhalt/drohnen-unerlaubte-fluege-anzeigen-100.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mdr.de">[mdr.de]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mdr.de</span><span class="citation-popover-title">34 Anzeigen wegen illegaler Drohnenflüge</span><span class="citation-popover-snippet">34 Anzeigen wegen illegaler Drohnenflüge</span></span></span> DFS also states that drone sightings in areas where drone flights are not permitted can generally be reported to the local police station, public order office or state aviation authority.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dfs.de/homepage/de/drohnenflug/faq-zum-drohnenflug/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dfs.de">[DFS Deutsche Flugsicherung GmbH]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dfs.de</span><span class="citation-popover-snippet">Open source on dfs.de.</span></span></span>
 
-The practical rule is simple: if the object was low, nearby, manoeuvring, audible, flashing red or green, or seen close to housing, railway infrastructure, an event, a government building or airport airspace, treat a drone as a serious possibility before considering a more exotic explanation.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/6NrAQbco7dQ" title="The UFO &#x27;cookbook&#x27;: How the American government investigates the unexplainable" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=6NrAQbco7dQ" target="_blank" rel="noopener noreferrer">The UFO &#x27;cookbook&#x27;: How the American government investigates the unexplainable</a></p><p class="youtube-embed-meta">Channel: PBS NewsHour &middot; Views: 17.1K &middot; Uploaded: May 2025 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=6NrAQbco7dQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=6NrAQbco7dQ">Open on YouTube</a></p></div></div></div>
+The practical rule is simple: if the object was low, nearby, manoeuvring, audible, flashing red or green, or seen close to housing, railway infrastructure, an event, a government building or airport airspace, treat a drone as a serious possibility before considering a more exotic explanation.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/6NrAQbco7dQ" title="The UFO &#x27;cookbook&#x27;: How the American government investigates the unexplainable" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=6NrAQbco7dQ" target="_blank" rel="noopener noreferrer">The UFO &#x27;cookbook&#x27;: How the American government investigates the unexplainable</a></p><p class="youtube-embed-meta">Channel: PBS NewsHour &middot; Views: 17.1K &middot; Uploaded: May 2025 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=6NrAQbco7dQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=6NrAQbco7dQ">Open on YouTube</a></p></div></div></div>
+
+
+
+
 
 ## Use location context before judging images
 
@@ -370,13 +376,17 @@ Not every [unresolved]({{'unresolved-b01a0e/' | relative_url }}) sighting deserv
 
 **Insufficient-data cases** are reports where the witness may be sincere but the facts are too thin. “A light over Magdeburg last night” without time, direction, duration or image context cannot be treated as a strong mystery. This is one of the most important public lessons: weak data does not become stronger because the word “UFO” is attached to it.
 
-**Unresolved cases** should be reserved for reports that survive basic checks. That means the report has a clear time and place, a reliable direction, a coherent description, preferably independent witnesses or imagery, and no good match with aircraft, satellites, planets, meteors, drones, balloons or camera effects. Even then, unresolved means “not identified from the available evidence”, not “confirmed extraordinary craft”.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/diPXow8zgc8" title="How scientists use math to help explain UFO videos" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=diPXow8zgc8" target="_blank" rel="noopener noreferrer">How scientists use math to help explain UFO videos</a></p><p class="youtube-embed-meta">Channel: PBS NewsHour &middot; Views: 11.7K &middot; Uploaded: April 2025 &middot; Length: 3 minutes 20 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=diPXow8zgc8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=diPXow8zgc8">Open on YouTube</a></p></div></div></div>
+**Unresolved cases** should be reserved for reports that survive basic checks. That means the report has a clear time and place, a reliable direction, a coherent description, preferably independent witnesses or imagery, and no good match with aircraft, satellites, planets, meteors, drones, balloons or camera effects. Even then, unresolved means “not identified from the available evidence”, not “confirmed extraordinary craft”.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/diPXow8zgc8" title="How scientists use math to help explain UFO videos" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=diPXow8zgc8" target="_blank" rel="noopener noreferrer">How scientists use math to help explain UFO videos</a></p><p class="youtube-embed-meta">Channel: PBS NewsHour &middot; Views: 11.7K &middot; Uploaded: April 2025 &middot; Length: 3 minutes 20 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=diPXow8zgc8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=diPXow8zgc8">Open on YouTube</a></p></div></div></div>
+
+
+
+
 
 ## When to report, and to whom
 
 A Saxony-Anhalt sighting should be reported when it remains unclear after basic checks, when it may involve aviation safety, when there is a possible drone in a restricted or sensitive area, or when several independent witnesses saw the same unusual event. The report should include the original notes and unedited media, not just a cropped clip or a dramatic description.
-
-For a UFO or unusual sky report, GEP provides an online reporting route and says its database form collects the key details needed for an initial assessment; it also offers further contact methods and may ask additional questions in particular cases.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ufo-forschung.de/ufo-sichtung-melden" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufo-forschung.de">[UFO Forschung]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufo-forschung.de</span><span class="citation-popover-snippet">Open source on ufo-forschung.de.</span></span></span> GEP describes its reporting point as open to private individuals as well as institutions, including cases passed on by pilots or police employees.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ufo-forschung.de/ufo-sichtung-melden" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufo-forschung.de">[UFO Forschung]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufo-forschung.de</span><span class="citation-popover-snippet">Open source on ufo-forschung.de.</span></span></span> CENAP is another long-running German reporting point, frequently cited in German media for identifying common causes such as Starlink, planets, stars, balloons, drones and camera effects.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mdr.de/wissen/astronomie-raumfahrt/ufo-sichtungen-rekord-fliegende-untertassen-in-deutschland-100.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mdr.de">[mdr.de]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mdr.de</span><span class="citation-popover-snippet">Open source on mdr.de.</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/TQcqOW39ksk" title="Unidentified Anomalous Phenomena Independent Study Report" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=TQcqOW39ksk" target="_blank" rel="noopener noreferrer">Unidentified Anomalous Phenomena Independent Study Report</a></p><p class="youtube-embed-meta">Channel: NASA &middot; Views: 107.4K &middot; Uploaded: September 2023 &middot; Length: 59 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=TQcqOW39ksk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=TQcqOW39ksk">Open on YouTube</a></p></div></div></div>
 

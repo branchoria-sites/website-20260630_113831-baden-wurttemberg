@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-07-02T15:35:48.520832Z",
+  "generated_at_utc": "2026-07-02T18:12:55.929822Z",
   "summary": {
     "total_pages_with_permalink": 224,
     "visible_pages": 208,
@@ -9,12 +9,12 @@
     "visible_pages_with_empty_branch_sections": 0,
     "visible_pages_with_missing_parent_target": 0,
     "branch_navigation_coverage_percent": 100.0,
-    "inline_internal_edge_count": 1002,
+    "inline_internal_edge_count": 977,
     "inline_internal_target_page_count": 208,
     "visible_pages_gaining_inbound_from_inline_links": 0,
     "visible_pages_without_inline_inbound_links": 0,
-    "visible_pages_with_inline_outbound_links": 208,
-    "average_inline_inbound_links_per_visible_page": 4.82,
+    "visible_pages_with_inline_outbound_links": 205,
+    "average_inline_inbound_links_per_visible_page": 4.7,
     "unresolved_inline_internal_target_count": 0,
     "sample_edge_count": 200
   },
@@ -26,12 +26,6 @@
     "visible_gaining_inbound_from_inline_links": [],
     "visible_without_inline_inbound_links": [],
     "top_inline_internal_targets": [
-      {
-        "basename": "Bavaria_3c0123",
-        "title": "What Really Happened Over Bavaria's Skies?",
-        "permalink": "/what-really-happened-over-bavarias-skies/",
-        "inline_inbound_count": 13
-      },
       {
         "basename": "Berlin_062b06",
         "title": "What Berlin's UFO Reports Really Show",
@@ -45,27 +39,9 @@
         "inline_inbound_count": 13
       },
       {
-        "basename": "Bremen_20b942",
-        "title": "When Bremen's UFO Story Became an Airport Problem",
-        "permalink": "/when-bremens-ufo-story-became-an-airport/",
-        "inline_inbound_count": 13
-      },
-      {
         "basename": "Bremen_20b942_witness_reports_78ec97",
         "title": "What Did Bremen Witnesses Really See?",
         "permalink": "/witnesses-0d1ceb/",
-        "inline_inbound_count": 13
-      },
-      {
-        "basename": "Hamburg_155277",
-        "title": "What Did Hamburg Really See in the Sky?",
-        "permalink": "/what-did-hamburg-really-see-in-the-sky/",
-        "inline_inbound_count": 13
-      },
-      {
-        "basename": "Hesse_19bb21",
-        "title": "Why Hesse's UFO Stories Usually Come Back to Earth",
-        "permalink": "/why-hesses-ufo-stories-usually-come/",
         "inline_inbound_count": 13
       },
       {
@@ -90,12 +66,6 @@
         "basename": "North_Rhine-Westphal_f5bdd9",
         "title": "What Really Explains NRW UFO Sightings?",
         "permalink": "/north-rhine-westphalia/",
-        "inline_inbound_count": 13
-      },
-      {
-        "basename": "Rhineland-Palatinate_9f2211",
-        "title": "What Really Happened In Rhineland Palatinate's UFO Files?",
-        "permalink": "/rhineland-palatinate/",
         "inline_inbound_count": 13
       },
       {
@@ -135,21 +105,21 @@
         "inline_inbound_count": 13
       },
       {
-        "basename": "Schleswig-Holstein_76916e",
-        "title": "What Really Flew Over Schleswig Holstein?",
-        "permalink": "/what-really-flew-over-schleswig-holstein/",
-        "inline_inbound_count": 13
-      },
-      {
         "basename": "Thuringia_f28d08",
         "title": "What Really Happened in Thuringia's UFO Stories?",
         "permalink": "/what-really-happened-in-thuringias-ufo/",
         "inline_inbound_count": 13
       },
       {
-        "basename": "Bremen_20b942_bremen_airport_2014_72dafe",
-        "title": "What Happened Over Bremen Airport in 2014?",
-        "permalink": "/2014-incident/",
+        "basename": "Bremen_20b942",
+        "title": "When Bremen's UFO Story Became an Airport Problem",
+        "permalink": "/when-bremens-ufo-story-became-an-airport/",
+        "inline_inbound_count": 12
+      },
+      {
+        "basename": "Hamburg_155277",
+        "title": "What Did Hamburg Really See in the Sky?",
+        "permalink": "/what-did-hamburg-really-see-in-the-sky/",
         "inline_inbound_count": 12
       },
       {
@@ -177,9 +147,21 @@
         "inline_inbound_count": 12
       },
       {
+        "basename": "Rhineland-Palatinate_9f2211",
+        "title": "What Really Happened In Rhineland Palatinate's UFO Files?",
+        "permalink": "/rhineland-palatinate/",
+        "inline_inbound_count": 12
+      },
+      {
         "basename": "Saarland_af09d5_rastpfuhl_1826_b5288e",
         "title": "Was Rastpfuhl Germany's First UFO Case?",
         "permalink": "/rastpfuhl-1826/",
+        "inline_inbound_count": 12
+      },
+      {
+        "basename": "Schleswig-Holstein_76916e",
+        "title": "What Really Flew Over Schleswig Holstein?",
+        "permalink": "/what-really-flew-over-schleswig-holstein/",
         "inline_inbound_count": 12
       },
       {
@@ -189,15 +171,21 @@
         "inline_inbound_count": 11
       },
       {
-        "basename": "Berlin_062b06_witness_credibility_c6d46d",
-        "title": "Can Honest Witnesses Misread Berlin's Sky?",
-        "permalink": "/witnesses/",
+        "basename": "Bavaria_3c0123",
+        "title": "What Really Happened Over Bavaria's Skies?",
+        "permalink": "/what-really-happened-over-bavarias-skies/",
         "inline_inbound_count": 11
       },
       {
-        "basename": "Brandenburg_a1d94c_starlink_satellite_t_eeac3f",
-        "title": "Why Satellite Trains Spark UFO Reports",
-        "permalink": "/starlink-bdbbb9/",
+        "basename": "Bremen_20b942_bremen_airport_2014_72dafe",
+        "title": "What Happened Over Bremen Airport in 2014?",
+        "permalink": "/2014-incident/",
+        "inline_inbound_count": 11
+      },
+      {
+        "basename": "Hesse_19bb21",
+        "title": "Why Hesse's UFO Stories Usually Come Back to Earth",
+        "permalink": "/why-hesses-ufo-stories-usually-come/",
         "inline_inbound_count": 11
       },
       {
@@ -213,12 +201,6 @@
         "inline_inbound_count": 11
       },
       {
-        "basename": "Saarland_af09d5_rastpfuhl_explanatio_9bd7ea",
-        "title": "Meteor, Whirlwind or Something Else?",
-        "permalink": "/explanations/",
-        "inline_inbound_count": 11
-      },
-      {
         "basename": "Saxony-Anhalt_5678a0_fireballs_meteors_90acd6",
         "title": "When a Fireball Becomes a UFO Report",
         "permalink": "/meteors/",
@@ -231,39 +213,57 @@
         "inline_inbound_count": 11
       },
       {
-        "basename": "Schleswig-Holstein_76916e_drone_infrastructure_e6e7a3",
-        "title": "Why Drone Reports Changed the UFO Conversation",
-        "permalink": "/drones-315029/",
-        "inline_inbound_count": 11
-      },
-      {
-        "basename": "Thuringia_f28d08_german_ufo_investiga_5197ab",
-        "title": "Who Checked Thuringia's UFO Claims?",
-        "permalink": "/investigators-032033/",
-        "inline_inbound_count": 11
-      },
-      {
         "basename": "Baden-Wurttemberg_dc11f2_lake_constance_sight_ee6ae6",
         "title": "Why Lake Constance Keeps Drawing UFO Reports",
         "permalink": "/lake-constance/",
         "inline_inbound_count": 10
       },
       {
-        "basename": "Baden-Wurttemberg_dc11f2_starlink_satellite_c_217280",
-        "title": "How Starlink Rewrote The UFO Baseline",
-        "permalink": "/starlink/",
+        "basename": "Berlin_062b06_witness_credibility_c6d46d",
+        "title": "Can Honest Witnesses Misread Berlin's Sky?",
+        "permalink": "/witnesses/",
         "inline_inbound_count": 10
       },
       {
-        "basename": "Brandenburg_a1d94c_cenap_explanations_3e3765",
-        "title": "Why Record UFO Waves Often Have Ordinary Causes",
-        "permalink": "/cenap/",
+        "basename": "Brandenburg_a1d94c_starlink_satellite_t_eeac3f",
+        "title": "Why Satellite Trains Spark UFO Reports",
+        "permalink": "/starlink-bdbbb9/",
         "inline_inbound_count": 10
       },
       {
         "basename": "Mecklenburg-Vorpomme_d975e6_stralsund_1665_919cb2",
         "title": "Was Stralsund's Air Battle A UFO?",
         "permalink": "/stralsund-1665/",
+        "inline_inbound_count": 10
+      },
+      {
+        "basename": "Saarland_af09d5_rastpfuhl_explanatio_9bd7ea",
+        "title": "Meteor, Whirlwind or Something Else?",
+        "permalink": "/explanations/",
+        "inline_inbound_count": 10
+      },
+      {
+        "basename": "Saxony-Anhalt_5678a0_local_media_amplific_37d097",
+        "title": "How Local Media Make or Break UFO Cases",
+        "permalink": "/media-04b098/",
+        "inline_inbound_count": 10
+      },
+      {
+        "basename": "Saxony-Anhalt_5678a0_unresolved_evidence_216035",
+        "title": "What Does Unresolved Really Mean Here?",
+        "permalink": "/unresolved-b01a0e/",
+        "inline_inbound_count": 10
+      },
+      {
+        "basename": "Saxony_caf030_balloons_lanterns_sa_6f195c",
+        "title": "How Balloons Become Saxony UFOs",
+        "permalink": "/balloons/",
+        "inline_inbound_count": 10
+      },
+      {
+        "basename": "Saxony_caf030_unresolved_weak_evid_7cf947",
+        "title": "Does Unidentified Mean Unexplainable?",
+        "permalink": "/unresolved/",
         "inline_inbound_count": 10
       }
     ],
