@@ -52,7 +52,7 @@ text_direction: ltr
 ui_strings:
   home: Home
   overview: Overview
-  overview_prefix: 'Overview:'
+  overview_prefix:'Overview:'
   contents: Contents
   close: Close
   open_contents: Open contents
@@ -200,13 +200,13 @@ ui_strings:
   search_this_page_empty_hint: Type to search this page.
   no_search_results: No pages match this search.
   no_search_this_page_results: No sections on this page match this search.
-  search_results_count_template: '{count} results'
+  search_results_count_template:'{count} results'
   search_kind_page_title: Page title
   search_kind_page_summary: Summary of page
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date: '2026-06-29 22:45:57'
+date:'2026-06-29 22:45:57'
 parent_title: Bavaria UFOs
 parent_permalink: /what-really-happened-over-bavarias-skies/
 parent_nav_short_title: Bavaria UFOs
@@ -296,34 +296,25 @@ image: /assets/images/Bavaria_3c0123_wurzburg_uap_reporti_a45ac3-overview-social
 
 ## Introduction
 
-The University of Würzburg’s UAP reporting route for pilots is important because it moves a Bavarian UFO-related subject away from rumour, spectacle and folklore and towards a more ordinary but more useful question: how should trained aircrew report unusual things seen from the cockpit? In July 2025, the university announced that its Interdisciplinary Research Center for Extraterrestrial Studies, known as IFEX, was cooperating with Germany’s Federal Aviation Office so pilots could send relevant observations to Würzburg for scientific evaluation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.uni-wuerzburg.de/en/news-and-events/news/detail/news/uap-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uni-wuerzburg.de">[University of Würzburg]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uni-wuerzburg.de</span><span class="citation-popover-snippet">Open source on uni-wuerzburg.de.</span></span></span>
-
-
-<img src="{{ "/assets/images/Bavaria_3c0123_wurzburg_uap_reporti_a45ac3-overview.webp" | relative_url }}" alt="Overview image for Wurzburg UAP" loading="eager" decoding="sync" fetchpriority="high">
-This does not mean [Bavaria]({{ 'what-really-happened-over-bavarias-skies/' | relative_url }}) has become a centre for proving extraordinary claims. It means Würzburg has built a structured reporting channel for cases that may include unknown objects, unusual lights, weather effects, drones, satellites, balloons, aircraft, reflections or sensor oddities. The value lies in disciplined data: date, time, location, altitude, duration, observers, flight details and supporting images or video where available. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.uni-wuerzburg.de/en/ifex/research-projects/uap-reporting-center-for-pilots/uap-reporting-form-for-pilots/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uni-wuerzburg.de">[University of Würzburg]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uni-wuerzburg.de</span><span class="citation-popover-title">University of Würzburg UAP Reporting Form for Pilots</span><span class="citation-popover-snippet">University of WürzburgUAP Reporting Form for Pilots - IFEX - Interdisciplinary Research Center for Extraterrestrial Studies...</span></span></span> For Bavaria’s wider UFO history, this marks a shift from retrospective stories and scattered witness claims to an aviation-focused attempt to collect reports in a form that can be checked.
+The University of Würzburg’s UAP reporting route for pilots is important because it moves a Bavarian UFO-related subject away from rumour, spectacle and folklore and towards a more ordinary but more useful question: how should trained aircrew report unusual things seen from the cockpit? In July 2025, the university announced that its Interdisciplinary Research Center for Extraterrestrial Studies, known as IFEX, was cooperating with Germany’s Federal Aviation Office so pilots could send relevant observations to Würzburg for scientific evaluation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.uni-wuerzburg.de/en/news-and-events/news/detail/news/uap-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uni-wuerzburg.de">[University of Würzburg]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uni-wuerzburg.de</span><span class="citation-popover-snippet">Open source on uni-wuerzburg.de.</span></span></span><img src="{{"/assets/images/Bavaria_3c0123_wurzburg_uap_reporti_a45ac3-overview.webp" | relative_url }}" alt="Overview image for Wurzburg UAP" loading="eager" decoding="sync" fetchpriority="high">
+This does not mean [Bavaria]({{'what-really-happened-over-bavarias-skies/' | relative_url }}) has become a centre for proving extraordinary claims. It means Würzburg has built a structured reporting channel for cases that may include unknown objects, unusual lights, weather effects, drones, satellites, balloons, aircraft, reflections or sensor oddities. The value lies in disciplined data: date, time, location, altitude, duration, observers, flight details and supporting images or video where available.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.uni-wuerzburg.de/en/ifex/research-projects/uap-reporting-center-for-pilots/uap-reporting-form-for-pilots/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uni-wuerzburg.de">[University of Würzburg]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uni-wuerzburg.de</span><span class="citation-popover-title">University of Würzburg UAP Reporting Form for Pilots</span><span class="citation-popover-snippet">University of WürzburgUAP Reporting Form for Pilots - IFEX - Interdisciplinary Research Center for Extraterrestrial Studies...</span></span></span> For Bavaria’s wider UFO history, this marks a shift from retrospective stories and scattered witness claims to an aviation-focused attempt to collect reports in a form that can be checked.
 
 ## What the Würzburg project does
 
-The Würzburg pilot reporting effort is hosted by IFEX at Julius-Maximilians-Universität Würzburg. IFEX states that one of its objectives is to analyse UAP sightings systematically and evaluate them using scientific methods, with the aim of building a sound data foundation rather than treating sightings as isolated anecdotes. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.uni-wuerzburg.de/en/ifex/research-projects/uap-reporting-center-for-pilots/uap-reporting-form-for-pilots/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uni-wuerzburg.de">[University of Würzburg]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uni-wuerzburg.de</span><span class="citation-popover-title">University of Würzburg UAP Reporting Form for Pilots</span><span class="citation-popover-snippet">University of WürzburgUAP Reporting Form for Pilots - IFEX - Interdisciplinary Research Center for Extraterrestrial Studies...</span></span></span>
+The Würzburg pilot reporting effort is hosted by IFEX at Julius-Maximilians-Universität Würzburg. IFEX states that one of its objectives is to analyse UAP sightings systematically and evaluate them using scientific methods, with the aim of building a sound data foundation rather than treating sightings as isolated anecdotes.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.uni-wuerzburg.de/en/ifex/research-projects/uap-reporting-center-for-pilots/uap-reporting-form-for-pilots/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uni-wuerzburg.de">[University of Würzburg]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uni-wuerzburg.de</span><span class="citation-popover-title">University of Würzburg UAP Reporting Form for Pilots</span><span class="citation-popover-snippet">University of WürzburgUAP Reporting Form for Pilots - IFEX - Interdisciplinary Research Center for Extraterrestrial Studies...</span></span></span>
 
-The reporting form is deliberately simple. IFEX says it was designed as a short initial submission to lower the barrier for pilots who might otherwise hesitate to report. The form can then lead to more detailed follow-up through direct communication between the pilot and the research team. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.uni-wuerzburg.de/en/ifex/research-projects/uap-reporting-center-for-pilots/uap-reporting-form-for-pilots/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uni-wuerzburg.de">[University of Würzburg]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uni-wuerzburg.de</span><span class="citation-popover-title">University of Würzburg UAP Reporting Form for Pilots</span><span class="citation-popover-snippet">University of WürzburgUAP Reporting Form for Pilots - IFEX - Interdisciplinary Research Center for Extraterrestrial Studies...</span></span></span> That design choice matters. A long, technical form might collect richer data from a small number of motivated witnesses, but a shorter form may encourage more initial reports from working pilots who are busy, cautious about stigma, or unsure whether what they saw is worth recording.
+The reporting form is deliberately simple. IFEX says it was designed as a short initial submission to lower the barrier for pilots who might otherwise hesitate to report. The form can then lead to more detailed follow-up through direct communication between the pilot and the research team.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.uni-wuerzburg.de/en/ifex/research-projects/uap-reporting-center-for-pilots/uap-reporting-form-for-pilots/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uni-wuerzburg.de">[University of Würzburg]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uni-wuerzburg.de</span><span class="citation-popover-title">University of Würzburg UAP Reporting Form for Pilots</span><span class="citation-popover-snippet">University of WürzburgUAP Reporting Form for Pilots - IFEX - Interdisciplinary Research Center for Extraterrestrial Studies...</span></span></span> That design choice matters. A long, technical form might collect richer data from a small number of motivated witnesses, but a shorter form may encourage more initial reports from working pilots who are busy, cautious about stigma, or unsure whether what they saw is worth recording.
 
-The form asks for contact information, report metadata and flight-specific details. The listed fields include date and time in UTC, location, flight number or registration, airline, duration of observation, altitude in feet, number of observers and a report description. It also asks whether a file upload is available; if the pilot selects yes, IFEX says the pilot will receive a link to an upload portal for image or video material. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.uni-wuerzburg.de/en/ifex/research-projects/uap-reporting-center-for-pilots/uap-reporting-form-for-pilots/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uni-wuerzburg.de">[University of Würzburg]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uni-wuerzburg.de</span><span class="citation-popover-title">University of Würzburg UAP Reporting Form for Pilots</span><span class="citation-popover-snippet">University of WürzburgUAP Reporting Form for Pilots - IFEX - Interdisciplinary Research Center for Extraterrestrial Studies...</span></span></span>
+The form asks for contact information, report metadata and flight-specific details. The listed fields include date and time in UTC, location, flight number or registration, airline, duration of observation, altitude in feet, number of observers and a report description. It also asks whether a file upload is available; if the pilot selects yes, IFEX says the pilot will receive a link to an upload portal for image or video material.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.uni-wuerzburg.de/en/ifex/research-projects/uap-reporting-center-for-pilots/uap-reporting-form-for-pilots/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uni-wuerzburg.de">[University of Würzburg]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uni-wuerzburg.de</span><span class="citation-popover-title">University of Würzburg UAP Reporting Form for Pilots</span><span class="citation-popover-snippet">University of WürzburgUAP Reporting Form for Pilots - IFEX - Interdisciplinary Research Center for Extraterrestrial Studies...</span></span></span>
 
-That makes the Würzburg route different from a casual UFO tip line. It is framed around aviation, not general public storytelling. It asks for details that can potentially be compared with flight tracks, weather, astronomical data, satellite passes, airport activity, drone reports and other known objects. It is still dependent on witness cooperation and later verification, but it begins with a more useful evidence structure than a vague statement such as “I saw a strange light over Bavaria”.
-
-
-<img src="{{ "/assets/images/Bavaria_3c0123_wurzburg_uap_reporti_a45ac3-Illustration-1-dark.svg" | relative_url }}" alt="Wurzburg UAP illustration 1" data-theme-src-dark="{{ "/assets/images/Bavaria_3c0123_wurzburg_uap_reporti_a45ac3-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Bavaria_3c0123_wurzburg_uap_reporti_a45ac3-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+That makes the Würzburg route different from a casual UFO tip line. It is framed around aviation, not general public storytelling. It asks for details that can potentially be compared with flight tracks, weather, astronomical data, satellite passes, airport activity, drone reports and other known objects. It is still dependent on witness cooperation and later verification, but it begins with a more useful evidence structure than a vague statement such as “I saw a strange light over Bavaria”.<img src="{{"/assets/images/Bavaria_3c0123_wurzburg_uap_reporti_a45ac3-Illustration-1-dark.svg" | relative_url }}" alt="Wurzburg UAP illustration 1" data-theme-src-dark="{{"/assets/images/Bavaria_3c0123_wurzburg_uap_reporti_a45ac3-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{"/assets/images/Bavaria_3c0123_wurzburg_uap_reporti_a45ac3-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why the aviation link matters
 
 The strongest reason to focus on pilots is not that pilots are infallible. They are not. Pilots can misjudge distance, speed and size, especially at night or when an object has no obvious background reference. The reason pilot reports are valuable is that pilots are trained observers operating in a controlled environment. They can often provide altitude, bearing, flight phase, timing, aircraft position, crew corroboration and operational context in a way that ordinary ground witnesses often cannot.
 
-Würzburg’s own explanation leans on this point. IFEX tells pilots that their professional training, experience and careful sky observation make their reports especially valuable for research. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.uni-wuerzburg.de/en/ifex/research-projects/uap-reporting-center-for-pilots/uap-reporting-form-for-pilots/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uni-wuerzburg.de">[University of Würzburg]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uni-wuerzburg.de</span><span class="citation-popover-title">University of Würzburg UAP Reporting Form for Pilots</span><span class="citation-popover-snippet">University of WürzburgUAP Reporting Form for Pilots - IFEX - Interdisciplinary Research Center for Extraterrestrial Studies...</span></span></span> The university’s public announcement also describes UAP as a broader scientific term than the older “UFO” label, covering unknown flying objects as well as strange light or weather phenomena seen in the atmosphere. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.uni-wuerzburg.de/en/news-and-events/news/detail/news/uap-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uni-wuerzburg.de">[University of Würzburg]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uni-wuerzburg.de</span><span class="citation-popover-snippet">Open source on uni-wuerzburg.de.</span></span></span>
+Würzburg’s own explanation leans on this point. IFEX tells pilots that their professional training, experience and careful sky observation make their reports especially valuable for research.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.uni-wuerzburg.de/en/ifex/research-projects/uap-reporting-center-for-pilots/uap-reporting-form-for-pilots/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uni-wuerzburg.de">[University of Würzburg]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uni-wuerzburg.de</span><span class="citation-popover-title">University of Würzburg UAP Reporting Form for Pilots</span><span class="citation-popover-snippet">University of WürzburgUAP Reporting Form for Pilots - IFEX - Interdisciplinary Research Center for Extraterrestrial Studies...</span></span></span> The university’s public announcement also describes UAP as a broader scientific term than the older “UFO” label, covering unknown flying objects as well as strange light or weather phenomena seen in the atmosphere.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.uni-wuerzburg.de/en/news-and-events/news/detail/news/uap-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uni-wuerzburg.de">[University of Würzburg]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uni-wuerzburg.de</span><span class="citation-popover-snippet">Open source on uni-wuerzburg.de.</span></span></span>
 
-The cooperation with the Federal Aviation Office gives the project a practical aviation-safety connection. The university says the LBA supports the approach and will place a link to the Würzburg IFEX reporting form under its navigation for incident reports of all kinds. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.uni-wuerzburg.de/en/news-and-events/news/detail/news/uap-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uni-wuerzburg.de">[University of Würzburg]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uni-wuerzburg.de</span><span class="citation-popover-snippet">Open source on uni-wuerzburg.de.</span></span></span> That does not turn IFEX into an air-accident authority, and it does not mean every report is safety-critical. It does, however, places UAP reporting closer to the normal world of aviation occurrence reporting, where unusual events are recorded so patterns can be noticed.
-
-This is where Würzburg fits into a wider international change. NASA’s 2023 independent UAP study argued that aviation safety reporting was a promising route for better UAP data, partly because pilots and aviation staff already use structured reporting systems. The same report also emphasised stigma as a barrier to useful reporting. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science Independent Study Team Report</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportSeptember 13, 2023 — The panel finds that a particularly promising avenue for deeper integration...</span><span class="citation-popover-meta">Published: September 13, 2023</span></span></span> Würzburg’s form addresses the same problem in a German context: it explicitly recognises that UAP sightings have often been stigmatised and says its goal is to provide a professional, scientifically grounded platform that encourages pilots to share observations without hesitation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.uni-wuerzburg.de/en/ifex/research-projects/uap-reporting-center-for-pilots/uap-reporting-form-for-pilots/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uni-wuerzburg.de">[University of Würzburg]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uni-wuerzburg.de</span><span class="citation-popover-title">University of Würzburg UAP Reporting Form for Pilots</span><span class="citation-popover-snippet">University of WürzburgUAP Reporting Form for Pilots - IFEX - Interdisciplinary Research Center for Extraterrestrial Studies...</span></span></span>
-
+The cooperation with the Federal Aviation Office gives the project a practical aviation-safety connection. The university says the LBA supports the approach and will place a link to the Würzburg IFEX reporting form under its navigation for incident reports of all kinds.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.uni-wuerzburg.de/en/news-and-events/news/detail/news/uap-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uni-wuerzburg.de">[University of Würzburg]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uni-wuerzburg.de</span><span class="citation-popover-snippet">Open source on uni-wuerzburg.de.</span></span></span> That does not turn IFEX into an air-accident authority, and it does not mean every report is safety-critical. It does, however, places UAP reporting closer to the normal world of aviation occurrence reporting, where unusual events are recorded so patterns can be noticed.
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/6LeGSpDfmbU" title="IFEX SETI and UAP Conference - B. Friscourt: Citizen science and fast response UAP observatory" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=6LeGSpDfmbU" target="_blank" rel="noopener noreferrer">IFEX SETI and UAP Conference - B. Friscourt: Citizen science and fast response UAP observatory</a></p><p class="youtube-embed-meta">Channel: Professorship for Space Technology Uni Würzburg &middot; Views: 509 &middot; Uploaded: November 2025 &middot; Length: 18 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=6LeGSpDfmbU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=6LeGSpDfmbU">Open on YouTube</a></p></div></div></div>
 
@@ -331,260 +322,66 @@ This is where Würzburg fits into a wider international change. NASA’s 2023 in
 
 A good pilot report is not treated as proof that something extraordinary was present. It is a starting point for elimination. The first question is usually not “what exotic object was this?” but “what known object or effect could match the report?”
 
-The most useful details are the ones that allow comparison. A time in UTC helps avoid timezone confusion. A location, altitude and flight number or registration can anchor the report to a real flight path. Duration and number of observers help separate a fleeting impression from a sustained event. Images and videos, when available, can be examined for lens artefacts, reflections, compression issues, parallax, aircraft lights, satellites, meteors, balloons or birds. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.uni-wuerzburg.de/en/ifex/research-projects/uap-reporting-center-for-pilots/uap-reporting-form-for-pilots/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uni-wuerzburg.de">[University of Würzburg]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uni-wuerzburg.de</span><span class="citation-popover-title">University of Würzburg UAP Reporting Form for Pilots</span><span class="citation-popover-snippet">University of WürzburgUAP Reporting Form for Pilots - IFEX - Interdisciplinary Research Center for Extraterrestrial Studies...</span></span></span>
+The most useful details are the ones that allow comparison. A time in UTC helps avoid timezone confusion. A location, altitude and flight number or registration can anchor the report to a real flight path. Duration and number of observers help separate a fleeting impression from a sustained event. Images and videos, when available, can be examined for lens artefacts, reflections, compression issues, parallax, aircraft lights, satellites, meteors, balloons or birds.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.uni-wuerzburg.de/en/ifex/research-projects/uap-reporting-center-for-pilots/uap-reporting-form-for-pilots/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uni-wuerzburg.de">[University of Würzburg]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uni-wuerzburg.de</span><span class="citation-popover-title">University of Würzburg UAP Reporting Form for Pilots</span><span class="citation-popover-snippet">University of WürzburgUAP Reporting Form for Pilots - IFEX - Interdisciplinary Research Center for Extraterrestrial Studies...</span></span></span>
 
-Würzburg’s wider UAP work shows why this checking process matters. Since 2021, the university has tested SkyCAM-5, an autonomous camera system on the Hubland campus designed to detect unidentified aerial phenomena using image-processing and machine-learning methods. The system records known objects and short-lived luminous phenomena, including aircraft, birds, helicopters, lightning and meteors. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.uni-wuerzburg.de/en/news-and-events/news/detail/news/skycam-5/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uni-wuerzburg.de">[University of Würzburg]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uni-wuerzburg.de</span><span class="citation-popover-title">University of Würzburg UAP: Sky CAM Searches the Sky</span><span class="citation-popover-snippet">University of Würzburg UAP: Sky CAM Searches the Sky</span></span></span> In other words, Würzburg’s researchers are not starting from the assumption that “unknown” means exotic. Their own detection work is built around recognising and filtering ordinary causes.
+Würzburg’s wider UAP work shows why this checking process matters. Since 2021, the university has tested SkyCAM-5, an autonomous camera system on the Hubland campus designed to detect unidentified aerial phenomena using image-processing and machine-learning methods. The system records known objects and short-lived luminous phenomena, including aircraft, birds, helicopters, lightning and meteors.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.uni-wuerzburg.de/en/news-and-events/news/detail/news/skycam-5/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uni-wuerzburg.de">[University of Würzburg]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uni-wuerzburg.de</span><span class="citation-popover-title">University of Würzburg UAP: Sky CAM Searches the Sky</span><span class="citation-popover-snippet">University of Würzburg UAP: Sky CAM Searches the Sky</span></span></span> In other words, Würzburg’s researchers are not starting from the assumption that “unknown” means exotic. Their own detection work is built around recognising and filtering ordinary causes.
 
-The university’s ADEOS project, an anomaly detection and observation system for UAP, makes the same point in more technical form. It describes a station using multiple sensors and an all-sky camera, with known objects such as birds, insects and helicopters detected and filtered by a convolutional neural network. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.informatik.uni-wuerzburg.de/en/space-technology/projects/active/adeos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: informatik.uni-wuerzburg.de">[Institut für Informatik]</a><span class="citation-popover" role="note"><span class="citation-popover-source">informatik.uni-wuerzburg.de</span><span class="citation-popover-title">Institut für Informatik ADEOS</span><span class="citation-popover-snippet">Institut für Informatik ADEOS</span></span></span> This is directly relevant to pilot reporting because witness reports become more useful when they can be compared with independent sensor data. A cockpit sighting that coincides with camera coverage, radar information, satellite databases or weather records is far stronger than a memory-only report.
+The university’s ADEOS project, an anomaly detection and observation system for UAP, makes the same point in more technical form. It describes a station using multiple sensors and an all-sky camera, with known objects such as birds, insects and helicopters detected and filtered by a convolutional neural network.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.informatik.uni-wuerzburg.de/en/space-technology/projects/active/adeos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: informatik.uni-wuerzburg.de">[Institut für Informatik]</a><span class="citation-popover" role="note"><span class="citation-popover-source">informatik.uni-wuerzburg.de</span><span class="citation-popover-title">Institut für Informatik ADEOS</span><span class="citation-popover-snippet">Institut für Informatik ADEOS</span></span></span> This is directly relevant to pilot reporting because witness reports become more useful when they can be compared with independent sensor data. A cockpit sighting that coincides with camera coverage, radar information, satellite databases or weather records is far stronger than a memory-only report.
 
-The limits are just as important. A pilot’s account may be careful and sincere but still lack enough data for a firm conclusion. A phone video shot through a cockpit window can introduce reflections or glare. A bright object may look stationary when it is moving in line with the aircraft. A nearby small object can seem like a distant fast one if its range is unknown. The Würzburg approach is therefore best understood as a data-improvement effort, not a shortcut to certainty.
-
-
-<img src="{{ "/assets/images/Bavaria_3c0123_wurzburg_uap_reporti_a45ac3-Illustration-2-dark.svg" | relative_url }}" alt="Wurzburg UAP illustration 2" data-theme-src-dark="{{ "/assets/images/Bavaria_3c0123_wurzburg_uap_reporti_a45ac3-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Bavaria_3c0123_wurzburg_uap_reporti_a45ac3-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+The limits are just as important. A pilot’s account may be careful and sincere but still lack enough data for a firm conclusion. A phone video shot through a cockpit window can introduce reflections or glare. A bright object may look stationary when it is moving in line with the aircraft. A nearby small object can seem like a distant fast one if its range is unknown. The Würzburg approach is therefore best understood as a data-improvement effort, not a shortcut to certainty.<img src="{{"/assets/images/Bavaria_3c0123_wurzburg_uap_reporti_a45ac3-Illustration-2-dark.svg" | relative_url }}" alt="Wurzburg UAP illustration 2" data-theme-src-dark="{{"/assets/images/Bavaria_3c0123_wurzburg_uap_reporti_a45ac3-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{"/assets/images/Bavaria_3c0123_wurzburg_uap_reporti_a45ac3-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What makes the Würzburg route Bavarian
 
 Würzburg matters in Bavaria’s UFO history because it gives the state a current, institutional example of how the subject is being reframed. Older Bavarian-linked UFO material often depends on newspaper retellings, witness memory, military files or later reinterpretation. The Würzburg project belongs to a different era: aviation safety, online reporting, structured metadata, image uploads, databases and cross-checking.
 
-That Bavarian setting is not incidental. IFEX is based at the University of Würzburg, and Würzburg’s space-technology group has already built a research identity around UAP and SETI alongside more conventional aerospace work. The university reported that Hakan Kayal founded IFEX as a cross-institutional scientific centre, and that UAP became part of IFEX’s research canon in January 2022. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.uni-wuerzburg.de/en/news-and-events/news/detail/news/uap-vorlesung-2023-1/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uni-wuerzburg.de">[University of Würzburg]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uni-wuerzburg.de</span><span class="citation-popover-title">University of Würzburg First Lecture on Sky Phenomena</span><span class="citation-popover-snippet">University of Würzburg First Lecture on Sky Phenomena</span></span></span> The pilot reporting form is therefore not an isolated web page; it sits within a local research ecosystem that includes SkyCAM, ADEOS and wider aerospace sensor work. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.uni-wuerzburg.de/en/news-and-events/news/detail/news/skycam-5/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uni-wuerzburg.de">[University of Würzburg]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uni-wuerzburg.de</span><span class="citation-popover-title">University of Würzburg UAP: Sky CAM Searches the Sky</span><span class="citation-popover-snippet">University of Würzburg UAP: Sky CAM Searches the Sky</span></span></span>
+That Bavarian setting is not incidental. IFEX is based at the University of Würzburg, and Würzburg’s space-technology group has already built a research identity around UAP and SETI alongside more conventional aerospace work. The university reported that Hakan Kayal founded IFEX as a cross-institutional scientific centre, and that UAP became part of IFEX’s research canon in January 2022.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.uni-wuerzburg.de/en/news-and-events/news/detail/news/uap-vorlesung-2023-1/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uni-wuerzburg.de">[University of Würzburg]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uni-wuerzburg.de</span><span class="citation-popover-title">University of Würzburg First Lecture on Sky Phenomena</span><span class="citation-popover-snippet">University of Würzburg First Lecture on Sky Phenomena</span></span></span> The pilot reporting form is therefore not an isolated web page; it sits within a local research ecosystem that includes SkyCAM, ADEOS and wider aerospace sensor work.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.uni-wuerzburg.de/en/news-and-events/news/detail/news/skycam-5/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uni-wuerzburg.de">[University of Würzburg]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uni-wuerzburg.de</span><span class="citation-popover-title">University of Würzburg UAP: Sky CAM Searches the Sky</span><span class="citation-popover-snippet">University of Würzburg UAP: Sky CAM Searches the Sky</span></span></span>
 
 For readers following Bavaria’s state-level UFO record, this is a useful contrast with older cases. The famous Nuremberg sky spectacle is now often discussed through early modern print culture and atmospheric optics. Cold War reports are often filtered through military bureaucracy and fragmentary archives. Würzburg’s pilot reporting effort is contemporary, explicit and procedural: it asks trained witnesses to submit structured data so that later analysis can strengthen, weaken or explain the claim.
 
-That does not make Bavaria uniquely mysterious. It makes Bavaria a useful case study in the modernisation of UFO reporting. The question is no longer simply whether someone saw “a UFO”. The better question is whether a report contains enough precise information to survive comparison with known aircraft, weather, space objects and sensor artefacts.
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/dVQkzhEJ3xU" title="Hakan Kayal Ph.D. &quot;UAP Detection on Mars&quot;" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=dVQkzhEJ3xU" target="_blank" rel="noopener noreferrer">Hakan Kayal Ph.D. &quot;UAP Detection on Mars&quot;</a></p><p class="youtube-embed-meta">Channel: Scientific Coalition for UAP Studies &middot; Views: 837 &middot; Uploaded: March 2026 &middot; Length: 48 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=dVQkzhEJ3xU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=dVQkzhEJ3xU">Open on YouTube</a></p></div></div></div>
+That does not make Bavaria uniquely mysterious. It makes Bavaria a useful case study in the modernisation of UFO reporting. The question is no longer simply whether someone saw “a UFO”. The better question is whether a report contains enough precise information to survive comparison with known aircraft, weather, space objects and sensor artefacts.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/dVQkzhEJ3xU" title="Hakan Kayal Ph.D. &quot;UAP Detection on Mars&quot;" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=dVQkzhEJ3xU" target="_blank" rel="noopener noreferrer">Hakan Kayal Ph.D. &quot;UAP Detection on Mars&quot;</a></p><p class="youtube-embed-meta">Channel: Scientific Coalition for UAP Studies &middot; Views: 837 &middot; Uploaded: March 2026 &middot; Length: 48 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=dVQkzhEJ3xU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=dVQkzhEJ3xU">Open on YouTube</a></p></div></div></div>
 
 ## What the project can and cannot prove
 
 The Würzburg reporting centre can improve the quality of UAP data. It can reduce stigma for pilots who are reluctant to speak. It can collect reports in a consistent format. It can encourage follow-up. It can connect pilot testimony with image, video and eventually database work. It can also help identify ordinary causes, which is a success rather than a failure.
 
-What it cannot do by itself is prove that unexplained reports represent unknown technology, non-human craft or anything similarly extraordinary. “Unidentified” is a status of evidence, not a conclusion about origin. IFEX itself frames UAP as a field where much remains unknown, while also stressing systematic investigation and scientific evaluation rather than belief. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.uni-wuerzburg.de/en/ifex/research-projects/uap-reporting-center-for-pilots/uap-reporting-form-for-pilots/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uni-wuerzburg.de">[University of Würzburg]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uni-wuerzburg.de</span><span class="citation-popover-title">University of Würzburg UAP Reporting Form for Pilots</span><span class="citation-popover-snippet">University of WürzburgUAP Reporting Form for Pilots - IFEX - Interdisciplinary Research Center for Extraterrestrial Studies...</span></span></span>
+What it cannot do by itself is prove that unexplained reports represent unknown technology, non-human craft or anything similarly extraordinary. “Unidentified” is a status of evidence, not a conclusion about origin. IFEX itself frames UAP as a field where much remains unknown, while also stressing systematic investigation and scientific evaluation rather than belief.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.uni-wuerzburg.de/en/ifex/research-projects/uap-reporting-center-for-pilots/uap-reporting-form-for-pilots/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uni-wuerzburg.de">[University of Würzburg]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uni-wuerzburg.de</span><span class="citation-popover-title">University of Würzburg UAP Reporting Form for Pilots</span><span class="citation-popover-snippet">University of WürzburgUAP Reporting Form for Pilots - IFEX - Interdisciplinary Research Center for Extraterrestrial Studies...</span></span></span>
 
-The most likely outcome is mixed. Many reports will probably be explained by conventional sources: aircraft, drones, satellites, balloons, meteors, unusual weather, glare, reflections or camera artefacts. Bavarian broadcaster BR described Würzburg’s UAP project in similar terms in 2025, noting that aircraft, drones, birds and reflections often lie behind such reports, while a small portion remains unclear. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ardmediathek.de/video/frankenschau-aktuell/uap-das-forschungsprojekt-der-uni-wuerzburg/br/Y3JpZDovL2JyLmRlL2Jyb2FkY2FzdC9GMjAyNFdPMDEyMzM4QTAvc2VjdGlvbi8xZDE0NDk1ZS02ZTRmLTQ4ZDQtYTRiYi1kNzcxZDY4MzkyYjI" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ardmediathek.de">[ARD Mediathek]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ardmediathek.de</span><span class="citation-popover-snippet">Open source on ardmediathek.de.</span></span></span> A smaller number may remain unresolved because the data is incomplete, not because the case is extraordinary.
+The most likely outcome is mixed. Many reports will probably be explained by conventional sources: aircraft, drones, satellites, balloons, meteors, unusual weather, glare, reflections or camera artefacts. Bavarian broadcaster BR described Würzburg’s UAP project in similar terms in 2025, noting that aircraft, drones, birds and reflections often lie behind such reports, while a small portion remains unclear.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ardmediathek.de/video/frankenschau-aktuell/uap-das-forschungsprojekt-der-uni-wuerzburg/br/Y3JpZDovL2JyLmRlL2Jyb2FkY2FzdC9GMjAyNFdPMDEyMzM4QTAvc2VjdGlvbi8xZDE0NDk1ZS02ZTRmLTQ4ZDQtYTRiYi1kNzcxZDY4MzkyYjI" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ardmediathek.de">[ARD Mediathek]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ardmediathek.de</span><span class="citation-popover-snippet">Open source on ardmediathek.de.</span></span></span> A smaller number may remain unresolved because the data is incomplete, not because the case is extraordinary.
 
-That distinction is essential for a balanced Bavaria UFO page. The Würzburg project is not evidence that Bavaria is a special UAP hotspot. It is evidence that a Bavarian university has become one of Germany’s more visible places for trying to handle UAP reports in a more disciplined way.
-
-
-<img src="{{ "/assets/images/Bavaria_3c0123_wurzburg_uap_reporti_a45ac3-Illustration-3-dark.svg" | relative_url }}" alt="Wurzburg UAP illustration 3" data-theme-src-dark="{{ "/assets/images/Bavaria_3c0123_wurzburg_uap_reporti_a45ac3-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Bavaria_3c0123_wurzburg_uap_reporti_a45ac3-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+That distinction is essential for a balanced Bavaria UFO page. The Würzburg project is not evidence that Bavaria is a special UAP hotspot. It is evidence that a Bavarian university has become one of Germany’s more visible places for trying to handle UAP reports in a more disciplined way.<img src="{{"/assets/images/Bavaria_3c0123_wurzburg_uap_reporti_a45ac3-Illustration-3-dark.svg" | relative_url }}" alt="Wurzburg UAP illustration 3" data-theme-src-dark="{{"/assets/images/Bavaria_3c0123_wurzburg_uap_reporti_a45ac3-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{"/assets/images/Bavaria_3c0123_wurzburg_uap_reporti_a45ac3-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why this changes the reader’s view of pilot UAP reports
 
 The practical lesson from Würzburg is that pilot reports should be neither dismissed automatically nor accepted dramatically. They should be structured, preserved and checked.
 
-A cockpit sighting becomes more useful when it answers basic questions clearly: when did it happen, where was the aircraft, how long did it last, how many people saw it, what altitude was involved, what direction was the object moving, was anything captured on video, and can that information be compared with external records? Würzburg’s reporting form is built around exactly those kinds of details. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.uni-wuerzburg.de/en/ifex/research-projects/uap-reporting-center-for-pilots/uap-reporting-form-for-pilots/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uni-wuerzburg.de">[University of Würzburg]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uni-wuerzburg.de</span><span class="citation-popover-title">University of Würzburg UAP Reporting Form for Pilots</span><span class="citation-popover-snippet">University of WürzburgUAP Reporting Form for Pilots - IFEX - Interdisciplinary Research Center for Extraterrestrial Studies...</span></span></span>
+A cockpit sighting becomes more useful when it answers basic questions clearly: when did it happen, where was the aircraft, how long did it last, how many people saw it, what altitude was involved, what direction was the object moving, was anything captured on video, and can that information be compared with external records? Würzburg’s reporting form is built around exactly those kinds of details.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.uni-wuerzburg.de/en/ifex/research-projects/uap-reporting-center-for-pilots/uap-reporting-form-for-pilots/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uni-wuerzburg.de">[University of Würzburg]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uni-wuerzburg.de</span><span class="citation-popover-title">University of Würzburg UAP Reporting Form for Pilots</span><span class="citation-popover-snippet">University of WürzburgUAP Reporting Form for Pilots - IFEX - Interdisciplinary Research Center for Extraterrestrial Studies...</span></span></span>
 
 For Bavaria’s wider UFO history, the significance is therefore methodological. The region’s older stories often ask readers to interpret incomplete evidence after the fact. The Würzburg pilot reporting effort tries to improve the evidence at the point of collection. That is a quieter development than a famous sighting, but it may be more important for understanding what modern UAP research can realistically achieve.
 
-The most honest conclusion is cautious. Würzburg has not solved the UAP problem. It has created a route through which pilots can report unusual observations in a professional setting, supported by a national aviation office link and backed by a university group already working on sensor-based sky observation. That makes it one of the clearest examples in Bavaria of UFO history turning into aviation data work.
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/xFndGbYrmJQ" title="IFEX SETI and UAP Conf. - D. Buettner: The UAPs that Pilots, Passengers and Other Cameras “Capture”" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=xFndGbYrmJQ" target="_blank" rel="noopener noreferrer">IFEX SETI and UAP Conf. - D. Buettner: The UAPs that Pilots, Passengers and Other Cameras “Capture”</a></p><p class="youtube-embed-meta">Channel: Professorship for Space Technology Uni Würzburg</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=xFndGbYrmJQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=xFndGbYrmJQ">Open on YouTube</a></p></div></div></div>
-
-
-<section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Pilots Now Report UAP to Wurzburg. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
-        
-        <p class="fr-book-desc">Advocates systematic collection and analysis of reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
-        
-        <p class="fr-book-desc">Focuses on structured reporting by pilots and officials.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_L47DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
-        </h4>
-        <p class="fr-book-author">By Edward J. Ruppelt</p>
-        
-        <p class="fr-book-desc">Shows how standardized reporting improves investigations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Skeptics&#x27; Guide to the Universe on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CuVKDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Skeptics&#x27; Guide to the Universe" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Skeptics&#x27; Guide to the Universe">The Skeptics&#x27; Guide to the Universe</a>
-        </h4>
-        <p class="fr-book-author">By Dr. Steven Novella</p>
-        
-        <p class="fr-book-desc">Supports evidence-based evaluation of unusual claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
-</section>
-
-<section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
-
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
-
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Germany+travel+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wurzburg-uap-why-pilots-now-report-uap-to-wurzburg-bavaria-germany-travel-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Germany travel poster" data-ebay-reference="wurzburg-uap-why-pilots-now-report-uap-to-wurzburg-bavaria-germany-travel-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Berlin Germany Travel Poster – TV Tower Skyline Wall Art Print"><img src="{{ '/assets/images/marketplace-covers/832dd075bd59329e7322.jpg' | relative_url }}" alt="Listing image for Berlin Germany Travel Poster – TV Tower Skyline Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Germany+travel+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wurzburg-uap-why-pilots-now-report-uap-to-wurzburg-bavaria-germany-travel-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Germany travel poster" data-ebay-reference="wurzburg-uap-why-pilots-now-report-uap-to-wurzburg-bavaria-germany-travel-poster" target="_blank" rel="sponsored noopener noreferrer">Berlin Germany Travel Poster – TV Tower Skyline Wall Art Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Germany+travel+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wurzburg-uap-why-pilots-now-report-uap-to-wurzburg-bavaria-germany-travel-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Germany travel poster" data-ebay-reference="wurzburg-uap-why-pilots-now-report-uap-to-wurzburg-bavaria-germany-travel-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Germany travel poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: Germany travel poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Germany+travel+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wurzburg-uap-why-pilots-now-report-uap-to-wurzburg-bavaria-germany-travel-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Germany travel poster" data-ebay-reference="wurzburg-uap-why-pilots-now-report-uap-to-wurzburg-bavaria-germany-travel-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Germany+travel+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wurzburg-uap-why-pilots-now-report-uap-to-wurzburg-bavaria-germany-travel-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Germany travel poster" data-ebay-reference="wurzburg-uap-why-pilots-now-report-uap-to-wurzburg-bavaria-germany-travel-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage Germany Travel Holiday Poster Retro City Print Decor Wall Art A5 A4 A3"><img src="{{ '/assets/images/marketplace-covers/a04a236b1eb48ab6c6fa.jpg' | relative_url }}" alt="Listing image for Vintage Germany Travel Holiday Poster Retro City Print Decor Wall Art A5 A4 A3" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Germany+travel+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wurzburg-uap-why-pilots-now-report-uap-to-wurzburg-bavaria-germany-travel-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Germany travel poster" data-ebay-reference="wurzburg-uap-why-pilots-now-report-uap-to-wurzburg-bavaria-germany-travel-poster" target="_blank" rel="sponsored noopener noreferrer">Vintage Germany Travel Holiday Poster Retro City Print Decor Wall Art A5 A4 A3</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Germany+travel+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wurzburg-uap-why-pilots-now-report-uap-to-wurzburg-bavaria-germany-travel-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Germany travel poster" data-ebay-reference="wurzburg-uap-why-pilots-now-report-uap-to-wurzburg-bavaria-germany-travel-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Germany travel poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: Germany travel poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Germany+travel+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wurzburg-uap-why-pilots-now-report-uap-to-wurzburg-bavaria-germany-travel-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Germany travel poster" data-ebay-reference="wurzburg-uap-why-pilots-now-report-uap-to-wurzburg-bavaria-germany-travel-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Germany+travel+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wurzburg-uap-why-pilots-now-report-uap-to-wurzburg-bavaria-germany-travel-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Germany travel poster" data-ebay-reference="wurzburg-uap-why-pilots-now-report-uap-to-wurzburg-bavaria-germany-travel-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for World Travel Posters - Any City! Destinations Wall art - City Skyline Art"><img src="{{ '/assets/images/marketplace-covers/9dc06276141751bc804e.jpg' | relative_url }}" alt="Listing image for World Travel Posters - Any City! Destinations Wall art - City Skyline Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Germany+travel+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wurzburg-uap-why-pilots-now-report-uap-to-wurzburg-bavaria-germany-travel-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Germany travel poster" data-ebay-reference="wurzburg-uap-why-pilots-now-report-uap-to-wurzburg-bavaria-germany-travel-poster" target="_blank" rel="sponsored noopener noreferrer">World Travel Posters - Any City! Destinations Wall art - City Skyline Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Germany+travel+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wurzburg-uap-why-pilots-now-report-uap-to-wurzburg-bavaria-germany-travel-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Germany travel poster" data-ebay-reference="wurzburg-uap-why-pilots-now-report-uap-to-wurzburg-bavaria-germany-travel-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Germany travel poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: Germany travel poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Germany+travel+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wurzburg-uap-why-pilots-now-report-uap-to-wurzburg-bavaria-germany-travel-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Germany travel poster" data-ebay-reference="wurzburg-uap-why-pilots-now-report-uap-to-wurzburg-bavaria-germany-travel-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Germany+travel+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wurzburg-uap-why-pilots-now-report-uap-to-wurzburg-bavaria-germany-travel-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Germany travel poster" data-ebay-reference="wurzburg-uap-why-pilots-now-report-uap-to-wurzburg-bavaria-germany-travel-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage Travel Holiday Poster Retro City Germany Print Decor Wall Art A5 A4 A3"><img src="{{ '/assets/images/marketplace-covers/723a4c35011ae47a6de5.jpg' | relative_url }}" alt="Listing image for Vintage Travel Holiday Poster Retro City Germany Print Decor Wall Art A5 A4 A3" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Germany+travel+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wurzburg-uap-why-pilots-now-report-uap-to-wurzburg-bavaria-germany-travel-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Germany travel poster" data-ebay-reference="wurzburg-uap-why-pilots-now-report-uap-to-wurzburg-bavaria-germany-travel-poster" target="_blank" rel="sponsored noopener noreferrer">Vintage Travel Holiday Poster Retro City Germany Print Decor Wall Art A5 A4 A3</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Germany+travel+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wurzburg-uap-why-pilots-now-report-uap-to-wurzburg-bavaria-germany-travel-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Germany travel poster" data-ebay-reference="wurzburg-uap-why-pilots-now-report-uap-to-wurzburg-bavaria-germany-travel-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Germany travel poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: Germany travel poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Germany+travel+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wurzburg-uap-why-pilots-now-report-uap-to-wurzburg-bavaria-germany-travel-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Germany travel poster" data-ebay-reference="wurzburg-uap-why-pilots-now-report-uap-to-wurzburg-bavaria-germany-travel-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Germany+travel+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wurzburg-uap-why-pilots-now-report-uap-to-wurzburg-bavaria-germany-travel-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Germany travel poster" data-ebay-reference="wurzburg-uap-why-pilots-now-report-uap-to-wurzburg-bavaria-germany-travel-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+The most honest conclusion is cautious. Würzburg has not solved the UAP problem. It has created a route through which pilots can report unusual observations in a professional setting, supported by a national aviation office link and backed by a university group already working on sensor-based sky observation. That makes it one of the clearest examples in Bavaria of UFO history turning into aviation data work.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/xFndGbYrmJQ" title="IFEX SETI and UAP Conf. - D. Buettner: The UAPs that Pilots, Passengers and Other Cameras “Capture”" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=xFndGbYrmJQ" target="_blank" rel="noopener noreferrer">IFEX SETI and UAP Conf. - D. Buettner: The UAPs that Pilots, Passengers and Other Cameras “Capture”</a></p><p class="youtube-embed-meta">Channel: Professorship for Space Technology Uni Würzburg</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=xFndGbYrmJQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=xFndGbYrmJQ">Open on YouTube</a></p></div></div></div><section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title"><div class="fr-section-shell"><div class="fr-section-header"><div class="fr-section-heading"><p class="fr-section-kicker">Amazon book picks</p><h3 class="fr-heading" id="further-reading-title">Further Reading</h3></div><p class="fr-intro">Books and field guides related to Why Pilots Now Report UAP to Wurzburg. Use these as the next step if you want deeper reading beyond the article.</p></div><div class="fr-books-grid"><article class="fr-book-card"><a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a><div class="fr-book-info"><h4 class="fr-book-title"><a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a></h4><p class="fr-book-author">By Joseph Allen Hynek</p><p class="fr-book-desc">Advocates systematic collection and analysis of reports.</p><div class="fr-book-actions"><a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon</a></div></div></article><article class="fr-book-card"><a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a><div class="fr-book-info"><h4 class="fr-book-title"><a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a></h4><p class="fr-book-author">By Leslie Kean</p><p class="fr-book-desc">Focuses on structured reporting by pilots and officials.</p><div class="fr-book-actions"><a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon</a></div></div></article><article class="fr-book-card"><a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_L47DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a><div class="fr-book-info"><h4 class="fr-book-title"><a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a></h4><p class="fr-book-author">By Edward J. Ruppelt</p><p class="fr-book-desc">Shows how standardized reporting improves investigations.</p><div class="fr-book-actions"><a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon</a></div></div></article><article class="fr-book-card"><a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Skeptics&#x27; Guide to the Universe on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CuVKDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Skeptics&#x27; Guide to the Universe" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a><div class="fr-book-info"><h4 class="fr-book-title"><a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Skeptics&#x27; Guide to the Universe">The Skeptics&#x27; Guide to the Universe</a></h4><p class="fr-book-author">By Dr. Steven Novella</p><p class="fr-book-desc">Supports evidence-based evaluation of unusual claims.</p><div class="fr-book-actions"><a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon</a></div></div></article></div><div class="fr-section-footer"><div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a></div><p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p></div></div></section><section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title"><div class="fr-section-shell"><div class="fr-section-header"><div class="fr-section-heading"><p class="fr-section-kicker">eBay marketplace picks</p><h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3></div><p class="fr-intro">Live-tested eBay searches with available results related to this page.</p><div class="fr-ebay-market-toolbar"><label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label><div class="fr-ebay-market-picker"><span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span><button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span><span data-ebay-trigger-market-label>USA</span></button><select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location"><option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option></select><div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button></div></div></div></div><div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1"><div class="fr-books-grid"><article class="fr-book-card"><a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Germany+travel+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wurzburg-uap-why-pilots-now-report-uap-to-wurzburg-bavaria-germany-travel-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Germany travel poster" data-ebay-reference="wurzburg-uap-why-pilots-now-report-uap-to-wurzburg-bavaria-germany-travel-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Berlin Germany Travel Poster – TV Tower Skyline Wall Art Print"><img src="{{'/assets/images/marketplace-covers/832dd075bd59329e7322.jpg' | relative_url }}" alt="Listing image for Berlin Germany Travel Poster – TV Tower Skyline Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a><div class="fr-book-info"><p class="fr-book-kicker">Example eBay listing</p><h4 class="fr-book-title"><a href="https://www.ebay.co.uk/sch/i.html?_nkw=Germany+travel+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wurzburg-uap-why-pilots-now-report-uap-to-wurzburg-bavaria-germany-travel-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Germany travel poster" data-ebay-reference="wurzburg-uap-why-pilots-now-report-uap-to-wurzburg-bavaria-germany-travel-poster" target="_blank" rel="sponsored noopener noreferrer">Berlin Germany Travel Poster – TV Tower Skyline Wall Art Print</a></h4><a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Germany+travel+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wurzburg-uap-why-pilots-now-report-uap-to-wurzburg-bavaria-germany-travel-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Germany travel poster" data-ebay-reference="wurzburg-uap-why-pilots-now-report-uap-to-wurzburg-bavaria-germany-travel-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Germany travel poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: Germany travel poster</a><div class="fr-book-actions"><a href="https://www.ebay.co.uk/sch/i.html?_nkw=Germany+travel+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wurzburg-uap-why-pilots-now-report-uap-to-wurzburg-bavaria-germany-travel-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Germany travel poster" data-ebay-reference="wurzburg-uap-why-pilots-now-report-uap-to-wurzburg-bavaria-germany-travel-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span></a></div></div></article><article class="fr-book-card"><a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Germany+travel+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wurzburg-uap-why-pilots-now-report-uap-to-wurzburg-bavaria-germany-travel-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Germany travel poster" data-ebay-reference="wurzburg-uap-why-pilots-now-report-uap-to-wurzburg-bavaria-germany-travel-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage Germany Travel Holiday Poster Retro City Print Decor Wall Art A5 A4 A3"><img src="{{'/assets/images/marketplace-covers/a04a236b1eb48ab6c6fa.jpg' | relative_url }}" alt="Listing image for Vintage Germany Travel Holiday Poster Retro City Print Decor Wall Art A5 A4 A3" loading="lazy" decoding="async" fetchpriority="low"></a><div class="fr-book-info"><p class="fr-book-kicker">Example eBay listing</p><h4 class="fr-book-title"><a href="https://www.ebay.co.uk/sch/i.html?_nkw=Germany+travel+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wurzburg-uap-why-pilots-now-report-uap-to-wurzburg-bavaria-germany-travel-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Germany travel poster" data-ebay-reference="wurzburg-uap-why-pilots-now-report-uap-to-wurzburg-bavaria-germany-travel-poster" target="_blank" rel="sponsored noopener noreferrer">Vintage Germany Travel Holiday Poster Retro City Print Decor Wall Art A5 A4 A3</a></h4><a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Germany+travel+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wurzburg-uap-why-pilots-now-report-uap-to-wurzburg-bavaria-germany-travel-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Germany travel poster" data-ebay-reference="wurzburg-uap-why-pilots-now-report-uap-to-wurzburg-bavaria-germany-travel-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Germany travel poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: Germany travel poster</a><div class="fr-book-actions"><a href="https://www.ebay.co.uk/sch/i.html?_nkw=Germany+travel+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wurzburg-uap-why-pilots-now-report-uap-to-wurzburg-bavaria-germany-travel-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Germany travel poster" data-ebay-reference="wurzburg-uap-why-pilots-now-report-uap-to-wurzburg-bavaria-germany-travel-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span></a></div></div></article><article class="fr-book-card"><a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Germany+travel+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wurzburg-uap-why-pilots-now-report-uap-to-wurzburg-bavaria-germany-travel-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Germany travel poster" data-ebay-reference="wurzburg-uap-why-pilots-now-report-uap-to-wurzburg-bavaria-germany-travel-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for World Travel Posters - Any City! Destinations Wall art - City Skyline Art"><img src="{{'/assets/images/marketplace-covers/9dc06276141751bc804e.jpg' | relative_url }}" alt="Listing image for World Travel Posters - Any City! Destinations Wall art - City Skyline Art" loading="lazy" decoding="async" fetchpriority="low"></a><div class="fr-book-info"><p class="fr-book-kicker">Example eBay listing</p><h4 class="fr-book-title"><a href="https://www.ebay.co.uk/sch/i.html?_nkw=Germany+travel+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wurzburg-uap-why-pilots-now-report-uap-to-wurzburg-bavaria-germany-travel-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Germany travel poster" data-ebay-reference="wurzburg-uap-why-pilots-now-report-uap-to-wurzburg-bavaria-germany-travel-poster" target="_blank" rel="sponsored noopener noreferrer">World Travel Posters - Any City! Destinations Wall art - City Skyline Art</a></h4><a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Germany+travel+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wurzburg-uap-why-pilots-now-report-uap-to-wurzburg-bavaria-germany-travel-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Germany travel poster" data-ebay-reference="wurzburg-uap-why-pilots-now-report-uap-to-wurzburg-bavaria-germany-travel-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Germany travel poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: Germany travel poster</a><div class="fr-book-actions"><a href="https://www.ebay.co.uk/sch/i.html?_nkw=Germany+travel+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wurzburg-uap-why-pilots-now-report-uap-to-wurzburg-bavaria-germany-travel-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Germany travel poster" data-ebay-reference="wurzburg-uap-why-pilots-now-report-uap-to-wurzburg-bavaria-germany-travel-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span></a></div></div></article><article class="fr-book-card"><a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Germany+travel+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wurzburg-uap-why-pilots-now-report-uap-to-wurzburg-bavaria-germany-travel-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Germany travel poster" data-ebay-reference="wurzburg-uap-why-pilots-now-report-uap-to-wurzburg-bavaria-germany-travel-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage Travel Holiday Poster Retro City Germany Print Decor Wall Art A5 A4 A3"><img src="{{'/assets/images/marketplace-covers/723a4c35011ae47a6de5.jpg' | relative_url }}" alt="Listing image for Vintage Travel Holiday Poster Retro City Germany Print Decor Wall Art A5 A4 A3" loading="lazy" decoding="async" fetchpriority="low"></a><div class="fr-book-info"><p class="fr-book-kicker">Example eBay listing</p><h4 class="fr-book-title"><a href="https://www.ebay.co.uk/sch/i.html?_nkw=Germany+travel+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wurzburg-uap-why-pilots-now-report-uap-to-wurzburg-bavaria-germany-travel-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Germany travel poster" data-ebay-reference="wurzburg-uap-why-pilots-now-report-uap-to-wurzburg-bavaria-germany-travel-poster" target="_blank" rel="sponsored noopener noreferrer">Vintage Travel Holiday Poster Retro City Germany Print Decor Wall Art A5 A4 A3</a></h4><a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Germany+travel+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wurzburg-uap-why-pilots-now-report-uap-to-wurzburg-bavaria-germany-travel-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Germany travel poster" data-ebay-reference="wurzburg-uap-why-pilots-now-report-uap-to-wurzburg-bavaria-germany-travel-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Germany travel poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: Germany travel poster</a><div class="fr-book-actions"><a href="https://www.ebay.co.uk/sch/i.html?_nkw=Germany+travel+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wurzburg-uap-why-pilots-now-report-uap-to-wurzburg-bavaria-germany-travel-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Germany travel poster" data-ebay-reference="wurzburg-uap-why-pilots-now-report-uap-to-wurzburg-bavaria-germany-travel-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span></a></div></div></article></div><div class="fr-section-footer"><a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Germany+travel+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wurzburg-uap-why-pilots-now-report-uap-to-wurzburg-bavaria-germany-travel-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Germany travel poster" data-ebay-reference="wurzburg-uap-why-pilots-now-report-uap-to-wurzburg-bavaria-germany-travel-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span></a><p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p></div></div></div><script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
-  var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
-  var timezoneRules = [{"market": "EBAY_IE", "pattern": "^Europe/Dublin$"}, {"market": "EBAY_GB", "pattern": "^Europe/(London|Belfast)$"}, {"market": "EBAY_CA", "pattern": "^America/(Toronto|Vancouver|Edmonton|Winnipeg|Halifax|St_Johns|Regina|Saskatoon|Whitehorse|Dawson|Moncton|Glace_Bay|Goose_Bay|Iqaluit|Yellowknife|Inuvik|Rankin_Inlet|Resolute|Cambridge_Bay|Fort_Nelson|Creston|Dawson_Creek)$"}, {"market": "EBAY_US", "pattern": "^America/"}, {"market": "EBAY_DE", "pattern": "^Europe/Berlin$"}, {"market": "EBAY_FR", "pattern": "^Europe/Paris$"}, {"market": "EBAY_IT", "pattern": "^Europe/Rome$"}, {"market": "EBAY_ES", "pattern": "^Europe/Madrid$"}, {"market": "EBAY_AU", "pattern": "^Australia/"}, {"market": "EBAY_AU", "pattern": "^Pacific/(Auckland|Chatham)$"}];
+  var localeMarketMap = {"de":"EBAY_DE","de-at":"EBAY_AT","de-ch":"EBAY_CH","de-de":"EBAY_DE","en":"EBAY_US","en-au":"EBAY_AU","en-ca":"EBAY_CA","en-gb":"EBAY_GB","en-ie":"EBAY_IE","en-nz":"EBAY_AU","en-uk":"EBAY_GB","en-us":"EBAY_US","es":"EBAY_ES","es-es":"EBAY_ES","fr":"EBAY_FR","fr-be":"EBAY_BE","fr-ca":"EBAY_CA","fr-fr":"EBAY_FR","it":"EBAY_IT","it-it":"EBAY_IT","nl":"EBAY_NL","nl-be":"EBAY_BE","nl-nl":"EBAY_NL"};
+  var timezoneRules = [{"market":"EBAY_IE","pattern":"^Europe/Dublin$"}, {"market":"EBAY_GB","pattern":"^Europe/(London|Belfast)$"}, {"market":"EBAY_CA","pattern":"^America/(Toronto|Vancouver|Edmonton|Winnipeg|Halifax|St_Johns|Regina|Saskatoon|Whitehorse|Dawson|Moncton|Glace_Bay|Goose_Bay|Iqaluit|Yellowknife|Inuvik|Rankin_Inlet|Resolute|Cambridge_Bay|Fort_Nelson|Creston|Dawson_Creek)$"}, {"market":"EBAY_US","pattern":"^America/"}, {"market":"EBAY_DE","pattern":"^Europe/Berlin$"}, {"market":"EBAY_FR","pattern":"^Europe/Paris$"}, {"market":"EBAY_IT","pattern":"^Europe/Rome$"}, {"market":"EBAY_ES","pattern":"^Europe/Madrid$"}, {"market":"EBAY_AU","pattern":"^Australia/"}, {"market":"EBAY_AU","pattern":"^Pacific/(Auckland|Chatham)$"}];
   function normalize(value) {
-    return String(value || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
+    return String(value ||'').toLowerCase().replace(/_/g,'-').replace(/[^a-z0-9-]+/g,'');
   }
   function localeMatches() {
     var languages = [];
-    var exactMarket = '';
-    var languageMarket = '';
+    var exactMarket ='';
+    var languageMarket ='';
     try {
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -598,24 +395,24 @@ The most honest conclusion is cautious. Würzburg has not solved the UAP problem
   }
   function inferFromLocale() {
     var matches = localeMatches();
-    return matches.exact || matches.language || '';
+    return matches.exact || matches.language ||'';
   }
   function inferFromTimezone() {
-    var tz = '';
-    try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
-    if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    var tz ='';
+    try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone ||''); } catch (err) {}
+    if (!tz) return'';
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
       } catch (err) {}
     }
-    return '';
+    return'';
   }
   function inferMarket(available, options) {
     available = Array.isArray(available) ? available : [];
     options = options || {};
-    var storageKey = options.storageKey || 'phoenix-affiliate-market';
+    var storageKey = options.storageKey ||'phoenix-affiliate-market';
     try {
       var saved = window.localStorage && localStorage.getItem(storageKey);
       if (saved && available.indexOf(saved) >= 0) return saved;
@@ -626,7 +423,7 @@ The most honest conclusion is cautious. Würzburg has not solved the UAP problem
     if (localeMarkets.exact && available.indexOf(localeMarkets.exact) >= 0) return localeMarkets.exact;
     if (localeMarkets.language && available.indexOf(localeMarkets.language) >= 0) return localeMarkets.language;
     if (options.defaultMarket && available.indexOf(options.defaultMarket) >= 0) return options.defaultMarket;
-    return available[0] || '';
+    return available[0] ||'';
   }
   window.PhoenixAffiliateLocation = {
     normalize: normalize,
@@ -634,45 +431,43 @@ The most honest conclusion is cautious. Würzburg has not solved the UAP problem
     inferFromLocale: inferFromLocale,
     inferFromTimezone: inferFromTimezone
   };
-})();
-</script>
-  <script type="text/javascript">
+})();</script><script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
-  var markets = {"EBAY_AU": {"campaign_id": "5339151051", "domain_label": "eBay.com.au", "label": "Australia", "mkrid": "705-53470-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com.au/sch/i.html?_nkw={query}"}, "EBAY_CA": {"campaign_id": "5339151051", "domain_label": "eBay.ca", "label": "Canada", "mkrid": "706-53473-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ca/sch/i.html?_nkw={query}"}, "EBAY_GB": {"campaign_id": "5339151051", "domain_label": "eBay.co.uk", "label": "UK", "mkrid": "710-53481-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.co.uk/sch/i.html?_nkw={query}"}, "EBAY_IE": {"campaign_id": "5339151051", "domain_label": "eBay.ie", "label": "Ireland", "mkrid": "5282-53468-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ie/sch/i.html?_nkw={query}"}, "EBAY_US": {"campaign_id": "5339151051", "domain_label": "eBay.com", "label": "USA", "mkrid": "711-53200-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com/sch/i.html?_nkw={query}"}};
-  var defaultMarket = "EBAY_GB";
+  var markets = {"EBAY_AU": {"campaign_id":"5339151051","domain_label":"eBay.com.au","label":"Australia","mkrid":"705-53470-19255-0","tool_id":"10001","url_template":"https://www.ebay.com.au/sch/i.html?_nkw={query}"},"EBAY_CA": {"campaign_id":"5339151051","domain_label":"eBay.ca","label":"Canada","mkrid":"706-53473-19255-0","tool_id":"10001","url_template":"https://www.ebay.ca/sch/i.html?_nkw={query}"},"EBAY_GB": {"campaign_id":"5339151051","domain_label":"eBay.co.uk","label":"UK","mkrid":"710-53481-19255-0","tool_id":"10001","url_template":"https://www.ebay.co.uk/sch/i.html?_nkw={query}"},"EBAY_IE": {"campaign_id":"5339151051","domain_label":"eBay.ie","label":"Ireland","mkrid":"5282-53468-19255-0","tool_id":"10001","url_template":"https://www.ebay.ie/sch/i.html?_nkw={query}"},"EBAY_US": {"campaign_id":"5339151051","domain_label":"eBay.com","label":"USA","mkrid":"711-53200-19255-0","tool_id":"10001","url_template":"https://www.ebay.com/sch/i.html?_nkw={query}"}};
+  var defaultMarket ="EBAY_GB";
   function encodeQuery(value) {
-    return encodeURIComponent(String(value || '').replace(/\s+/g, ' ').trim()).replace(/%20/g, '+');
+    return encodeURIComponent(String(value ||'').replace(/\s+/g,'').trim()).replace(/%20/g,'+');
   }
   function buildUrl(query, reference, marketId) {
     var cfg = markets[marketId] || markets[defaultMarket];
-    if (!cfg) return '#';
-    var template = String(cfg.url_template || 'https://www.ebay.com/sch/i.html?_nkw={query}');
-    var url = template.replace('{query}', encodeQuery(query || '')).replace('{query_plain}', String(query || ''));
-    var joiner = url.indexOf('?') >= 0 ? '&' : '?';
+    if (!cfg) return'#';
+    var template = String(cfg.url_template ||'https://www.ebay.com/sch/i.html?_nkw={query}');
+    var url = template.replace('{query}', encodeQuery(query ||'')).replace('{query_plain}', String(query ||''));
+    var joiner = url.indexOf('?') >= 0 ?'&' :'?';
     var params = [];
     if (cfg.mkrid) params.push('mkrid=' + encodeURIComponent(cfg.mkrid));
     if (cfg.campaign_id) params.push('campid=' + encodeURIComponent(cfg.campaign_id));
     params.push('mkevt=1');
     params.push('mkcid=1');
-    params.push('toolid=' + encodeURIComponent(cfg.tool_id || '10001'));
+    params.push('toolid=' + encodeURIComponent(cfg.tool_id ||'10001'));
     if (reference) params.push('customid=' + encodeURIComponent(reference).slice(0, 256));
     return url + joiner + params.join('&');
   }
   function domainLabel(marketId) {
     var cfg = markets[marketId] || markets[defaultMarket] || {};
-    return cfg.domain_label || 'eBay';
+    return cfg.domain_label ||'eBay';
   }
   function flagClass(marketId) {
-    return 'fr-ebay-market-flag fr-ebay-market-flag--' + String(marketId || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
+    return'fr-ebay-market-flag fr-ebay-market-flag--' + String(marketId ||'').toLowerCase().replace(/_/g,'-').replace(/[^a-z0-9-]+/g,'');
   }
   function closeMenu(section) {
     var menu = section.querySelector('[data-ebay-market-menu]');
     var trigger = section.querySelector('[data-ebay-market-trigger]');
     var picker = section.querySelector('.fr-ebay-market-picker');
     if (menu) menu.hidden = true;
-    if (trigger) trigger.setAttribute('aria-expanded', 'false');
+    if (trigger) trigger.setAttribute('aria-expanded','false');
     if (picker) picker.classList.remove('fr-ebay-market-picker--open');
   }
   function availableMarkets(section) {
@@ -688,10 +483,10 @@ The most honest conclusion is cautious. Würzburg has not solved the UAP problem
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
-      var query = link.getAttribute('data-ebay-query') || '';
-      var reference = link.getAttribute('data-ebay-reference') || '';
+      var query = link.getAttribute('data-ebay-query') ||'';
+      var reference = link.getAttribute('data-ebay-reference') ||'';
       link.setAttribute('href', buildUrl(query, reference, marketId));
     });
     var select = section.querySelector('[data-ebay-market-select]');
@@ -711,11 +506,11 @@ The most honest conclusion is cautious. Würzburg has not solved the UAP problem
       label.textContent = domainLabel(marketId);
     });
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
-      button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
+      button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ?'true' :'false');
     });
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
       var active = button.getAttribute('data-ebay-market-button') === marketId;
-      button.setAttribute('aria-pressed', active ? 'true' : 'false');
+      button.setAttribute('aria-pressed', active ?'true' :'false');
     });
     section.setAttribute('data-ebay-selected-market', marketId);
     if (persist) {
@@ -724,16 +519,16 @@ The most honest conclusion is cautious. Würzburg has not solved the UAP problem
     closeMenu(section);
   }
   sections.forEach(function (section) {
-    if (section.getAttribute('data-ebay-localized-init') === '1') return;
-    section.setAttribute('data-ebay-localized-init', '1');
+    if (section.getAttribute('data-ebay-localized-init') ==='1') return;
+    section.setAttribute('data-ebay-localized-init','1');
     var available = availableMarkets(section);
     var marketId = defaultMarket;
     if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
       marketId = window.PhoenixAffiliateLocation.inferMarket(available, {
-        storageKey: 'phoenix-ebay-market',
+        storageKey:'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -747,9 +542,9 @@ The most honest conclusion is cautious. Würzburg has not solved the UAP problem
     if (trigger && menu) {
       trigger.addEventListener('click', function (event) {
         event.stopPropagation();
-        var expanded = trigger.getAttribute('aria-expanded') === 'true';
+        var expanded = trigger.getAttribute('aria-expanded') ==='true';
         menu.hidden = expanded;
-        trigger.setAttribute('aria-expanded', expanded ? 'false' : 'true');
+        trigger.setAttribute('aria-expanded', expanded ?'false' :'true');
         var picker = trigger.closest('.fr-ebay-market-picker');
         if (picker) picker.classList.toggle('fr-ebay-market-picker--open', !expanded);
       });
@@ -768,228 +563,220 @@ The most honest conclusion is cautious. Würzburg has not solved the UAP problem
     });
     applyMarket(section, marketId, false);
   });
-})();
-</script>
-</section>
+})();</script></section>
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: science.nasa.gov  
    Title: Science Independent Study Team Report  
-   Link: <a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA ScienceIndependent Study Team ReportSeptember 13, 2023 — The panel finds that a particularly promising avenue for deeper integration...</p></details>
+   Link:<a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a><details class="endnote-snippet"><summary>Source snippet</summary><p>NASA ScienceIndependent Study Team ReportSeptember 13, 2023 — The panel finds that a particularly promising avenue for deeper integration...</p></details>
    Published: September 13, 2023  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: lba.de  
    Title: Luftfahrt Bundesamt  
-   Link: <a href="https://www.lba.de/DE/Luftfahrtunternehmen/Ereignismeldungen/Allgemeines/Allgemeines.html" target="_blank" rel="noopener noreferrer nofollow">https://www.lba.de/DE/Luftfahrtunternehmen/Ereignismeldungen/Allgemeines/Allgemeines.html</a>  
+   Link:<a href="https://www.lba.de/DE/Luftfahrtunternehmen/Ereignismeldungen/Allgemeines/Allgemeines.html" target="_blank" rel="noopener noreferrer nofollow">https://www.lba.de/DE/Luftfahrtunternehmen/Ereignismeldungen/Allgemeines/Allgemeines.html</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: lba.de  
    Title: Luftfahrt Bundesamt  
-   Link: <a href="https://www.lba.de/DE/Luftfahrtunternehmen/Ereignismeldungen/Ereignismeldungen_node.html" target="_blank" rel="noopener noreferrer nofollow">https://www.lba.de/DE/Luftfahrtunternehmen/Ereignismeldungen/Ereignismeldungen_node.html</a>  
+   Link:<a href="https://www.lba.de/DE/Luftfahrtunternehmen/Ereignismeldungen/Ereignismeldungen_node.html" target="_blank" rel="noopener noreferrer nofollow">https://www.lba.de/DE/Luftfahrtunternehmen/Ereignismeldungen/Ereignismeldungen_node.html</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: science.nasa.gov  
-   Link: <a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
+   Link:<a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: focus.de  
-   Link: <a href="https://www.focus.de/wissen/uni-wuerzburg-und-luftfahrt-bundesamt-kooperieren-bei-ufo-meldestelle-fuer-piloten_c5229adc-5058-4813-8b65-a664da5b9b6b.html" target="_blank" rel="noopener noreferrer nofollow">https://www.focus.de/wissen/uni-wuerzburg-und-luftfahrt-bundesamt-kooperieren-bei-ufo-meldestelle-fuer-piloten_c5229adc-5058-4813-8b65-a664da5b9b6b.html</a>  
+   Link:<a href="https://www.focus.de/wissen/uni-wuerzburg-und-luftfahrt-bundesamt-kooperieren-bei-ufo-meldestelle-fuer-piloten_c5229adc-5058-4813-8b65-a664da5b9b6b.html" target="_blank" rel="noopener noreferrer nofollow">https://www.focus.de/wissen/uni-wuerzburg-und-luftfahrt-bundesamt-kooperieren-bei-ufo-meldestelle-fuer-piloten_c5229adc-5058-4813-8b65-a664da5b9b6b.html</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: uni-wuerzburg.de  
-   Link: <a href="https://www.uni-wuerzburg.de/en/news-and-events/news/detail/news/uap-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.uni-wuerzburg.de/en/news-and-events/news/detail/news/uap-reports/</a>  
+   Link:<a href="https://www.uni-wuerzburg.de/en/news-and-events/news/detail/news/uap-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.uni-wuerzburg.de/en/news-and-events/news/detail/news/uap-reports/</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: uni-wuerzburg.de  
    Title: University of Würzburg UAP Reporting Form for Pilots  
-   Link: <a href="https://www.uni-wuerzburg.de/en/ifex/research-projects/uap-reporting-center-for-pilots/uap-reporting-form-for-pilots/" target="_blank" rel="noopener noreferrer nofollow">https://www.uni-wuerzburg.de/en/ifex/research-projects/uap-reporting-center-for-pilots/uap-reporting-form-for-pilots/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>University of WürzburgUAP Reporting Form for Pilots - IFEX - Interdisciplinary Research Center for Extraterrestrial Studies...</p></details>
+   Link:<a href="https://www.uni-wuerzburg.de/en/ifex/research-projects/uap-reporting-center-for-pilots/uap-reporting-form-for-pilots/" target="_blank" rel="noopener noreferrer nofollow">https://www.uni-wuerzburg.de/en/ifex/research-projects/uap-reporting-center-for-pilots/uap-reporting-form-for-pilots/</a><details class="endnote-snippet"><summary>Source snippet</summary><p>University of WürzburgUAP Reporting Form for Pilots - IFEX - Interdisciplinary Research Center for Extraterrestrial Studies...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: uni-wuerzburg.de  
    Title: University of Würzburg UAP: Sky CAM Searches the Sky  
-   Link: <a href="https://www.uni-wuerzburg.de/en/news-and-events/news/detail/news/skycam-5/" target="_blank" rel="noopener noreferrer nofollow">https://www.uni-wuerzburg.de/en/news-and-events/news/detail/news/skycam-5/</a>  
+   Link:<a href="https://www.uni-wuerzburg.de/en/news-and-events/news/detail/news/skycam-5/" target="_blank" rel="noopener noreferrer nofollow">https://www.uni-wuerzburg.de/en/news-and-events/news/detail/news/skycam-5/</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: informatik.uni-wuerzburg.de  
    Title: Institut für Informatik ADEOS  
-   Link: <a href="https://www.informatik.uni-wuerzburg.de/en/space-technology/projects/active/adeos/" target="_blank" rel="noopener noreferrer nofollow">https://www.informatik.uni-wuerzburg.de/en/space-technology/projects/active/adeos/</a>  
+   Link:<a href="https://www.informatik.uni-wuerzburg.de/en/space-technology/projects/active/adeos/" target="_blank" rel="noopener noreferrer nofollow">https://www.informatik.uni-wuerzburg.de/en/space-technology/projects/active/adeos/</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: uni-wuerzburg.de  
    Title: University of Würzburg First Lecture on Sky Phenomena  
-   Link: <a href="https://www.uni-wuerzburg.de/en/news-and-events/news/detail/news/uap-vorlesung-2023-1/" target="_blank" rel="noopener noreferrer nofollow">https://www.uni-wuerzburg.de/en/news-and-events/news/detail/news/uap-vorlesung-2023-1/</a>  
+   Link:<a href="https://www.uni-wuerzburg.de/en/news-and-events/news/detail/news/uap-vorlesung-2023-1/" target="_blank" rel="noopener noreferrer nofollow">https://www.uni-wuerzburg.de/en/news-and-events/news/detail/news/uap-vorlesung-2023-1/</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: ardmediathek.de  
-   Link: <a href="https://www.ardmediathek.de/video/frankenschau-aktuell/uap-das-forschungsprojekt-der-uni-wuerzburg/br/Y3JpZDovL2JyLmRlL2Jyb2FkY2FzdC9GMjAyNFdPMDEyMzM4QTAvc2VjdGlvbi8xZDE0NDk1ZS02ZTRmLTQ4ZDQtYTRiYi1kNzcxZDY4MzkyYjI" target="_blank" rel="noopener noreferrer nofollow">https://www.ardmediathek.de/video/frankenschau-aktuell/uap-das-forschungsprojekt-der-uni-wuerzburg/br/Y3JpZDovL2JyLmRlL2Jyb2FkY2FzdC9GMjAyNFdPMDEyMzM4QTAvc2VjdGlvbi8xZDE0NDk1ZS02ZTRmLTQ4ZDQtYTRiYi1kNzcxZDY4MzkyYjI</a>  
+   Link:<a href="https://www.ardmediathek.de/video/frankenschau-aktuell/uap-das-forschungsprojekt-der-uni-wuerzburg/br/Y3JpZDovL2JyLmRlL2Jyb2FkY2FzdC9GMjAyNFdPMDEyMzM4QTAvc2VjdGlvbi8xZDE0NDk1ZS02ZTRmLTQ4ZDQtYTRiYi1kNzcxZDY4MzkyYjI" target="_blank" rel="noopener noreferrer nofollow">https://www.ardmediathek.de/video/frankenschau-aktuell/uap-das-forschungsprojekt-der-uni-wuerzburg/br/Y3JpZDovL2JyLmRlL2Jyb2FkY2FzdC9GMjAyNFdPMDEyMzM4QTAvc2VjdGlvbi8xZDE0NDk1ZS02ZTRmLTQ4ZDQtYTRiYi1kNzcxZDY4MzkyYjI</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: uni-wuerzburg.de  
    Title: UAP Reporting Center for Pilots  
-   Link: <a href="https://www.uni-wuerzburg.de/en/ifex/research-projects/uap-reporting-center-for-pilots/" target="_blank" rel="noopener noreferrer nofollow">https://www.uni-wuerzburg.de/en/ifex/research-projects/uap-reporting-center-for-pilots/</a>  
+   Link:<a href="https://www.uni-wuerzburg.de/en/ifex/research-projects/uap-reporting-center-for-pilots/" target="_blank" rel="noopener noreferrer nofollow">https://www.uni-wuerzburg.de/en/ifex/research-projects/uap-reporting-center-for-pilots/</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: uni-wuerzburg.de  
    Title: UAP & SETI Research  
-   Link: <a href="https://www.uni-wuerzburg.de/en/ifex/research-projects/uap-seti-research/" target="_blank" rel="noopener noreferrer nofollow">https://www.uni-wuerzburg.de/en/ifex/research-projects/uap-seti-research/</a>  
+   Link:<a href="https://www.uni-wuerzburg.de/en/ifex/research-projects/uap-seti-research/" target="_blank" rel="noopener noreferrer nofollow">https://www.uni-wuerzburg.de/en/ifex/research-projects/uap-seti-research/</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: uni-wuerzburg.de  
    Title: UAP Meldeformular für Piloten  
-   Link: <a href="https://www.uni-wuerzburg.de/ifex/forschung-projekte/uap-meldestelle-fuer-piloten/uap-meldeformular-fuer-piloten/" target="_blank" rel="noopener noreferrer nofollow">https://www.uni-wuerzburg.de/ifex/forschung-projekte/uap-meldestelle-fuer-piloten/uap-meldeformular-fuer-piloten/</a>  
+   Link:<a href="https://www.uni-wuerzburg.de/ifex/forschung-projekte/uap-meldestelle-fuer-piloten/uap-meldeformular-fuer-piloten/" target="_blank" rel="noopener noreferrer nofollow">https://www.uni-wuerzburg.de/ifex/forschung-projekte/uap-meldestelle-fuer-piloten/uap-meldeformular-fuer-piloten/</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: uni-wuerzburg.de  
    Title: Collection of materials, publications and media contributions  
-   Link: <a href="https://www.uni-wuerzburg.de/en/ifex/research-projects/uap-reporting-center-for-pilots/collection-of-materials-publications-and-media-contributions/" target="_blank" rel="noopener noreferrer nofollow">https://www.uni-wuerzburg.de/en/ifex/research-projects/uap-reporting-center-for-pilots/collection-of-materials-publications-and-media-contributions/</a>  
+   Link:<a href="https://www.uni-wuerzburg.de/en/ifex/research-projects/uap-reporting-center-for-pilots/collection-of-materials-publications-and-media-contributions/" target="_blank" rel="noopener noreferrer nofollow">https://www.uni-wuerzburg.de/en/ifex/research-projects/uap-reporting-center-for-pilots/collection-of-materials-publications-and-media-contributions/</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: uni-wuerzburg.de  
    Title: SET I & UAP Working Group  
-   Link: <a href="https://www.uni-wuerzburg.de/en/ifex/working-groups/seti-uap-working-group/" target="_blank" rel="noopener noreferrer nofollow">https://www.uni-wuerzburg.de/en/ifex/working-groups/seti-uap-working-group/</a>  
+   Link:<a href="https://www.uni-wuerzburg.de/en/ifex/working-groups/seti-uap-working-group/" target="_blank" rel="noopener noreferrer nofollow">https://www.uni-wuerzburg.de/en/ifex/working-groups/seti-uap-working-group/</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: opus.bibliothek.uni-wuerzburg.de  
    Title: doc Id  
-   Link: <a href="https://opus.bibliothek.uni-wuerzburg.de/frontdoor/index/index/docId/26139" target="_blank" rel="noopener noreferrer nofollow">https://opus.bibliothek.uni-wuerzburg.de/frontdoor/index/index/docId/26139</a>  
+   Link:<a href="https://opus.bibliothek.uni-wuerzburg.de/frontdoor/index/index/docId/26139" target="_blank" rel="noopener noreferrer nofollow">https://opus.bibliothek.uni-wuerzburg.de/frontdoor/index/index/docId/26139</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: uni-wuerzburg.de  
    Title: Research & Projects  
-   Link: <a href="https://www.uni-wuerzburg.de/en/ifex/research-projects/" target="_blank" rel="noopener noreferrer nofollow">https://www.uni-wuerzburg.de/en/ifex/research-projects/</a>  
+   Link:<a href="https://www.uni-wuerzburg.de/en/ifex/research-projects/" target="_blank" rel="noopener noreferrer nofollow">https://www.uni-wuerzburg.de/en/ifex/research-projects/</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: uni-wuerzburg.de  
    Title: Review article on UAP research published  
-   Link: <a href="https://www.uni-wuerzburg.de/en/ifex/news/single-english/news/review-article-on-uap-research-published/" target="_blank" rel="noopener noreferrer nofollow">https://www.uni-wuerzburg.de/en/ifex/news/single-english/news/review-article-on-uap-research-published/</a>  
+   Link:<a href="https://www.uni-wuerzburg.de/en/ifex/news/single-english/news/review-article-on-uap-research-published/" target="_blank" rel="noopener noreferrer nofollow">https://www.uni-wuerzburg.de/en/ifex/news/single-english/news/review-article-on-uap-research-published/</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: uni-wuerzburg.de  
    Title: ifex seti uap conference 2025  
-   Link: <a href="https://www.uni-wuerzburg.de/en/ifex/events/ifex-seti-uap-conference-2025/" target="_blank" rel="noopener noreferrer nofollow">https://www.uni-wuerzburg.de/en/ifex/events/ifex-seti-uap-conference-2025/</a>  
+   Link:<a href="https://www.uni-wuerzburg.de/en/ifex/events/ifex-seti-uap-conference-2025/" target="_blank" rel="noopener noreferrer nofollow">https://www.uni-wuerzburg.de/en/ifex/events/ifex-seti-uap-conference-2025/</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: uni-wuerzburg.de  
-   Link: <a href="https://www.uni-wuerzburg.de/en/news-and-events/news/archive/period/year/2025/month/7/" target="_blank" rel="noopener noreferrer nofollow">https://www.uni-wuerzburg.de/en/news-and-events/news/archive/period/year/2025/month/7/</a>  
+   Link:<a href="https://www.uni-wuerzburg.de/en/news-and-events/news/archive/period/year/2025/month/7/" target="_blank" rel="noopener noreferrer nofollow">https://www.uni-wuerzburg.de/en/news-and-events/news/archive/period/year/2025/month/7/</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: uni-wuerzburg.de  
    Title: UAP-Meldestelle für Piloten  
-   Link: <a href="https://www.uni-wuerzburg.de/ifex/forschung-projekte/uap-meldestelle-fuer-piloten/" target="_blank" rel="noopener noreferrer nofollow">https://www.uni-wuerzburg.de/ifex/forschung-projekte/uap-meldestelle-fuer-piloten/</a>  
+   Link:<a href="https://www.uni-wuerzburg.de/ifex/forschung-projekte/uap-meldestelle-fuer-piloten/" target="_blank" rel="noopener noreferrer nofollow">https://www.uni-wuerzburg.de/ifex/forschung-projekte/uap-meldestelle-fuer-piloten/</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: uni-wuerzburg.de  
    Title: uap koop mit lba  
-   Link: <a href="https://www.uni-wuerzburg.de/aktuelles/pressemitteilungen/single/news/uap-koop-mit-lba/" target="_blank" rel="noopener noreferrer nofollow">https://www.uni-wuerzburg.de/aktuelles/pressemitteilungen/single/news/uap-koop-mit-lba/</a>  
+   Link:<a href="https://www.uni-wuerzburg.de/aktuelles/pressemitteilungen/single/news/uap-koop-mit-lba/" target="_blank" rel="noopener noreferrer nofollow">https://www.uni-wuerzburg.de/aktuelles/pressemitteilungen/single/news/uap-koop-mit-lba/</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: uni-wuerzburg.de  
    Title: Va M Ex3-Mars Symphony  
-   Link: <a href="https://www.uni-wuerzburg.de/en/ifex/research-projects/extraterrestrial-projects/vamex3-marssymphony/" target="_blank" rel="noopener noreferrer nofollow">https://www.uni-wuerzburg.de/en/ifex/research-projects/extraterrestrial-projects/vamex3-marssymphony/</a>  
+   Link:<a href="https://www.uni-wuerzburg.de/en/ifex/research-projects/extraterrestrial-projects/vamex3-marssymphony/" target="_blank" rel="noopener noreferrer nofollow">https://www.uni-wuerzburg.de/en/ifex/research-projects/extraterrestrial-projects/vamex3-marssymphony/</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: informatik.uni-wuerzburg.de  
    Title: de Sky CA M  
-   Link: <a href="https://www.informatik.uni-wuerzburg.de/en/raumfahrttechnik/projekte/abgeschlossene/skycam/" target="_blank" rel="noopener noreferrer nofollow">https://www.informatik.uni-wuerzburg.de/en/raumfahrttechnik/projekte/abgeschlossene/skycam/</a>  
+   Link:<a href="https://www.informatik.uni-wuerzburg.de/en/raumfahrttechnik/projekte/abgeschlossene/skycam/" target="_blank" rel="noopener noreferrer nofollow">https://www.informatik.uni-wuerzburg.de/en/raumfahrttechnik/projekte/abgeschlossene/skycam/</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: informatik.uni-wuerzburg.de  
    Title: de Ing. Hakan Kayal  
-   Link: <a href="https://www.informatik.uni-wuerzburg.de/en/space-technology/team/kayal/" target="_blank" rel="noopener noreferrer nofollow">https://www.informatik.uni-wuerzburg.de/en/space-technology/team/kayal/</a>  
+   Link:<a href="https://www.informatik.uni-wuerzburg.de/en/space-technology/team/kayal/" target="_blank" rel="noopener noreferrer nofollow">https://www.informatik.uni-wuerzburg.de/en/space-technology/team/kayal/</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: uni-wuerzburg.de  
    Title: cave robot  
-   Link: <a href="https://www.uni-wuerzburg.de/en/news-and-events/einblick/single/news/cave-robot/" target="_blank" rel="noopener noreferrer nofollow">https://www.uni-wuerzburg.de/en/news-and-events/einblick/single/news/cave-robot/</a>  
+   Link:<a href="https://www.uni-wuerzburg.de/en/news-and-events/einblick/single/news/cave-robot/" target="_blank" rel="noopener noreferrer nofollow">https://www.uni-wuerzburg.de/en/news-and-events/einblick/single/news/cave-robot/</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: informatik.uni-wuerzburg.de  
    Title: de UAP neu im Forschungskanon  
-   Link: <a href="https://www.informatik.uni-wuerzburg.de/raumfahrttechnik/aktuelles/single/seite-1/?cHash=d06635ba1d5c07fdeb5be315d5199245&amp;tx_news_pi1%5Bnews%5D=196136" target="_blank" rel="noopener noreferrer nofollow">https://www.informatik.uni-wuerzburg.de/raumfahrttechnik/aktuelles/single/seite-1/?cHash=d06635ba1d5c07fdeb5be315d5199245&amp;tx_news_pi1%5Bnews%5D=196136</a>  
+   Link:<a href="https://www.informatik.uni-wuerzburg.de/raumfahrttechnik/aktuelles/single/seite-1/?cHash=d06635ba1d5c07fdeb5be315d5199245&amp;tx_news_pi1%5Bnews%5D=196136" target="_blank" rel="noopener noreferrer nofollow">https://www.informatik.uni-wuerzburg.de/raumfahrttechnik/aktuelles/single/seite-1/?cHash=d06635ba1d5c07fdeb5be315d5199245&amp;tx_news_pi1%5Bnews%5D=196136</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: uni-wuerzburg.de  
-   Link: <a href="https://www.uni-wuerzburg.de/en/lehre/aktuelles/meldungen/single/news/uap-vorlesung-2023-1/" target="_blank" rel="noopener noreferrer nofollow">https://www.uni-wuerzburg.de/en/lehre/aktuelles/meldungen/single/news/uap-vorlesung-2023-1/</a>  
+   Link:<a href="https://www.uni-wuerzburg.de/en/lehre/aktuelles/meldungen/single/news/uap-vorlesung-2023-1/" target="_blank" rel="noopener noreferrer nofollow">https://www.uni-wuerzburg.de/en/lehre/aktuelles/meldungen/single/news/uap-vorlesung-2023-1/</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: uni-wuerzburg.de  
-   Link: <a href="https://www.uni-wuerzburg.de/en/ifex/publications/" target="_blank" rel="noopener noreferrer nofollow">https://www.uni-wuerzburg.de/en/ifex/publications/</a>  
+   Link:<a href="https://www.uni-wuerzburg.de/en/ifex/publications/" target="_blank" rel="noopener noreferrer nofollow">https://www.uni-wuerzburg.de/en/ifex/publications/</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: informatik.uni-wuerzburg.de  
    Title: allskycam auf der zugspitze installiert  
-   Link: <a href="https://www.informatik.uni-wuerzburg.de/en/space-technology/news/single/news/allskycam-auf-der-zugspitze-installiert/" target="_blank" rel="noopener noreferrer nofollow">https://www.informatik.uni-wuerzburg.de/en/space-technology/news/single/news/allskycam-auf-der-zugspitze-installiert/</a>  
+   Link:<a href="https://www.informatik.uni-wuerzburg.de/en/space-technology/news/single/news/allskycam-auf-der-zugspitze-installiert/" target="_blank" rel="noopener noreferrer nofollow">https://www.informatik.uni-wuerzburg.de/en/space-technology/news/single/news/allskycam-auf-der-zugspitze-installiert/</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: informatik.uni-wuerzburg.de  
-   Link: <a href="https://www.informatik.uni-wuerzburg.de/fileadmin/1003-ifex/UAP_Workshops/Workshop_2022/Stand_und_Perspektiven_der_UAP__Unidentified_Aerial_Phenomena_-Forschung_an_der_Julius-Maximilians-Universitaet_Wuerzburg_22.11.2022.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.informatik.uni-wuerzburg.de/fileadmin/1003-ifex/UAP_Workshops/Workshop_2022/Stand_und_Perspektiven_der_UAP__Unidentified_Aerial_Phenomena_-Forschung_an_der_Julius-Maximilians-Universitaet_Wuerzburg_22.11.2022.pdf</a>  
+   Link:<a href="https://www.informatik.uni-wuerzburg.de/fileadmin/1003-ifex/UAP_Workshops/Workshop_2022/Stand_und_Perspektiven_der_UAP__Unidentified_Aerial_Phenomena_-Forschung_an_der_Julius-Maximilians-Universitaet_Wuerzburg_22.11.2022.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.informatik.uni-wuerzburg.de/fileadmin/1003-ifex/UAP_Workshops/Workshop_2022/Stand_und_Perspektiven_der_UAP__Unidentified_Aerial_Phenomena_-Forschung_an_der_Julius-Maximilians-Universitaet_Wuerzburg_22.11.2022.pdf</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: uni-wuerzburg.de  
    Title: Uni Würzburg und Luftfahrt-Bundesamt kooperieren  
-   Link: <a href="https://www.uni-wuerzburg.de/ifex/aktuelles/single/seite-1/?cHash=55f7fa062e321bcd6b6cd76554a45c06&amp;tx_news_pi1%5Bnews%5D=231720" target="_blank" rel="noopener noreferrer nofollow">https://www.uni-wuerzburg.de/ifex/aktuelles/single/seite-1/?cHash=55f7fa062e321bcd6b6cd76554a45c06&amp;tx_news_pi1%5Bnews%5D=231720</a>  
+   Link:<a href="https://www.uni-wuerzburg.de/ifex/aktuelles/single/seite-1/?cHash=55f7fa062e321bcd6b6cd76554a45c06&amp;tx_news_pi1%5Bnews%5D=231720" target="_blank" rel="noopener noreferrer nofollow">https://www.uni-wuerzburg.de/ifex/aktuelles/single/seite-1/?cHash=55f7fa062e321bcd6b6cd76554a45c06&amp;tx_news_pi1%5Bnews%5D=231720</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: uni-wuerzburg.de  
    Title: uap meldungen universitaet wuerzburg und luftfahrt bundesamt kooperieren  
-   Link: <a href="https://www.uni-wuerzburg.de/en/alumni/community/aktueller-community-letter/newsletter-single/news/uap-meldungen-universitaet-wuerzburg-und-luftfahrt-bundesamt-kooperieren/" target="_blank" rel="noopener noreferrer nofollow">https://www.uni-wuerzburg.de/en/alumni/community/aktueller-community-letter/newsletter-single/news/uap-meldungen-universitaet-wuerzburg-und-luftfahrt-bundesamt-kooperieren/</a>  
+   Link:<a href="https://www.uni-wuerzburg.de/en/alumni/community/aktueller-community-letter/newsletter-single/news/uap-meldungen-universitaet-wuerzburg-und-luftfahrt-bundesamt-kooperieren/" target="_blank" rel="noopener noreferrer nofollow">https://www.uni-wuerzburg.de/en/alumni/community/aktueller-community-letter/newsletter-single/news/uap-meldungen-universitaet-wuerzburg-und-luftfahrt-bundesamt-kooperieren/</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: wuerzburgwiki.de  
    Title: Hakan Kayal  
-   Link: <a href="https://wuerzburgwiki.de/wiki/Hakan_Kayal" target="_blank" rel="noopener noreferrer nofollow">https://wuerzburgwiki.de/wiki/Hakan_Kayal</a>  
+   Link:<a href="https://wuerzburgwiki.de/wiki/Hakan_Kayal" target="_blank" rel="noopener noreferrer nofollow">https://wuerzburgwiki.de/wiki/Hakan_Kayal</a>  
 
 ### Additional References
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: youtube.com  
    Title: D. Buettner: The UAPs that Pilots, Passengers and Other Cameras “Capture”  
-   Link: <a href="https://www.youtube.com/watch?v=xFndGbYrmJQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=xFndGbYrmJQ</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>B. Friscourt: Citizen science and fast response UAP observatory...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=xFndGbYrmJQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=xFndGbYrmJQ</a><details class="endnote-snippet"><summary>Source snippet</summary><p>B. Friscourt: Citizen science and fast response UAP observatory...</p></details>
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: youtube.com  
    Title: R. Graves: UAP  
-   Link: <a href="https://www.youtube.com/watch?v=6oumYk1lqbI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=6oumYk1lqbI</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>D. Buettner: The UAPs that Pilots, Passengers and Other Cameras “Capture”...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=6oumYk1lqbI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=6oumYk1lqbI</a><details class="endnote-snippet"><summary>Source snippet</summary><p>D. Buettner: The UAPs that Pilots, Passengers and Other Cameras “Capture”...</p></details>
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: youtube.com  
    Title: B. Friscourt: Citizen science and fast response UAP observatory  
-   Link: <a href="https://www.youtube.com/watch?v=6LeGSpDfmbU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=6LeGSpDfmbU</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>C. Peters: UAP and the Politics of Secrecy and Disclosure...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=6LeGSpDfmbU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=6LeGSpDfmbU</a><details class="endnote-snippet"><summary>Source snippet</summary><p>C. Peters: UAP and the Politics of Secrecy and Disclosure...</p></details>
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: youtube.com  
    Title: C. Peters: UAP and the Politics of Secrecy and Disclosure  
-   Link: <a href="https://www.youtube.com/watch?v=TbvLKBcQn-A" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=TbvLKBcQn-A</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>D. Ammon &amp; A. Kramer: The Oz Factor – Anomaly or Derealization?...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=TbvLKBcQn-A" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=TbvLKBcQn-A</a><details class="endnote-snippet"><summary>Source snippet</summary><p>D. Ammon &amp; A. Kramer: The Oz Factor – Anomaly or Derealization?...</p></details>
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/397241203_Research_into_Unidentified_Anomalous_Phenomena_UAP_as_an_official_academic_research_topic_at_a_university" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/397241203_Research_into_Unidentified_Anomalous_Phenomena_UAP_as_an_official_academic_research_topic_at_a_university</a>  
+   Link:<a href="https://www.researchgate.net/publication/397241203_Research_into_Unidentified_Anomalous_Phenomena_UAP_as_an_official_academic_research_topic_at_a_university" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/397241203_Research_into_Unidentified_Anomalous_Phenomena_UAP_as_an_official_academic_research_topic_at_a_university</a>  
 
-41. <a id="endnote-41"></a>
+41.<a id="endnote-41"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/400348279_Science_in_a_Stigmatized_Field_Challenges_and_Opportunities_in_the_Emerging_Research_Domain_of_UAP" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/400348279_Science_in_a_Stigmatized_Field_Challenges_and_Opportunities_in_the_Emerging_Research_Domain_of_UAP</a>  
+   Link:<a href="https://www.researchgate.net/publication/400348279_Science_in_a_Stigmatized_Field_Challenges_and_Opportunities_in_the_Emerging_Research_Domain_of_UAP" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/400348279_Science_in_a_Stigmatized_Field_Challenges_and_Opportunities_in_the_Emerging_Research_Domain_of_UAP</a>  
 
-42. <a id="endnote-42"></a>
+42.<a id="endnote-42"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/itvnews/posts/a-nasa-report-into-unidentified-flying-objects-ufos-has-found-no-evidence-that-t/686500760179269/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/itvnews/posts/a-nasa-report-into-unidentified-flying-objects-ufos-has-found-no-evidence-that-t/686500760179269/</a>  
+   Link:<a href="https://www.facebook.com/itvnews/posts/a-nasa-report-into-unidentified-flying-objects-ufos-has-found-no-evidence-that-t/686500760179269/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/itvnews/posts/a-nasa-report-into-unidentified-flying-objects-ufos-has-found-no-evidence-that-t/686500760179269/</a>  
 
-43. <a id="endnote-43"></a>
+43.<a id="endnote-43"></a>
    Source: aiaa.org  
-   Link: <a href="https://aiaa.org/wp-content/uploads/2025/08/AIAA-UAPIOC-Opinion-Paper-UAP-Occupational-Safety-Reporting_ForPublication_kb.pdf" target="_blank" rel="noopener noreferrer nofollow">https://aiaa.org/wp-content/uploads/2025/08/AIAA-UAPIOC-Opinion-Paper-UAP-Occupational-Safety-Reporting_ForPublication_kb.pdf</a>  
+   Link:<a href="https://aiaa.org/wp-content/uploads/2025/08/AIAA-UAPIOC-Opinion-Paper-UAP-Occupational-Safety-Reporting_ForPublication_kb.pdf" target="_blank" rel="noopener noreferrer nofollow">https://aiaa.org/wp-content/uploads/2025/08/AIAA-UAPIOC-Opinion-Paper-UAP-Occupational-Safety-Reporting_ForPublication_kb.pdf</a>  
 
-44. <a id="endnote-44"></a>
+44.<a id="endnote-44"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/rz1jqb/german_university_juliusmaximiliansuniversit%C3%A4t/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/rz1jqb/german_university_juliusmaximiliansuniversit%C3%A4t/</a>  
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/rz1jqb/german_university_juliusmaximiliansuniversit%C3%A4t/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/rz1jqb/german_university_juliusmaximiliansuniversit%C3%A4t/</a>  
 
-45. <a id="endnote-45"></a>
+45.<a id="endnote-45"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/1mdgkgi/german_university_of_w%C3%BCrzburg_links_to/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1mdgkgi/german_university_of_w%C3%BCrzburg_links_to/</a>  
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/1mdgkgi/german_university_of_w%C3%BCrzburg_links_to/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1mdgkgi/german_university_of_w%C3%BCrzburg_links_to/</a>  

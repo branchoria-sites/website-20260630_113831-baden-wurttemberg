@@ -52,7 +52,7 @@ text_direction: ltr
 ui_strings:
   home: Home
   overview: Overview
-  overview_prefix: 'Overview:'
+  overview_prefix:'Overview:'
   contents: Contents
   close: Close
   open_contents: Open contents
@@ -200,13 +200,13 @@ ui_strings:
   search_this_page_empty_hint: Type to search this page.
   no_search_results: No pages match this search.
   no_search_this_page_results: No sections on this page match this search.
-  search_results_count_template: '{count} results'
+  search_results_count_template:'{count} results'
   search_kind_page_title: Page title
   search_kind_page_summary: Summary of page
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date: '2026-06-30 04:55:10'
+date:'2026-06-30 04:55:10'
 parent_title: Lower Saxony UFOs
 parent_permalink: /what-really-happened-in-lower-saxonys/
 parent_nav_short_title: Lower Saxony UFOs
@@ -302,54 +302,45 @@ image: /assets/images/Lower_Saxony_e2cb37_wittmund_eurofighter_7a330c-overview-s
 
 ## Introduction
 
-Wittmund matters to [Lower Saxony]({{ 'what-really-happened-in-lower-saxonys/' | relative_url }})’s UFO history because it is not just a place where people may see military aircraft: it is one of the key German Air Force locations from which airspace-security activity is organised for northern Germany. The Eurofighters associated with Wittmund, and the Quick Reaction Alert role they support, give investigators a concrete aviation setting to check before treating a strange light, loud bang or fast-moving object as genuinely unexplained. The point is not that “it was probably a jet” should be used as a lazy answer. The point is that in this part of Lower Saxony, fast military aviation is a real, documented part of the sky environment. Wittmund’s Tactical Air Wing 71 is identified by the Bundeswehr as a Eurofighter base in Lower Saxony and as the home of the northern alert element, while official German Air Force material describes Quick Reaction Alert as a permanent 24-hour task for protecting German airspace. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.bundeswehr.de/en/organization/german-air-force/structure/air-force-forces-command/taktisches-luftwaffengeschwader-71-richthofen" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bundeswehr.de">[Bundeswehr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bundeswehr.de</span><span class="citation-popover-title">taktisches luftwaffengeschwader 71 richthofen</span><span class="citation-popover-snippet">71 Tactical Air Wing Richthofen29 Sept 2021 — 71 Tactical Air Wing in Wittmund is located in Lower Saxony and is one of the Luf...</span></span></span>
-
-
-<img src="{{ "/assets/images/Lower_Saxony_e2cb37_wittmund_eurofighter_7a330c-overview.webp" | relative_url }}" alt="Overview image for Wittmund" loading="eager" decoding="sync" fetchpriority="high">
+Wittmund matters to [Lower Saxony]({{'what-really-happened-in-lower-saxonys/' | relative_url }})’s UFO history because it is not just a place where people may see military aircraft: it is one of the key German Air Force locations from which airspace-security activity is organised for northern Germany. The Eurofighters associated with Wittmund, and the Quick Reaction Alert role they support, give investigators a concrete aviation setting to check before treating a strange light, loud bang or fast-moving object as genuinely unexplained. The point is not that “it was probably a jet” should be used as a lazy answer. The point is that in this part of Lower Saxony, fast military aviation is a real, documented part of the sky environment. Wittmund’s Tactical Air Wing 71 is identified by the Bundeswehr as a Eurofighter base in Lower Saxony and as the home of the northern alert element, while official German Air Force material describes Quick Reaction Alert as a permanent 24-hour task for protecting German airspace.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.bundeswehr.de/en/organization/german-air-force/structure/air-force-forces-command/taktisches-luftwaffengeschwader-71-richthofen" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bundeswehr.de">[Bundeswehr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bundeswehr.de</span><span class="citation-popover-title">taktisches luftwaffengeschwader 71 richthofen</span><span class="citation-popover-snippet">71 Tactical Air Wing Richthofen29 Sept 2021 — 71 Tactical Air Wing in Wittmund is located in Lower Saxony and is one of the Luf...</span></span></span><img src="{{"/assets/images/Lower_Saxony_e2cb37_wittmund_eurofighter_7a330c-overview.webp" | relative_url }}" alt="Overview image for Wittmund" loading="eager" decoding="sync" fetchpriority="high">
 That makes Wittmund a useful filter for UFO assessment. Some reports that feel dramatic to witnesses may match ordinary features of fast jets: sudden engine noise, paired aircraft, sharp turns, short visible tracks, lights seen without distance cues, or sonic booms after an urgent intercept. Other reports still fall short of a tidy aircraft explanation, especially when the timing, direction, altitude, sound, radar or witness location do not line up. A careful Lower Saxony reading therefore treats Wittmund as a source of necessary context, not as a universal debunking tool.
 
 ## Why Wittmund Changes the First Question
 
-For many UFO reports, the first public question is “what did the witness see?” Around Wittmund and the wider north-west of Lower Saxony, a better first question is often “what was the airspace doing at the time?” That shift matters because Wittmundhafen is not a minor aviation footnote. The German Air Force’s 71 Tactical Air Wing is based at Wittmund in Lower Saxony and is one of the Luftwaffe’s Eurofighter locations; official descriptions also tie it to the northern alert role. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.bundeswehr.de/de/organisation/luftwaffe/organisation-/luftwaffentruppenkommando/taktisches-luftwaffengeschwader-71-richthofen" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bundeswehr.de">[Bundeswehr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bundeswehr.de</span><span class="citation-popover-snippet">Taktisches Luftwaffengeschwader 71 &quot;Richthofen&quot;Das Geschwader in Wittmund liegt in Niedersachsen und ist einer von vier Eurofig...</span></span></span>
+For many UFO reports, the first public question is “what did the witness see?” Around Wittmund and the wider north-west of Lower Saxony, a better first question is often “what was the airspace doing at the time?” That shift matters because Wittmundhafen is not a minor aviation footnote. The German Air Force’s 71 Tactical Air Wing is based at Wittmund in Lower Saxony and is one of the Luftwaffe’s Eurofighter locations; official descriptions also tie it to the northern alert role.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.bundeswehr.de/de/organisation/luftwaffe/organisation-/luftwaffentruppenkommando/taktisches-luftwaffengeschwader-71-richthofen" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bundeswehr.de">[Bundeswehr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bundeswehr.de</span><span class="citation-popover-snippet">Taktisches Luftwaffengeschwader 71 &quot;Richthofen&quot;Das Geschwader in Wittmund liegt in Niedersachsen und ist einer von vier Eurofig...</span></span></span>
 
-Quick Reaction Alert, often shortened to QRA, is the standing readiness system by which fighter aircraft can be launched quickly to identify or intercept aircraft that are unknown, unresponsive or otherwise concerning. The Bundeswehr says Germany keeps two QRA elements ready for airspace security: one in the north at Wittmund and one in the south at Neuburg an der Donau, with alternative bases including Laage and Nörvenich. It also states that only the Air Force, using Eurofighters, can intercept aircraft flying high and fast over Germany. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.bundeswehr.de/en/airspace-security-nothing-escapes-the-german-air-force-5067216" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bundeswehr.de">[Bundeswehr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bundeswehr.de</span><span class="citation-popover-title">airspace security nothing escapes the german air force 5067216</span><span class="citation-popover-snippet">Airspace Security – Nothing Escapes the German Air Force28 Apr 2021 — Two QRA elements are always on stand-by for airspace secu...</span></span></span>
+Quick Reaction Alert, often shortened to QRA, is the standing readiness system by which fighter aircraft can be launched quickly to identify or intercept aircraft that are unknown, unresponsive or otherwise concerning. The Bundeswehr says Germany keeps two QRA elements ready for airspace security: one in the north at Wittmund and one in the south at Neuburg an der Donau, with alternative bases including Laage and Nörvenich. It also states that only the Air Force, using Eurofighters, can intercept aircraft flying high and fast over Germany.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.bundeswehr.de/en/airspace-security-nothing-escapes-the-german-air-force-5067216" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bundeswehr.de">[Bundeswehr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bundeswehr.de</span><span class="citation-popover-title">airspace security nothing escapes the german air force 5067216</span><span class="citation-popover-snippet">Airspace Security – Nothing Escapes the German Air Force28 Apr 2021 — Two QRA elements are always on stand-by for airspace secu...</span></span></span>
 
 For UFO interpretation, this changes the local evidence threshold. A fast light over a rural horizon, a pair of aircraft heard before they are seen, or a sudden boom over Lower Saxony may be alarming, but the region has a known mechanism for exactly that kind of event. This does not mean every witness is mistaken. It means the report should first be checked against military flying, air-policing activity, exercises, temporary deployments and official notices before being treated as an anomalous case.
 
-Wittmund also sits in a landscape where aviation is easy to misread. East Frisia has flat horizons, coastal weather, open skies and patches of low light pollution. These conditions can make aircraft seem lower, faster or more isolated than they really are. The Bundeswehr’s own Wittmund material notes the North Sea location and frequent foggy weather at the airfield, a small but useful reminder that visibility and weather can complicate what people think they saw. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.bundeswehr.de/de/organisation/luftwaffe/organisation-/luftwaffentruppenkommando/taktisches-luftwaffengeschwader-71-richthofen" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bundeswehr.de">[Bundeswehr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bundeswehr.de</span><span class="citation-popover-snippet">Taktisches Luftwaffengeschwader 71 &quot;Richthofen&quot;Das Geschwader in Wittmund liegt in Niedersachsen und ist einer von vier Eurofig...</span></span></span>
-
-
-<img src="{{ "/assets/images/Lower_Saxony_e2cb37_wittmund_eurofighter_7a330c-Illustration-1-dark.svg" | relative_url }}" alt="Wittmund illustration 1" data-theme-src-dark="{{ "/assets/images/Lower_Saxony_e2cb37_wittmund_eurofighter_7a330c-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Lower_Saxony_e2cb37_wittmund_eurofighter_7a330c-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+Wittmund also sits in a landscape where aviation is easy to misread. East Frisia has flat horizons, coastal weather, open skies and patches of low light pollution. These conditions can make aircraft seem lower, faster or more isolated than they really are. The Bundeswehr’s own Wittmund material notes the North Sea location and frequent foggy weather at the airfield, a small but useful reminder that visibility and weather can complicate what people think they saw.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.bundeswehr.de/de/organisation/luftwaffe/organisation-/luftwaffentruppenkommando/taktisches-luftwaffengeschwader-71-richthofen" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bundeswehr.de">[Bundeswehr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bundeswehr.de</span><span class="citation-popover-snippet">Taktisches Luftwaffengeschwader 71 &quot;Richthofen&quot;Das Geschwader in Wittmund liegt in Niedersachsen und ist einer von vier Eurofig...</span></span></span><img src="{{"/assets/images/Lower_Saxony_e2cb37_wittmund_eurofighter_7a330c-Illustration-1-dark.svg" | relative_url }}" alt="Wittmund illustration 1" data-theme-src-dark="{{"/assets/images/Lower_Saxony_e2cb37_wittmund_eurofighter_7a330c-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{"/assets/images/Lower_Saxony_e2cb37_wittmund_eurofighter_7a330c-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What Quick Reaction Alert Actually Does
 
-QRA is not a UFO-hunting system. It is an air-defence and air-policing system. Its relevance to UFO cases comes from the fact that it deals with unknown or non-cooperative aircraft before their identity is clear. The German Air Force explains that if an unknown contact remains unidentified or does not respond to calls, the responsible QRA can launch; its task is to identify the aircraft visually, observe its behaviour, escort it if necessary or persuade it to turn away. The same official account says such procedures can apply to military aircraft, civilian aircraft in difficulty, technical problems or suspected hijacking scenarios. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.bundeswehr.de/de/organisation/luftwaffe/air-policing-sicherheit-luftraum" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bundeswehr.de">[Bundeswehr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bundeswehr.de</span><span class="citation-popover-title">Air Policing — Sicherheit im Luftraum</span><span class="citation-popover-snippet">Air Policing — Sicherheit im Luftraum</span></span></span>
+QRA is not a UFO-hunting system. It is an air-defence and air-policing system. Its relevance to UFO cases comes from the fact that it deals with unknown or non-cooperative aircraft before their identity is clear. The German Air Force explains that if an unknown contact remains unidentified or does not respond to calls, the responsible QRA can launch; its task is to identify the aircraft visually, observe its behaviour, escort it if necessary or persuade it to turn away. The same official account says such procedures can apply to military aircraft, civilian aircraft in difficulty, technical problems or suspected hijacking scenarios.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.bundeswehr.de/de/organisation/luftwaffe/air-policing-sicherheit-luftraum" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bundeswehr.de">[Bundeswehr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bundeswehr.de</span><span class="citation-popover-title">Air Policing — Sicherheit im Luftraum</span><span class="citation-popover-snippet">Air Policing — Sicherheit im Luftraum</span></span></span>
 
-That distinction is important. In official aviation language, an “unknown” radar contact or aircraft is not the same as a paranormal object. It may be an aircraft with a failed radio, a missing flight plan, a transponder problem, a military aircraft operating near NATO airspace, or a civilian flight that air traffic control cannot immediately classify. Germany’s air-traffic environment depends heavily on radar, transponders and radio communication. DFS, the German air navigation service provider, explains that air traffic controllers direct both civil and military flights, and that radar centres monitor aircraft as symbols on screens while transponders provide identifying information after take-off. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dfs.de/homepage/en/air-traffic-control/operations/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dfs.de">[DFS Deutsche Flugsicherung GmbH]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dfs.de</span><span class="citation-popover-snippet">Open source on dfs.de.</span></span></span>
+That distinction is important. In official aviation language, an “unknown” radar contact or aircraft is not the same as a paranormal object. It may be an aircraft with a failed radio, a missing flight plan, a transponder problem, a military aircraft operating near NATO airspace, or a civilian flight that air traffic control cannot immediately classify. Germany’s air-traffic environment depends heavily on radar, transponders and radio communication. DFS, the German air navigation service provider, explains that air traffic controllers direct both civil and military flights, and that radar centres monitor aircraft as symbols on screens while transponders provide identifying information after take-off.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dfs.de/homepage/en/air-traffic-control/operations/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dfs.de">[DFS Deutsche Flugsicherung GmbH]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dfs.de</span><span class="citation-popover-snippet">Open source on dfs.de.</span></span></span>
 
 This helps explain a common source of confusion in UFO discussions. When the public hears that fighters were scrambled for an “unknown” or “unidentified” aircraft, the word can sound mysterious. In air-defence practice, it more often means “not yet identified to operational standards”. The QRA launch is a safety and sovereignty response, not evidence that something exotic has appeared.
 
-The Wittmund connection became more visible during periods when the northern QRA was operating away from its usual home because of construction work. Bundeswehr material from 2026 said the northern alert element was temporarily starting from Tactical Air Wing 73 at Laage because of building works at Wittmund. The Lower Saxony state construction authority also reported that Eurofighters had operated from Rostock-Laage after a 2022 fly-out while Wittmundhafen was adapted for the Eurofighter system, with the first Eurofighters returning to Wittmund on 17 July 2025. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.bundeswehr.de/de/organisation/luftwaffe/sicherheit-im-luftraum-der-luftwaffe-entgeht-nichts-135310" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bundeswehr.de">[Bundeswehr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bundeswehr.de</span><span class="citation-popover-title">sicherheit im luftraum der luftwaffe entgeht nichts 135310</span><span class="citation-popover-snippet">sicherheit im luftraum der luftwaffe entgeht nichts 135310</span></span></span>
+The Wittmund connection became more visible during periods when the northern QRA was operating away from its usual home because of construction work. Bundeswehr material from 2026 said the northern alert element was temporarily starting from Tactical Air Wing 73 at Laage because of building works at Wittmund. The Lower Saxony state construction authority also reported that Eurofighters had operated from Rostock-Laage after a 2022 fly-out while Wittmundhafen was adapted for the Eurofighter system, with the first Eurofighters returning to Wittmund on 17 July 2025.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.bundeswehr.de/de/organisation/luftwaffe/sicherheit-im-luftraum-der-luftwaffe-entgeht-nichts-135310" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bundeswehr.de">[Bundeswehr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bundeswehr.de</span><span class="citation-popover-title">sicherheit im luftraum der luftwaffe entgeht nichts 135310</span><span class="citation-popover-snippet">sicherheit im luftraum der luftwaffe entgeht nichts 135310</span></span></span>
 
 ## What Fast Jets Can Look and Sound Like
 
 A Eurofighter seen unexpectedly is not a neutral visual experience. It can cross a patch of sky quickly, change direction sharply, appear as a bright moving point at distance, or become visible only briefly before cloud, haze or darkness removes it from view. At night or near twilight, the aircraft itself may not be visible at all; the witness may mainly notice lights, engine sound, a sudden change in direction, or another aircraft following the same route.
 
-The sound can be even more misleading. Jet noise does not always seem to come from where the aircraft is seen, especially when the aircraft is moving fast, the witness is surrounded by buildings or trees, or the sound reflects from cloud and terrain. A person may hear a roar after the object has already moved on, or hear an aircraft without being able to locate it visually. DFS’s aircraft-noise guidance makes the basic point that aircraft noise cannot simply be switched off, because it comes from engines and from airflow around the fuselage and wings. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dfs.de/homepage/en/environment/aircraft-noise/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dfs.de">[DFS Deutsche Flugsicherung GmbH]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dfs.de</span><span class="citation-popover-snippet">Open source on dfs.de.</span></span></span>
+The sound can be even more misleading. Jet noise does not always seem to come from where the aircraft is seen, especially when the aircraft is moving fast, the witness is surrounded by buildings or trees, or the sound reflects from cloud and terrain. A person may hear a roar after the object has already moved on, or hear an aircraft without being able to locate it visually. DFS’s aircraft-noise guidance makes the basic point that aircraft noise cannot simply be switched off, because it comes from engines and from airflow around the fuselage and wings.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dfs.de/homepage/en/environment/aircraft-noise/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dfs.de">[DFS Deutsche Flugsicherung GmbH]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dfs.de</span><span class="citation-popover-snippet">Open source on dfs.de.</span></span></span>
 
-The clearest Lower Saxony example is not a UFO case but it is highly relevant to UFO interpretation. On 1 May 2023, two loud bangs frightened many people in Lower Saxony. The Bundeswehr later explained that a QRA pair had launched from Laage to check an aircraft without radio contact, and that the two Eurofighters flew at supersonic speed to cover more than 400 kilometres to Münster in about 20 minutes. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.bundeswehr.de/de/meldungen/niedersachsen-alarmrotte-ueberschall-5619196" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bundeswehr.de">[Bundeswehr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bundeswehr.de</span><span class="citation-popover-title">Niedersachsen: Darum flogen Jets mit Überschall</span><span class="citation-popover-snippet">Niedersachsen: Darum flogen Jets mit Überschall</span></span></span>
+The clearest Lower Saxony example is not a UFO case but it is highly relevant to UFO interpretation. On 1 May 2023, two loud bangs frightened many people in Lower Saxony. The Bundeswehr later explained that a QRA pair had launched from Laage to check an aircraft without radio contact, and that the two Eurofighters flew at supersonic speed to cover more than 400 kilometres to Münster in about 20 minutes.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.bundeswehr.de/de/meldungen/niedersachsen-alarmrotte-ueberschall-5619196" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bundeswehr.de">[Bundeswehr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bundeswehr.de</span><span class="citation-popover-title">Niedersachsen: Darum flogen Jets mit Überschall</span><span class="citation-popover-snippet">Niedersachsen: Darum flogen Jets mit Überschall</span></span></span>
 
 That incident shows why witness testimony about “explosions”, “booms” or “something crossing the sky impossibly fast” needs careful timing checks. A sonic boom may be heard across a wide area and may not be easily linked by the public to an aircraft if the aircraft is not visible. In a UFO database, the same physical event could produce multiple reports with slightly different descriptions: one person hears two bangs, another sees a fast light, another notices military aircraft minutes later, and another reports a vibration or shock.
-
-Fast jets can also appear in pairs. The QRA element is normally described as a pair of Eurofighters, not a lone aircraft. The Bundeswehr has described the alert pair as two Eurofighters available 24 hours a day, 365 days a year, able to launch quickly for airspace security. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.bundeswehr.de/de/organisation/luftwaffe/aktuelles/aus-zwei-mach-eins--5334766" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bundeswehr.de">[Bundeswehr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bundeswehr.de</span><span class="citation-popover-title">Aus zwei mach eins. Laage und Wittmund fliegen ab sofort</span><span class="citation-popover-snippet">Aus zwei mach eins. Laage und Wittmund fliegen ab sofort</span></span></span> A pair of lights moving in formation can look unusual to a casual observer, especially if the aircraft are far away, partly hidden by cloud or turning at different moments.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/wCR4sCQqcmo" title="[4K] TaktLwG71 Richthofen I Eurofighter at Wittmund Airbase / Takeoff #luftwaffe #eurofighter" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=wCR4sCQqcmo" target="_blank" rel="noopener noreferrer">[4K] TaktLwG71 Richthofen I Eurofighter at Wittmund Airbase / Takeoff #luftwaffe #eurofighter</a></p><p class="youtube-embed-meta">Channel: JATO-Aviation Videos</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=wCR4sCQqcmo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=wCR4sCQqcmo">Open on YouTube</a></p></div></div></div>
 
 ## Why 2022–2026 Matters for Wittmund Reports
 
-The Wittmund story is slightly more complicated than simply saying “Eurofighters fly from Wittmund”. Modernisation work at Wittmundhafen changed where the aircraft were operating from and when the local sky picture looked normal. The Lower Saxony state construction authority said the introduction of the Eurofighter at Wittmundhafen from 2013, replacing the Phantom F-4, required major infrastructure adaptation and new buildings. It also said the wing had operated from Rostock-Laage since the fly-out at the beginning of 2022, and that the first Eurofighters returned to Wittmund on 17 July 2025. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nlbl.niedersachsen.de/startseite/aktuelles_und_service/pressemitteilungen/erste-eurofighter-sind-nach-wittmundhafen-zuruckgekehrt-243412.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nlbl.niedersachsen.de">[Niedersachsen Properties Office]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nlbl.niedersachsen.de</span><span class="citation-popover-title">erste eurofighter sind nach wittmundhafen zuruckgekehrt 243412</span><span class="citation-popover-snippet">erste eurofighter sind nach wittmundhafen zuruckgekehrt 243412</span></span></span>
+The Wittmund story is slightly more complicated than simply saying “Eurofighters fly from Wittmund”. Modernisation work at Wittmundhafen changed where the aircraft were operating from and when the local sky picture looked normal. The Lower Saxony state construction authority said the introduction of the Eurofighter at Wittmundhafen from 2013, replacing the Phantom F-4, required major infrastructure adaptation and new buildings. It also said the wing had operated from Rostock-Laage since the fly-out at the beginning of 2022, and that the first Eurofighters returned to Wittmund on 17 July 2025.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nlbl.niedersachsen.de/startseite/aktuelles_und_service/pressemitteilungen/erste-eurofighter-sind-nach-wittmundhafen-zuruckgekehrt-243412.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nlbl.niedersachsen.de">[Niedersachsen Properties Office]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nlbl.niedersachsen.de</span><span class="citation-popover-title">erste eurofighter sind nach wittmundhafen zuruckgekehrt 243412</span><span class="citation-popover-snippet">erste eurofighter sind nach wittmundhafen zuruckgekehrt 243412</span></span></span>
 
-Regional reporting helps fill in the public-facing timeline. NDR reported in July 2025 that the first Eurofighters had returned to Wittmundhafen after more than three years away, while the base had been comprehensively modernised. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ndr.de/nachrichten/niedersachsen/oldenburg_ostfriesland/bundeswehr-erste-eurofighter-sind-zurueck-in-wittmund%2Ceurofighter-192.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ndr.de">[ndr.de]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ndr.de</span><span class="citation-popover-title">Bundeswehr: Erste Eurofighter wieder zurück in Wittmund</span><span class="citation-popover-snippet">Bundeswehr: Erste Eurofighter wieder zurück in Wittmund</span></span></span> Zeit, reporting on the same return, said Wittmund was one of the Luftwaffe’s four Eurofighter locations and that the northern QRA normally belonged there, but that the alert aircraft were expected to remain at Rostock-Laage until the fourth quarter of 2026 before full flight operations resumed at Wittmund. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.zeit.de/news/2025-07/17/erste-eurofighter-ziehen-wieder-von-laage-nach-wittmund" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: zeit.de">[DIE ZEIT]</a><span class="citation-popover" role="note"><span class="citation-popover-source">zeit.de</span><span class="citation-popover-title">DIE ZEIT&quot;Geiles Gefühl</span><span class="citation-popover-snippet">DIE ZEIT&quot;Geiles Gefühl</span></span></span>
+Regional reporting helps fill in the public-facing timeline. NDR reported in July 2025 that the first Eurofighters had returned to Wittmundhafen after more than three years away, while the base had been comprehensively modernised.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ndr.de/nachrichten/niedersachsen/oldenburg_ostfriesland/bundeswehr-erste-eurofighter-sind-zurueck-in-wittmund%2Ceurofighter-192.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ndr.de">[ndr.de]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ndr.de</span><span class="citation-popover-title">Bundeswehr: Erste Eurofighter wieder zurück in Wittmund</span><span class="citation-popover-snippet">Bundeswehr: Erste Eurofighter wieder zurück in Wittmund</span></span></span> Zeit, reporting on the same return, said Wittmund was one of the Luftwaffe’s four Eurofighter locations and that the northern QRA normally belonged there, but that the alert aircraft were expected to remain at Rostock-Laage until the fourth quarter of 2026 before full flight operations resumed at Wittmund.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.zeit.de/news/2025-07/17/erste-eurofighter-ziehen-wieder-von-laage-nach-wittmund" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: zeit.de">[DIE ZEIT]</a><span class="citation-popover" role="note"><span class="citation-popover-source">zeit.de</span><span class="citation-popover-title">DIE ZEIT&quot;Geiles Gefühl</span><span class="citation-popover-snippet">DIE ZEIT&quot;Geiles Gefühl</span></span></span>
 
 For UFO investigators, this creates a practical caution. A sighting near Wittmund during the main relocation period cannot automatically be explained by a Eurofighter taking off from Wittmundhafen, because some operations were displaced to Laage. But it also cannot ignore Wittmund’s QRA role, because the unit and aircraft remained tied to northern airspace security. The right question is not just “is there a fighter base nearby?” but “where was the relevant QRA element actually operating from on that date?”
 
@@ -357,28 +348,20 @@ That is especially important for reports from 2022 to 2026. A local witness in E
 
 ## Where Aircraft Explanations Are Strongest
 
-Wittmund-linked Eurofighter explanations are strongest when the sighting has features that match known air-defence or training behaviour. A report becomes more likely to have an aircraft explanation when several of the following points line up:
-
-
-<div class="content-enhancement content-enhancement--insight-grid" markdown="1">
+Wittmund-linked Eurofighter explanations are strongest when the sighting has features that match known air-defence or training behaviour. A report becomes more likely to have an aircraft explanation when several of the following points line up:<div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * **A short, fast event:** The object crosses the sky quickly, appears for seconds rather than minutes, or is reported as a fast light with little shape detail.
 * **A pair or formation:** Two objects are seen together, following each other, or changing relative position in ways consistent with aircraft.
 * **Delayed or confusing sound:** A roar, rumble or boom is heard before or after the object is seen.
 * **Timing near known activity:** The report occurs during an exercise, a published increase in flight operations, a QRA scramble, or a period of heightened air-policing activity.
 * **Direction towards the North Sea, Baltic or central Germany:** These routes can matter because QRA aircraft may be tasked across large distances, not just over the immediate base area.
-* **No close-range detail:** The witness sees lights or motion but cannot reliably describe wings, body shape, altitude, distance or size.
+* **No close-range detail:** The witness sees lights or motion but cannot reliably describe wings, body shape, altitude, distance or size.</div>
 
-</div>
+Regional reporting in 2026 gives a concrete example of why such checks matter. NDR reported that the Wittmund-based Tactical Air Wing 71 was one of four Luftwaffe Eurofighter locations and described more intensive flight operations over northern Lower Saxony during exercises. The same report connected the wing to permanent alert readiness for NATO integrated air defence and German airspace security.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ndr.de/nachrichten/niedersachsen/oldenburg_ostfriesland/intensiverer-flugbetrieb-luftwaffe-uebt-ueber-nord-niedersachsen%2Crichthofen-106.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ndr.de">[ndr.de]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ndr.de</span><span class="citation-popover-title">intensiverer flugbetrieb luftwaffe uebt ueber nord niedersachsen,richthofen 106</span><span class="citation-popover-snippet">intensiverer flugbetrieb luftwaffe uebt ueber nord niedersachsen,richthofen 106</span></span></span>
 
-Regional reporting in 2026 gives a concrete example of why such checks matter. NDR reported that the Wittmund-based Tactical Air Wing 71 was one of four Luftwaffe Eurofighter locations and described more intensive flight operations over northern Lower Saxony during exercises. The same report connected the wing to permanent alert readiness for NATO integrated air defence and German airspace security. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ndr.de/nachrichten/niedersachsen/oldenburg_ostfriesland/intensiverer-flugbetrieb-luftwaffe-uebt-ueber-nord-niedersachsen%2Crichthofen-106.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ndr.de">[ndr.de]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ndr.de</span><span class="citation-popover-title">intensiverer flugbetrieb luftwaffe uebt ueber nord niedersachsen,richthofen 106</span><span class="citation-popover-snippet">intensiverer flugbetrieb luftwaffe uebt ueber nord niedersachsen,richthofen 106</span></span></span>
+The air-policing environment also became more prominent after Russia’s full-scale invasion of Ukraine and amid concern over flights around the Baltic region. Bundeswehr material explains that Russian military aircraft regularly fly in international airspace over the Baltic Sea, including routes to and from Kaliningrad, sometimes without active transponders, flight plans or radio contact with civil air traffic control. Such flights may be lawful in international airspace but still operationally sensitive, which is why NATO air-policing systems may respond.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.bundeswehr.de/de/organisation/luftwaffe/air-policing-sicherheit-luftraum" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bundeswehr.de">[Bundeswehr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bundeswehr.de</span><span class="citation-popover-title">Air Policing — Sicherheit im Luftraum</span><span class="citation-popover-snippet">Air Policing — Sicherheit im Luftraum</span></span></span>
 
-The air-policing environment also became more prominent after Russia’s full-scale invasion of Ukraine and amid concern over flights around the Baltic region. Bundeswehr material explains that Russian military aircraft regularly fly in international airspace over the Baltic Sea, including routes to and from Kaliningrad, sometimes without active transponders, flight plans or radio contact with civil air traffic control. Such flights may be lawful in international airspace but still operationally sensitive, which is why NATO air-policing systems may respond. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.bundeswehr.de/de/organisation/luftwaffe/air-policing-sicherheit-luftraum" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bundeswehr.de">[Bundeswehr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bundeswehr.de</span><span class="citation-popover-title">Air Policing — Sicherheit im Luftraum</span><span class="citation-popover-snippet">Air Policing — Sicherheit im Luftraum</span></span></span>
-
-This does not make Lower Saxony a frontline UFO hotspot. It makes it a place where modern air-defence activity can generate ambiguous public observations: fast aircraft launched for reasons the witness does not know, operating at speeds and heights that make ordinary judgement unreliable.
-
-
-<img src="{{ "/assets/images/Lower_Saxony_e2cb37_wittmund_eurofighter_7a330c-Illustration-2-dark.svg" | relative_url }}" alt="Wittmund illustration 2" data-theme-src-dark="{{ "/assets/images/Lower_Saxony_e2cb37_wittmund_eurofighter_7a330c-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Lower_Saxony_e2cb37_wittmund_eurofighter_7a330c-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+This does not make Lower Saxony a frontline UFO hotspot. It makes it a place where modern air-defence activity can generate ambiguous public observations: fast aircraft launched for reasons the witness does not know, operating at speeds and heights that make ordinary judgement unreliable.<img src="{{"/assets/images/Lower_Saxony_e2cb37_wittmund_eurofighter_7a330c-Illustration-2-dark.svg" | relative_url }}" alt="Wittmund illustration 2" data-theme-src-dark="{{"/assets/images/Lower_Saxony_e2cb37_wittmund_eurofighter_7a330c-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{"/assets/images/Lower_Saxony_e2cb37_wittmund_eurofighter_7a330c-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Where the Jet Explanation Falls Short
 
 A Eurofighter explanation should not be used as a catch-all. It is strongest when it can be tied to time, direction, sound, route, official activity or known airspace events. It is weaker when the report involves a long-duration stationary object, repeated hovering over one location, very low silent movement, multiple independent viewing angles that rule out aircraft motion, or photographs and radar data inconsistent with a fast jet.
@@ -387,22 +370,16 @@ Silence is a particularly important clue, but it must be handled carefully. A di
 
 Duration is another limit. A QRA aircraft may circle, escort, turn or return, but a single light hovering steadily for a long period is more likely to involve a planet, star, drone, helicopter, balloon, tower light, aircraft on approach, or misperceived distance than a Eurofighter. In UFO assessment, “not a jet” does not mean “unexplained”; it simply moves the report to another branch of possible explanations.
 
-Documentation also matters. A strong aircraft explanation should ideally be supported by at least one external check: official statements, airspace notices, local reporting, sonic-boom reports, exercise announcements, flight-tracking clues where available, or multiple witnesses describing aircraft-like behaviour. The 1 May 2023 sonic-boom incident is strong because the Bundeswehr publicly explained the cause, route and urgency of the QRA response. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.bundeswehr.de/de/meldungen/niedersachsen-alarmrotte-ueberschall-5619196" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bundeswehr.de">[Bundeswehr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bundeswehr.de</span><span class="citation-popover-title">Niedersachsen: Darum flogen Jets mit Überschall</span><span class="citation-popover-snippet">Niedersachsen: Darum flogen Jets mit Überschall</span></span></span> A vague claim that “Wittmund has jets” is much weaker.
-
-
-<img src="{{ "/assets/images/Lower_Saxony_e2cb37_wittmund_eurofighter_7a330c-Illustration-3-dark.svg" | relative_url }}" alt="Wittmund illustration 3" data-theme-src-dark="{{ "/assets/images/Lower_Saxony_e2cb37_wittmund_eurofighter_7a330c-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Lower_Saxony_e2cb37_wittmund_eurofighter_7a330c-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+Documentation also matters. A strong aircraft explanation should ideally be supported by at least one external check: official statements, airspace notices, local reporting, sonic-boom reports, exercise announcements, flight-tracking clues where available, or multiple witnesses describing aircraft-like behaviour. The 1 May 2023 sonic-boom incident is strong because the Bundeswehr publicly explained the cause, route and urgency of the QRA response.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.bundeswehr.de/de/meldungen/niedersachsen-alarmrotte-ueberschall-5619196" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bundeswehr.de">[Bundeswehr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bundeswehr.de</span><span class="citation-popover-title">Niedersachsen: Darum flogen Jets mit Überschall</span><span class="citation-popover-snippet">Niedersachsen: Darum flogen Jets mit Überschall</span></span></span> A vague claim that “Wittmund has jets” is much weaker.<img src="{{"/assets/images/Lower_Saxony_e2cb37_wittmund_eurofighter_7a330c-Illustration-3-dark.svg" | relative_url }}" alt="Wittmund illustration 3" data-theme-src-dark="{{"/assets/images/Lower_Saxony_e2cb37_wittmund_eurofighter_7a330c-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{"/assets/images/Lower_Saxony_e2cb37_wittmund_eurofighter_7a330c-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How Wittmund Fits Lower Saxony’s UFO Pattern
 
 Lower Saxony’s UFO material is often less about one spectacular unsolved case than about the repeated conversion of ordinary sky events into mystery reports. Wittmund is one of the clearest military-aviation pieces of that pattern. It explains why a reader should be cautious about dramatic accounts of fast lights, booms, intercepts or sudden aircraft activity in the north of the state.
 
 It also shows how “UFO” and “airspace security” can overlap without meaning the same thing. In the air-defence system, unknown aircraft are a routine operational category. In popular culture, an unknown object can quickly become a UFO story. Wittmund sits at the point where those two vocabularies meet. A radar contact may be unknown to controllers for practical reasons; a witness may see the resulting Eurofighter scramble and describe it as a strange aerial event; local media may then frame the noise or lights in ways that either clarify or amplify the mystery.
 
-The modern drone debate adds another layer. Lower Saxony has seen public concern about unknown flying objects and conspicuous position lights in police-known incidents, including reports around airports. That context does not directly turn Wittmund Eurofighters into UFO evidence, but it shows why the same public sky can now contain [drones]({{ 'drones/' | relative_url }}), aircraft, military responses and genuine uncertainty about what was observed. In that environment, a disciplined explanation has to separate categories: drone reports, aircraft sightings, QRA activity, astronomical objects and cases that remain [weakly unresolved]({{ 'weak-cases/' | relative_url }}).
+The modern drone debate adds another layer. Lower Saxony has seen public concern about unknown flying objects and conspicuous position lights in police-known incidents, including reports around airports. That context does not directly turn Wittmund Eurofighters into UFO evidence, but it shows why the same public sky can now contain [drones]({{'drones/' | relative_url }}), aircraft, military responses and genuine uncertainty about what was observed. In that environment, a disciplined explanation has to separate categories: drone reports, aircraft sightings, QRA activity, astronomical objects and cases that remain [weakly unresolved]({{'weak-cases/' | relative_url }}).
 
-Wittmund therefore belongs in a Lower Saxony UFO history not because it proves extraordinary claims, but because it strengthens the ordinary-investigation side of the story. It gives researchers a named base, a known aircraft type, an official alert function and a documented pattern of operations to check against reports. Where those checks fit, the UFO claim usually weakens. Where they do not fit, the case may still be worth examining, but it has at least passed one of the state’s most important aviation filters.
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/7D77W-nnE4Q" title="[4K] Wittmund AB: Eurofighter&#x27;s Takeoff &amp; Landing | Local Base Exercise" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=7D77W-nnE4Q" target="_blank" rel="noopener noreferrer">[4K] Wittmund AB: Eurofighter&#x27;s Takeoff &amp; Landing | Local Base Exercise</a></p><p class="youtube-embed-meta">Channel: 32TFS Aviation</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=7D77W-nnE4Q" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=7D77W-nnE4Q">Open on YouTube</a></p></div></div></div>
+Wittmund therefore belongs in a Lower Saxony UFO history not because it proves extraordinary claims, but because it strengthens the ordinary-investigation side of the story. It gives researchers a named base, a known aircraft type, an official alert function and a documented pattern of operations to check against reports. Where those checks fit, the UFO claim usually weakens. Where they do not fit, the case may still be worth examining, but it has at least passed one of the state’s most important aviation filters.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/7D77W-nnE4Q" title="[4K] Wittmund AB: Eurofighter&#x27;s Takeoff &amp; Landing | Local Base Exercise" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=7D77W-nnE4Q" target="_blank" rel="noopener noreferrer">[4K] Wittmund AB: Eurofighter&#x27;s Takeoff &amp; Landing | Local Base Exercise</a></p><p class="youtube-embed-meta">Channel: 32TFS Aviation</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=7D77W-nnE4Q" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=7D77W-nnE4Q">Open on YouTube</a></p></div></div></div>
 
 ## A Practical Reading of Wittmund Sightings
 
@@ -410,217 +387,32 @@ A careful reader should treat Wittmund as a context clue, not a conclusion. The 
 
 This approach keeps the analysis fair to witnesses. People can sincerely report something they cannot identify, especially when a fast military aircraft appears without context. The witness’s confusion may be real even when the object is ordinary. In fact, Wittmund’s role makes that more likely: a member of the public may observe the visible edge of a security response without knowing the trigger, route or aircraft identity.
 
-The strongest sceptical lesson is not “ignore sightings near military bases”. It is the opposite: take the setting seriously enough to investigate it properly. Wittmund’s Eurofighters, QRA duties, temporary relocation history and return to flight operations are all part of the evidence landscape. Any Lower Saxony UFO account that overlooks them risks mistaking a documented air-defence mechanism for a mystery. Any account that invokes them without matching the details risks replacing one weak claim with another.
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/i6F9G4YheBA" title="German Fighter Jets Scramble – NATO Eastern Flank Defense Mission (2025) | Eurofighter &amp; F-16" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=i6F9G4YheBA" target="_blank" rel="noopener noreferrer">German Fighter Jets Scramble – NATO Eastern Flank Defense Mission (2025) | Eurofighter &amp; F-16</a></p><p class="youtube-embed-meta">Channel: USA Military Channel</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=i6F9G4YheBA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=i6F9G4YheBA">Open on YouTube</a></p></div></div></div>
-
-
-<section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Could Fast Jets Explain Some Sightings?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=kKQQ2lE8BKIC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
-        
-        <p class="fr-book-desc">Connects pilot and official testimony with the caution needed around aircraft-related sightings.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
-        
-        <p class="fr-book-desc">Relevant to weighing aircraft explanations against unresolved sighting features.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
-        
-        <p class="fr-book-desc">Supports evidence-first thinking before treating fast-jet sightings as extraordinary.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=McDonnell+Douglas+F%2FA-18+Hornet+and+Super+Hornet+1978+Onwards&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open McDonnell Douglas F/A-18 Hornet and Super Hornet 1978 Onwards on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=McDonnell+Douglas+F%2FA-18+Hornet+and+Super+Hornet+1978+Onwards&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="McDonnell Douglas F/A-18 Hornet and Super Hornet 1978 Onwards">McDonnell Douglas F/A-18 Hornet and Super Hornet 1978 Onwards</a>
-        </h4>
-        <p class="fr-book-author">By Unknown author</p>
-        
-        <p class="fr-book-desc">Directly relevant to Eurofighter operations, aircraft appearance and technical context.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=McDonnell+Douglas+F%2FA-18+Hornet+and+Super+Hornet+1978+Onwards&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
-</section>
-
-<section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
-
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
-
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wittmund-could-fast-jets-explain-some-sightings-lower-saxony-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="wittmund-could-fast-jets-explain-some-sightings-lower-saxony-satellite-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Space Satellite Base Building Block MOC Toy Model Set for Kids Gift"><img src="{{ '/assets/images/marketplace-covers/e322cc9ac8d8a2d50029.jpg' | relative_url }}" alt="Listing image for Space Satellite Base Building Block MOC Toy Model Set for Kids Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wittmund-could-fast-jets-explain-some-sightings-lower-saxony-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="wittmund-could-fast-jets-explain-some-sightings-lower-saxony-satellite-model" target="_blank" rel="sponsored noopener noreferrer">Space Satellite Base Building Block MOC Toy Model Set for Kids Gift</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wittmund-could-fast-jets-explain-some-sightings-lower-saxony-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="wittmund-could-fast-jets-explain-some-sightings-lower-saxony-satellite-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for satellite model">Search <span data-ebay-domain-label>eBay.co.uk</span>: satellite model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wittmund-could-fast-jets-explain-some-sightings-lower-saxony-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="wittmund-could-fast-jets-explain-some-sightings-lower-saxony-satellite-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wittmund-could-fast-jets-explain-some-sightings-lower-saxony-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="wittmund-could-fast-jets-explain-some-sightings-lower-saxony-satellite-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Handmade DIY Solar Satellite Model for Home Decor"><img src="{{ '/assets/images/marketplace-covers/87b7df0115ea70d84fcb.jpg' | relative_url }}" alt="Listing image for Handmade DIY Solar Satellite Model for Home Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wittmund-could-fast-jets-explain-some-sightings-lower-saxony-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="wittmund-could-fast-jets-explain-some-sightings-lower-saxony-satellite-model" target="_blank" rel="sponsored noopener noreferrer">Handmade DIY Solar Satellite Model for Home Decor</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wittmund-could-fast-jets-explain-some-sightings-lower-saxony-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="wittmund-could-fast-jets-explain-some-sightings-lower-saxony-satellite-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for satellite model">Search <span data-ebay-domain-label>eBay.co.uk</span>: satellite model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wittmund-could-fast-jets-explain-some-sightings-lower-saxony-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="wittmund-could-fast-jets-explain-some-sightings-lower-saxony-satellite-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wittmund-could-fast-jets-explain-some-sightings-lower-saxony-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="wittmund-could-fast-jets-explain-some-sightings-lower-saxony-satellite-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Model Boat Fittings Satellite Antenna Unit - Choice of Sizes Available"><img src="{{ '/assets/images/marketplace-covers/c5d2eb571b6fbccf54b4.jpg' | relative_url }}" alt="Listing image for Model Boat Fittings Satellite Antenna Unit - Choice of Sizes Available" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wittmund-could-fast-jets-explain-some-sightings-lower-saxony-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="wittmund-could-fast-jets-explain-some-sightings-lower-saxony-satellite-model" target="_blank" rel="sponsored noopener noreferrer">Model Boat Fittings Satellite Antenna Unit - Choice of Sizes Available</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wittmund-could-fast-jets-explain-some-sightings-lower-saxony-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="wittmund-could-fast-jets-explain-some-sightings-lower-saxony-satellite-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for satellite model">Search <span data-ebay-domain-label>eBay.co.uk</span>: satellite model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wittmund-could-fast-jets-explain-some-sightings-lower-saxony-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="wittmund-could-fast-jets-explain-some-sightings-lower-saxony-satellite-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wittmund-could-fast-jets-explain-some-sightings-lower-saxony-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="wittmund-could-fast-jets-explain-some-sightings-lower-saxony-satellite-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 2 x 3D printed FREESTANDING SATELLITE DISH 1/43, O gauge Model Diorama Miniature"><img src="{{ '/assets/images/marketplace-covers/6eaeff2dc063de64b318.jpg' | relative_url }}" alt="Listing image for 2 x 3D printed FREESTANDING SATELLITE DISH 1/43, O gauge Model Diorama Miniature" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wittmund-could-fast-jets-explain-some-sightings-lower-saxony-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="wittmund-could-fast-jets-explain-some-sightings-lower-saxony-satellite-model" target="_blank" rel="sponsored noopener noreferrer">2 x 3D printed FREESTANDING SATELLITE DISH 1/43, O gauge Model Diorama Miniature</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wittmund-could-fast-jets-explain-some-sightings-lower-saxony-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="wittmund-could-fast-jets-explain-some-sightings-lower-saxony-satellite-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for satellite model">Search <span data-ebay-domain-label>eBay.co.uk</span>: satellite model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wittmund-could-fast-jets-explain-some-sightings-lower-saxony-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="wittmund-could-fast-jets-explain-some-sightings-lower-saxony-satellite-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wittmund-could-fast-jets-explain-some-sightings-lower-saxony-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="wittmund-could-fast-jets-explain-some-sightings-lower-saxony-satellite-model" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+The strongest sceptical lesson is not “ignore sightings near military bases”. It is the opposite: take the setting seriously enough to investigate it properly. Wittmund’s Eurofighters, QRA duties, temporary relocation history and return to flight operations are all part of the evidence landscape. Any Lower Saxony UFO account that overlooks them risks mistaking a documented air-defence mechanism for a mystery. Any account that invokes them without matching the details risks replacing one weak claim with another.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/i6F9G4YheBA" title="German Fighter Jets Scramble – NATO Eastern Flank Defense Mission (2025) | Eurofighter &amp; F-16" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=i6F9G4YheBA" target="_blank" rel="noopener noreferrer">German Fighter Jets Scramble – NATO Eastern Flank Defense Mission (2025) | Eurofighter &amp; F-16</a></p><p class="youtube-embed-meta">Channel: USA Military Channel</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=i6F9G4YheBA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=i6F9G4YheBA">Open on YouTube</a></p></div></div></div><section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title"><div class="fr-section-shell"><div class="fr-section-header"><div class="fr-section-heading"><p class="fr-section-kicker">Amazon book picks</p><h3 class="fr-heading" id="further-reading-title">Further Reading</h3></div><p class="fr-intro">Books and field guides related to Could Fast Jets Explain Some Sightings?. Use these as the next step if you want deeper reading beyond the article.</p></div><div class="fr-books-grid"><article class="fr-book-card"><a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=kKQQ2lE8BKIC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a><div class="fr-book-info"><h4 class="fr-book-title"><a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a></h4><p class="fr-book-author">By Leslie Kean</p><p class="fr-book-desc">Connects pilot and official testimony with the caution needed around aircraft-related sightings.</p><div class="fr-book-actions"><a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon</a></div></div></article><article class="fr-book-card"><a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a><div class="fr-book-info"><h4 class="fr-book-title"><a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a></h4><p class="fr-book-author">By Joseph Allen Hynek</p><p class="fr-book-desc">Relevant to weighing aircraft explanations against unresolved sighting features.</p><div class="fr-book-actions"><a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon</a></div></div></article><article class="fr-book-card"><a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a><div class="fr-book-info"><h4 class="fr-book-title"><a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a></h4><p class="fr-book-author">By Carl Sagan</p><p class="fr-book-desc">Supports evidence-first thinking before treating fast-jet sightings as extraordinary.</p><div class="fr-book-actions"><a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon</a></div></div></article><article class="fr-book-card"><a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=McDonnell+Douglas+F%2FA-18+Hornet+and+Super+Hornet+1978+Onwards&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open McDonnell Douglas F/A-18 Hornet and Super Hornet 1978 Onwards on Amazon"><span class="fr-book-cover-fallback">Book</span></a><div class="fr-book-info"><h4 class="fr-book-title"><a href="https://www.amazon.com/s?k=McDonnell+Douglas+F%2FA-18+Hornet+and+Super+Hornet+1978+Onwards&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="McDonnell Douglas F/A-18 Hornet and Super Hornet 1978 Onwards">McDonnell Douglas F/A-18 Hornet and Super Hornet 1978 Onwards</a></h4><p class="fr-book-author">By Unknown author</p><p class="fr-book-desc">Directly relevant to Eurofighter operations, aircraft appearance and technical context.</p><div class="fr-book-actions"><a href="https://www.amazon.com/s?k=McDonnell+Douglas+F%2FA-18+Hornet+and+Super+Hornet+1978+Onwards&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon</a></div></div></article></div><div class="fr-section-footer"><div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a></div><p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p></div></div></section><section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title"><div class="fr-section-shell"><div class="fr-section-header"><div class="fr-section-heading"><p class="fr-section-kicker">eBay marketplace picks</p><h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3></div><p class="fr-intro">Live-tested eBay searches with available results related to this page.</p><div class="fr-ebay-market-toolbar"><label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label><div class="fr-ebay-market-picker"><span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span><button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span><span data-ebay-trigger-market-label>USA</span></button><select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location"><option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option></select><div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button></div></div></div></div><div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1"><div class="fr-books-grid"><article class="fr-book-card"><a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=solar+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wittmund-could-fast-jets-explain-some-sightings-lower-saxony-solar-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="solar art print" data-ebay-reference="wittmund-could-fast-jets-explain-some-sightings-lower-saxony-solar-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Home Wall Art Print - Vintage Space Poster - SOLAR SYSTEM PLANETS-A4,A3,A2,A1,A0"><img src="{{'/assets/images/marketplace-covers/cf4bc993d604ad7867e5.jpg' | relative_url }}" alt="Listing image for Home Wall Art Print - Vintage Space Poster - SOLAR SYSTEM PLANETS-A4,A3,A2,A1,A0" loading="lazy" decoding="async" fetchpriority="low"></a><div class="fr-book-info"><p class="fr-book-kicker">Example eBay listing</p><h4 class="fr-book-title"><a href="https://www.ebay.co.uk/sch/i.html?_nkw=solar+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wittmund-could-fast-jets-explain-some-sightings-lower-saxony-solar-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="solar art print" data-ebay-reference="wittmund-could-fast-jets-explain-some-sightings-lower-saxony-solar-art-print" target="_blank" rel="sponsored noopener noreferrer">Home Wall Art Print - Vintage Space Poster - SOLAR SYSTEM PLANETS-A4,A3,A2,A1,A0</a></h4><a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=solar+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wittmund-could-fast-jets-explain-some-sightings-lower-saxony-solar-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="solar art print" data-ebay-reference="wittmund-could-fast-jets-explain-some-sightings-lower-saxony-solar-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for solar art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: solar art print</a><div class="fr-book-actions"><a href="https://www.ebay.co.uk/sch/i.html?_nkw=solar+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wittmund-could-fast-jets-explain-some-sightings-lower-saxony-solar-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="solar art print" data-ebay-reference="wittmund-could-fast-jets-explain-some-sightings-lower-saxony-solar-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span></a></div></div></article><article class="fr-book-card"><a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=solar+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wittmund-could-fast-jets-explain-some-sightings-lower-saxony-solar-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="solar art print" data-ebay-reference="wittmund-could-fast-jets-explain-some-sightings-lower-saxony-solar-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Solar System Sun and Planets Space Canvas Wall Art Picture Print Large Sizes"><img src="{{'/assets/images/marketplace-covers/2081c2c06c9f90047ee0.jpg' | relative_url }}" alt="Listing image for Solar System Sun and Planets Space Canvas Wall Art Picture Print Large Sizes" loading="lazy" decoding="async" fetchpriority="low"></a><div class="fr-book-info"><p class="fr-book-kicker">Example eBay listing</p><h4 class="fr-book-title"><a href="https://www.ebay.co.uk/sch/i.html?_nkw=solar+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wittmund-could-fast-jets-explain-some-sightings-lower-saxony-solar-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="solar art print" data-ebay-reference="wittmund-could-fast-jets-explain-some-sightings-lower-saxony-solar-art-print" target="_blank" rel="sponsored noopener noreferrer">Solar System Sun and Planets Space Canvas Wall Art Picture Print Large Sizes</a></h4><a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=solar+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wittmund-could-fast-jets-explain-some-sightings-lower-saxony-solar-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="solar art print" data-ebay-reference="wittmund-could-fast-jets-explain-some-sightings-lower-saxony-solar-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for solar art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: solar art print</a><div class="fr-book-actions"><a href="https://www.ebay.co.uk/sch/i.html?_nkw=solar+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wittmund-could-fast-jets-explain-some-sightings-lower-saxony-solar-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="solar art print" data-ebay-reference="wittmund-could-fast-jets-explain-some-sightings-lower-saxony-solar-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span></a></div></div></article><article class="fr-book-card"><a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=solar+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wittmund-could-fast-jets-explain-some-sightings-lower-saxony-solar-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="solar art print" data-ebay-reference="wittmund-could-fast-jets-explain-some-sightings-lower-saxony-solar-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Solar System Planets Canvas Art Print Children Kids Nursery Picture Print -C732"><img src="{{'/assets/images/marketplace-covers/788e19cf38039714580d.jpg' | relative_url }}" alt="Listing image for Solar System Planets Canvas Art Print Children Kids Nursery Picture Print -C732" loading="lazy" decoding="async" fetchpriority="low"></a><div class="fr-book-info"><p class="fr-book-kicker">Example eBay listing</p><h4 class="fr-book-title"><a href="https://www.ebay.co.uk/sch/i.html?_nkw=solar+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wittmund-could-fast-jets-explain-some-sightings-lower-saxony-solar-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="solar art print" data-ebay-reference="wittmund-could-fast-jets-explain-some-sightings-lower-saxony-solar-art-print" target="_blank" rel="sponsored noopener noreferrer">Solar System Planets Canvas Art Print Children Kids Nursery Picture Print -C732</a></h4><a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=solar+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wittmund-could-fast-jets-explain-some-sightings-lower-saxony-solar-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="solar art print" data-ebay-reference="wittmund-could-fast-jets-explain-some-sightings-lower-saxony-solar-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for solar art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: solar art print</a><div class="fr-book-actions"><a href="https://www.ebay.co.uk/sch/i.html?_nkw=solar+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wittmund-could-fast-jets-explain-some-sightings-lower-saxony-solar-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="solar art print" data-ebay-reference="wittmund-could-fast-jets-explain-some-sightings-lower-saxony-solar-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span></a></div></div></article><article class="fr-book-card"><a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=solar+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wittmund-could-fast-jets-explain-some-sightings-lower-saxony-solar-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="solar art print" data-ebay-reference="wittmund-could-fast-jets-explain-some-sightings-lower-saxony-solar-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for PLANETS SPACE POSTER ART PRINT GALAXY ORBIT STARS SOLAR SYSTEM A3 A4 SIZE"><img src="{{'/assets/images/marketplace-covers/c5f8ecef45812832517a.jpg' | relative_url }}" alt="Listing image for PLANETS SPACE POSTER ART PRINT GALAXY ORBIT STARS SOLAR SYSTEM A3 A4 SIZE" loading="lazy" decoding="async" fetchpriority="low"></a><div class="fr-book-info"><p class="fr-book-kicker">Example eBay listing</p><h4 class="fr-book-title"><a href="https://www.ebay.co.uk/sch/i.html?_nkw=solar+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wittmund-could-fast-jets-explain-some-sightings-lower-saxony-solar-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="solar art print" data-ebay-reference="wittmund-could-fast-jets-explain-some-sightings-lower-saxony-solar-art-print" target="_blank" rel="sponsored noopener noreferrer">PLANETS SPACE POSTER ART PRINT GALAXY ORBIT STARS SOLAR SYSTEM A3 A4 SIZE</a></h4><a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=solar+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wittmund-could-fast-jets-explain-some-sightings-lower-saxony-solar-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="solar art print" data-ebay-reference="wittmund-could-fast-jets-explain-some-sightings-lower-saxony-solar-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for solar art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: solar art print</a><div class="fr-book-actions"><a href="https://www.ebay.co.uk/sch/i.html?_nkw=solar+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wittmund-could-fast-jets-explain-some-sightings-lower-saxony-solar-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="solar art print" data-ebay-reference="wittmund-could-fast-jets-explain-some-sightings-lower-saxony-solar-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span></a></div></div></article></div><div class="fr-section-footer"><a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=solar+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wittmund-could-fast-jets-explain-some-sightings-lower-saxony-solar-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="solar art print" data-ebay-reference="wittmund-could-fast-jets-explain-some-sightings-lower-saxony-solar-art-print" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span></a><p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p></div></div></div><script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
-  var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
-  var timezoneRules = [{"market": "EBAY_IE", "pattern": "^Europe/Dublin$"}, {"market": "EBAY_GB", "pattern": "^Europe/(London|Belfast)$"}, {"market": "EBAY_CA", "pattern": "^America/(Toronto|Vancouver|Edmonton|Winnipeg|Halifax|St_Johns|Regina|Saskatoon|Whitehorse|Dawson|Moncton|Glace_Bay|Goose_Bay|Iqaluit|Yellowknife|Inuvik|Rankin_Inlet|Resolute|Cambridge_Bay|Fort_Nelson|Creston|Dawson_Creek)$"}, {"market": "EBAY_US", "pattern": "^America/"}, {"market": "EBAY_DE", "pattern": "^Europe/Berlin$"}, {"market": "EBAY_FR", "pattern": "^Europe/Paris$"}, {"market": "EBAY_IT", "pattern": "^Europe/Rome$"}, {"market": "EBAY_ES", "pattern": "^Europe/Madrid$"}, {"market": "EBAY_AU", "pattern": "^Australia/"}, {"market": "EBAY_AU", "pattern": "^Pacific/(Auckland|Chatham)$"}];
+  var localeMarketMap = {"de":"EBAY_DE","de-at":"EBAY_AT","de-ch":"EBAY_CH","de-de":"EBAY_DE","en":"EBAY_US","en-au":"EBAY_AU","en-ca":"EBAY_CA","en-gb":"EBAY_GB","en-ie":"EBAY_IE","en-nz":"EBAY_AU","en-uk":"EBAY_GB","en-us":"EBAY_US","es":"EBAY_ES","es-es":"EBAY_ES","fr":"EBAY_FR","fr-be":"EBAY_BE","fr-ca":"EBAY_CA","fr-fr":"EBAY_FR","it":"EBAY_IT","it-it":"EBAY_IT","nl":"EBAY_NL","nl-be":"EBAY_BE","nl-nl":"EBAY_NL"};
+  var timezoneRules = [{"market":"EBAY_IE","pattern":"^Europe/Dublin$"}, {"market":"EBAY_GB","pattern":"^Europe/(London|Belfast)$"}, {"market":"EBAY_CA","pattern":"^America/(Toronto|Vancouver|Edmonton|Winnipeg|Halifax|St_Johns|Regina|Saskatoon|Whitehorse|Dawson|Moncton|Glace_Bay|Goose_Bay|Iqaluit|Yellowknife|Inuvik|Rankin_Inlet|Resolute|Cambridge_Bay|Fort_Nelson|Creston|Dawson_Creek)$"}, {"market":"EBAY_US","pattern":"^America/"}, {"market":"EBAY_DE","pattern":"^Europe/Berlin$"}, {"market":"EBAY_FR","pattern":"^Europe/Paris$"}, {"market":"EBAY_IT","pattern":"^Europe/Rome$"}, {"market":"EBAY_ES","pattern":"^Europe/Madrid$"}, {"market":"EBAY_AU","pattern":"^Australia/"}, {"market":"EBAY_AU","pattern":"^Pacific/(Auckland|Chatham)$"}];
   function normalize(value) {
-    return String(value || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
+    return String(value ||'').toLowerCase().replace(/_/g,'-').replace(/[^a-z0-9-]+/g,'');
   }
   function localeMatches() {
     var languages = [];
-    var exactMarket = '';
-    var languageMarket = '';
+    var exactMarket ='';
+    var languageMarket ='';
     try {
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -634,24 +426,24 @@ The strongest sceptical lesson is not “ignore sightings near military bases”
   }
   function inferFromLocale() {
     var matches = localeMatches();
-    return matches.exact || matches.language || '';
+    return matches.exact || matches.language ||'';
   }
   function inferFromTimezone() {
-    var tz = '';
-    try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
-    if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    var tz ='';
+    try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone ||''); } catch (err) {}
+    if (!tz) return'';
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
       } catch (err) {}
     }
-    return '';
+    return'';
   }
   function inferMarket(available, options) {
     available = Array.isArray(available) ? available : [];
     options = options || {};
-    var storageKey = options.storageKey || 'phoenix-affiliate-market';
+    var storageKey = options.storageKey ||'phoenix-affiliate-market';
     try {
       var saved = window.localStorage && localStorage.getItem(storageKey);
       if (saved && available.indexOf(saved) >= 0) return saved;
@@ -662,7 +454,7 @@ The strongest sceptical lesson is not “ignore sightings near military bases”
     if (localeMarkets.exact && available.indexOf(localeMarkets.exact) >= 0) return localeMarkets.exact;
     if (localeMarkets.language && available.indexOf(localeMarkets.language) >= 0) return localeMarkets.language;
     if (options.defaultMarket && available.indexOf(options.defaultMarket) >= 0) return options.defaultMarket;
-    return available[0] || '';
+    return available[0] ||'';
   }
   window.PhoenixAffiliateLocation = {
     normalize: normalize,
@@ -670,45 +462,43 @@ The strongest sceptical lesson is not “ignore sightings near military bases”
     inferFromLocale: inferFromLocale,
     inferFromTimezone: inferFromTimezone
   };
-})();
-</script>
-  <script type="text/javascript">
+})();</script><script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
-  var markets = {"EBAY_AU": {"campaign_id": "5339151051", "domain_label": "eBay.com.au", "label": "Australia", "mkrid": "705-53470-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com.au/sch/i.html?_nkw={query}"}, "EBAY_CA": {"campaign_id": "5339151051", "domain_label": "eBay.ca", "label": "Canada", "mkrid": "706-53473-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ca/sch/i.html?_nkw={query}"}, "EBAY_GB": {"campaign_id": "5339151051", "domain_label": "eBay.co.uk", "label": "UK", "mkrid": "710-53481-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.co.uk/sch/i.html?_nkw={query}"}, "EBAY_IE": {"campaign_id": "5339151051", "domain_label": "eBay.ie", "label": "Ireland", "mkrid": "5282-53468-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ie/sch/i.html?_nkw={query}"}, "EBAY_US": {"campaign_id": "5339151051", "domain_label": "eBay.com", "label": "USA", "mkrid": "711-53200-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com/sch/i.html?_nkw={query}"}};
-  var defaultMarket = "EBAY_GB";
+  var markets = {"EBAY_AU": {"campaign_id":"5339151051","domain_label":"eBay.com.au","label":"Australia","mkrid":"705-53470-19255-0","tool_id":"10001","url_template":"https://www.ebay.com.au/sch/i.html?_nkw={query}"},"EBAY_CA": {"campaign_id":"5339151051","domain_label":"eBay.ca","label":"Canada","mkrid":"706-53473-19255-0","tool_id":"10001","url_template":"https://www.ebay.ca/sch/i.html?_nkw={query}"},"EBAY_GB": {"campaign_id":"5339151051","domain_label":"eBay.co.uk","label":"UK","mkrid":"710-53481-19255-0","tool_id":"10001","url_template":"https://www.ebay.co.uk/sch/i.html?_nkw={query}"},"EBAY_IE": {"campaign_id":"5339151051","domain_label":"eBay.ie","label":"Ireland","mkrid":"5282-53468-19255-0","tool_id":"10001","url_template":"https://www.ebay.ie/sch/i.html?_nkw={query}"},"EBAY_US": {"campaign_id":"5339151051","domain_label":"eBay.com","label":"USA","mkrid":"711-53200-19255-0","tool_id":"10001","url_template":"https://www.ebay.com/sch/i.html?_nkw={query}"}};
+  var defaultMarket ="EBAY_GB";
   function encodeQuery(value) {
-    return encodeURIComponent(String(value || '').replace(/\s+/g, ' ').trim()).replace(/%20/g, '+');
+    return encodeURIComponent(String(value ||'').replace(/\s+/g,'').trim()).replace(/%20/g,'+');
   }
   function buildUrl(query, reference, marketId) {
     var cfg = markets[marketId] || markets[defaultMarket];
-    if (!cfg) return '#';
-    var template = String(cfg.url_template || 'https://www.ebay.com/sch/i.html?_nkw={query}');
-    var url = template.replace('{query}', encodeQuery(query || '')).replace('{query_plain}', String(query || ''));
-    var joiner = url.indexOf('?') >= 0 ? '&' : '?';
+    if (!cfg) return'#';
+    var template = String(cfg.url_template ||'https://www.ebay.com/sch/i.html?_nkw={query}');
+    var url = template.replace('{query}', encodeQuery(query ||'')).replace('{query_plain}', String(query ||''));
+    var joiner = url.indexOf('?') >= 0 ?'&' :'?';
     var params = [];
     if (cfg.mkrid) params.push('mkrid=' + encodeURIComponent(cfg.mkrid));
     if (cfg.campaign_id) params.push('campid=' + encodeURIComponent(cfg.campaign_id));
     params.push('mkevt=1');
     params.push('mkcid=1');
-    params.push('toolid=' + encodeURIComponent(cfg.tool_id || '10001'));
+    params.push('toolid=' + encodeURIComponent(cfg.tool_id ||'10001'));
     if (reference) params.push('customid=' + encodeURIComponent(reference).slice(0, 256));
     return url + joiner + params.join('&');
   }
   function domainLabel(marketId) {
     var cfg = markets[marketId] || markets[defaultMarket] || {};
-    return cfg.domain_label || 'eBay';
+    return cfg.domain_label ||'eBay';
   }
   function flagClass(marketId) {
-    return 'fr-ebay-market-flag fr-ebay-market-flag--' + String(marketId || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
+    return'fr-ebay-market-flag fr-ebay-market-flag--' + String(marketId ||'').toLowerCase().replace(/_/g,'-').replace(/[^a-z0-9-]+/g,'');
   }
   function closeMenu(section) {
     var menu = section.querySelector('[data-ebay-market-menu]');
     var trigger = section.querySelector('[data-ebay-market-trigger]');
     var picker = section.querySelector('.fr-ebay-market-picker');
     if (menu) menu.hidden = true;
-    if (trigger) trigger.setAttribute('aria-expanded', 'false');
+    if (trigger) trigger.setAttribute('aria-expanded','false');
     if (picker) picker.classList.remove('fr-ebay-market-picker--open');
   }
   function availableMarkets(section) {
@@ -724,10 +514,10 @@ The strongest sceptical lesson is not “ignore sightings near military bases”
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
-      var query = link.getAttribute('data-ebay-query') || '';
-      var reference = link.getAttribute('data-ebay-reference') || '';
+      var query = link.getAttribute('data-ebay-query') ||'';
+      var reference = link.getAttribute('data-ebay-reference') ||'';
       link.setAttribute('href', buildUrl(query, reference, marketId));
     });
     var select = section.querySelector('[data-ebay-market-select]');
@@ -747,11 +537,11 @@ The strongest sceptical lesson is not “ignore sightings near military bases”
       label.textContent = domainLabel(marketId);
     });
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
-      button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
+      button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ?'true' :'false');
     });
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
       var active = button.getAttribute('data-ebay-market-button') === marketId;
-      button.setAttribute('aria-pressed', active ? 'true' : 'false');
+      button.setAttribute('aria-pressed', active ?'true' :'false');
     });
     section.setAttribute('data-ebay-selected-market', marketId);
     if (persist) {
@@ -760,16 +550,16 @@ The strongest sceptical lesson is not “ignore sightings near military bases”
     closeMenu(section);
   }
   sections.forEach(function (section) {
-    if (section.getAttribute('data-ebay-localized-init') === '1') return;
-    section.setAttribute('data-ebay-localized-init', '1');
+    if (section.getAttribute('data-ebay-localized-init') ==='1') return;
+    section.setAttribute('data-ebay-localized-init','1');
     var available = availableMarkets(section);
     var marketId = defaultMarket;
     if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
       marketId = window.PhoenixAffiliateLocation.inferMarket(available, {
-        storageKey: 'phoenix-ebay-market',
+        storageKey:'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -783,9 +573,9 @@ The strongest sceptical lesson is not “ignore sightings near military bases”
     if (trigger && menu) {
       trigger.addEventListener('click', function (event) {
         event.stopPropagation();
-        var expanded = trigger.getAttribute('aria-expanded') === 'true';
+        var expanded = trigger.getAttribute('aria-expanded') ==='true';
         menu.hidden = expanded;
-        trigger.setAttribute('aria-expanded', expanded ? 'false' : 'true');
+        trigger.setAttribute('aria-expanded', expanded ?'false' :'true');
         var picker = trigger.closest('.fr-ebay-market-picker');
         if (picker) picker.classList.toggle('fr-ebay-market-picker--open', !expanded);
       });
@@ -804,228 +594,218 @@ The strongest sceptical lesson is not “ignore sightings near military bases”
     });
     applyMarket(section, marketId, false);
   });
-})();
-</script>
-</section>
+})();</script></section>
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: bundeswehr.de  
    Title: taktisches luftwaffengeschwader 71 richthofen  
-   Link: <a href="https://www.bundeswehr.de/en/organization/german-air-force/structure/air-force-forces-command/taktisches-luftwaffengeschwader-71-richthofen" target="_blank" rel="noopener noreferrer nofollow">https://www.bundeswehr.de/en/organization/german-air-force/structure/air-force-forces-command/taktisches-luftwaffengeschwader-71-richthofen</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>71 Tactical Air Wing Richthofen29 Sept 2021 — 71 Tactical Air Wing in Wittmund is located in Lower Saxony and is one of the Luf...</p></details>
+   Link:<a href="https://www.bundeswehr.de/en/organization/german-air-force/structure/air-force-forces-command/taktisches-luftwaffengeschwader-71-richthofen" target="_blank" rel="noopener noreferrer nofollow">https://www.bundeswehr.de/en/organization/german-air-force/structure/air-force-forces-command/taktisches-luftwaffengeschwader-71-richthofen</a><details class="endnote-snippet"><summary>Source snippet</summary><p>71 Tactical Air Wing Richthofen29 Sept 2021 — 71 Tactical Air Wing in Wittmund is located in Lower Saxony and is one of the Luf...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: bundeswehr.de  
    Title: airspace security nothing escapes the german air force 5067216  
-   Link: <a href="https://www.bundeswehr.de/en/airspace-security-nothing-escapes-the-german-air-force-5067216" target="_blank" rel="noopener noreferrer nofollow">https://www.bundeswehr.de/en/airspace-security-nothing-escapes-the-german-air-force-5067216</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Airspace Security – Nothing Escapes the German Air Force28 Apr 2021 — Two QRA elements are always on stand-by for airspace secu...</p></details>
+   Link:<a href="https://www.bundeswehr.de/en/airspace-security-nothing-escapes-the-german-air-force-5067216" target="_blank" rel="noopener noreferrer nofollow">https://www.bundeswehr.de/en/airspace-security-nothing-escapes-the-german-air-force-5067216</a><details class="endnote-snippet"><summary>Source snippet</summary><p>Airspace Security – Nothing Escapes the German Air Force28 Apr 2021 — Two QRA elements are always on stand-by for airspace secu...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: bundeswehr.de  
-   Link: <a href="https://www.bundeswehr.de/de/organisation/luftwaffe/organisation-/luftwaffentruppenkommando/taktisches-luftwaffengeschwader-71-richthofen" target="_blank" rel="noopener noreferrer nofollow">https://www.bundeswehr.de/de/organisation/luftwaffe/organisation-/luftwaffentruppenkommando/taktisches-luftwaffengeschwader-71-richthofen</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Taktisches Luftwaffengeschwader 71 &quot;Richthofen&quot;Das Geschwader in Wittmund liegt in Niedersachsen und ist einer von vier Eurofig...</p></details>
+   Link:<a href="https://www.bundeswehr.de/de/organisation/luftwaffe/organisation-/luftwaffentruppenkommando/taktisches-luftwaffengeschwader-71-richthofen" target="_blank" rel="noopener noreferrer nofollow">https://www.bundeswehr.de/de/organisation/luftwaffe/organisation-/luftwaffentruppenkommando/taktisches-luftwaffengeschwader-71-richthofen</a><details class="endnote-snippet"><summary>Source snippet</summary><p>Taktisches Luftwaffengeschwader 71 &quot;Richthofen&quot;Das Geschwader in Wittmund liegt in Niedersachsen und ist einer von vier Eurofig...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: bundeswehr.de  
    Title: natinads luftverteidigungsnetz westeuropa schutz 6100670  
-   Link: <a href="https://www.bundeswehr.de/de/organisation/luftwaffe/aktuelles/natinads-luftverteidigungsnetz-westeuropa-schutz-6100670" target="_blank" rel="noopener noreferrer nofollow">https://www.bundeswehr.de/de/organisation/luftwaffe/aktuelles/natinads-luftverteidigungsnetz-westeuropa-schutz-6100670</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Bei nationalen Einsätzen geht die Führung der Alarmrotte zeitweise an das Nationale Lage-...Read more...</p></details>
+   Link:<a href="https://www.bundeswehr.de/de/organisation/luftwaffe/aktuelles/natinads-luftverteidigungsnetz-westeuropa-schutz-6100670" target="_blank" rel="noopener noreferrer nofollow">https://www.bundeswehr.de/de/organisation/luftwaffe/aktuelles/natinads-luftverteidigungsnetz-westeuropa-schutz-6100670</a><details class="endnote-snippet"><summary>Source snippet</summary><p>Bei nationalen Einsätzen geht die Führung der Alarmrotte zeitweise an das Nationale Lage-...Read more...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: bundeswehr.de  
    Title: Air Policing — Sicherheit im Luftraum  
-   Link: <a href="https://www.bundeswehr.de/de/organisation/luftwaffe/air-policing-sicherheit-luftraum" target="_blank" rel="noopener noreferrer nofollow">https://www.bundeswehr.de/de/organisation/luftwaffe/air-policing-sicherheit-luftraum</a>  
+   Link:<a href="https://www.bundeswehr.de/de/organisation/luftwaffe/air-policing-sicherheit-luftraum" target="_blank" rel="noopener noreferrer nofollow">https://www.bundeswehr.de/de/organisation/luftwaffe/air-policing-sicherheit-luftraum</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: dfs.de  
-   Link: <a href="https://www.dfs.de/homepage/en/air-traffic-control/operations/" target="_blank" rel="noopener noreferrer nofollow">https://www.dfs.de/homepage/en/air-traffic-control/operations/</a>  
+   Link:<a href="https://www.dfs.de/homepage/en/air-traffic-control/operations/" target="_blank" rel="noopener noreferrer nofollow">https://www.dfs.de/homepage/en/air-traffic-control/operations/</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: bundeswehr.de  
    Title: sicherheit im luftraum der luftwaffe entgeht nichts 135310  
-   Link: <a href="https://www.bundeswehr.de/de/organisation/luftwaffe/sicherheit-im-luftraum-der-luftwaffe-entgeht-nichts-135310" target="_blank" rel="noopener noreferrer nofollow">https://www.bundeswehr.de/de/organisation/luftwaffe/sicherheit-im-luftraum-der-luftwaffe-entgeht-nichts-135310</a>  
+   Link:<a href="https://www.bundeswehr.de/de/organisation/luftwaffe/sicherheit-im-luftraum-der-luftwaffe-entgeht-nichts-135310" target="_blank" rel="noopener noreferrer nofollow">https://www.bundeswehr.de/de/organisation/luftwaffe/sicherheit-im-luftraum-der-luftwaffe-entgeht-nichts-135310</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: nlbl.niedersachsen.de  
    Title: erste eurofighter sind nach wittmundhafen zuruckgekehrt 243412  
-   Link: <a href="https://www.nlbl.niedersachsen.de/startseite/aktuelles_und_service/pressemitteilungen/erste-eurofighter-sind-nach-wittmundhafen-zuruckgekehrt-243412.html" target="_blank" rel="noopener noreferrer nofollow">https://www.nlbl.niedersachsen.de/startseite/aktuelles_und_service/pressemitteilungen/erste-eurofighter-sind-nach-wittmundhafen-zuruckgekehrt-243412.html</a>  
+   Link:<a href="https://www.nlbl.niedersachsen.de/startseite/aktuelles_und_service/pressemitteilungen/erste-eurofighter-sind-nach-wittmundhafen-zuruckgekehrt-243412.html" target="_blank" rel="noopener noreferrer nofollow">https://www.nlbl.niedersachsen.de/startseite/aktuelles_und_service/pressemitteilungen/erste-eurofighter-sind-nach-wittmundhafen-zuruckgekehrt-243412.html</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: dfs.de  
-   Link: <a href="https://www.dfs.de/homepage/en/environment/aircraft-noise/" target="_blank" rel="noopener noreferrer nofollow">https://www.dfs.de/homepage/en/environment/aircraft-noise/</a>  
+   Link:<a href="https://www.dfs.de/homepage/en/environment/aircraft-noise/" target="_blank" rel="noopener noreferrer nofollow">https://www.dfs.de/homepage/en/environment/aircraft-noise/</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: bundeswehr.de  
    Title: Niedersachsen: Darum flogen Jets mit Überschall  
-   Link: <a href="https://www.bundeswehr.de/de/meldungen/niedersachsen-alarmrotte-ueberschall-5619196" target="_blank" rel="noopener noreferrer nofollow">https://www.bundeswehr.de/de/meldungen/niedersachsen-alarmrotte-ueberschall-5619196</a>  
+   Link:<a href="https://www.bundeswehr.de/de/meldungen/niedersachsen-alarmrotte-ueberschall-5619196" target="_blank" rel="noopener noreferrer nofollow">https://www.bundeswehr.de/de/meldungen/niedersachsen-alarmrotte-ueberschall-5619196</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: bundeswehr.de  
    Title: Aus zwei mach eins. Laage und Wittmund fliegen ab sofort  
-   Link: <a href="https://www.bundeswehr.de/de/organisation/luftwaffe/aktuelles/aus-zwei-mach-eins--5334766" target="_blank" rel="noopener noreferrer nofollow">https://www.bundeswehr.de/de/organisation/luftwaffe/aktuelles/aus-zwei-mach-eins--5334766</a>  
+   Link:<a href="https://www.bundeswehr.de/de/organisation/luftwaffe/aktuelles/aus-zwei-mach-eins--5334766" target="_blank" rel="noopener noreferrer nofollow">https://www.bundeswehr.de/de/organisation/luftwaffe/aktuelles/aus-zwei-mach-eins--5334766</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: ndr.de  
    Title: Bundeswehr: Erste Eurofighter wieder zurück in Wittmund  
-   Link: <a href="https://www.ndr.de/nachrichten/niedersachsen/oldenburg_ostfriesland/bundeswehr-erste-eurofighter-sind-zurueck-in-wittmund%2Ceurofighter-192.html" target="_blank" rel="noopener noreferrer nofollow">https://www.ndr.de/nachrichten/niedersachsen/oldenburg_ostfriesland/bundeswehr-erste-eurofighter-sind-zurueck-in-wittmund%2Ceurofighter-192.html</a>  
+   Link:<a href="https://www.ndr.de/nachrichten/niedersachsen/oldenburg_ostfriesland/bundeswehr-erste-eurofighter-sind-zurueck-in-wittmund%2Ceurofighter-192.html" target="_blank" rel="noopener noreferrer nofollow">https://www.ndr.de/nachrichten/niedersachsen/oldenburg_ostfriesland/bundeswehr-erste-eurofighter-sind-zurueck-in-wittmund%2Ceurofighter-192.html</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: zeit.de  
    Title: DIE ZEIT"Geiles Gefühl"  
-   Link: <a href="https://www.zeit.de/news/2025-07/17/erste-eurofighter-ziehen-wieder-von-laage-nach-wittmund" target="_blank" rel="noopener noreferrer nofollow">https://www.zeit.de/news/2025-07/17/erste-eurofighter-ziehen-wieder-von-laage-nach-wittmund</a>  
+   Link:<a href="https://www.zeit.de/news/2025-07/17/erste-eurofighter-ziehen-wieder-von-laage-nach-wittmund" target="_blank" rel="noopener noreferrer nofollow">https://www.zeit.de/news/2025-07/17/erste-eurofighter-ziehen-wieder-von-laage-nach-wittmund</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: ndr.de  
    Title: intensiverer flugbetrieb luftwaffe uebt ueber nord niedersachsen,richthofen 106  
-   Link: <a href="https://www.ndr.de/nachrichten/niedersachsen/oldenburg_ostfriesland/intensiverer-flugbetrieb-luftwaffe-uebt-ueber-nord-niedersachsen%2Crichthofen-106.html" target="_blank" rel="noopener noreferrer nofollow">https://www.ndr.de/nachrichten/niedersachsen/oldenburg_ostfriesland/intensiverer-flugbetrieb-luftwaffe-uebt-ueber-nord-niedersachsen%2Crichthofen-106.html</a>  
+   Link:<a href="https://www.ndr.de/nachrichten/niedersachsen/oldenburg_ostfriesland/intensiverer-flugbetrieb-luftwaffe-uebt-ueber-nord-niedersachsen%2Crichthofen-106.html" target="_blank" rel="noopener noreferrer nofollow">https://www.ndr.de/nachrichten/niedersachsen/oldenburg_ostfriesland/intensiverer-flugbetrieb-luftwaffe-uebt-ueber-nord-niedersachsen%2Crichthofen-106.html</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: bundeswehr.de  
    Title: alarmstart an der ostsee qra fliegt von laage aus 1857270  
-   Link: <a href="https://www.bundeswehr.de/de/organisation/luftwaffe/aktuelles/alarmstart-an-der-ostsee-qra-fliegt-von-laage-aus-1857270" target="_blank" rel="noopener noreferrer nofollow">https://www.bundeswehr.de/de/organisation/luftwaffe/aktuelles/alarmstart-an-der-ostsee-qra-fliegt-von-laage-aus-1857270</a>  
+   Link:<a href="https://www.bundeswehr.de/de/organisation/luftwaffe/aktuelles/alarmstart-an-der-ostsee-qra-fliegt-von-laage-aus-1857270" target="_blank" rel="noopener noreferrer nofollow">https://www.bundeswehr.de/de/organisation/luftwaffe/aktuelles/alarmstart-an-der-ostsee-qra-fliegt-von-laage-aus-1857270</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: zms.bundeswehr.de  
    Title: regionale ausstellung taktlwg 71 5495656  
-   Link: <a href="https://zms.bundeswehr.de/de/zmsbw-kanal-forschung-und-bildung/museums-und-sammlungsverbund-der-bundeswehr/regionale-ausstellung-taktlwg-71-5495656" target="_blank" rel="noopener noreferrer nofollow">https://zms.bundeswehr.de/de/zmsbw-kanal-forschung-und-bildung/museums-und-sammlungsverbund-der-bundeswehr/regionale-ausstellung-taktlwg-71-5495656</a>  
+   Link:<a href="https://zms.bundeswehr.de/de/zmsbw-kanal-forschung-und-bildung/museums-und-sammlungsverbund-der-bundeswehr/regionale-ausstellung-taktlwg-71-5495656" target="_blank" rel="noopener noreferrer nofollow">https://zms.bundeswehr.de/de/zmsbw-kanal-forschung-und-bildung/museums-und-sammlungsverbund-der-bundeswehr/regionale-ausstellung-taktlwg-71-5495656</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: zms.bundeswehr.de  
    Title: de Militärgeschichtliche Sammlung Taktisches  
-   Link: <a href="https://zms.bundeswehr.de/de/zmsbw-kanal-forschung-und-bildung/museums-und-sammlungsverbund-der-bundeswehr/militaergeschichtliche-sammlung-taktlwg-71-richthofen-5495642" target="_blank" rel="noopener noreferrer nofollow">https://zms.bundeswehr.de/de/zmsbw-kanal-forschung-und-bildung/museums-und-sammlungsverbund-der-bundeswehr/militaergeschichtliche-sammlung-taktlwg-71-richthofen-5495642</a>  
+   Link:<a href="https://zms.bundeswehr.de/de/zmsbw-kanal-forschung-und-bildung/museums-und-sammlungsverbund-der-bundeswehr/militaergeschichtliche-sammlung-taktlwg-71-richthofen-5495642" target="_blank" rel="noopener noreferrer nofollow">https://zms.bundeswehr.de/de/zmsbw-kanal-forschung-und-bildung/museums-und-sammlungsverbund-der-bundeswehr/militaergeschichtliche-sammlung-taktlwg-71-richthofen-5495642</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: bundeswehr.de  
    Title: sicherheit im luftraum ostsee faq 6103758  
-   Link: <a href="https://www.bundeswehr.de/de/organisation/luftwaffe/aktuelles/sicherheit-im-luftraum-ostsee-faq-6103758" target="_blank" rel="noopener noreferrer nofollow">https://www.bundeswehr.de/de/organisation/luftwaffe/aktuelles/sicherheit-im-luftraum-ostsee-faq-6103758</a>  
+   Link:<a href="https://www.bundeswehr.de/de/organisation/luftwaffe/aktuelles/sicherheit-im-luftraum-ostsee-faq-6103758" target="_blank" rel="noopener noreferrer nofollow">https://www.bundeswehr.de/de/organisation/luftwaffe/aktuelles/sicherheit-im-luftraum-ostsee-faq-6103758</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: bundeswehr.de  
-   Link: <a href="https://www.bundeswehr.de/de/organisation/luftwaffe/organisation-/luftwaffentruppenkommando/taktisches-luftwaffengeschwader-31-boelcke" target="_blank" rel="noopener noreferrer nofollow">https://www.bundeswehr.de/de/organisation/luftwaffe/organisation-/luftwaffentruppenkommando/taktisches-luftwaffengeschwader-31-boelcke</a>  
+   Link:<a href="https://www.bundeswehr.de/de/organisation/luftwaffe/organisation-/luftwaffentruppenkommando/taktisches-luftwaffengeschwader-31-boelcke" target="_blank" rel="noopener noreferrer nofollow">https://www.bundeswehr.de/de/organisation/luftwaffe/organisation-/luftwaffentruppenkommando/taktisches-luftwaffengeschwader-31-boelcke</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: bundeswehr.de  
    Title: einsatzfuehrungsdienst der deutschen luftwaffe 5587922  
-   Link: <a href="https://www.bundeswehr.de/de/organisation/luftwaffe/aktuelles/einsatzfuehrungsdienst-der-deutschen-luftwaffe-5587922" target="_blank" rel="noopener noreferrer nofollow">https://www.bundeswehr.de/de/organisation/luftwaffe/aktuelles/einsatzfuehrungsdienst-der-deutschen-luftwaffe-5587922</a>  
+   Link:<a href="https://www.bundeswehr.de/de/organisation/luftwaffe/aktuelles/einsatzfuehrungsdienst-der-deutschen-luftwaffe-5587922" target="_blank" rel="noopener noreferrer nofollow">https://www.bundeswehr.de/de/organisation/luftwaffe/aktuelles/einsatzfuehrungsdienst-der-deutschen-luftwaffe-5587922</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: bundeswehr.de  
-   Link: <a href="https://www.bundeswehr.de/de/organisation/luftwaffe" target="_blank" rel="noopener noreferrer nofollow">https://www.bundeswehr.de/de/organisation/luftwaffe</a>  
+   Link:<a href="https://www.bundeswehr.de/de/organisation/luftwaffe" target="_blank" rel="noopener noreferrer nofollow">https://www.bundeswehr.de/de/organisation/luftwaffe</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: bundeswehr.de  
-   Link: <a href="https://www.bundeswehr.de/resource/blob/6082456/a93f79522f430d456e936a8e6a7df6d5/download-y-luftkampf-data.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.bundeswehr.de/resource/blob/6082456/a93f79522f430d456e936a8e6a7df6d5/download-y-luftkampf-data.pdf</a>  
+   Link:<a href="https://www.bundeswehr.de/resource/blob/6082456/a93f79522f430d456e936a8e6a7df6d5/download-y-luftkampf-data.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.bundeswehr.de/resource/blob/6082456/a93f79522f430d456e936a8e6a7df6d5/download-y-luftkampf-data.pdf</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: dfs.de  
    Title: ifr pilot info 1 2024 luftraum e update en  
-   Link: <a href="https://www.dfs.de/homepage/en/media/ifr-vfr-information/ifr-information/pilot-information-1-2024-airspace-e/ifr-pilot-info-1-2024-luftraum-e-update-en.pdf?cid=ixt" target="_blank" rel="noopener noreferrer nofollow">https://www.dfs.de/homepage/en/media/ifr-vfr-information/ifr-information/pilot-information-1-2024-airspace-e/ifr-pilot-info-1-2024-luftraum-e-update-en.pdf?cid=ixt</a>  
+   Link:<a href="https://www.dfs.de/homepage/en/media/ifr-vfr-information/ifr-information/pilot-information-1-2024-airspace-e/ifr-pilot-info-1-2024-luftraum-e-update-en.pdf?cid=ixt" target="_blank" rel="noopener noreferrer nofollow">https://www.dfs.de/homepage/en/media/ifr-vfr-information/ifr-information/pilot-information-1-2024-airspace-e/ifr-pilot-info-1-2024-luftraum-e-update-en.pdf?cid=ixt</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: dfs.de  
-   Link: <a href="https://www.dfs.de/homepage/en/air-traffic-control/" target="_blank" rel="noopener noreferrer nofollow">https://www.dfs.de/homepage/en/air-traffic-control/</a>  
+   Link:<a href="https://www.dfs.de/homepage/en/air-traffic-control/" target="_blank" rel="noopener noreferrer nofollow">https://www.dfs.de/homepage/en/air-traffic-control/</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: dfs.de  
    Title: aic vfr 01 25  
-   Link: <a href="https://www.dfs.de/homepage/de/medien/ifr-vfr-informationen/vfr-informationen/aic-1-25-probebetrieb-frequency-monitoring-code-in-fir-langen/aic-vfr-01-25.pdf?cid=j62" target="_blank" rel="noopener noreferrer nofollow">https://www.dfs.de/homepage/de/medien/ifr-vfr-informationen/vfr-informationen/aic-1-25-probebetrieb-frequency-monitoring-code-in-fir-langen/aic-vfr-01-25.pdf?cid=j62</a>  
+   Link:<a href="https://www.dfs.de/homepage/de/medien/ifr-vfr-informationen/vfr-informationen/aic-1-25-probebetrieb-frequency-monitoring-code-in-fir-langen/aic-vfr-01-25.pdf?cid=j62" target="_blank" rel="noopener noreferrer nofollow">https://www.dfs.de/homepage/de/medien/ifr-vfr-informationen/vfr-informationen/aic-1-25-probebetrieb-frequency-monitoring-code-in-fir-langen/aic-vfr-01-25.pdf?cid=j62</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: dfs.de  
-   Link: <a href="https://dfs.de/homepage/de/medien/publikationen/sicherer-sichtflug.pdf" target="_blank" rel="noopener noreferrer nofollow">https://dfs.de/homepage/de/medien/publikationen/sicherer-sichtflug.pdf</a>  
+   Link:<a href="https://dfs.de/homepage/de/medien/publikationen/sicherer-sichtflug.pdf" target="_blank" rel="noopener noreferrer nofollow">https://dfs.de/homepage/de/medien/publikationen/sicherer-sichtflug.pdf</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: eurofighter.com  
    Title: always ready to defend freedom  
-   Link: <a href="https://www.eurofighter.com/news/always-ready-to-defend-freedom" target="_blank" rel="noopener noreferrer nofollow">https://www.eurofighter.com/news/always-ready-to-defend-freedom</a>  
+   Link:<a href="https://www.eurofighter.com/news/always-ready-to-defend-freedom" target="_blank" rel="noopener noreferrer nofollow">https://www.eurofighter.com/news/always-ready-to-defend-freedom</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: eurofighter.com  
-   Link: <a href="https://www.eurofighter.com/news/nato" target="_blank" rel="noopener noreferrer nofollow">https://www.eurofighter.com/news/nato</a>  
+   Link:<a href="https://www.eurofighter.com/news/nato" target="_blank" rel="noopener noreferrer nofollow">https://www.eurofighter.com/news/nato</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: ndr.de  
-   Link: <a href="https://www.ndr.de/nachrichten/niedersachsen/oldenburg_ostfriesland/air-policing-wie-eurofighter-luftraum-ueber-der-ostsee-sichern-wittmund%2Candersen-108.html" target="_blank" rel="noopener noreferrer nofollow">https://www.ndr.de/nachrichten/niedersachsen/oldenburg_ostfriesland/air-policing-wie-eurofighter-luftraum-ueber-der-ostsee-sichern-wittmund%2Candersen-108.html</a>  
+   Link:<a href="https://www.ndr.de/nachrichten/niedersachsen/oldenburg_ostfriesland/air-policing-wie-eurofighter-luftraum-ueber-der-ostsee-sichern-wittmund%2Candersen-108.html" target="_blank" rel="noopener noreferrer nofollow">https://www.ndr.de/nachrichten/niedersachsen/oldenburg_ostfriesland/air-policing-wie-eurofighter-luftraum-ueber-der-ostsee-sichern-wittmund%2Candersen-108.html</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: ndr.de  
    Title: wittmund erste eurofighter kehren zurueck,hallonds 776  
-   Link: <a href="https://www.ndr.de/fernsehen/sendungen/hallo_niedersachsen/wittmund-erste-eurofighter-kehren-zurueck%2Challonds-776.html" target="_blank" rel="noopener noreferrer nofollow">https://www.ndr.de/fernsehen/sendungen/hallo_niedersachsen/wittmund-erste-eurofighter-kehren-zurueck%2Challonds-776.html</a>  
+   Link:<a href="https://www.ndr.de/fernsehen/sendungen/hallo_niedersachsen/wittmund-erste-eurofighter-kehren-zurueck%2Challonds-776.html" target="_blank" rel="noopener noreferrer nofollow">https://www.ndr.de/fernsehen/sendungen/hallo_niedersachsen/wittmund-erste-eurofighter-kehren-zurueck%2Challonds-776.html</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: news.sky.com  
-   Link: <a href="https://news.sky.com/story/sonic-boom-heard-after-raf-typhoon-fighter-jets-scrambled-to-intercept-passenger-plane-13412193" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/story/sonic-boom-heard-after-raf-typhoon-fighter-jets-scrambled-to-intercept-passenger-plane-13412193</a>  
+   Link:<a href="https://news.sky.com/story/sonic-boom-heard-after-raf-typhoon-fighter-jets-scrambled-to-intercept-passenger-plane-13412193" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/story/sonic-boom-heard-after-raf-typhoon-fighter-jets-scrambled-to-intercept-passenger-plane-13412193</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: Wikipedia  
    Title: Taktisches Luftwaffengeschwader 71 „Richthofen“  
-   Link: <a href="https://de.wikipedia.org/wiki/Taktisches_Luftwaffengeschwader_71_%E2%80%9ERichthofen%E2%80%9C" target="_blank" rel="noopener noreferrer nofollow">https://de.wikipedia.org/wiki/Taktisches_Luftwaffengeschwader_71_%E2%80%9ERichthofen%E2%80%9C</a>  
+   Link:<a href="https://de.wikipedia.org/wiki/Taktisches_Luftwaffengeschwader_71_%E2%80%9ERichthofen%E2%80%9C" target="_blank" rel="noopener noreferrer nofollow">https://de.wikipedia.org/wiki/Taktisches_Luftwaffengeschwader_71_%E2%80%9ERichthofen%E2%80%9C</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: Wikipedia  
-   Title: Taktisches Luftwaffengeschwader 71 "Richthofen"  
-   Link: <a href="https://en.wikipedia.org/wiki/Taktisches_Luftwaffengeschwader_71_%22Richthofen%22" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Taktisches_Luftwaffengeschwader_71_%22Richthofen%22</a>  
+   Title: Taktisches Luftwaffengeschwader 71"Richthofen"  
+   Link:<a href="https://en.wikipedia.org/wiki/Taktisches_Luftwaffengeschwader_71_%22Richthofen%22" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Taktisches_Luftwaffengeschwader_71_%22Richthofen%22</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: Wikipedia  
    Title: Quick Reaction Alert  
-   Link: <a href="https://en.wikipedia.org/wiki/Quick_Reaction_Alert" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Quick_Reaction_Alert</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Quick_Reaction_Alert" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Quick_Reaction_Alert</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: richthofen.info  
-   Link: <a href="https://www.richthofen.info/karte-1/geschwader-staffeln/wittmund" target="_blank" rel="noopener noreferrer nofollow">https://www.richthofen.info/karte-1/geschwader-staffeln/wittmund</a>  
+   Link:<a href="https://www.richthofen.info/karte-1/geschwader-staffeln/wittmund" target="_blank" rel="noopener noreferrer nofollow">https://www.richthofen.info/karte-1/geschwader-staffeln/wittmund</a>  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: flickr.com  
-   Link: <a href="https://www.flickr.com/photos/bundeswehrfoto/54415470525" target="_blank" rel="noopener noreferrer nofollow">https://www.flickr.com/photos/bundeswehrfoto/54415470525</a>  
+   Link:<a href="https://www.flickr.com/photos/bundeswehrfoto/54415470525" target="_blank" rel="noopener noreferrer nofollow">https://www.flickr.com/photos/bundeswehrfoto/54415470525</a>  
 
 ### Additional References
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=i6F9G4YheBA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=i6F9G4YheBA</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>[4K] Wittmund AB: Eurofighter&#x27;s Takeoff &amp; Landing | Local Base Exercise...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=i6F9G4YheBA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=i6F9G4YheBA</a><details class="endnote-snippet"><summary>Source snippet</summary><p>[4K] Wittmund AB: Eurofighter&#x27;s Takeoff &amp; Landing | Local Base Exercise...</p></details>
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: youtube.com  
    Title: Meet the Luftwaffe Eurofighter Typhoon Pilots Policing Eastern Flank  
-   Link: <a href="https://www.youtube.com/watch?v=mJk1onHzG9U" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=mJk1onHzG9U</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>[4K] German AF Eurofighter EF-2000 Typhoon takeoffs at Wittmundhafen AB (ETNT)...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=mJk1onHzG9U" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=mJk1onHzG9U</a><details class="endnote-snippet"><summary>Source snippet</summary><p>[4K] German AF Eurofighter EF-2000 Typhoon takeoffs at Wittmundhafen AB (ETNT)...</p></details>
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: youtube.com  
    Title: [4K] Wittmund AB: Eurofighter's Takeoff & Landing | Local Base Exercise  
-   Link: <a href="https://www.youtube.com/watch?v=7D77W-nnE4Q" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=7D77W-nnE4Q</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>[4K] TaktLwG71 Richthofen I Eurofighter at Wittmund Airbase / Takeoff...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=7D77W-nnE4Q" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=7D77W-nnE4Q</a><details class="endnote-snippet"><summary>Source snippet</summary><p>[4K] TaktLwG71 Richthofen I Eurofighter at Wittmund Airbase / Takeoff...</p></details>
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: youtube.com  
    Title: [4K] Takt Lw G71 Richthofen I Eurofighter at Wittmund Airbase / Takeoff  
-   Link: <a href="https://www.youtube.com/watch?v=wCR4sCQqcmo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=wCR4sCQqcmo</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Meet the Luftwaffe Eurofighter Typhoon Pilots Policing Eastern Flank...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=wCR4sCQqcmo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=wCR4sCQqcmo</a><details class="endnote-snippet"><summary>Source snippet</summary><p>Meet the Luftwaffe Eurofighter Typhoon Pilots Policing Eastern Flank...</p></details>
 
-41. <a id="endnote-41"></a>
+41.<a id="endnote-41"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/Bundeswehr/posts/factsheet-die-quick-reaction-alert-qra-ist-die-schnelle-einsatzbereitschaft-der-/2712887305442511/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/Bundeswehr/posts/factsheet-die-quick-reaction-alert-qra-ist-die-schnelle-einsatzbereitschaft-der-/2712887305442511/</a>  
+   Link:<a href="https://www.facebook.com/Bundeswehr/posts/factsheet-die-quick-reaction-alert-qra-ist-die-schnelle-einsatzbereitschaft-der-/2712887305442511/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/Bundeswehr/posts/factsheet-die-quick-reaction-alert-qra-ist-die-schnelle-einsatzbereitschaft-der-/2712887305442511/</a>  
 
-42. <a id="endnote-42"></a>
+42.<a id="endnote-42"></a>
    Source: gettyimages.nl  
-   Link: <a href="https://www.gettyimages.nl/fotos/german-air-force-eurofighter-typhoon" target="_blank" rel="noopener noreferrer nofollow">https://www.gettyimages.nl/fotos/german-air-force-eurofighter-typhoon</a>  
+   Link:<a href="https://www.gettyimages.nl/fotos/german-air-force-eurofighter-typhoon" target="_blank" rel="noopener noreferrer nofollow">https://www.gettyimages.nl/fotos/german-air-force-eurofighter-typhoon</a>  
 
-43. <a id="endnote-43"></a>
+43.<a id="endnote-43"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/Bundeswehr.Niedersachsen/posts/willkommen-zu-hause-die-ersten-eurofighter-sind-zur%C3%BCck-in-wittmund-der-flugplatz/1171702524999691/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/Bundeswehr.Niedersachsen/posts/willkommen-zu-hause-die-ersten-eurofighter-sind-zur%C3%BCck-in-wittmund-der-flugplatz/1171702524999691/</a>  
+   Link:<a href="https://www.facebook.com/Bundeswehr.Niedersachsen/posts/willkommen-zu-hause-die-ersten-eurofighter-sind-zur%C3%BCck-in-wittmund-der-flugplatz/1171702524999691/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/Bundeswehr.Niedersachsen/posts/willkommen-zu-hause-die-ersten-eurofighter-sind-zur%C3%BCck-in-wittmund-der-flugplatz/1171702524999691/</a>  
 
-44. <a id="endnote-44"></a>
+44.<a id="endnote-44"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/Bundeswehr.Niedersachsen/posts/das-taktische-luftwaffengeschwader-71-richthofen-in-wittmund-ist-einer-von-vier-/870831458420134/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/Bundeswehr.Niedersachsen/posts/das-taktische-luftwaffengeschwader-71-richthofen-in-wittmund-ist-einer-von-vier-/870831458420134/</a>  
+   Link:<a href="https://www.facebook.com/Bundeswehr.Niedersachsen/posts/das-taktische-luftwaffengeschwader-71-richthofen-in-wittmund-ist-einer-von-vier-/870831458420134/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/Bundeswehr.Niedersachsen/posts/das-taktische-luftwaffengeschwader-71-richthofen-in-wittmund-ist-einer-von-vier-/870831458420134/</a>  
 
-45. <a id="endnote-45"></a>
+45.<a id="endnote-45"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/ndrniedersachsen/videos/historische-kampfjets-rollen-%C3%BCber-die-b210-im-landkreis-wittmund/1836766920440132/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ndrniedersachsen/videos/historische-kampfjets-rollen-%C3%BCber-die-b210-im-landkreis-wittmund/1836766920440132/</a>  
+   Link:<a href="https://www.facebook.com/ndrniedersachsen/videos/historische-kampfjets-rollen-%C3%BCber-die-b210-im-landkreis-wittmund/1836766920440132/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ndrniedersachsen/videos/historische-kampfjets-rollen-%C3%BCber-die-b210-im-landkreis-wittmund/1836766920440132/</a>  
 
-46. <a id="endnote-46"></a>
+46.<a id="endnote-46"></a>
    Source: ga-online.de  
-   Link: <a href="https://www.ga-online.de/video/157309/Eurofighter-zurueck-in-Ostfriesland-Fly-In-in-Wittmund" target="_blank" rel="noopener noreferrer nofollow">https://www.ga-online.de/video/157309/Eurofighter-zurueck-in-Ostfriesland-Fly-In-in-Wittmund</a>  
+   Link:<a href="https://www.ga-online.de/video/157309/Eurofighter-zurueck-in-Ostfriesland-Fly-In-in-Wittmund" target="_blank" rel="noopener noreferrer nofollow">https://www.ga-online.de/video/157309/Eurofighter-zurueck-in-Ostfriesland-Fly-In-in-Wittmund</a>  

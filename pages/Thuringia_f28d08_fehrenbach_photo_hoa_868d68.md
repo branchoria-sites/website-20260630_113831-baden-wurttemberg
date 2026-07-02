@@ -52,7 +52,7 @@ text_direction: ltr
 ui_strings:
   home: Home
   overview: Overview
-  overview_prefix: 'Overview:'
+  overview_prefix:'Overview:'
   contents: Contents
   close: Close
   open_contents: Open contents
@@ -200,13 +200,13 @@ ui_strings:
   search_this_page_empty_hint: Type to search this page.
   no_search_results: No pages match this search.
   no_search_this_page_results: No sections on this page match this search.
-  search_results_count_template: '{count} results'
+  search_results_count_template:'{count} results'
   search_kind_page_title: Page title
   search_kind_page_summary: Summary of page
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date: '2026-06-30 10:53:12'
+date:'2026-06-30 10:53:12'
 parent_title: Thuringia UFOs
 parent_permalink: /what-really-happened-in-thuringias-ufo/
 parent_nav_short_title: Thuringia UFOs
@@ -302,288 +302,86 @@ image: /assets/images/Thuringia_f28d08_fehrenbach_photo_hoa_868d68-overview-soci
 
 ## Introduction
 
-The Fehrenbach saucer photographs are [Thuringia]({{ 'what-really-happened-in-thuringias-ufo/' | relative_url }})’s clearest cautionary UFO case: a dramatic 1994 photo series that first looked like strong evidence, then collapsed when [investigators]({{ 'investigators-032033/' | relative_url }}) matched the “craft” to a small plastic toy. Two teenage boys said they had seen and photographed a fast, disc-shaped object over Fehrenbach on the morning of 25 October 1994. The story travelled quickly through local and wider media because the pictures were Polaroids, the object looked structured rather than blurry, and early supporters treated the size and flight story as mutually reinforcing. The turning point came when Hans-Werner Peiniger and the Society for the Investigation of the UFO Phenomenon identified the object as a “Robo-Saucer” toy and obtained an admission that it had been thrown into the air or suspended for the photographs. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.jufof.de/2006/04/der-fehrenbach-fall/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jufof.de">[jufof.de]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jufof.de</span><span class="citation-popover-title">Der Fehrenbach-Fall – Journal für UFO-Forschung</span><span class="citation-popover-snippet">Der Fehrenbach-Fall – Journal für UFO-Forschung</span></span></span>
-
-
-<img src="{{ "/assets/images/Thuringia_f28d08_fehrenbach_photo_hoa_868d68-overview.webp" | relative_url }}" alt="Overview image for Fehrenbach" loading="eager" decoding="sync" fetchpriority="high">
+The Fehrenbach saucer photographs are [Thuringia]({{'what-really-happened-in-thuringias-ufo/' | relative_url }})’s clearest cautionary UFO case: a dramatic 1994 photo series that first looked like strong evidence, then collapsed when [investigators]({{'investigators-032033/' | relative_url }}) matched the “craft” to a small plastic toy. Two teenage boys said they had seen and photographed a fast, disc-shaped object over Fehrenbach on the morning of 25 October 1994. The story travelled quickly through local and wider media because the pictures were Polaroids, the object looked structured rather than blurry, and early supporters treated the size and flight story as mutually reinforcing. The turning point came when Hans-Werner Peiniger and the Society for the Investigation of the UFO Phenomenon identified the object as a “Robo-Saucer” toy and obtained an admission that it had been thrown into the air or suspended for the photographs.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.jufof.de/2006/04/der-fehrenbach-fall/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jufof.de">[jufof.de]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jufof.de</span><span class="citation-popover-title">Der Fehrenbach-Fall – Journal für UFO-Forschung</span><span class="citation-popover-snippet">Der Fehrenbach-Fall – Journal für UFO-Forschung</span></span></span><img src="{{"/assets/images/Thuringia_f28d08_fehrenbach_photo_hoa_868d68-overview.webp" | relative_url }}" alt="Overview image for Fehrenbach" loading="eager" decoding="sync" fetchpriority="high">
 ## Why the photos looked persuasive
 
-The Fehrenbach case had the ingredients of a convincing 1990s UFO story. According to the account later published by the Society for the Investigation of the UFO Phenomenon, the main witness said his friend woke him at about 7 am, telling him to fetch a camera because he had seen a UFO. The boys then claimed to have taken seven photographs before the object turned away to the north-east. In the written report quoted by Hans-Werner Peiniger, the object was described as brown underneath, with a bluish or violet dome and black struts; the estimated size was about eight metres across and roughly 2.5 metres high. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.jufof.de/2006/04/der-fehrenbach-fall/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jufof.de">[jufof.de]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jufof.de</span><span class="citation-popover-title">Der Fehrenbach-Fall – Journal für UFO-Forschung</span><span class="citation-popover-snippet">Der Fehrenbach-Fall – Journal für UFO-Forschung</span></span></span>
+The Fehrenbach case had the ingredients of a convincing 1990s UFO story. According to the account later published by the Society for the Investigation of the UFO Phenomenon, the main witness said his friend woke him at about 7 am, telling him to fetch a camera because he had seen a UFO. The boys then claimed to have taken seven photographs before the object turned away to the north-east. In the written report quoted by Hans-Werner Peiniger, the object was described as brown underneath, with a bluish or violet dome and black struts; the estimated size was about eight metres across and roughly 2.5 metres high.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.jufof.de/2006/04/der-fehrenbach-fall/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jufof.de">[jufof.de]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jufof.de</span><span class="citation-popover-title">Der Fehrenbach-Fall – Journal für UFO-Forschung</span><span class="citation-popover-snippet">Der Fehrenbach-Fall – Journal für UFO-Forschung</span></span></span>
 
-That detail mattered. Many UFO photographs are vague smudges, lights, birds, insects, reflections or motion-blurred shapes. The Fehrenbach images, by contrast, appeared to show a recognisable “saucer” form with a dome, body and surface structure. The claim also came with a narrative: a morning sighting from a family garden, two young witnesses, several Polaroid images rather than a single frame, and a grandfather who took the material to the local press because he believed the event deserved investigation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.jufof.de/2006/04/der-fehrenbach-fall/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jufof.de">[jufof.de]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jufof.de</span><span class="citation-popover-title">Der Fehrenbach-Fall – Journal für UFO-Forschung</span><span class="citation-popover-snippet">Der Fehrenbach-Fall – Journal für UFO-Forschung</span></span></span>
+That detail mattered. Many UFO photographs are vague smudges, lights, birds, insects, reflections or motion-blurred shapes. The Fehrenbach images, by contrast, appeared to show a recognisable “saucer” form with a dome, body and surface structure. The claim also came with a narrative: a morning sighting from a family garden, two young witnesses, several Polaroid images rather than a single frame, and a grandfather who took the material to the local press because he believed the event deserved investigation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.jufof.de/2006/04/der-fehrenbach-fall/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jufof.de">[jufof.de]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jufof.de</span><span class="citation-popover-title">Der Fehrenbach-Fall – Journal für UFO-Forschung</span><span class="citation-popover-snippet">Der Fehrenbach-Fall – Journal für UFO-Forschung</span></span></span>
 
-The media dynamic then gave the case a second layer of credibility. A later regional retrospective reported that after the first local newspaper article, many newspapers and television outlets picked up the story, while some UFO researchers judged that the photographs did not contradict the boys’ statements. That is an important point for Thuringia’s UFO history: the case became significant not because it remained unexplained, but because it shows how quickly a visually striking claim can move from a village incident to a headline-making “case” before the physical premise has been tested properly. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.come-on.de/luedenscheid/ufo-forscher-luedenscheid-fehrenbach-untertasse-fliegende-gep-90810797.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: come-on.de">[come-on.de]</a><span class="citation-popover" role="note"><span class="citation-popover-source">come-on.de</span><span class="citation-popover-title">Es war ganz anders: Ufo-Sichtung von Ufo-Forschern aus Lüdenscheid enträtselt</span><span class="citation-popover-snippet">Es war ganz anders: Ufo-Sichtung von Ufo-Forschern aus Lüdenscheid enträtselt</span></span></span>
-
-
-<img src="{{ "/assets/images/Thuringia_f28d08_fehrenbach_photo_hoa_868d68-Illustration-1-dark.svg" | relative_url }}" alt="Fehrenbach illustration 1" data-theme-src-dark="{{ "/assets/images/Thuringia_f28d08_fehrenbach_photo_hoa_868d68-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Thuringia_f28d08_fehrenbach_photo_hoa_868d68-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+The media dynamic then gave the case a second layer of credibility. A later regional retrospective reported that after the first local newspaper article, many newspapers and television outlets picked up the story, while some UFO researchers judged that the photographs did not contradict the boys’ statements. That is an important point for Thuringia’s UFO history: the case became significant not because it remained unexplained, but because it shows how quickly a visually striking claim can move from a village incident to a headline-making “case” before the physical premise has been tested properly.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.come-on.de/luedenscheid/ufo-forscher-luedenscheid-fehrenbach-untertasse-fliegende-gep-90810797.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: come-on.de">[come-on.de]</a><span class="citation-popover" role="note"><span class="citation-popover-source">come-on.de</span><span class="citation-popover-title">Es war ganz anders: Ufo-Sichtung von Ufo-Forschern aus Lüdenscheid enträtselt</span><span class="citation-popover-snippet">Es war ganz anders: Ufo-Sichtung von Ufo-Forschern aus Lüdenscheid enträtselt</span></span></span><img src="{{"/assets/images/Thuringia_f28d08_fehrenbach_photo_hoa_868d68-Illustration-1-dark.svg" | relative_url }}" alt="Fehrenbach illustration 1" data-theme-src-dark="{{"/assets/images/Thuringia_f28d08_fehrenbach_photo_hoa_868d68-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{"/assets/images/Thuringia_f28d08_fehrenbach_photo_hoa_868d68-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The doubts that mattered before the toy was found
 
-The case began to look less secure when investigators stopped asking only “could this be real?” and began asking the more practical question: “how could two teenagers have made this?” Peiniger’s later account says the first warning sign was timing. A television documentary called “UFOs – and they do exist” had aired the previous evening, making it suspicious that two boys would produce a spectacular saucer case the next morning. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.jufof.de/2006/04/der-fehrenbach-fall/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jufof.de">[jufof.de]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jufof.de</span><span class="citation-popover-title">Der Fehrenbach-Fall – Journal für UFO-Forschung</span><span class="citation-popover-snippet">Der Fehrenbach-Fall – Journal für UFO-Forschung</span></span></span>
+The case began to look less secure when investigators stopped asking only “could this be real?” and began asking the more practical question: “how could two teenagers have made this?” Peiniger’s later account says the first warning sign was timing. A television documentary called “UFOs – and they do exist” had aired the previous evening, making it suspicious that two boys would produce a spectacular saucer case the next morning.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.jufof.de/2006/04/der-fehrenbach-fall/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jufof.de">[jufof.de]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jufof.de</span><span class="citation-popover-title">Der Fehrenbach-Fall – Journal für UFO-Forschung</span><span class="citation-popover-snippet">Der Fehrenbach-Fall – Journal für UFO-Forschung</span></span></span>
 
-The photos themselves also did not require a sophisticated fake. Peiniger noted that because the images were Polaroids, they were not ideal for detailed computer analysis, especially if the question was whether a fine thread could be seen. Instead of treating the lack of obvious image manipulation as proof of authenticity, the investigators framed a simpler hypothesis: the photographs might be genuine photographs of a small object placed or thrown in front of the camera. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.jufof.de/2006/04/der-fehrenbach-fall/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jufof.de">[jufof.de]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jufof.de</span><span class="citation-popover-title">Der Fehrenbach-Fall – Journal für UFO-Forschung</span><span class="citation-popover-snippet">Der Fehrenbach-Fall – Journal für UFO-Forschung</span></span></span>
-
-That distinction is central to understanding why the case fooled people. A photograph can be “real” in the narrow sense that the print has not been digitally altered or optically retouched, while still showing a staged object. In Fehrenbach, the eventual explanation did not require a laboratory-level forgery. It required a small model, a Polaroid camera, a convincing story and enough media momentum to discourage the boys from admitting the prank once adults took it seriously. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.jufof.de/2006/04/der-fehrenbach-fall/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jufof.de">[jufof.de]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jufof.de</span><span class="citation-popover-title">Der Fehrenbach-Fall – Journal für UFO-Forschung</span><span class="citation-popover-snippet">Der Fehrenbach-Fall – Journal für UFO-Forschung</span></span></span>
-
+The photos themselves also did not require a sophisticated fake. Peiniger noted that because the images were Polaroids, they were not ideal for detailed computer analysis, especially if the question was whether a fine thread could be seen. Instead of treating the lack of obvious image manipulation as proof of authenticity, the investigators framed a simpler hypothesis: the photographs might be genuine photographs of a small object placed or thrown in front of the camera.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.jufof.de/2006/04/der-fehrenbach-fall/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jufof.de">[jufof.de]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jufof.de</span><span class="citation-popover-title">Der Fehrenbach-Fall – Journal für UFO-Forschung</span><span class="citation-popover-snippet">Der Fehrenbach-Fall – Journal für UFO-Forschung</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/cVzyPnDYX2Y" title="Most Unbelievable UFO Encounters Ever | The Proof Is Out There | History" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=cVzyPnDYX2Y" target="_blank" rel="noopener noreferrer">Most Unbelievable UFO Encounters Ever | The Proof Is Out There | History</a></p><p class="youtube-embed-meta">Channel: HISTORY &middot; Views: 1.4M &middot; Uploaded: January 2025 &middot; Length: 1 hour 16 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=cVzyPnDYX2Y" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=cVzyPnDYX2Y">Open on YouTube</a></p></div></div></div>
 
 ## How investigators found the toy match
 
-The decisive break came from a low-tech search rather than from exotic photo analysis. Peiniger reasoned that if the object was a model, it was probably something available to boys of that age: a toy spacecraft, science-fiction playset or similar object, rather than a home-built model requiring tools, time and concealment. He later wrote that he searched toy shops while checking for products that could plausibly match the form shown in the photographs. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.jufof.de/2006/04/der-fehrenbach-fall/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jufof.de">[jufof.de]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jufof.de</span><span class="citation-popover-title">Der Fehrenbach-Fall – Journal für UFO-Forschung</span><span class="citation-popover-snippet">Der Fehrenbach-Fall – Journal für UFO-Forschung</span></span></span>
+The decisive break came from a low-tech search rather than from exotic photo analysis. Peiniger reasoned that if the object was a model, it was probably something available to boys of that age: a toy spacecraft, science-fiction playset or similar object, rather than a home-built model requiring tools, time and concealment. He later wrote that he searched toy shops while checking for products that could plausibly match the form shown in the photographs.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.jufof.de/2006/04/der-fehrenbach-fall/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jufof.de">[jufof.de]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jufof.de</span><span class="citation-popover-title">Der Fehrenbach-Fall – Journal für UFO-Forschung</span><span class="citation-popover-snippet">Der Fehrenbach-Fall – Journal für UFO-Forschung</span></span></span>
 
-The matching object was found in a bargain box: a “Robo-Saucer” from the “Galaxy Space Pocket” series, manufactured by Hinstar in China and distributed in Germany, including by Simba Toys. Peiniger’s account gives the model as about 12 centimetres in diameter, about 6 centimetres high and roughly 125 grams in weight. A regional retrospective gives a similar description, with the same 12-centimetre diameter and 125-gram weight, though it states the height as eight centimetres. The small discrepancy does not affect the core finding: the toy’s form, proportions and surface details matched the Fehrenbach object. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.jufof.de/2006/04/der-fehrenbach-fall/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jufof.de">[jufof.de]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jufof.de</span><span class="citation-popover-title">Der Fehrenbach-Fall – Journal für UFO-Forschung</span><span class="citation-popover-snippet">Der Fehrenbach-Fall – Journal für UFO-Forschung</span></span></span>
+The matching object was found in a bargain box: a “Robo-Saucer” from the “Galaxy Space Pocket” series, manufactured by Hinstar in China and distributed in Germany, including by Simba Toys. Peiniger’s account gives the model as about 12 centimetres in diameter, about 6 centimetres high and roughly 125 grams in weight. A regional retrospective gives a similar description, with the same 12-centimetre diameter and 125-gram weight, though it states the height as eight centimetres. The small discrepancy does not affect the core finding: the toy’s form, proportions and surface details matched the Fehrenbach object.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.jufof.de/2006/04/der-fehrenbach-fall/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jufof.de">[jufof.de]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jufof.de</span><span class="citation-popover-title">Der Fehrenbach-Fall – Journal für UFO-Forschung</span><span class="citation-popover-snippet">Der Fehrenbach-Fall – Journal für UFO-Forschung</span></span></span>
 
-The match was not just a vague resemblance. Peiniger reported that the toy had a brown body, a violet dome and black struts, corresponding to the structure visible in the Fehrenbach photos. He also noted a more specific detail: the toy normally had two small projecting “guns”, but on the comparison model these had broken off, leaving pale reflective break points. The GEP then made comparison photographs with the toy, and Gerald Mosbleck worked on the photographic aspects of the case. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.jufof.de/2006/04/der-fehrenbach-fall/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jufof.de">[jufof.de]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jufof.de</span><span class="citation-popover-title">Der Fehrenbach-Fall – Journal für UFO-Forschung</span><span class="citation-popover-snippet">Der Fehrenbach-Fall – Journal für UFO-Forschung</span></span></span>
+The match was not just a vague resemblance. Peiniger reported that the toy had a brown body, a violet dome and black struts, corresponding to the structure visible in the Fehrenbach photos. He also noted a more specific detail: the toy normally had two small projecting “guns”, but on the comparison model these had broken off, leaving pale reflective break points. The GEP then made comparison photographs with the toy, and Gerald Mosbleck worked on the photographic aspects of the case.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.jufof.de/2006/04/der-fehrenbach-fall/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jufof.de">[jufof.de]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jufof.de</span><span class="citation-popover-title">Der Fehrenbach-Fall – Journal für UFO-Forschung</span><span class="citation-popover-snippet">Der Fehrenbach-Fall – Journal für UFO-Forschung</span></span></span>
 
-The final confirmation came from witness contact. Peiniger wrote that he telephoned one of the boys on 1 June 1995. After being confronted with the claim that investigators knew a model had been used, the boy became less forthcoming but eventually admitted the deception and gave details. According to the GEP account, the toy belonged to the other boy, the idea followed the previous evening’s UFO documentary, and the model had been thrown like a disc or held up for the photographs. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.jufof.de/2006/04/der-fehrenbach-fall/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jufof.de">[jufof.de]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jufof.de</span><span class="citation-popover-title">Der Fehrenbach-Fall – Journal für UFO-Forschung</span><span class="citation-popover-snippet">Der Fehrenbach-Fall – Journal für UFO-Forschung</span></span></span>
-
-
-<img src="{{ "/assets/images/Thuringia_f28d08_fehrenbach_photo_hoa_868d68-Illustration-2-dark.svg" | relative_url }}" alt="Fehrenbach illustration 2" data-theme-src-dark="{{ "/assets/images/Thuringia_f28d08_fehrenbach_photo_hoa_868d68-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Thuringia_f28d08_fehrenbach_photo_hoa_868d68-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+The final confirmation came from witness contact. Peiniger wrote that he telephoned one of the boys on 1 June 1995. After being confronted with the claim that investigators knew a model had been used, the boy became less forthcoming but eventually admitted the deception and gave details. According to the GEP account, the toy belonged to the other boy, the idea followed the previous evening’s UFO documentary, and the model had been thrown like a disc or held up for the photographs.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.jufof.de/2006/04/der-fehrenbach-fall/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jufof.de">[jufof.de]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jufof.de</span><span class="citation-popover-title">Der Fehrenbach-Fall – Journal für UFO-Forschung</span><span class="citation-popover-snippet">Der Fehrenbach-Fall – Journal für UFO-Forschung</span></span></span><img src="{{"/assets/images/Thuringia_f28d08_fehrenbach_photo_hoa_868d68-Illustration-2-dark.svg" | relative_url }}" alt="Fehrenbach illustration 2" data-theme-src-dark="{{"/assets/images/Thuringia_f28d08_fehrenbach_photo_hoa_868d68-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{"/assets/images/Thuringia_f28d08_fehrenbach_photo_hoa_868d68-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What the hoax revealed about the original story
 
-Once the toy was identified, several oddities in the case became easier to understand. The boys had claimed a structured object of large size and dramatic speed, yet the eventual explanation was a hand-sized object close to the camera. This is a classic problem in UFO photography: without reliable distance, a small nearby object can be mistaken for a large distant one. The Fehrenbach story exaggerated that uncertainty by supplying a confident narrative around size, distance and movement. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.jufof.de/2006/04/der-fehrenbach-fall/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jufof.de">[jufof.de]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jufof.de</span><span class="citation-popover-title">Der Fehrenbach-Fall – Journal für UFO-Forschung</span><span class="citation-popover-snippet">Der Fehrenbach-Fall – Journal für UFO-Forschung</span></span></span>
+Once the toy was identified, several oddities in the case became easier to understand. The boys had claimed a structured object of large size and dramatic speed, yet the eventual explanation was a hand-sized object close to the camera. This is a classic problem in UFO photography: without reliable distance, a small nearby object can be mistaken for a large distant one. The Fehrenbach story exaggerated that uncertainty by supplying a confident narrative around size, distance and movement.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.jufof.de/2006/04/der-fehrenbach-fall/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jufof.de">[jufof.de]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jufof.de</span><span class="citation-popover-title">Der Fehrenbach-Fall – Journal für UFO-Forschung</span><span class="citation-popover-snippet">Der Fehrenbach-Fall – Journal für UFO-Forschung</span></span></span>
 
-The light in the images also raised problems. Peiniger’s report highlights one especially revealing photograph in which foreground leaves appeared strongly lit and showed shadows. The boys’ side of the story initially indicated an early-morning event shortly after 7 am, with overcast skies and, according to the grandfather, no flash. A reconstruction of the astronomical situation found that the sun would have been only just above the horizon, making the lighting difficult to reconcile with the claimed timing. The later admission resolved the contradiction: the photographs were made around 10 am, and the camera’s automatic flash had been used. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.jufof.de/2006/04/der-fehrenbach-fall/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jufof.de">[jufof.de]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jufof.de</span><span class="citation-popover-title">Der Fehrenbach-Fall – Journal für UFO-Forschung</span><span class="citation-popover-snippet">Der Fehrenbach-Fall – Journal für UFO-Forschung</span></span></span>
-
-The case also shows why “multiple photos” do not automatically mean stronger evidence. Seven images can still document the same staged set-up seven times. In Fehrenbach, the series may even have helped the story because repetition gave the impression of a sustained event. But once investigators had the toy, the multiple frames became a pattern of staging rather than a pattern of independent corroboration. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.jufof.de/2006/04/der-fehrenbach-fall/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jufof.de">[jufof.de]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jufof.de</span><span class="citation-popover-title">Der Fehrenbach-Fall – Journal für UFO-Forschung</span><span class="citation-popover-snippet">Der Fehrenbach-Fall – Journal für UFO-Forschung</span></span></span>
-
+The light in the images also raised problems. Peiniger’s report highlights one especially revealing photograph in which foreground leaves appeared strongly lit and showed shadows. The boys’ side of the story initially indicated an early-morning event shortly after 7 am, with overcast skies and, according to the grandfather, no flash. A reconstruction of the astronomical situation found that the sun would have been only just above the horizon, making the lighting difficult to reconcile with the claimed timing. The later admission resolved the contradiction: the photographs were made around 10 am, and the camera’s automatic flash had been used.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.jufof.de/2006/04/der-fehrenbach-fall/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jufof.de">[jufof.de]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jufof.de</span><span class="citation-popover-title">Der Fehrenbach-Fall – Journal für UFO-Forschung</span><span class="citation-popover-snippet">Der Fehrenbach-Fall – Journal für UFO-Forschung</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/G_qz9ZCacQw" title="How We Staged a UFO Hoax | Fakes, Frauds and Scammers" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=G_qz9ZCacQw" target="_blank" rel="noopener noreferrer">How We Staged a UFO Hoax | Fakes, Frauds and Scammers</a></p><p class="youtube-embed-meta">Channel: VICE Asia &middot; Views: 21.7K &middot; Uploaded: September 2021 &middot; Length: 7 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=G_qz9ZCacQw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=G_qz9ZCacQw">Open on YouTube</a></p></div></div></div>
 
 ## Why the media helped the story grow
 
-The Fehrenbach photographs became a sensation partly because they were simple to tell. Two schoolboys. A garden. A saucer above the trees. Instant photographs. A grandfather carrying the evidence to the local newspaper. That kind of story needs little specialist knowledge and gives editors a ready-made visual hook. Later accounts say the case attracted regional and national attention, including television crews, after the local report appeared. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.come-on.de/luedenscheid/ufo-forscher-luedenscheid-fehrenbach-untertasse-fliegende-gep-90810797.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: come-on.de">[come-on.de]</a><span class="citation-popover" role="note"><span class="citation-popover-source">come-on.de</span><span class="citation-popover-title">Es war ganz anders: Ufo-Sichtung von Ufo-Forschern aus Lüdenscheid enträtselt</span><span class="citation-popover-snippet">Es war ganz anders: Ufo-Sichtung von Ufo-Forschern aus Lüdenscheid enträtselt</span></span></span>
+The Fehrenbach photographs became a sensation partly because they were simple to tell. Two schoolboys. A garden. A saucer above the trees. Instant photographs. A grandfather carrying the evidence to the local newspaper. That kind of story needs little specialist knowledge and gives editors a ready-made visual hook. Later accounts say the case attracted regional and national attention, including television crews, after the local report appeared.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.come-on.de/luedenscheid/ufo-forscher-luedenscheid-fehrenbach-untertasse-fliegende-gep-90810797.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: come-on.de">[come-on.de]</a><span class="citation-popover" role="note"><span class="citation-popover-source">come-on.de</span><span class="citation-popover-title">Es war ganz anders: Ufo-Sichtung von Ufo-Forschern aus Lüdenscheid enträtselt</span><span class="citation-popover-snippet">Es war ganz anders: Ufo-Sichtung von Ufo-Forschern aus Lüdenscheid enträtselt</span></span></span>
 
-The media attention then changed the human situation. According to Peiniger’s later write-up, the grandfather appears to have acted in good faith, believing the photographs were real and should be documented. The boys, however, had not expected the prank to escalate. Once newspapers, broadcasters and UFO organisations became involved, they reportedly no longer dared to admit that the incident had begun as a trick. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.jufof.de/2006/04/der-fehrenbach-fall/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jufof.de">[jufof.de]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jufof.de</span><span class="citation-popover-title">Der Fehrenbach-Fall – Journal für UFO-Forschung</span><span class="citation-popover-snippet">Der Fehrenbach-Fall – Journal für UFO-Forschung</span></span></span>
+The media attention then changed the human situation. According to Peiniger’s later write-up, the grandfather appears to have acted in good faith, believing the photographs were real and should be documented. The boys, however, had not expected the prank to escalate. Once newspapers, broadcasters and UFO organisations became involved, they reportedly no longer dared to admit that the incident had begun as a trick.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.jufof.de/2006/04/der-fehrenbach-fall/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jufof.de">[jufof.de]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jufof.de</span><span class="citation-popover-title">Der Fehrenbach-Fall – Journal für UFO-Forschung</span><span class="citation-popover-snippet">Der Fehrenbach-Fall – Journal für UFO-Forschung</span></span></span>
 
-This is one reason the Fehrenbach case remains useful for a public-facing Thuringia UFO history. It is not simply a story about two boys fooling adults. It is a story about how quickly a claim can acquire social weight. Once a local report becomes a regional spectacle, a witness may feel trapped by the consequences of correcting it, while investigators and journalists may start defending earlier assumptions instead of testing them from scratch. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://taz.de/Aliens-Ufos-und-viel-heisse-Luft/%21317043/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: taz.de">[taz.de]</a><span class="citation-popover" role="note"><span class="citation-popover-source">taz.de</span><span class="citation-popover-title">Aliens, Ufos und viel heiße Luft &#124; taz.de</span><span class="citation-popover-snippet">Aliens, Ufos und viel heiße Luft &#124; taz.de</span></span></span>
-
-
-<img src="{{ "/assets/images/Thuringia_f28d08_fehrenbach_photo_hoa_868d68-Illustration-3-dark.svg" | relative_url }}" alt="Fehrenbach illustration 3" data-theme-src-dark="{{ "/assets/images/Thuringia_f28d08_fehrenbach_photo_hoa_868d68-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Thuringia_f28d08_fehrenbach_photo_hoa_868d68-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+This is one reason the Fehrenbach case remains useful for a public-facing Thuringia UFO history. It is not simply a story about two boys fooling adults. It is a story about how quickly a claim can acquire social weight. Once a local report becomes a regional spectacle, a witness may feel trapped by the consequences of correcting it, while investigators and journalists may start defending earlier assumptions instead of testing them from scratch.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://taz.de/Aliens-Ufos-und-viel-heisse-Luft/%21317043/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: taz.de">[taz.de]</a><span class="citation-popover" role="note"><span class="citation-popover-source">taz.de</span><span class="citation-popover-title">Aliens, Ufos und viel heiße Luft &#124; taz.de</span><span class="citation-popover-snippet">Aliens, Ufos und viel heiße Luft &#124; taz.de</span></span></span><img src="{{"/assets/images/Thuringia_f28d08_fehrenbach_photo_hoa_868d68-Illustration-3-dark.svg" | relative_url }}" alt="Fehrenbach illustration 3" data-theme-src-dark="{{"/assets/images/Thuringia_f28d08_fehrenbach_photo_hoa_868d68-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{"/assets/images/Thuringia_f28d08_fehrenbach_photo_hoa_868d68-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The uncomfortable lesson for UFO image analysis
 
-Fehrenbach is often remembered as a debunked saucer photograph, but its sharper lesson is methodological. The case shows that image analysis alone can be fragile when the basic scene geometry is unknown. If the distance to an object is assumed rather than measured, then any estimate of size, speed or altitude can become circular: the object seems large because it is assumed to be far away, and it seems far away because the witness story says it was large. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.jufof.de/2006/04/der-fehrenbach-fall/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jufof.de">[jufof.de]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jufof.de</span><span class="citation-popover-title">Der Fehrenbach-Fall – Journal für UFO-Forschung</span><span class="citation-popover-snippet">Der Fehrenbach-Fall – Journal für UFO-Forschung</span></span></span>
+Fehrenbach is often remembered as a debunked saucer photograph, but its sharper lesson is methodological. The case shows that image analysis alone can be fragile when the basic scene geometry is unknown. If the distance to an object is assumed rather than measured, then any estimate of size, speed or altitude can become circular: the object seems large because it is assumed to be far away, and it seems far away because the witness story says it was large.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.jufof.de/2006/04/der-fehrenbach-fall/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jufof.de">[jufof.de]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jufof.de</span><span class="citation-popover-title">Der Fehrenbach-Fall – Journal für UFO-Forschung</span><span class="citation-popover-snippet">Der Fehrenbach-Fall – Journal für UFO-Forschung</span></span></span>
 
-Peiniger’s own conclusion was deliberately modest. He argued that the case had been solved using investigative common sense, critical awareness and detective work, not a dramatic technical breakthrough. That matters because the most important evidence was not a hidden pixel or secret file; it was a mundane object that matched the photographed shape and an interview that turned suspicion into admission. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.jufof.de/2006/04/der-fehrenbach-fall/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jufof.de">[jufof.de]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jufof.de</span><span class="citation-popover-title">Der Fehrenbach-Fall – Journal für UFO-Forschung</span><span class="citation-popover-snippet">Der Fehrenbach-Fall – Journal für UFO-Forschung</span></span></span>
-
-The case also sits within a wider pattern in private German UFO investigation. A taz profile of Peiniger described the GEP’s ordinary work as checking reports against aircraft, helicopters, weather, balloons, reflections, insects, birds and other everyday causes. In that same profile, Peiniger said GEP investigators found clear explanations for about 70 per cent of cases, with only a very small share remaining genuinely unexplained after investigation. Those figures should not be overread as a universal UFO statistic, but they explain the investigative culture in which Fehrenbach was examined: start with the ordinary, then see whether anything genuinely resists explanation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://taz.de/Aliens-Ufos-und-viel-heisse-Luft/%21317043/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: taz.de">[taz.de]</a><span class="citation-popover" role="note"><span class="citation-popover-source">taz.de</span><span class="citation-popover-title">Aliens, Ufos und viel heiße Luft &#124; taz.de</span><span class="citation-popover-snippet">Aliens, Ufos und viel heiße Luft &#124; taz.de</span></span></span>
-
+Peiniger’s own conclusion was deliberately modest. He argued that the case had been solved using investigative common sense, critical awareness and detective work, not a dramatic technical breakthrough. That matters because the most important evidence was not a hidden pixel or secret file; it was a mundane object that matched the photographed shape and an interview that turned suspicion into admission.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.jufof.de/2006/04/der-fehrenbach-fall/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jufof.de">[jufof.de]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jufof.de</span><span class="citation-popover-title">Der Fehrenbach-Fall – Journal für UFO-Forschung</span><span class="citation-popover-snippet">Der Fehrenbach-Fall – Journal für UFO-Forschung</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/o7Tu-28hyow" title="Michael Shermer on How to Fake UFO Photographs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=o7Tu-28hyow" target="_blank" rel="noopener noreferrer">Michael Shermer on How to Fake UFO Photographs</a></p><p class="youtube-embed-meta">Channel: Skeptic &middot; Views: 196.5K &middot; Uploaded: July 2007 &middot; Length: 6 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=o7Tu-28hyow" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=o7Tu-28hyow">Open on YouTube</a></p></div></div></div>
 
 ## Why Fehrenbach matters in Thuringia’s UFO history
 
-Thuringia has more mysterious or historically atmospheric UFO material than the Fehrenbach hoax, including older Cold War claims and state-security-era sightings. Fehrenbach is different because its value is negative evidence: it shows how an impressive local case can fail. That makes it an essential counterweight to more ambiguous stories in the state’s UFO record. It is the case that reminds readers not to treat vividness, youth witnesses, local press excitement or photographic detail as proof. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.jufof.de/2006/04/der-fehrenbach-fall/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jufof.de">[jufof.de]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jufof.de</span><span class="citation-popover-title">Der Fehrenbach-Fall – Journal für UFO-Forschung</span><span class="citation-popover-snippet">Der Fehrenbach-Fall – Journal für UFO-Forschung</span></span></span>
+Thuringia has more mysterious or historically atmospheric UFO material than the Fehrenbach hoax, including older Cold War claims and state-security-era sightings. Fehrenbach is different because its value is negative evidence: it shows how an impressive local case can fail. That makes it an essential counterweight to more ambiguous stories in the state’s UFO record. It is the case that reminds readers not to treat vividness, youth witnesses, local press excitement or photographic detail as proof.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.jufof.de/2006/04/der-fehrenbach-fall/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jufof.de">[jufof.de]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jufof.de</span><span class="citation-popover-title">Der Fehrenbach-Fall – Journal für UFO-Forschung</span><span class="citation-popover-snippet">Der Fehrenbach-Fall – Journal für UFO-Forschung</span></span></span>
 
-It also gives Thuringia a rare case with a clear before-and-after arc. At first, the photographs seemed to show a structured disc and were presented as a major sighting. Then the investigation shifted towards model-testing. The toy was found. Comparison photographs supported the match. A witness admission completed the explanation. By the end, the “saucer over Fehrenbach” was no longer an unresolved aerial phenomenon but a staged image series made with a small plastic toy. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.jufof.de/2006/04/der-fehrenbach-fall/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jufof.de">[jufof.de]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jufof.de</span><span class="citation-popover-title">Der Fehrenbach-Fall – Journal für UFO-Forschung</span><span class="citation-popover-snippet">Der Fehrenbach-Fall – Journal für UFO-Forschung</span></span></span>
+It also gives Thuringia a rare case with a clear before-and-after arc. At first, the photographs seemed to show a structured disc and were presented as a major sighting. Then the investigation shifted towards model-testing. The toy was found. Comparison photographs supported the match. A witness admission completed the explanation. By the end, the “saucer over Fehrenbach” was no longer an unresolved aerial phenomenon but a staged image series made with a small plastic toy.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.jufof.de/2006/04/der-fehrenbach-fall/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jufof.de">[jufof.de]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jufof.de</span><span class="citation-popover-title">Der Fehrenbach-Fall – Journal für UFO-Forschung</span><span class="citation-popover-snippet">Der Fehrenbach-Fall – Journal für UFO-Forschung</span></span></span>
 
-That does not mean every UFO photograph is a hoax, and it does not mean every unexplained case can be dismissed by analogy. It means Fehrenbach supplies a practical warning: the first task is not to decide whether a case is exciting, but to establish whether the evidence can survive ordinary tests. In this instance, it could not. The most memorable “craft” in the story was not in the sky over Thuringia; it was a toy that could fit in a bargain bin. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.jufof.de/2006/04/der-fehrenbach-fall/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jufof.de">[jufof.de]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jufof.de</span><span class="citation-popover-title">Der Fehrenbach-Fall – Journal für UFO-Forschung</span><span class="citation-popover-snippet">Der Fehrenbach-Fall – Journal für UFO-Forschung</span></span></span>
-
-<section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to How Fehrenbach&#x27;s Saucer Photos Fell Apart. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
-        
-        <p class="fr-book-desc">Explains how convincing images and claims should be evaluated.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ftWHEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
-        
-        <p class="fr-book-desc">Places photographic cases into a wider investigative framework.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
-        
-        <p class="fr-book-desc">Contrasts stronger evidence with weaker photographic cases.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Flim+Flam%21+by+James+Randi&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Flim Flam! on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Flim+Flam%21+by+James+Randi&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Flim Flam!">Flim Flam!</a>
-        </h4>
-        <p class="fr-book-author">By James Randi</p>
-        
-        <p class="fr-book-desc">Demonstrates how extraordinary claims can unravel under investigation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Flim+Flam%21+by+James+Randi&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
-</section>
-
-<section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
-
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
-
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+military+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fehrenbach-how-fehrenbach-s-saucer-photos-fell-apart-thuringia-us-military-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US military memorabilia" data-ebay-reference="fehrenbach-how-fehrenbach-s-saucer-photos-fell-apart-thuringia-us-military-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US Army Token, Vintage Ox Coin, Collectible Military Memorabilia"><img src="{{ '/assets/images/marketplace-covers/3c19023f40d5d4e6c948.jpg' | relative_url }}" alt="Listing image for US Army Token, Vintage Ox Coin, Collectible Military Memorabilia" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+military+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fehrenbach-how-fehrenbach-s-saucer-photos-fell-apart-thuringia-us-military-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US military memorabilia" data-ebay-reference="fehrenbach-how-fehrenbach-s-saucer-photos-fell-apart-thuringia-us-military-memorabilia" target="_blank" rel="sponsored noopener noreferrer">US Army Token, Vintage Ox Coin, Collectible Military Memorabilia</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+military+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fehrenbach-how-fehrenbach-s-saucer-photos-fell-apart-thuringia-us-military-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US military memorabilia" data-ebay-reference="fehrenbach-how-fehrenbach-s-saucer-photos-fell-apart-thuringia-us-military-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US military memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: US military memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+military+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fehrenbach-how-fehrenbach-s-saucer-photos-fell-apart-thuringia-us-military-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US military memorabilia" data-ebay-reference="fehrenbach-how-fehrenbach-s-saucer-photos-fell-apart-thuringia-us-military-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+military+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fehrenbach-how-fehrenbach-s-saucer-photos-fell-apart-thuringia-us-military-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US military memorabilia" data-ebay-reference="fehrenbach-how-fehrenbach-s-saucer-photos-fell-apart-thuringia-us-military-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage US Military and Boy Scouts of America (BSA) Historic Memorabilia Lot"><img src="{{ '/assets/images/marketplace-covers/b12eb4d6c04072dc293b.jpg' | relative_url }}" alt="Listing image for Vintage US Military and Boy Scouts of America (BSA) Historic Memorabilia Lot" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+military+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fehrenbach-how-fehrenbach-s-saucer-photos-fell-apart-thuringia-us-military-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US military memorabilia" data-ebay-reference="fehrenbach-how-fehrenbach-s-saucer-photos-fell-apart-thuringia-us-military-memorabilia" target="_blank" rel="sponsored noopener noreferrer">Vintage US Military and Boy Scouts of America (BSA) Historic Memorabilia Lot</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+military+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fehrenbach-how-fehrenbach-s-saucer-photos-fell-apart-thuringia-us-military-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US military memorabilia" data-ebay-reference="fehrenbach-how-fehrenbach-s-saucer-photos-fell-apart-thuringia-us-military-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US military memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: US military memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+military+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fehrenbach-how-fehrenbach-s-saucer-photos-fell-apart-thuringia-us-military-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US military memorabilia" data-ebay-reference="fehrenbach-how-fehrenbach-s-saucer-photos-fell-apart-thuringia-us-military-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+military+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fehrenbach-how-fehrenbach-s-saucer-photos-fell-apart-thuringia-us-military-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US military memorabilia" data-ebay-reference="fehrenbach-how-fehrenbach-s-saucer-photos-fell-apart-thuringia-us-military-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Original War/Military Memorabilia Letters, Pictures &amp;More"><img src="{{ '/assets/images/marketplace-covers/c7a5f6f739ec9cc75389.jpg' | relative_url }}" alt="Listing image for Original War/Military Memorabilia Letters, Pictures &amp;More" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+military+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fehrenbach-how-fehrenbach-s-saucer-photos-fell-apart-thuringia-us-military-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US military memorabilia" data-ebay-reference="fehrenbach-how-fehrenbach-s-saucer-photos-fell-apart-thuringia-us-military-memorabilia" target="_blank" rel="sponsored noopener noreferrer">Original War/Military Memorabilia Letters, Pictures &amp;More</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+military+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fehrenbach-how-fehrenbach-s-saucer-photos-fell-apart-thuringia-us-military-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US military memorabilia" data-ebay-reference="fehrenbach-how-fehrenbach-s-saucer-photos-fell-apart-thuringia-us-military-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US military memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: US military memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+military+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fehrenbach-how-fehrenbach-s-saucer-photos-fell-apart-thuringia-us-military-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US military memorabilia" data-ebay-reference="fehrenbach-how-fehrenbach-s-saucer-photos-fell-apart-thuringia-us-military-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+military+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fehrenbach-how-fehrenbach-s-saucer-photos-fell-apart-thuringia-us-military-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US military memorabilia" data-ebay-reference="fehrenbach-how-fehrenbach-s-saucer-photos-fell-apart-thuringia-us-military-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VTG Military Memorabilia Novelty Collectibles U.S.army Rank Insignia, Keychains"><img src="{{ '/assets/images/marketplace-covers/6170a62b0dbcd2420b1c.jpg' | relative_url }}" alt="Listing image for VTG Military Memorabilia Novelty Collectibles U.S.army Rank Insignia, Keychains" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+military+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fehrenbach-how-fehrenbach-s-saucer-photos-fell-apart-thuringia-us-military-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US military memorabilia" data-ebay-reference="fehrenbach-how-fehrenbach-s-saucer-photos-fell-apart-thuringia-us-military-memorabilia" target="_blank" rel="sponsored noopener noreferrer">VTG Military Memorabilia Novelty Collectibles U.S.army Rank Insignia, Keychains</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+military+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fehrenbach-how-fehrenbach-s-saucer-photos-fell-apart-thuringia-us-military-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US military memorabilia" data-ebay-reference="fehrenbach-how-fehrenbach-s-saucer-photos-fell-apart-thuringia-us-military-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US military memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: US military memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+military+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fehrenbach-how-fehrenbach-s-saucer-photos-fell-apart-thuringia-us-military-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US military memorabilia" data-ebay-reference="fehrenbach-how-fehrenbach-s-saucer-photos-fell-apart-thuringia-us-military-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+military+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fehrenbach-how-fehrenbach-s-saucer-photos-fell-apart-thuringia-us-military-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US military memorabilia" data-ebay-reference="fehrenbach-how-fehrenbach-s-saucer-photos-fell-apart-thuringia-us-military-memorabilia" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+That does not mean every UFO photograph is a hoax, and it does not mean every unexplained case can be dismissed by analogy. It means Fehrenbach supplies a practical warning: the first task is not to decide whether a case is exciting, but to establish whether the evidence can survive ordinary tests. In this instance, it could not. The most memorable “craft” in the story was not in the sky over Thuringia; it was a toy that could fit in a bargain bin.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.jufof.de/2006/04/der-fehrenbach-fall/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jufof.de">[jufof.de]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jufof.de</span><span class="citation-popover-title">Der Fehrenbach-Fall – Journal für UFO-Forschung</span><span class="citation-popover-snippet">Der Fehrenbach-Fall – Journal für UFO-Forschung</span></span></span><section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title"><div class="fr-section-shell"><div class="fr-section-header"><div class="fr-section-heading"><p class="fr-section-kicker">Amazon book picks</p><h3 class="fr-heading" id="further-reading-title">Further Reading</h3></div><p class="fr-intro">Books and field guides related to How Fehrenbach&#x27;s Saucer Photos Fell Apart. Use these as the next step if you want deeper reading beyond the article.</p></div><div class="fr-books-grid"><article class="fr-book-card"><a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a><div class="fr-book-info"><h4 class="fr-book-title"><a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a></h4><p class="fr-book-author">By Carl Sagan</p><p class="fr-book-desc">Explains how convincing images and claims should be evaluated.</p><div class="fr-book-actions"><a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon</a></div></div></article><article class="fr-book-card"><a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ftWHEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a><div class="fr-book-info"><h4 class="fr-book-title"><a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a></h4><p class="fr-book-author">By J. Allen Hynek</p><p class="fr-book-desc">Places photographic cases into a wider investigative framework.</p><div class="fr-book-actions"><a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon</a></div></div></article><article class="fr-book-card"><a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a><div class="fr-book-info"><h4 class="fr-book-title"><a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a></h4><p class="fr-book-author">By Leslie Kean</p><p class="fr-book-desc">Contrasts stronger evidence with weaker photographic cases.</p><div class="fr-book-actions"><a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon</a></div></div></article><article class="fr-book-card"><a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Flim+Flam%21+by+James+Randi&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Flim Flam! on Amazon"><span class="fr-book-cover-fallback">Book</span></a><div class="fr-book-info"><h4 class="fr-book-title"><a href="https://www.amazon.com/s?k=Flim+Flam%21+by+James+Randi&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Flim Flam!">Flim Flam!</a></h4><p class="fr-book-author">By James Randi</p><p class="fr-book-desc">Demonstrates how extraordinary claims can unravel under investigation.</p><div class="fr-book-actions"><a href="https://www.amazon.com/s?k=Flim+Flam%21+by+James+Randi&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon</a></div></div></article></div><div class="fr-section-footer"><div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div><p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p></div></div></section><section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title"><div class="fr-section-shell"><div class="fr-section-header"><div class="fr-section-heading"><p class="fr-section-kicker">eBay marketplace picks</p><h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3></div><p class="fr-intro">Live-tested eBay searches with available results related to this page.</p><div class="fr-ebay-market-toolbar"><label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label><div class="fr-ebay-market-picker"><span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span><button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span><span data-ebay-trigger-market-label>USA</span></button><select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location"><option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option></select><div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button></div></div></div></div><div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1"><div class="fr-books-grid"><article class="fr-book-card"><a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=telescope+accessory&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fehrenbach-how-fehrenbach-s-saucer-photos-fell-apart-thuringia-telescope-accessory&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="telescope accessory" data-ebay-reference="fehrenbach-how-fehrenbach-s-saucer-photos-fell-apart-thuringia-telescope-accessory" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Telescope accessory bracket for finderscopes, red dot finder etc. 2 hole"><img src="{{'/assets/images/marketplace-covers/45ccd233aec2ae769a02.jpg' | relative_url }}" alt="Listing image for Telescope accessory bracket for finderscopes, red dot finder etc. 2 hole" loading="lazy" decoding="async" fetchpriority="low"></a><div class="fr-book-info"><p class="fr-book-kicker">Example eBay listing</p><h4 class="fr-book-title"><a href="https://www.ebay.co.uk/sch/i.html?_nkw=telescope+accessory&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fehrenbach-how-fehrenbach-s-saucer-photos-fell-apart-thuringia-telescope-accessory&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="telescope accessory" data-ebay-reference="fehrenbach-how-fehrenbach-s-saucer-photos-fell-apart-thuringia-telescope-accessory" target="_blank" rel="sponsored noopener noreferrer">Telescope accessory bracket for finderscopes, red dot finder etc. 2 hole</a></h4><a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=telescope+accessory&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fehrenbach-how-fehrenbach-s-saucer-photos-fell-apart-thuringia-telescope-accessory&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="telescope accessory" data-ebay-reference="fehrenbach-how-fehrenbach-s-saucer-photos-fell-apart-thuringia-telescope-accessory" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for telescope accessory">Search<span data-ebay-domain-label>eBay.co.uk</span>: telescope accessory</a><div class="fr-book-actions"><a href="https://www.ebay.co.uk/sch/i.html?_nkw=telescope+accessory&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fehrenbach-how-fehrenbach-s-saucer-photos-fell-apart-thuringia-telescope-accessory&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="telescope accessory" data-ebay-reference="fehrenbach-how-fehrenbach-s-saucer-photos-fell-apart-thuringia-telescope-accessory" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span></a></div></div></article><article class="fr-book-card"><a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=telescope+accessory&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fehrenbach-how-fehrenbach-s-saucer-photos-fell-apart-thuringia-telescope-accessory&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="telescope accessory" data-ebay-reference="fehrenbach-how-fehrenbach-s-saucer-photos-fell-apart-thuringia-telescope-accessory" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Celestron 94303 Eyepiece and Filter Kit - 14 Piece Telescope Accessory Set"><img src="{{'/assets/images/marketplace-covers/c2aa35670bc9e6f0c88d.jpg' | relative_url }}" alt="Listing image for Celestron 94303 Eyepiece and Filter Kit - 14 Piece Telescope Accessory Set" loading="lazy" decoding="async" fetchpriority="low"></a><div class="fr-book-info"><p class="fr-book-kicker">Example eBay listing</p><h4 class="fr-book-title"><a href="https://www.ebay.co.uk/sch/i.html?_nkw=telescope+accessory&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fehrenbach-how-fehrenbach-s-saucer-photos-fell-apart-thuringia-telescope-accessory&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="telescope accessory" data-ebay-reference="fehrenbach-how-fehrenbach-s-saucer-photos-fell-apart-thuringia-telescope-accessory" target="_blank" rel="sponsored noopener noreferrer">Celestron 94303 Eyepiece and Filter Kit - 14 Piece Telescope Accessory Set</a></h4><a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=telescope+accessory&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fehrenbach-how-fehrenbach-s-saucer-photos-fell-apart-thuringia-telescope-accessory&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="telescope accessory" data-ebay-reference="fehrenbach-how-fehrenbach-s-saucer-photos-fell-apart-thuringia-telescope-accessory" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for telescope accessory">Search<span data-ebay-domain-label>eBay.co.uk</span>: telescope accessory</a><div class="fr-book-actions"><a href="https://www.ebay.co.uk/sch/i.html?_nkw=telescope+accessory&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fehrenbach-how-fehrenbach-s-saucer-photos-fell-apart-thuringia-telescope-accessory&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="telescope accessory" data-ebay-reference="fehrenbach-how-fehrenbach-s-saucer-photos-fell-apart-thuringia-telescope-accessory" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span></a></div></div></article><article class="fr-book-card"><a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=telescope+accessory&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fehrenbach-how-fehrenbach-s-saucer-photos-fell-apart-thuringia-telescope-accessory&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="telescope accessory" data-ebay-reference="fehrenbach-how-fehrenbach-s-saucer-photos-fell-apart-thuringia-telescope-accessory" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Telescope Accessory Lot Celestron 2x Barlow Orbinar PL4mm Illuminated Reticle EP"><img src="{{'/assets/images/marketplace-covers/d058e6a83e7e59635662.jpg' | relative_url }}" alt="Listing image for Telescope Accessory Lot Celestron 2x Barlow Orbinar PL4mm Illuminated Reticle EP" loading="lazy" decoding="async" fetchpriority="low"></a><div class="fr-book-info"><p class="fr-book-kicker">Example eBay listing</p><h4 class="fr-book-title"><a href="https://www.ebay.co.uk/sch/i.html?_nkw=telescope+accessory&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fehrenbach-how-fehrenbach-s-saucer-photos-fell-apart-thuringia-telescope-accessory&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="telescope accessory" data-ebay-reference="fehrenbach-how-fehrenbach-s-saucer-photos-fell-apart-thuringia-telescope-accessory" target="_blank" rel="sponsored noopener noreferrer">Telescope Accessory Lot Celestron 2x Barlow Orbinar PL4mm Illuminated Reticle EP</a></h4><a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=telescope+accessory&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fehrenbach-how-fehrenbach-s-saucer-photos-fell-apart-thuringia-telescope-accessory&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="telescope accessory" data-ebay-reference="fehrenbach-how-fehrenbach-s-saucer-photos-fell-apart-thuringia-telescope-accessory" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for telescope accessory">Search<span data-ebay-domain-label>eBay.co.uk</span>: telescope accessory</a><div class="fr-book-actions"><a href="https://www.ebay.co.uk/sch/i.html?_nkw=telescope+accessory&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fehrenbach-how-fehrenbach-s-saucer-photos-fell-apart-thuringia-telescope-accessory&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="telescope accessory" data-ebay-reference="fehrenbach-how-fehrenbach-s-saucer-photos-fell-apart-thuringia-telescope-accessory" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span></a></div></div></article><article class="fr-book-card"><a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=telescope+accessory&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fehrenbach-how-fehrenbach-s-saucer-photos-fell-apart-thuringia-telescope-accessory&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="telescope accessory" data-ebay-reference="fehrenbach-how-fehrenbach-s-saucer-photos-fell-apart-thuringia-telescope-accessory" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Astronomical Telescope Case Heavy Duty Telescope Bag for Telescope Accessory"><img src="{{'/assets/images/marketplace-covers/5dc3940b51aa5f8517f2.jpg' | relative_url }}" alt="Listing image for Astronomical Telescope Case Heavy Duty Telescope Bag for Telescope Accessory" loading="lazy" decoding="async" fetchpriority="low"></a><div class="fr-book-info"><p class="fr-book-kicker">Example eBay listing</p><h4 class="fr-book-title"><a href="https://www.ebay.co.uk/sch/i.html?_nkw=telescope+accessory&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fehrenbach-how-fehrenbach-s-saucer-photos-fell-apart-thuringia-telescope-accessory&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="telescope accessory" data-ebay-reference="fehrenbach-how-fehrenbach-s-saucer-photos-fell-apart-thuringia-telescope-accessory" target="_blank" rel="sponsored noopener noreferrer">Astronomical Telescope Case Heavy Duty Telescope Bag for Telescope Accessory</a></h4><a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=telescope+accessory&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fehrenbach-how-fehrenbach-s-saucer-photos-fell-apart-thuringia-telescope-accessory&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="telescope accessory" data-ebay-reference="fehrenbach-how-fehrenbach-s-saucer-photos-fell-apart-thuringia-telescope-accessory" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for telescope accessory">Search<span data-ebay-domain-label>eBay.co.uk</span>: telescope accessory</a><div class="fr-book-actions"><a href="https://www.ebay.co.uk/sch/i.html?_nkw=telescope+accessory&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fehrenbach-how-fehrenbach-s-saucer-photos-fell-apart-thuringia-telescope-accessory&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="telescope accessory" data-ebay-reference="fehrenbach-how-fehrenbach-s-saucer-photos-fell-apart-thuringia-telescope-accessory" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span></a></div></div></article></div><div class="fr-section-footer"><a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=telescope+accessory&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fehrenbach-how-fehrenbach-s-saucer-photos-fell-apart-thuringia-telescope-accessory&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="telescope accessory" data-ebay-reference="fehrenbach-how-fehrenbach-s-saucer-photos-fell-apart-thuringia-telescope-accessory" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span></a><p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p></div></div></div><script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
-  var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
-  var timezoneRules = [{"market": "EBAY_IE", "pattern": "^Europe/Dublin$"}, {"market": "EBAY_GB", "pattern": "^Europe/(London|Belfast)$"}, {"market": "EBAY_CA", "pattern": "^America/(Toronto|Vancouver|Edmonton|Winnipeg|Halifax|St_Johns|Regina|Saskatoon|Whitehorse|Dawson|Moncton|Glace_Bay|Goose_Bay|Iqaluit|Yellowknife|Inuvik|Rankin_Inlet|Resolute|Cambridge_Bay|Fort_Nelson|Creston|Dawson_Creek)$"}, {"market": "EBAY_US", "pattern": "^America/"}, {"market": "EBAY_DE", "pattern": "^Europe/Berlin$"}, {"market": "EBAY_FR", "pattern": "^Europe/Paris$"}, {"market": "EBAY_IT", "pattern": "^Europe/Rome$"}, {"market": "EBAY_ES", "pattern": "^Europe/Madrid$"}, {"market": "EBAY_AU", "pattern": "^Australia/"}, {"market": "EBAY_AU", "pattern": "^Pacific/(Auckland|Chatham)$"}];
+  var localeMarketMap = {"de":"EBAY_DE","de-at":"EBAY_AT","de-ch":"EBAY_CH","de-de":"EBAY_DE","en":"EBAY_US","en-au":"EBAY_AU","en-ca":"EBAY_CA","en-gb":"EBAY_GB","en-ie":"EBAY_IE","en-nz":"EBAY_AU","en-uk":"EBAY_GB","en-us":"EBAY_US","es":"EBAY_ES","es-es":"EBAY_ES","fr":"EBAY_FR","fr-be":"EBAY_BE","fr-ca":"EBAY_CA","fr-fr":"EBAY_FR","it":"EBAY_IT","it-it":"EBAY_IT","nl":"EBAY_NL","nl-be":"EBAY_BE","nl-nl":"EBAY_NL"};
+  var timezoneRules = [{"market":"EBAY_IE","pattern":"^Europe/Dublin$"}, {"market":"EBAY_GB","pattern":"^Europe/(London|Belfast)$"}, {"market":"EBAY_CA","pattern":"^America/(Toronto|Vancouver|Edmonton|Winnipeg|Halifax|St_Johns|Regina|Saskatoon|Whitehorse|Dawson|Moncton|Glace_Bay|Goose_Bay|Iqaluit|Yellowknife|Inuvik|Rankin_Inlet|Resolute|Cambridge_Bay|Fort_Nelson|Creston|Dawson_Creek)$"}, {"market":"EBAY_US","pattern":"^America/"}, {"market":"EBAY_DE","pattern":"^Europe/Berlin$"}, {"market":"EBAY_FR","pattern":"^Europe/Paris$"}, {"market":"EBAY_IT","pattern":"^Europe/Rome$"}, {"market":"EBAY_ES","pattern":"^Europe/Madrid$"}, {"market":"EBAY_AU","pattern":"^Australia/"}, {"market":"EBAY_AU","pattern":"^Pacific/(Auckland|Chatham)$"}];
   function normalize(value) {
-    return String(value || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
+    return String(value ||'').toLowerCase().replace(/_/g,'-').replace(/[^a-z0-9-]+/g,'');
   }
   function localeMatches() {
     var languages = [];
-    var exactMarket = '';
-    var languageMarket = '';
+    var exactMarket ='';
+    var languageMarket ='';
     try {
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -597,24 +395,24 @@ That does not mean every UFO photograph is a hoax, and it does not mean every un
   }
   function inferFromLocale() {
     var matches = localeMatches();
-    return matches.exact || matches.language || '';
+    return matches.exact || matches.language ||'';
   }
   function inferFromTimezone() {
-    var tz = '';
-    try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
-    if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    var tz ='';
+    try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone ||''); } catch (err) {}
+    if (!tz) return'';
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
       } catch (err) {}
     }
-    return '';
+    return'';
   }
   function inferMarket(available, options) {
     available = Array.isArray(available) ? available : [];
     options = options || {};
-    var storageKey = options.storageKey || 'phoenix-affiliate-market';
+    var storageKey = options.storageKey ||'phoenix-affiliate-market';
     try {
       var saved = window.localStorage && localStorage.getItem(storageKey);
       if (saved && available.indexOf(saved) >= 0) return saved;
@@ -625,7 +423,7 @@ That does not mean every UFO photograph is a hoax, and it does not mean every un
     if (localeMarkets.exact && available.indexOf(localeMarkets.exact) >= 0) return localeMarkets.exact;
     if (localeMarkets.language && available.indexOf(localeMarkets.language) >= 0) return localeMarkets.language;
     if (options.defaultMarket && available.indexOf(options.defaultMarket) >= 0) return options.defaultMarket;
-    return available[0] || '';
+    return available[0] ||'';
   }
   window.PhoenixAffiliateLocation = {
     normalize: normalize,
@@ -633,45 +431,43 @@ That does not mean every UFO photograph is a hoax, and it does not mean every un
     inferFromLocale: inferFromLocale,
     inferFromTimezone: inferFromTimezone
   };
-})();
-</script>
-  <script type="text/javascript">
+})();</script><script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
-  var markets = {"EBAY_AU": {"campaign_id": "5339151051", "domain_label": "eBay.com.au", "label": "Australia", "mkrid": "705-53470-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com.au/sch/i.html?_nkw={query}"}, "EBAY_CA": {"campaign_id": "5339151051", "domain_label": "eBay.ca", "label": "Canada", "mkrid": "706-53473-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ca/sch/i.html?_nkw={query}"}, "EBAY_GB": {"campaign_id": "5339151051", "domain_label": "eBay.co.uk", "label": "UK", "mkrid": "710-53481-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.co.uk/sch/i.html?_nkw={query}"}, "EBAY_IE": {"campaign_id": "5339151051", "domain_label": "eBay.ie", "label": "Ireland", "mkrid": "5282-53468-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ie/sch/i.html?_nkw={query}"}, "EBAY_US": {"campaign_id": "5339151051", "domain_label": "eBay.com", "label": "USA", "mkrid": "711-53200-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com/sch/i.html?_nkw={query}"}};
-  var defaultMarket = "EBAY_GB";
+  var markets = {"EBAY_AU": {"campaign_id":"5339151051","domain_label":"eBay.com.au","label":"Australia","mkrid":"705-53470-19255-0","tool_id":"10001","url_template":"https://www.ebay.com.au/sch/i.html?_nkw={query}"},"EBAY_CA": {"campaign_id":"5339151051","domain_label":"eBay.ca","label":"Canada","mkrid":"706-53473-19255-0","tool_id":"10001","url_template":"https://www.ebay.ca/sch/i.html?_nkw={query}"},"EBAY_GB": {"campaign_id":"5339151051","domain_label":"eBay.co.uk","label":"UK","mkrid":"710-53481-19255-0","tool_id":"10001","url_template":"https://www.ebay.co.uk/sch/i.html?_nkw={query}"},"EBAY_IE": {"campaign_id":"5339151051","domain_label":"eBay.ie","label":"Ireland","mkrid":"5282-53468-19255-0","tool_id":"10001","url_template":"https://www.ebay.ie/sch/i.html?_nkw={query}"},"EBAY_US": {"campaign_id":"5339151051","domain_label":"eBay.com","label":"USA","mkrid":"711-53200-19255-0","tool_id":"10001","url_template":"https://www.ebay.com/sch/i.html?_nkw={query}"}};
+  var defaultMarket ="EBAY_GB";
   function encodeQuery(value) {
-    return encodeURIComponent(String(value || '').replace(/\s+/g, ' ').trim()).replace(/%20/g, '+');
+    return encodeURIComponent(String(value ||'').replace(/\s+/g,'').trim()).replace(/%20/g,'+');
   }
   function buildUrl(query, reference, marketId) {
     var cfg = markets[marketId] || markets[defaultMarket];
-    if (!cfg) return '#';
-    var template = String(cfg.url_template || 'https://www.ebay.com/sch/i.html?_nkw={query}');
-    var url = template.replace('{query}', encodeQuery(query || '')).replace('{query_plain}', String(query || ''));
-    var joiner = url.indexOf('?') >= 0 ? '&' : '?';
+    if (!cfg) return'#';
+    var template = String(cfg.url_template ||'https://www.ebay.com/sch/i.html?_nkw={query}');
+    var url = template.replace('{query}', encodeQuery(query ||'')).replace('{query_plain}', String(query ||''));
+    var joiner = url.indexOf('?') >= 0 ?'&' :'?';
     var params = [];
     if (cfg.mkrid) params.push('mkrid=' + encodeURIComponent(cfg.mkrid));
     if (cfg.campaign_id) params.push('campid=' + encodeURIComponent(cfg.campaign_id));
     params.push('mkevt=1');
     params.push('mkcid=1');
-    params.push('toolid=' + encodeURIComponent(cfg.tool_id || '10001'));
+    params.push('toolid=' + encodeURIComponent(cfg.tool_id ||'10001'));
     if (reference) params.push('customid=' + encodeURIComponent(reference).slice(0, 256));
     return url + joiner + params.join('&');
   }
   function domainLabel(marketId) {
     var cfg = markets[marketId] || markets[defaultMarket] || {};
-    return cfg.domain_label || 'eBay';
+    return cfg.domain_label ||'eBay';
   }
   function flagClass(marketId) {
-    return 'fr-ebay-market-flag fr-ebay-market-flag--' + String(marketId || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
+    return'fr-ebay-market-flag fr-ebay-market-flag--' + String(marketId ||'').toLowerCase().replace(/_/g,'-').replace(/[^a-z0-9-]+/g,'');
   }
   function closeMenu(section) {
     var menu = section.querySelector('[data-ebay-market-menu]');
     var trigger = section.querySelector('[data-ebay-market-trigger]');
     var picker = section.querySelector('.fr-ebay-market-picker');
     if (menu) menu.hidden = true;
-    if (trigger) trigger.setAttribute('aria-expanded', 'false');
+    if (trigger) trigger.setAttribute('aria-expanded','false');
     if (picker) picker.classList.remove('fr-ebay-market-picker--open');
   }
   function availableMarkets(section) {
@@ -687,10 +483,10 @@ That does not mean every UFO photograph is a hoax, and it does not mean every un
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
-      var query = link.getAttribute('data-ebay-query') || '';
-      var reference = link.getAttribute('data-ebay-reference') || '';
+      var query = link.getAttribute('data-ebay-query') ||'';
+      var reference = link.getAttribute('data-ebay-reference') ||'';
       link.setAttribute('href', buildUrl(query, reference, marketId));
     });
     var select = section.querySelector('[data-ebay-market-select]');
@@ -710,11 +506,11 @@ That does not mean every UFO photograph is a hoax, and it does not mean every un
       label.textContent = domainLabel(marketId);
     });
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
-      button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
+      button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ?'true' :'false');
     });
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
       var active = button.getAttribute('data-ebay-market-button') === marketId;
-      button.setAttribute('aria-pressed', active ? 'true' : 'false');
+      button.setAttribute('aria-pressed', active ?'true' :'false');
     });
     section.setAttribute('data-ebay-selected-market', marketId);
     if (persist) {
@@ -723,16 +519,16 @@ That does not mean every UFO photograph is a hoax, and it does not mean every un
     closeMenu(section);
   }
   sections.forEach(function (section) {
-    if (section.getAttribute('data-ebay-localized-init') === '1') return;
-    section.setAttribute('data-ebay-localized-init', '1');
+    if (section.getAttribute('data-ebay-localized-init') ==='1') return;
+    section.setAttribute('data-ebay-localized-init','1');
     var available = availableMarkets(section);
     var marketId = defaultMarket;
     if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
       marketId = window.PhoenixAffiliateLocation.inferMarket(available, {
-        storageKey: 'phoenix-ebay-market',
+        storageKey:'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -746,9 +542,9 @@ That does not mean every UFO photograph is a hoax, and it does not mean every un
     if (trigger && menu) {
       trigger.addEventListener('click', function (event) {
         event.stopPropagation();
-        var expanded = trigger.getAttribute('aria-expanded') === 'true';
+        var expanded = trigger.getAttribute('aria-expanded') ==='true';
         menu.hidden = expanded;
-        trigger.setAttribute('aria-expanded', expanded ? 'false' : 'true');
+        trigger.setAttribute('aria-expanded', expanded ?'false' :'true');
         var picker = trigger.closest('.fr-ebay-market-picker');
         if (picker) picker.classList.toggle('fr-ebay-market-picker--open', !expanded);
       });
@@ -767,95 +563,91 @@ That does not mean every UFO photograph is a hoax, and it does not mean every un
     });
     applyMarket(section, marketId, false);
   });
-})();
-</script>
-</section>
+})();</script></section>
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: jufof.de  
    Title: Der Fehrenbach-Fall – Journal für UFO-Forschung  
-   Link: <a href="https://www.jufof.de/2006/04/der-fehrenbach-fall/" target="_blank" rel="noopener noreferrer nofollow">https://www.jufof.de/2006/04/der-fehrenbach-fall/</a>  
+   Link:<a href="https://www.jufof.de/2006/04/der-fehrenbach-fall/" target="_blank" rel="noopener noreferrer nofollow">https://www.jufof.de/2006/04/der-fehrenbach-fall/</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: come-on.de  
    Title: Es war ganz anders: Ufo-Sichtung von Ufo-Forschern aus Lüdenscheid enträtselt  
-   Link: <a href="https://www.come-on.de/luedenscheid/ufo-forscher-luedenscheid-fehrenbach-untertasse-fliegende-gep-90810797.html" target="_blank" rel="noopener noreferrer nofollow">https://www.come-on.de/luedenscheid/ufo-forscher-luedenscheid-fehrenbach-untertasse-fliegende-gep-90810797.html</a>  
+   Link:<a href="https://www.come-on.de/luedenscheid/ufo-forscher-luedenscheid-fehrenbach-untertasse-fliegende-gep-90810797.html" target="_blank" rel="noopener noreferrer nofollow">https://www.come-on.de/luedenscheid/ufo-forscher-luedenscheid-fehrenbach-untertasse-fliegende-gep-90810797.html</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: taz.de  
    Title: Aliens, Ufos und viel heiße Luft | taz.de  
-   Link: <a href="https://taz.de/Aliens-Ufos-und-viel-heisse-Luft/%21317043/" target="_blank" rel="noopener noreferrer nofollow">https://taz.de/Aliens-Ufos-und-viel-heisse-Luft/%21317043/</a>  
+   Link:<a href="https://taz.de/Aliens-Ufos-und-viel-heisse-Luft/%21317043/" target="_blank" rel="noopener noreferrer nofollow">https://taz.de/Aliens-Ufos-und-viel-heisse-Luft/%21317043/</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: jufof.de  
-   Link: <a href="https://www.jufof.de/themen/artikel/" target="_blank" rel="noopener noreferrer nofollow">https://www.jufof.de/themen/artikel/</a>  
+   Link:<a href="https://www.jufof.de/themen/artikel/" target="_blank" rel="noopener noreferrer nofollow">https://www.jufof.de/themen/artikel/</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: jufof.de  
-   Link: <a href="https://www.jufof.de/2006/04/" target="_blank" rel="noopener noreferrer nofollow">https://www.jufof.de/2006/04/</a>  
+   Link:<a href="https://www.jufof.de/2006/04/" target="_blank" rel="noopener noreferrer nofollow">https://www.jufof.de/2006/04/</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: jufof.de  
-   Link: <a href="https://www.jufof.de/page/57/" target="_blank" rel="noopener noreferrer nofollow">https://www.jufof.de/page/57/</a>  
+   Link:<a href="https://www.jufof.de/page/57/" target="_blank" rel="noopener noreferrer nofollow">https://www.jufof.de/page/57/</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: jufof.de  
    Title: jufof 200  
-   Link: <a href="https://www.jufof.de/2012/09/jufof-200/" target="_blank" rel="noopener noreferrer nofollow">https://www.jufof.de/2012/09/jufof-200/</a>  
+   Link:<a href="https://www.jufof.de/2012/09/jufof-200/" target="_blank" rel="noopener noreferrer nofollow">https://www.jufof.de/2012/09/jufof-200/</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: Wikipedia  
    Title: UFO photographs  
-   Link: <a href="https://en.wikipedia.org/wiki/UFO_photographs" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/UFO_photographs</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/UFO_photographs" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/UFO_photographs</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: Wikipedia  
-   Link: <a href="https://de.wikipedia.org/wiki/UFO" target="_blank" rel="noopener noreferrer nofollow">https://de.wikipedia.org/wiki/UFO</a>  
+   Link:<a href="https://de.wikipedia.org/wiki/UFO" target="_blank" rel="noopener noreferrer nofollow">https://de.wikipedia.org/wiki/UFO</a>  
 
 ### Additional References
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: youtube.com  
    Title: Most Unbelievable UFO Encounters Ever | The Proof Is Out There | History  
-   Link: <a href="https://www.youtube.com/watch?v=cVzyPnDYX2Y" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=cVzyPnDYX2Y</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>5 UFO ENCOUNTERS THAT WILL BLOW YOUR MIND | The Proof Is Out There | History...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=cVzyPnDYX2Y" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=cVzyPnDYX2Y</a><details class="endnote-snippet"><summary>Source snippet</summary><p>5 UFO ENCOUNTERS THAT WILL BLOW YOUR MIND | The Proof Is Out There | History...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: youtube.com  
    Title: How We Staged a UFO Hoax | Fakes, Frauds and Scammers  
-   Link: <a href="https://www.youtube.com/watch?v=G_qz9ZCacQw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=G_qz9ZCacQw</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Most Unbelievable UFO Encounters Ever | The Proof Is Out There | History...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=G_qz9ZCacQw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=G_qz9ZCacQw</a><details class="endnote-snippet"><summary>Source snippet</summary><p>Most Unbelievable UFO Encounters Ever | The Proof Is Out There | History...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: academia.edu  
-   Link: <a href="https://www.academia.edu/7167879/Methodisches_Vorgehen_bei_UFO_Falluntersuchungen" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/7167879/Methodisches_Vorgehen_bei_UFO_Falluntersuchungen</a>  
+   Link:<a href="https://www.academia.edu/7167879/Methodisches_Vorgehen_bei_UFO_Falluntersuchungen" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/7167879/Methodisches_Vorgehen_bei_UFO_Falluntersuchungen</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/380530617_UAP_Research_in_Germany_Single_Case_Studies_Data_Management_Understanding_of_Strangeness" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/380530617_UAP_Research_in_Germany_Single_Case_Studies_Data_Management_Understanding_of_Strangeness</a>  
+   Link:<a href="https://www.researchgate.net/publication/380530617_UAP_Research_in_Germany_Single_Case_Studies_Data_Management_Understanding_of_Strangeness" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/380530617_UAP_Research_in_Germany_Single_Case_Studies_Data_Management_Understanding_of_Strangeness</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: anomalistik.de  
-   Link: <a href="https://www.anomalistik.de/images/pdf/schriften/Band-2_Schetsche-Anton_w-cover.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.anomalistik.de/images/pdf/schriften/Band-2_Schetsche-Anton_w-cover.pdf</a>  
+   Link:<a href="https://www.anomalistik.de/images/pdf/schriften/Band-2_Schetsche-Anton_w-cover.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.anomalistik.de/images/pdf/schriften/Band-2_Schetsche-Anton_w-cover.pdf</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: spyscape.com  
-   Link: <a href="https://spyscape.com/article/alien-hoaxes-that-went-viral" target="_blank" rel="noopener noreferrer nofollow">https://spyscape.com/article/alien-hoaxes-that-went-viral</a>  
+   Link:<a href="https://spyscape.com/article/alien-hoaxes-that-went-viral" target="_blank" rel="noopener noreferrer nofollow">https://spyscape.com/article/alien-hoaxes-that-went-viral</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: umweltbundesamt.de  
-   Link: <a href="https://www.umweltbundesamt.de/system/files/medien/publikation/long/3858.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.umweltbundesamt.de/system/files/medien/publikation/long/3858.pdf</a>  
+   Link:<a href="https://www.umweltbundesamt.de/system/files/medien/publikation/long/3858.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.umweltbundesamt.de/system/files/medien/publikation/long/3858.pdf</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/149844915349213/posts/2108164122850606/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/149844915349213/posts/2108164122850606/</a>  
+   Link:<a href="https://www.facebook.com/groups/149844915349213/posts/2108164122850606/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/149844915349213/posts/2108164122850606/</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: allmystery.de  
-   Link: <a href="https://www.allmystery.de/themen/uf81994-12" target="_blank" rel="noopener noreferrer nofollow">https://www.allmystery.de/themen/uf81994-12</a>  
+   Link:<a href="https://www.allmystery.de/themen/uf81994-12" target="_blank" rel="noopener noreferrer nofollow">https://www.allmystery.de/themen/uf81994-12</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: alien.de  
-   Link: <a href="https://alien.de/cenap/cenapnews/zeigen.php?satzid=10171" target="_blank" rel="noopener noreferrer nofollow">https://alien.de/cenap/cenapnews/zeigen.php?satzid=10171</a>  
+   Link:<a href="https://alien.de/cenap/cenapnews/zeigen.php?satzid=10171" target="_blank" rel="noopener noreferrer nofollow">https://alien.de/cenap/cenapnews/zeigen.php?satzid=10171</a>  

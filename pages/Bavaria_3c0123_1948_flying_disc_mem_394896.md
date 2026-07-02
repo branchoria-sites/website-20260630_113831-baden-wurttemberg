@@ -52,7 +52,7 @@ text_direction: ltr
 ui_strings:
   home: Home
   overview: Overview
-  overview_prefix: 'Overview:'
+  overview_prefix:'Overview:'
   contents: Contents
   close: Close
   open_contents: Open contents
@@ -200,13 +200,13 @@ ui_strings:
   search_this_page_empty_hint: Type to search this page.
   no_search_results: No pages match this search.
   no_search_this_page_results: No sections on this page match this search.
-  search_results_count_template: '{count} results'
+  search_results_count_template:'{count} results'
   search_kind_page_title: Page title
   search_kind_page_summary: Summary of page
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date: '2026-06-29 22:45:52'
+date:'2026-06-29 22:45:52'
 parent_title: Bavaria UFOs
 parent_permalink: /what-really-happened-over-bavarias-skies/
 parent_nav_short_title: Bavaria UFOs
@@ -296,38 +296,26 @@ image: /assets/images/Bavaria_3c0123_1948_flying_disc_mem_394896-overview-social
 
 ## Introduction
 
-In 1948, [Bavaria]({{ 'what-really-happened-over-bavarias-skies/' | relative_url }}) became one of the first places in post-war Europe where reports of unidentified objects in the sky were formally drawn into official paperwork. The reason was not that Allied authorities believed extraterrestrial craft were visiting occupied Germany. Rather, the first worldwide "flying disc" wave, which began in 1947, had become significant enough that the United States military government ordered unusual aerial reports to be collected and passed through official channels. That makes the May 1948 reporting instructions historically important: they show how unexplained sightings were treated as a security and intelligence matter during the early Cold War, not as proof of extraordinary phenomena. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://text-message.blogs.archives.gov/2017/07/05/see-something-say-something-ufo-reporting-requirements-office-of-military-government-for-bavaria-germany-may-1948/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: text-message.blogs.archives.gov">[The Text Message]</a><span class="citation-popover" role="note"><span class="citation-popover-source">text-message.blogs.archives.gov</span><span class="citation-popover-title">The Text Message UFO Reporting Requirements, Office of Military Government</span><span class="citation-popover-snippet">The Text MessageUFO Reporting Requirements, Office of Military Government...July 5, 2017 — 5 Jul 2017 — In May 1948 the Office of Milita...</span><span class="citation-popover-meta">Published: July 5, 2017</span></span></span>
-
-
-<img src="{{ "/assets/images/Bavaria_3c0123_1948_flying_disc_mem_394896-overview.webp" | relative_url }}" alt="Overview image for 1948 Memo" loading="eager" decoding="sync" fetchpriority="high">
-Within Bavaria's wider UFO history, the memo marks the point where the subject entered government administration. It demonstrates that occupation authorities wanted information gathered systematically, but it does not demonstrate that they possessed evidence of alien spacecraft or secret knowledge hidden from the public. The surviving document is valuable precisely because it reveals administrative practice rather than confirming remarkable claims. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://text-message.blogs.archives.gov/2017/07/05/see-something-say-something-ufo-reporting-requirements-office-of-military-government-for-bavaria-germany-may-1948/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: text-message.blogs.archives.gov">[The Text Message]</a><span class="citation-popover" role="note"><span class="citation-popover-source">text-message.blogs.archives.gov</span><span class="citation-popover-title">The Text Message UFO Reporting Requirements, Office of Military Government</span><span class="citation-popover-snippet">The Text MessageUFO Reporting Requirements, Office of Military Government...July 5, 2017 — 5 Jul 2017 — In May 1948 the Office of Milita...</span><span class="citation-popover-meta">Published: July 5, 2017</span></span></span>
-
-
+In 1948, [Bavaria]({{'what-really-happened-over-bavarias-skies/' | relative_url }}) became one of the first places in post-war Europe where reports of unidentified objects in the sky were formally drawn into official paperwork. The reason was not that Allied authorities believed extraterrestrial craft were visiting occupied Germany. Rather, the first worldwide"flying disc" wave, which began in 1947, had become significant enough that the United States military government ordered unusual aerial reports to be collected and passed through official channels. That makes the May 1948 reporting instructions historically important: they show how unexplained sightings were treated as a security and intelligence matter during the early Cold War, not as proof of extraordinary phenomena.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://text-message.blogs.archives.gov/2017/07/05/see-something-say-something-ufo-reporting-requirements-office-of-military-government-for-bavaria-germany-may-1948/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: text-message.blogs.archives.gov">[The Text Message]</a><span class="citation-popover" role="note"><span class="citation-popover-source">text-message.blogs.archives.gov</span><span class="citation-popover-title">The Text Message UFO Reporting Requirements, Office of Military Government</span><span class="citation-popover-snippet">The Text MessageUFO Reporting Requirements, Office of Military Government...July 5, 2017 — 5 Jul 2017 — In May 1948 the Office of Milita...</span><span class="citation-popover-meta">Published: July 5, 2017</span></span></span><img src="{{"/assets/images/Bavaria_3c0123_1948_flying_disc_mem_394896-overview.webp" | relative_url }}" alt="Overview image for 1948 Memo" loading="eager" decoding="sync" fetchpriority="high">
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Og93FKQ3wG0" title="How a Cold War Airlift Saved Berlin With Food, Medicine and Chocolate | Retro Report" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Og93FKQ3wG0" target="_blank" rel="noopener noreferrer">How a Cold War Airlift Saved Berlin With Food, Medicine and Chocolate | Retro Report</a></p><p class="youtube-embed-meta">Channel: RETRO REPORT</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Og93FKQ3wG0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Og93FKQ3wG0">Open on YouTube</a></p></div></div></div>
 
 ## Why did Bavaria start logging flying discs?
 
-The timing is crucial. Reports of mysterious "flying saucers" spread rapidly after pilot Kenneth Arnold's famous June 1947 sighting in the United States. Newspapers across Europe covered the phenomenon, and military authorities became concerned that some reports might involve unfamiliar aircraft, intelligence activity or public confusion rather than genuine unknown objects.
+The timing is crucial. Reports of mysterious"flying saucers" spread rapidly after pilot Kenneth Arnold's famous June 1947 sighting in the United States. Newspapers across Europe covered the phenomenon, and military authorities became concerned that some reports might involve unfamiliar aircraft, intelligence activity or public confusion rather than genuine unknown objects.
 
-Post-war Bavaria occupied a particularly sensitive position. It lay within the American occupation zone, hosted major military headquarters and airfields, and sat close to the emerging East-West divide. In that environment, any report of an unconventional aircraft could potentially have military significance, regardless of whether it later proved mundane. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://text-message.blogs.archives.gov/2017/07/05/see-something-say-something-ufo-reporting-requirements-office-of-military-government-for-bavaria-germany-may-1948/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: text-message.blogs.archives.gov">[The Text Message]</a><span class="citation-popover" role="note"><span class="citation-popover-source">text-message.blogs.archives.gov</span><span class="citation-popover-title">The Text Message UFO Reporting Requirements, Office of Military Government</span><span class="citation-popover-snippet">The Text MessageUFO Reporting Requirements, Office of Military Government...July 5, 2017 — 5 Jul 2017 — In May 1948 the Office of Milita...</span><span class="citation-popover-meta">Published: July 5, 2017</span></span></span>
+Post-war Bavaria occupied a particularly sensitive position. It lay within the American occupation zone, hosted major military headquarters and airfields, and sat close to the emerging East-West divide. In that environment, any report of an unconventional aircraft could potentially have military significance, regardless of whether it later proved mundane.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://text-message.blogs.archives.gov/2017/07/05/see-something-say-something-ufo-reporting-requirements-office-of-military-government-for-bavaria-germany-may-1948/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: text-message.blogs.archives.gov">[The Text Message]</a><span class="citation-popover" role="note"><span class="citation-popover-source">text-message.blogs.archives.gov</span><span class="citation-popover-title">The Text Message UFO Reporting Requirements, Office of Military Government</span><span class="citation-popover-snippet">The Text MessageUFO Reporting Requirements, Office of Military Government...July 5, 2017 — 5 Jul 2017 — In May 1948 the Office of Milita...</span><span class="citation-popover-meta">Published: July 5, 2017</span></span></span>
 
-The Office of Military Government for Bavaria (OMG Bavaria) therefore received guidance originating from higher American commands. Rather than dismissing reports outright, officials were instructed to ensure that relevant sightings reached the appropriate military authorities. The existence of such instructions reflects normal intelligence procedures during an uncertain security period, when even unlikely reports were considered worth documenting. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://text-message.blogs.archives.gov/2017/07/05/see-something-say-something-ufo-reporting-requirements-office-of-military-government-for-bavaria-germany-may-1948/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: text-message.blogs.archives.gov">[The Text Message]</a><span class="citation-popover" role="note"><span class="citation-popover-source">text-message.blogs.archives.gov</span><span class="citation-popover-title">The Text Message UFO Reporting Requirements, Office of Military Government</span><span class="citation-popover-snippet">The Text MessageUFO Reporting Requirements, Office of Military Government...July 5, 2017 — 5 Jul 2017 — In May 1948 the Office of Milita...</span><span class="citation-popover-meta">Published: July 5, 2017</span></span></span>
-
-
-<img src="{{ "/assets/images/Bavaria_3c0123_1948_flying_disc_mem_394896-Illustration-1-dark.svg" | relative_url }}" alt="1948 Memo illustration 1" data-theme-src-dark="{{ "/assets/images/Bavaria_3c0123_1948_flying_disc_mem_394896-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Bavaria_3c0123_1948_flying_disc_mem_394896-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+The Office of Military Government for Bavaria (OMG Bavaria) therefore received guidance originating from higher American commands. Rather than dismissing reports outright, officials were instructed to ensure that relevant sightings reached the appropriate military authorities. The existence of such instructions reflects normal intelligence procedures during an uncertain security period, when even unlikely reports were considered worth documenting.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://text-message.blogs.archives.gov/2017/07/05/see-something-say-something-ufo-reporting-requirements-office-of-military-government-for-bavaria-germany-may-1948/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: text-message.blogs.archives.gov">[The Text Message]</a><span class="citation-popover" role="note"><span class="citation-popover-source">text-message.blogs.archives.gov</span><span class="citation-popover-title">The Text Message UFO Reporting Requirements, Office of Military Government</span><span class="citation-popover-snippet">The Text MessageUFO Reporting Requirements, Office of Military Government...July 5, 2017 — 5 Jul 2017 — In May 1948 the Office of Milita...</span><span class="citation-popover-meta">Published: July 5, 2017</span></span></span><img src="{{"/assets/images/Bavaria_3c0123_1948_flying_disc_mem_394896-Illustration-1-dark.svg" | relative_url }}" alt="1948 Memo illustration 1" data-theme-src-dark="{{"/assets/images/Bavaria_3c0123_1948_flying_disc_mem_394896-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{"/assets/images/Bavaria_3c0123_1948_flying_disc_mem_394896-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What the reporting instructions actually reveal
 
 The surviving May 1948 memorandum is often cited in UFO literature, but its historical value lies in what it says about bureaucracy.
 
 The document demonstrates several important points:
 
-* "Flying discs" had become an official reporting category by spring 1948.
+*"Flying discs" had become an official reporting category by spring 1948.
 * Military government offices were expected to forward reports through established channels instead of handling them informally.
 * The reporting system was driven by intelligence requirements from higher headquarters rather than local enthusiasm for UFO stories.
-* Authorities regarded unusual aerial reports as potentially relevant until they could be assessed. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://text-message.blogs.archives.gov/2017/07/05/see-something-say-something-ufo-reporting-requirements-office-of-military-government-for-bavaria-germany-may-1948/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: text-message.blogs.archives.gov">[The Text Message]</a><span class="citation-popover" role="note"><span class="citation-popover-source">text-message.blogs.archives.gov</span><span class="citation-popover-title">The Text Message UFO Reporting Requirements, Office of Military Government</span><span class="citation-popover-snippet">The Text MessageUFO Reporting Requirements, Office of Military Government...July 5, 2017 — 5 Jul 2017 — In May 1948 the Office of Milita...</span><span class="citation-popover-meta">Published: July 5, 2017</span></span></span>
-
-This approach was consistent with wider military practice. Intelligence organisations routinely collect reports that later prove inaccurate because it is safer to investigate first than ignore information that might indicate a genuine security issue. During the occupation period, Bavaria's administration already handled extensive reporting on political, economic and security matters, making the addition of unusual aircraft reports less surprising than it might appear today. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://text-message.blogs.archives.gov/2017/07/05/see-something-say-something-ufo-reporting-requirements-office-of-military-government-for-bavaria-germany-may-1948/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: text-message.blogs.archives.gov">[The Text Message]</a><span class="citation-popover" role="note"><span class="citation-popover-source">text-message.blogs.archives.gov</span><span class="citation-popover-title">The Text Message UFO Reporting Requirements, Office of Military Government</span><span class="citation-popover-snippet">The Text MessageUFO Reporting Requirements, Office of Military Government...July 5, 2017 — 5 Jul 2017 — In May 1948 the Office of Milita...</span><span class="citation-popover-meta">Published: July 5, 2017</span></span></span>
-
+* Authorities regarded unusual aerial reports as potentially relevant until they could be assessed.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://text-message.blogs.archives.gov/2017/07/05/see-something-say-something-ufo-reporting-requirements-office-of-military-government-for-bavaria-germany-may-1948/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: text-message.blogs.archives.gov">[The Text Message]</a><span class="citation-popover" role="note"><span class="citation-popover-source">text-message.blogs.archives.gov</span><span class="citation-popover-title">The Text Message UFO Reporting Requirements, Office of Military Government</span><span class="citation-popover-snippet">The Text MessageUFO Reporting Requirements, Office of Military Government...July 5, 2017 — 5 Jul 2017 — In May 1948 the Office of Milita...</span><span class="citation-popover-meta">Published: July 5, 2017</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/dgroqLFDaW0" title="FBI UFO Files Reveal Chilling 1948 Encounters Near Military Bases | WION Podcast" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=dgroqLFDaW0" target="_blank" rel="noopener noreferrer">FBI UFO Files Reveal Chilling 1948 Encounters Near Military Bases | WION Podcast</a></p><p class="youtube-embed-meta">Channel: WION &middot; Views: 2.3K &middot; Uploaded: May 2026 &middot; Length: 3 minutes 55 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=dgroqLFDaW0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=dgroqLFDaW0">Open on YouTube</a></p></div></div></div>
 
@@ -337,24 +325,18 @@ Modern discussions sometimes overstate the importance of the 1948 instructions. 
 
 Several common misconceptions deserve clarification.
 
-First, the memo does not state that "flying discs" were real objects of unknown origin. It simply establishes procedures for reporting observations.
+First, the memo does not state that"flying discs" were real objects of unknown origin. It simply establishes procedures for reporting observations.
 
-Second, it does not reveal a secret investigation into extraterrestrial visitors. The instructions emerged within ordinary military reporting systems already used for many other security matters. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://text-message.blogs.archives.gov/2017/07/05/see-something-say-something-ufo-reporting-requirements-office-of-military-government-for-bavaria-germany-may-1948/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: text-message.blogs.archives.gov">[The Text Message]</a><span class="citation-popover" role="note"><span class="citation-popover-source">text-message.blogs.archives.gov</span><span class="citation-popover-title">The Text Message UFO Reporting Requirements, Office of Military Government</span><span class="citation-popover-snippet">The Text MessageUFO Reporting Requirements, Office of Military Government...July 5, 2017 — 5 Jul 2017 — In May 1948 the Office of Milita...</span><span class="citation-popover-meta">Published: July 5, 2017</span></span></span>
+Second, it does not reveal a secret investigation into extraterrestrial visitors. The instructions emerged within ordinary military reporting systems already used for many other security matters.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://text-message.blogs.archives.gov/2017/07/05/see-something-say-something-ufo-reporting-requirements-office-of-military-government-for-bavaria-germany-may-1948/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: text-message.blogs.archives.gov">[The Text Message]</a><span class="citation-popover" role="note"><span class="citation-popover-source">text-message.blogs.archives.gov</span><span class="citation-popover-title">The Text Message UFO Reporting Requirements, Office of Military Government</span><span class="citation-popover-snippet">The Text MessageUFO Reporting Requirements, Office of Military Government...July 5, 2017 — 5 Jul 2017 — In May 1948 the Office of Milita...</span><span class="citation-popover-meta">Published: July 5, 2017</span></span></span>
 
-Third, the document predates many later Cold War UFO programmes that have attracted public attention. It should therefore be understood as an early administrative response to an international reporting wave rather than part of a long-running conspiracy narrative.
-
-
-<img src="{{ "/assets/images/Bavaria_3c0123_1948_flying_disc_mem_394896-Illustration-2-dark.svg" | relative_url }}" alt="1948 Memo illustration 2" data-theme-src-dark="{{ "/assets/images/Bavaria_3c0123_1948_flying_disc_mem_394896-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Bavaria_3c0123_1948_flying_disc_mem_394896-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+Third, the document predates many later Cold War UFO programmes that have attracted public attention. It should therefore be understood as an early administrative response to an international reporting wave rather than part of a long-running conspiracy narrative.<img src="{{"/assets/images/Bavaria_3c0123_1948_flying_disc_mem_394896-Illustration-2-dark.svg" | relative_url }}" alt="1948 Memo illustration 2" data-theme-src-dark="{{"/assets/images/Bavaria_3c0123_1948_flying_disc_mem_394896-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{"/assets/images/Bavaria_3c0123_1948_flying_disc_mem_394896-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why the document still matters in Bavaria's UFO history
 
-Although the memo is modest in scope, it occupies an important place in Bavaria's historical [timeline]({{ 'timeline/' | relative_url }}).
+Although the memo is modest in scope, it occupies an important place in Bavaria's historical [timeline]({{'timeline/' | relative_url }}).
 
 Earlier pages in Bavaria's UFO history concern inherited stories such as the 1561 Nuremberg sky spectacle, which survive through printed accounts and later reinterpretation. The 1948 instructions represent something different: contemporary government paperwork created during an unfolding series of reports.
 
 That shift matters because it marks the transition from folklore and historical narrative to documentary administration. Instead of asking whether witnesses in previous centuries accurately described strange skies, historians can examine how modern officials reacted to reports in real time.
-
-The memo also illustrates how the political environment shaped UFO history. Occupied Bavaria was part of an Allied security network in which unusual aerial observations could intersect with intelligence gathering, aviation safety and military readiness. The significance therefore lies less in the reported objects themselves than in the state's response to uncertainty. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://text-message.blogs.archives.gov/2017/07/05/see-something-say-something-ufo-reporting-requirements-office-of-military-government-for-bavaria-germany-may-1948/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: text-message.blogs.archives.gov">[The Text Message]</a><span class="citation-popover" role="note"><span class="citation-popover-source">text-message.blogs.archives.gov</span><span class="citation-popover-title">The Text Message UFO Reporting Requirements, Office of Military Government</span><span class="citation-popover-snippet">The Text MessageUFO Reporting Requirements, Office of Military Government...July 5, 2017 — 5 Jul 2017 — In May 1948 the Office of Milita...</span><span class="citation-popover-meta">Published: July 5, 2017</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/gzTDbsQKKpo" title="The Berlin Airlift - The Cold War Mission to Save a City" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=gzTDbsQKKpo" target="_blank" rel="noopener noreferrer">The Berlin Airlift - The Cold War Mission to Save a City</a></p><p class="youtube-embed-meta">Channel: Mark Felton Productions</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=gzTDbsQKKpo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=gzTDbsQKKpo">Open on YouTube</a></p></div></div></div>
 
@@ -364,216 +346,32 @@ Most historians treat the May 1948 memorandum as a reliable administrative recor
 
 Interpretation, however, requires restraint. The document confirms that official reporting procedures existed, but it cannot tell us how many reports proved significant, how many were eventually explained, or whether any represented genuinely unidentified phenomena. Those questions require separate case files, many of which either no longer survive or contain ordinary explanations.
 
-For readers interested in Bavaria's wider UFO history, the lasting importance of the 1948 instructions is therefore institutional rather than sensational. They show that the first great flying disc wave reached occupied Germany quickly enough to become government paperwork, illustrating how Cold War administration responded to uncertainty with documentation instead of immediate belief or dismissal. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://text-message.blogs.archives.gov/2017/07/05/see-something-say-something-ufo-reporting-requirements-office-of-military-government-for-bavaria-germany-may-1948/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: text-message.blogs.archives.gov">[The Text Message]</a><span class="citation-popover" role="note"><span class="citation-popover-source">text-message.blogs.archives.gov</span><span class="citation-popover-title">The Text Message UFO Reporting Requirements, Office of Military Government</span><span class="citation-popover-snippet">The Text MessageUFO Reporting Requirements, Office of Military Government...July 5, 2017 — 5 Jul 2017 — In May 1948 the Office of Milita...</span><span class="citation-popover-meta">Published: July 5, 2017</span></span></span>
-
-
-<img src="{{ "/assets/images/Bavaria_3c0123_1948_flying_disc_mem_394896-Illustration-3-dark.svg" | relative_url }}" alt="1948 Memo illustration 3" data-theme-src-dark="{{ "/assets/images/Bavaria_3c0123_1948_flying_disc_mem_394896-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Bavaria_3c0123_1948_flying_disc_mem_394896-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
-
-<section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Did Bavaria Start Logging Flying Discs?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_L47DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
-        </h4>
-        <p class="fr-book-author">By Edward J. Ruppelt</p>
-        
-        <p class="fr-book-desc">Written by the first head of Project Blue Book and explains early official reporting.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
-        
-        <p class="fr-book-desc">Provides context for official evaluation of sightings during the Cold War era.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
-        
-        <p class="fr-book-desc">Explores how governments and officials handle unexplained aerial reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+UFO+Experience%2C+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience, A Scientific Inquiry on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience%2C+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience, A Scientific Inquiry">The UFO Experience, A Scientific Inquiry</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
-        
-        <p class="fr-book-desc">First published 1972.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience%2C+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
-</section>
-
-<section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
-
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
-
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1948-memo-why-did-bavaria-start-logging-flying-discs-bavaria-flying-saucer-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer collectible" data-ebay-reference="1948-memo-why-did-bavaria-start-logging-flying-discs-bavaria-flying-saucer-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The Invaders UFO/Flying Saucer - Medium - Landed With Stand &amp; lights"><img src="{{ '/assets/images/marketplace-covers/c4e4380a2d9884a7e64a.jpg' | relative_url }}" alt="Listing image for The Invaders UFO/Flying Saucer - Medium - Landed With Stand &amp; lights" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1948-memo-why-did-bavaria-start-logging-flying-discs-bavaria-flying-saucer-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer collectible" data-ebay-reference="1948-memo-why-did-bavaria-start-logging-flying-discs-bavaria-flying-saucer-collectible" target="_blank" rel="sponsored noopener noreferrer">The Invaders UFO/Flying Saucer - Medium - Landed With Stand &amp; lights</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1948-memo-why-did-bavaria-start-logging-flying-discs-bavaria-flying-saucer-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer collectible" data-ebay-reference="1948-memo-why-did-bavaria-start-logging-flying-discs-bavaria-flying-saucer-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for flying saucer collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: flying saucer collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1948-memo-why-did-bavaria-start-logging-flying-discs-bavaria-flying-saucer-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer collectible" data-ebay-reference="1948-memo-why-did-bavaria-start-logging-flying-discs-bavaria-flying-saucer-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1948-memo-why-did-bavaria-start-logging-flying-discs-bavaria-flying-saucer-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer collectible" data-ebay-reference="1948-memo-why-did-bavaria-start-logging-flying-discs-bavaria-flying-saucer-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Rainbow UFO Space Flying Saucer Embroidered iron sew on patch clothe new N-1551"><img src="{{ '/assets/images/marketplace-covers/c700b10d0544374dd95a.jpg' | relative_url }}" alt="Listing image for Rainbow UFO Space Flying Saucer Embroidered iron sew on patch clothe new N-1551" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1948-memo-why-did-bavaria-start-logging-flying-discs-bavaria-flying-saucer-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer collectible" data-ebay-reference="1948-memo-why-did-bavaria-start-logging-flying-discs-bavaria-flying-saucer-collectible" target="_blank" rel="sponsored noopener noreferrer">Rainbow UFO Space Flying Saucer Embroidered iron sew on patch clothe new N-1551</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1948-memo-why-did-bavaria-start-logging-flying-discs-bavaria-flying-saucer-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer collectible" data-ebay-reference="1948-memo-why-did-bavaria-start-logging-flying-discs-bavaria-flying-saucer-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for flying saucer collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: flying saucer collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1948-memo-why-did-bavaria-start-logging-flying-discs-bavaria-flying-saucer-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer collectible" data-ebay-reference="1948-memo-why-did-bavaria-start-logging-flying-discs-bavaria-flying-saucer-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1948-memo-why-did-bavaria-start-logging-flying-discs-bavaria-flying-saucer-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer collectible" data-ebay-reference="1948-memo-why-did-bavaria-start-logging-flying-discs-bavaria-flying-saucer-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The Day the Earth Stood Still&quot; UFO/Flying Saucer (landed with lights) - large"><img src="{{ '/assets/images/marketplace-covers/d4217bc6982d7028da45.jpg' | relative_url }}" alt="Listing image for The Day the Earth Stood Still&quot; UFO/Flying Saucer (landed with lights) - large" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1948-memo-why-did-bavaria-start-logging-flying-discs-bavaria-flying-saucer-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer collectible" data-ebay-reference="1948-memo-why-did-bavaria-start-logging-flying-discs-bavaria-flying-saucer-collectible" target="_blank" rel="sponsored noopener noreferrer">The Day the Earth Stood Still&quot; UFO/Flying Saucer (landed with lights) - large</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1948-memo-why-did-bavaria-start-logging-flying-discs-bavaria-flying-saucer-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer collectible" data-ebay-reference="1948-memo-why-did-bavaria-start-logging-flying-discs-bavaria-flying-saucer-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for flying saucer collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: flying saucer collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1948-memo-why-did-bavaria-start-logging-flying-discs-bavaria-flying-saucer-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer collectible" data-ebay-reference="1948-memo-why-did-bavaria-start-logging-flying-discs-bavaria-flying-saucer-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1948-memo-why-did-bavaria-start-logging-flying-discs-bavaria-flying-saucer-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer collectible" data-ebay-reference="1948-memo-why-did-bavaria-start-logging-flying-discs-bavaria-flying-saucer-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Flying Saucers Are Real! by Womack Jack UFO William Gibson Conspiracy Aliens"><img src="{{ '/assets/images/marketplace-covers/aaab94f07d678b266c8b.jpg' | relative_url }}" alt="Listing image for Flying Saucers Are Real! by Womack Jack UFO William Gibson Conspiracy Aliens" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1948-memo-why-did-bavaria-start-logging-flying-discs-bavaria-flying-saucer-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer collectible" data-ebay-reference="1948-memo-why-did-bavaria-start-logging-flying-discs-bavaria-flying-saucer-collectible" target="_blank" rel="sponsored noopener noreferrer">Flying Saucers Are Real! by Womack Jack UFO William Gibson Conspiracy Aliens</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1948-memo-why-did-bavaria-start-logging-flying-discs-bavaria-flying-saucer-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer collectible" data-ebay-reference="1948-memo-why-did-bavaria-start-logging-flying-discs-bavaria-flying-saucer-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for flying saucer collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: flying saucer collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1948-memo-why-did-bavaria-start-logging-flying-discs-bavaria-flying-saucer-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer collectible" data-ebay-reference="1948-memo-why-did-bavaria-start-logging-flying-discs-bavaria-flying-saucer-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1948-memo-why-did-bavaria-start-logging-flying-discs-bavaria-flying-saucer-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer collectible" data-ebay-reference="1948-memo-why-did-bavaria-start-logging-flying-discs-bavaria-flying-saucer-collectible" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+For readers interested in Bavaria's wider UFO history, the lasting importance of the 1948 instructions is therefore institutional rather than sensational. They show that the first great flying disc wave reached occupied Germany quickly enough to become government paperwork, illustrating how Cold War administration responded to uncertainty with documentation instead of immediate belief or dismissal.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://text-message.blogs.archives.gov/2017/07/05/see-something-say-something-ufo-reporting-requirements-office-of-military-government-for-bavaria-germany-may-1948/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: text-message.blogs.archives.gov">[The Text Message]</a><span class="citation-popover" role="note"><span class="citation-popover-source">text-message.blogs.archives.gov</span><span class="citation-popover-title">The Text Message UFO Reporting Requirements, Office of Military Government</span><span class="citation-popover-snippet">The Text MessageUFO Reporting Requirements, Office of Military Government...July 5, 2017 — 5 Jul 2017 — In May 1948 the Office of Milita...</span><span class="citation-popover-meta">Published: July 5, 2017</span></span></span><img src="{{"/assets/images/Bavaria_3c0123_1948_flying_disc_mem_394896-Illustration-3-dark.svg" | relative_url }}" alt="1948 Memo illustration 3" data-theme-src-dark="{{"/assets/images/Bavaria_3c0123_1948_flying_disc_mem_394896-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{"/assets/images/Bavaria_3c0123_1948_flying_disc_mem_394896-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low"><section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title"><div class="fr-section-shell"><div class="fr-section-header"><div class="fr-section-heading"><p class="fr-section-kicker">Amazon book picks</p><h3 class="fr-heading" id="further-reading-title">Further Reading</h3></div><p class="fr-intro">Books and field guides related to Why Did Bavaria Start Logging Flying Discs?. Use these as the next step if you want deeper reading beyond the article.</p></div><div class="fr-books-grid"><article class="fr-book-card"><a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_L47DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a><div class="fr-book-info"><h4 class="fr-book-title"><a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a></h4><p class="fr-book-author">By Edward J. Ruppelt</p><p class="fr-book-desc">Written by the first head of Project Blue Book and explains early official reporting.</p><div class="fr-book-actions"><a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon</a></div></div></article><article class="fr-book-card"><a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a><div class="fr-book-info"><h4 class="fr-book-title"><a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a></h4><p class="fr-book-author">By Joseph Allen Hynek</p><p class="fr-book-desc">Provides context for official evaluation of sightings during the Cold War era.</p><div class="fr-book-actions"><a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon</a></div></div></article><article class="fr-book-card"><a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a><div class="fr-book-info"><h4 class="fr-book-title"><a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a></h4><p class="fr-book-author">By Leslie Kean</p><p class="fr-book-desc">Explores how governments and officials handle unexplained aerial reports.</p><div class="fr-book-actions"><a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon</a></div></div></article><article class="fr-book-card"><a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+UFO+Experience%2C+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience, A Scientific Inquiry on Amazon"><span class="fr-book-cover-fallback">Book</span></a><div class="fr-book-info"><h4 class="fr-book-title"><a href="https://www.amazon.com/s?k=The+UFO+Experience%2C+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience, A Scientific Inquiry">The UFO Experience, A Scientific Inquiry</a></h4><p class="fr-book-author">By J. Allen Hynek</p><p class="fr-book-desc">First published 1972.</p><div class="fr-book-actions"><a href="https://www.amazon.com/s?k=The+UFO+Experience%2C+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon</a></div></div></article></div><div class="fr-section-footer"><div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div><p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p></div></div></section><section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title"><div class="fr-section-shell"><div class="fr-section-header"><div class="fr-section-heading"><p class="fr-section-kicker">eBay marketplace picks</p><h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3></div><p class="fr-intro">Live-tested eBay searches with available results related to this page.</p><div class="fr-ebay-market-toolbar"><label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label><div class="fr-ebay-market-picker"><span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span><button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span><span data-ebay-trigger-market-label>USA</span></button><select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location"><option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option></select><div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button></div></div></div></div><div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1"><div class="fr-books-grid"><article class="fr-book-card"><a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1948-memo-why-did-bavaria-start-logging-flying-discs-bavaria-flying-saucer-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer collectible" data-ebay-reference="1948-memo-why-did-bavaria-start-logging-flying-discs-bavaria-flying-saucer-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The Invaders UFO/Flying Saucer - Medium - Landed With Stand &amp; lights"><img src="{{'/assets/images/marketplace-covers/c4e4380a2d9884a7e64a.jpg' | relative_url }}" alt="Listing image for The Invaders UFO/Flying Saucer - Medium - Landed With Stand &amp; lights" loading="lazy" decoding="async" fetchpriority="low"></a><div class="fr-book-info"><p class="fr-book-kicker">Example eBay listing</p><h4 class="fr-book-title"><a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1948-memo-why-did-bavaria-start-logging-flying-discs-bavaria-flying-saucer-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer collectible" data-ebay-reference="1948-memo-why-did-bavaria-start-logging-flying-discs-bavaria-flying-saucer-collectible" target="_blank" rel="sponsored noopener noreferrer">The Invaders UFO/Flying Saucer - Medium - Landed With Stand &amp; lights</a></h4><a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1948-memo-why-did-bavaria-start-logging-flying-discs-bavaria-flying-saucer-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer collectible" data-ebay-reference="1948-memo-why-did-bavaria-start-logging-flying-discs-bavaria-flying-saucer-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for flying saucer collectible">Search<span data-ebay-domain-label>eBay.co.uk</span>: flying saucer collectible</a><div class="fr-book-actions"><a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1948-memo-why-did-bavaria-start-logging-flying-discs-bavaria-flying-saucer-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer collectible" data-ebay-reference="1948-memo-why-did-bavaria-start-logging-flying-discs-bavaria-flying-saucer-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span></a></div></div></article><article class="fr-book-card"><a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1948-memo-why-did-bavaria-start-logging-flying-discs-bavaria-flying-saucer-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer collectible" data-ebay-reference="1948-memo-why-did-bavaria-start-logging-flying-discs-bavaria-flying-saucer-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Rainbow UFO Space Flying Saucer Embroidered iron sew on patch clothe new N-1551"><img src="{{'/assets/images/marketplace-covers/c700b10d0544374dd95a.jpg' | relative_url }}" alt="Listing image for Rainbow UFO Space Flying Saucer Embroidered iron sew on patch clothe new N-1551" loading="lazy" decoding="async" fetchpriority="low"></a><div class="fr-book-info"><p class="fr-book-kicker">Example eBay listing</p><h4 class="fr-book-title"><a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1948-memo-why-did-bavaria-start-logging-flying-discs-bavaria-flying-saucer-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer collectible" data-ebay-reference="1948-memo-why-did-bavaria-start-logging-flying-discs-bavaria-flying-saucer-collectible" target="_blank" rel="sponsored noopener noreferrer">Rainbow UFO Space Flying Saucer Embroidered iron sew on patch clothe new N-1551</a></h4><a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1948-memo-why-did-bavaria-start-logging-flying-discs-bavaria-flying-saucer-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer collectible" data-ebay-reference="1948-memo-why-did-bavaria-start-logging-flying-discs-bavaria-flying-saucer-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for flying saucer collectible">Search<span data-ebay-domain-label>eBay.co.uk</span>: flying saucer collectible</a><div class="fr-book-actions"><a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1948-memo-why-did-bavaria-start-logging-flying-discs-bavaria-flying-saucer-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer collectible" data-ebay-reference="1948-memo-why-did-bavaria-start-logging-flying-discs-bavaria-flying-saucer-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span></a></div></div></article><article class="fr-book-card"><a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1948-memo-why-did-bavaria-start-logging-flying-discs-bavaria-flying-saucer-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer collectible" data-ebay-reference="1948-memo-why-did-bavaria-start-logging-flying-discs-bavaria-flying-saucer-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The Day the Earth Stood Still&quot; UFO/Flying Saucer (landed with lights) - large"><img src="{{'/assets/images/marketplace-covers/d4217bc6982d7028da45.jpg' | relative_url }}" alt="Listing image for The Day the Earth Stood Still&quot; UFO/Flying Saucer (landed with lights) - large" loading="lazy" decoding="async" fetchpriority="low"></a><div class="fr-book-info"><p class="fr-book-kicker">Example eBay listing</p><h4 class="fr-book-title"><a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1948-memo-why-did-bavaria-start-logging-flying-discs-bavaria-flying-saucer-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer collectible" data-ebay-reference="1948-memo-why-did-bavaria-start-logging-flying-discs-bavaria-flying-saucer-collectible" target="_blank" rel="sponsored noopener noreferrer">The Day the Earth Stood Still&quot; UFO/Flying Saucer (landed with lights) - large</a></h4><a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1948-memo-why-did-bavaria-start-logging-flying-discs-bavaria-flying-saucer-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer collectible" data-ebay-reference="1948-memo-why-did-bavaria-start-logging-flying-discs-bavaria-flying-saucer-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for flying saucer collectible">Search<span data-ebay-domain-label>eBay.co.uk</span>: flying saucer collectible</a><div class="fr-book-actions"><a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1948-memo-why-did-bavaria-start-logging-flying-discs-bavaria-flying-saucer-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer collectible" data-ebay-reference="1948-memo-why-did-bavaria-start-logging-flying-discs-bavaria-flying-saucer-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span></a></div></div></article><article class="fr-book-card"><a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1948-memo-why-did-bavaria-start-logging-flying-discs-bavaria-flying-saucer-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer collectible" data-ebay-reference="1948-memo-why-did-bavaria-start-logging-flying-discs-bavaria-flying-saucer-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Flying Saucers Are Real! by Womack Jack UFO William Gibson Conspiracy Aliens"><img src="{{'/assets/images/marketplace-covers/aaab94f07d678b266c8b.jpg' | relative_url }}" alt="Listing image for Flying Saucers Are Real! by Womack Jack UFO William Gibson Conspiracy Aliens" loading="lazy" decoding="async" fetchpriority="low"></a><div class="fr-book-info"><p class="fr-book-kicker">Example eBay listing</p><h4 class="fr-book-title"><a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1948-memo-why-did-bavaria-start-logging-flying-discs-bavaria-flying-saucer-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer collectible" data-ebay-reference="1948-memo-why-did-bavaria-start-logging-flying-discs-bavaria-flying-saucer-collectible" target="_blank" rel="sponsored noopener noreferrer">Flying Saucers Are Real! by Womack Jack UFO William Gibson Conspiracy Aliens</a></h4><a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1948-memo-why-did-bavaria-start-logging-flying-discs-bavaria-flying-saucer-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer collectible" data-ebay-reference="1948-memo-why-did-bavaria-start-logging-flying-discs-bavaria-flying-saucer-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for flying saucer collectible">Search<span data-ebay-domain-label>eBay.co.uk</span>: flying saucer collectible</a><div class="fr-book-actions"><a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1948-memo-why-did-bavaria-start-logging-flying-discs-bavaria-flying-saucer-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer collectible" data-ebay-reference="1948-memo-why-did-bavaria-start-logging-flying-discs-bavaria-flying-saucer-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span></a></div></div></article></div><div class="fr-section-footer"><a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1948-memo-why-did-bavaria-start-logging-flying-discs-bavaria-flying-saucer-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer collectible" data-ebay-reference="1948-memo-why-did-bavaria-start-logging-flying-discs-bavaria-flying-saucer-collectible" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span></a><p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p></div></div></div><script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
-  var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
-  var timezoneRules = [{"market": "EBAY_IE", "pattern": "^Europe/Dublin$"}, {"market": "EBAY_GB", "pattern": "^Europe/(London|Belfast)$"}, {"market": "EBAY_CA", "pattern": "^America/(Toronto|Vancouver|Edmonton|Winnipeg|Halifax|St_Johns|Regina|Saskatoon|Whitehorse|Dawson|Moncton|Glace_Bay|Goose_Bay|Iqaluit|Yellowknife|Inuvik|Rankin_Inlet|Resolute|Cambridge_Bay|Fort_Nelson|Creston|Dawson_Creek)$"}, {"market": "EBAY_US", "pattern": "^America/"}, {"market": "EBAY_DE", "pattern": "^Europe/Berlin$"}, {"market": "EBAY_FR", "pattern": "^Europe/Paris$"}, {"market": "EBAY_IT", "pattern": "^Europe/Rome$"}, {"market": "EBAY_ES", "pattern": "^Europe/Madrid$"}, {"market": "EBAY_AU", "pattern": "^Australia/"}, {"market": "EBAY_AU", "pattern": "^Pacific/(Auckland|Chatham)$"}];
+  var localeMarketMap = {"de":"EBAY_DE","de-at":"EBAY_AT","de-ch":"EBAY_CH","de-de":"EBAY_DE","en":"EBAY_US","en-au":"EBAY_AU","en-ca":"EBAY_CA","en-gb":"EBAY_GB","en-ie":"EBAY_IE","en-nz":"EBAY_AU","en-uk":"EBAY_GB","en-us":"EBAY_US","es":"EBAY_ES","es-es":"EBAY_ES","fr":"EBAY_FR","fr-be":"EBAY_BE","fr-ca":"EBAY_CA","fr-fr":"EBAY_FR","it":"EBAY_IT","it-it":"EBAY_IT","nl":"EBAY_NL","nl-be":"EBAY_BE","nl-nl":"EBAY_NL"};
+  var timezoneRules = [{"market":"EBAY_IE","pattern":"^Europe/Dublin$"}, {"market":"EBAY_GB","pattern":"^Europe/(London|Belfast)$"}, {"market":"EBAY_CA","pattern":"^America/(Toronto|Vancouver|Edmonton|Winnipeg|Halifax|St_Johns|Regina|Saskatoon|Whitehorse|Dawson|Moncton|Glace_Bay|Goose_Bay|Iqaluit|Yellowknife|Inuvik|Rankin_Inlet|Resolute|Cambridge_Bay|Fort_Nelson|Creston|Dawson_Creek)$"}, {"market":"EBAY_US","pattern":"^America/"}, {"market":"EBAY_DE","pattern":"^Europe/Berlin$"}, {"market":"EBAY_FR","pattern":"^Europe/Paris$"}, {"market":"EBAY_IT","pattern":"^Europe/Rome$"}, {"market":"EBAY_ES","pattern":"^Europe/Madrid$"}, {"market":"EBAY_AU","pattern":"^Australia/"}, {"market":"EBAY_AU","pattern":"^Pacific/(Auckland|Chatham)$"}];
   function normalize(value) {
-    return String(value || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
+    return String(value ||'').toLowerCase().replace(/_/g,'-').replace(/[^a-z0-9-]+/g,'');
   }
   function localeMatches() {
     var languages = [];
-    var exactMarket = '';
-    var languageMarket = '';
+    var exactMarket ='';
+    var languageMarket ='';
     try {
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -587,24 +385,24 @@ For readers interested in Bavaria's wider UFO history, the lasting importance of
   }
   function inferFromLocale() {
     var matches = localeMatches();
-    return matches.exact || matches.language || '';
+    return matches.exact || matches.language ||'';
   }
   function inferFromTimezone() {
-    var tz = '';
-    try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
-    if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    var tz ='';
+    try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone ||''); } catch (err) {}
+    if (!tz) return'';
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
       } catch (err) {}
     }
-    return '';
+    return'';
   }
   function inferMarket(available, options) {
     available = Array.isArray(available) ? available : [];
     options = options || {};
-    var storageKey = options.storageKey || 'phoenix-affiliate-market';
+    var storageKey = options.storageKey ||'phoenix-affiliate-market';
     try {
       var saved = window.localStorage && localStorage.getItem(storageKey);
       if (saved && available.indexOf(saved) >= 0) return saved;
@@ -615,7 +413,7 @@ For readers interested in Bavaria's wider UFO history, the lasting importance of
     if (localeMarkets.exact && available.indexOf(localeMarkets.exact) >= 0) return localeMarkets.exact;
     if (localeMarkets.language && available.indexOf(localeMarkets.language) >= 0) return localeMarkets.language;
     if (options.defaultMarket && available.indexOf(options.defaultMarket) >= 0) return options.defaultMarket;
-    return available[0] || '';
+    return available[0] ||'';
   }
   window.PhoenixAffiliateLocation = {
     normalize: normalize,
@@ -623,45 +421,43 @@ For readers interested in Bavaria's wider UFO history, the lasting importance of
     inferFromLocale: inferFromLocale,
     inferFromTimezone: inferFromTimezone
   };
-})();
-</script>
-  <script type="text/javascript">
+})();</script><script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
-  var markets = {"EBAY_AU": {"campaign_id": "5339151051", "domain_label": "eBay.com.au", "label": "Australia", "mkrid": "705-53470-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com.au/sch/i.html?_nkw={query}"}, "EBAY_CA": {"campaign_id": "5339151051", "domain_label": "eBay.ca", "label": "Canada", "mkrid": "706-53473-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ca/sch/i.html?_nkw={query}"}, "EBAY_GB": {"campaign_id": "5339151051", "domain_label": "eBay.co.uk", "label": "UK", "mkrid": "710-53481-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.co.uk/sch/i.html?_nkw={query}"}, "EBAY_IE": {"campaign_id": "5339151051", "domain_label": "eBay.ie", "label": "Ireland", "mkrid": "5282-53468-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ie/sch/i.html?_nkw={query}"}, "EBAY_US": {"campaign_id": "5339151051", "domain_label": "eBay.com", "label": "USA", "mkrid": "711-53200-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com/sch/i.html?_nkw={query}"}};
-  var defaultMarket = "EBAY_GB";
+  var markets = {"EBAY_AU": {"campaign_id":"5339151051","domain_label":"eBay.com.au","label":"Australia","mkrid":"705-53470-19255-0","tool_id":"10001","url_template":"https://www.ebay.com.au/sch/i.html?_nkw={query}"},"EBAY_CA": {"campaign_id":"5339151051","domain_label":"eBay.ca","label":"Canada","mkrid":"706-53473-19255-0","tool_id":"10001","url_template":"https://www.ebay.ca/sch/i.html?_nkw={query}"},"EBAY_GB": {"campaign_id":"5339151051","domain_label":"eBay.co.uk","label":"UK","mkrid":"710-53481-19255-0","tool_id":"10001","url_template":"https://www.ebay.co.uk/sch/i.html?_nkw={query}"},"EBAY_IE": {"campaign_id":"5339151051","domain_label":"eBay.ie","label":"Ireland","mkrid":"5282-53468-19255-0","tool_id":"10001","url_template":"https://www.ebay.ie/sch/i.html?_nkw={query}"},"EBAY_US": {"campaign_id":"5339151051","domain_label":"eBay.com","label":"USA","mkrid":"711-53200-19255-0","tool_id":"10001","url_template":"https://www.ebay.com/sch/i.html?_nkw={query}"}};
+  var defaultMarket ="EBAY_GB";
   function encodeQuery(value) {
-    return encodeURIComponent(String(value || '').replace(/\s+/g, ' ').trim()).replace(/%20/g, '+');
+    return encodeURIComponent(String(value ||'').replace(/\s+/g,'').trim()).replace(/%20/g,'+');
   }
   function buildUrl(query, reference, marketId) {
     var cfg = markets[marketId] || markets[defaultMarket];
-    if (!cfg) return '#';
-    var template = String(cfg.url_template || 'https://www.ebay.com/sch/i.html?_nkw={query}');
-    var url = template.replace('{query}', encodeQuery(query || '')).replace('{query_plain}', String(query || ''));
-    var joiner = url.indexOf('?') >= 0 ? '&' : '?';
+    if (!cfg) return'#';
+    var template = String(cfg.url_template ||'https://www.ebay.com/sch/i.html?_nkw={query}');
+    var url = template.replace('{query}', encodeQuery(query ||'')).replace('{query_plain}', String(query ||''));
+    var joiner = url.indexOf('?') >= 0 ?'&' :'?';
     var params = [];
     if (cfg.mkrid) params.push('mkrid=' + encodeURIComponent(cfg.mkrid));
     if (cfg.campaign_id) params.push('campid=' + encodeURIComponent(cfg.campaign_id));
     params.push('mkevt=1');
     params.push('mkcid=1');
-    params.push('toolid=' + encodeURIComponent(cfg.tool_id || '10001'));
+    params.push('toolid=' + encodeURIComponent(cfg.tool_id ||'10001'));
     if (reference) params.push('customid=' + encodeURIComponent(reference).slice(0, 256));
     return url + joiner + params.join('&');
   }
   function domainLabel(marketId) {
     var cfg = markets[marketId] || markets[defaultMarket] || {};
-    return cfg.domain_label || 'eBay';
+    return cfg.domain_label ||'eBay';
   }
   function flagClass(marketId) {
-    return 'fr-ebay-market-flag fr-ebay-market-flag--' + String(marketId || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
+    return'fr-ebay-market-flag fr-ebay-market-flag--' + String(marketId ||'').toLowerCase().replace(/_/g,'-').replace(/[^a-z0-9-]+/g,'');
   }
   function closeMenu(section) {
     var menu = section.querySelector('[data-ebay-market-menu]');
     var trigger = section.querySelector('[data-ebay-market-trigger]');
     var picker = section.querySelector('.fr-ebay-market-picker');
     if (menu) menu.hidden = true;
-    if (trigger) trigger.setAttribute('aria-expanded', 'false');
+    if (trigger) trigger.setAttribute('aria-expanded','false');
     if (picker) picker.classList.remove('fr-ebay-market-picker--open');
   }
   function availableMarkets(section) {
@@ -677,10 +473,10 @@ For readers interested in Bavaria's wider UFO history, the lasting importance of
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
-      var query = link.getAttribute('data-ebay-query') || '';
-      var reference = link.getAttribute('data-ebay-reference') || '';
+      var query = link.getAttribute('data-ebay-query') ||'';
+      var reference = link.getAttribute('data-ebay-reference') ||'';
       link.setAttribute('href', buildUrl(query, reference, marketId));
     });
     var select = section.querySelector('[data-ebay-market-select]');
@@ -700,11 +496,11 @@ For readers interested in Bavaria's wider UFO history, the lasting importance of
       label.textContent = domainLabel(marketId);
     });
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
-      button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
+      button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ?'true' :'false');
     });
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
       var active = button.getAttribute('data-ebay-market-button') === marketId;
-      button.setAttribute('aria-pressed', active ? 'true' : 'false');
+      button.setAttribute('aria-pressed', active ?'true' :'false');
     });
     section.setAttribute('data-ebay-selected-market', marketId);
     if (persist) {
@@ -713,16 +509,16 @@ For readers interested in Bavaria's wider UFO history, the lasting importance of
     closeMenu(section);
   }
   sections.forEach(function (section) {
-    if (section.getAttribute('data-ebay-localized-init') === '1') return;
-    section.setAttribute('data-ebay-localized-init', '1');
+    if (section.getAttribute('data-ebay-localized-init') ==='1') return;
+    section.setAttribute('data-ebay-localized-init','1');
     var available = availableMarkets(section);
     var marketId = defaultMarket;
     if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
       marketId = window.PhoenixAffiliateLocation.inferMarket(available, {
-        storageKey: 'phoenix-ebay-market',
+        storageKey:'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -736,9 +532,9 @@ For readers interested in Bavaria's wider UFO history, the lasting importance of
     if (trigger && menu) {
       trigger.addEventListener('click', function (event) {
         event.stopPropagation();
-        var expanded = trigger.getAttribute('aria-expanded') === 'true';
+        var expanded = trigger.getAttribute('aria-expanded') ==='true';
         menu.hidden = expanded;
-        trigger.setAttribute('aria-expanded', expanded ? 'false' : 'true');
+        trigger.setAttribute('aria-expanded', expanded ?'false' :'true');
         var picker = trigger.closest('.fr-ebay-market-picker');
         if (picker) picker.classList.toggle('fr-ebay-market-picker--open', !expanded);
       });
@@ -757,89 +553,73 @@ For readers interested in Bavaria's wider UFO history, the lasting importance of
     });
     applyMarket(section, marketId, false);
   });
-})();
-</script>
-</section>
+})();</script></section>
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: text-message.blogs.archives.gov  
    Title: The Text Message UFO Reporting Requirements, Office of Military Government  
-   Link: <a href="https://text-message.blogs.archives.gov/2017/07/05/see-something-say-something-ufo-reporting-requirements-office-of-military-government-for-bavaria-germany-may-1948/" target="_blank" rel="noopener noreferrer nofollow">https://text-message.blogs.archives.gov/2017/07/05/see-something-say-something-ufo-reporting-requirements-office-of-military-government-for-bavaria-germany-may-1948/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Text MessageUFO Reporting Requirements, Office of Military Government...July 5, 2017 — 5 Jul 2017 — In May 1948 the Office of Milita...</p></details>
+   Link:<a href="https://text-message.blogs.archives.gov/2017/07/05/see-something-say-something-ufo-reporting-requirements-office-of-military-government-for-bavaria-germany-may-1948/" target="_blank" rel="noopener noreferrer nofollow">https://text-message.blogs.archives.gov/2017/07/05/see-something-say-something-ufo-reporting-requirements-office-of-military-government-for-bavaria-germany-may-1948/</a><details class="endnote-snippet"><summary>Source snippet</summary><p>The Text MessageUFO Reporting Requirements, Office of Military Government...July 5, 2017 — 5 Jul 2017 — In May 1948 the Office of Milita...</p></details>
    Published: July 5, 2017  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: text-message.blogs.archives.gov  
    Title: william brazel  
-   Link: <a href="https://text-message.blogs.archives.gov/tag/william-brazel/" target="_blank" rel="noopener noreferrer nofollow">https://text-message.blogs.archives.gov/tag/william-brazel/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Brazel - The Text Message5 Jul 2017 — In May 1948 the Office of Military Government for Bavaria, Germany, issued instructions for reporti...</p></details>
+   Link:<a href="https://text-message.blogs.archives.gov/tag/william-brazel/" target="_blank" rel="noopener noreferrer nofollow">https://text-message.blogs.archives.gov/tag/william-brazel/</a><details class="endnote-snippet"><summary>Source snippet</summary><p>Brazel - The Text Message5 Jul 2017 — In May 1948 the Office of Military Government for Bavaria, Germany, issued instructions for reporti...</p></details>
    Published: May 1948  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: text-message.blogs.archives.gov  
-   Link: <a href="https://text-message.blogs.archives.gov/category/military-records/page/8/" target="_blank" rel="noopener noreferrer nofollow">https://text-message.blogs.archives.gov/category/military-records/page/8/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Records – Page 8 - The Text MessageToday&#x27;s post is written by Dr. Greg Bradsher, Senior Archivist at the National Archives at College Par...</p></details>
+   Link:<a href="https://text-message.blogs.archives.gov/category/military-records/page/8/" target="_blank" rel="noopener noreferrer nofollow">https://text-message.blogs.archives.gov/category/military-records/page/8/</a><details class="endnote-snippet"><summary>Source snippet</summary><p>Records – Page 8 - The Text MessageToday&#x27;s post is written by Dr. Greg Bradsher, Senior Archivist at the National Archives at College Par...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: archives.gov  
    Title: spoils of war 1  
-   Link: <a href="https://www.archives.gov/publications/prologue/2002/spring/spoils-of-war-1" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/publications/prologue/2002/spring/spoils-of-war-1</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Spoils of War Returned25 Jul 2022 — World War II resulted in the greatest loss and displacement of cultural treasures, books, and archive...</p></details>
+   Link:<a href="https://www.archives.gov/publications/prologue/2002/spring/spoils-of-war-1" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/publications/prologue/2002/spring/spoils-of-war-1</a><details class="endnote-snippet"><summary>Source snippet</summary><p>Spoils of War Returned25 Jul 2022 — World War II resulted in the greatest loss and displacement of cultural treasures, books, and archive...</p></details>
 
 ### Additional References
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: archive.org  
-   Link: <a href="https://archive.org/stream/AllAboutTheDiskAircraftOfTheThirdReichNaziAntigravityAerospaceCraftWeaponsDevelopmentPrograms_201703/All%20About%20the%20Disk%20Aircraft%20of%20the%20Third%20Reich%20-%20Nazi%20Antigravity%20Aerospace%20Craft%20Weapons%20Development%20Programs_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/AllAboutTheDiskAircraftOfTheThirdReichNaziAntigravityAerospaceCraftWeaponsDevelopmentPrograms_201703/All%20About%20the%20Disk%20Aircraft%20of%20the%20Third%20Reich%20-%20Nazi%20Antigravity%20Aerospace%20Craft%20Weapons%20Development%20Programs_djvu.txt</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Full text of &quot;All About The Disk Aircraft Of The Third Reich...The very first disc project in Germany built in 1922 was not even an airc...</p></details>
+   Link:<a href="https://archive.org/stream/AllAboutTheDiskAircraftOfTheThirdReichNaziAntigravityAerospaceCraftWeaponsDevelopmentPrograms_201703/All%20About%20the%20Disk%20Aircraft%20of%20the%20Third%20Reich%20-%20Nazi%20Antigravity%20Aerospace%20Craft%20Weapons%20Development%20Programs_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/AllAboutTheDiskAircraftOfTheThirdReichNaziAntigravityAerospaceCraftWeaponsDevelopmentPrograms_201703/All%20About%20the%20Disk%20Aircraft%20of%20the%20Third%20Reich%20-%20Nazi%20Antigravity%20Aerospace%20Craft%20Weapons%20Development%20Programs_djvu.txt</a><details class="endnote-snippet"><summary>Source snippet</summary><p>Full text of &quot;All About The Disk Aircraft Of The Third Reich...The very first disc project in Germany built in 1922 was not even an airc...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: history.army.mil  
-   Link: <a href="https://history.army.mil/Portals/143/Images/Publications/catalog/23-17.pdf" target="_blank" rel="noopener noreferrer nofollow">https://history.army.mil/Portals/143/Images/Publications/catalog/23-17.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>states army in the world warMilitary historians and scholars of operational art have tended to neglect the role played by the American Ex...</p></details>
+   Link:<a href="https://history.army.mil/Portals/143/Images/Publications/catalog/23-17.pdf" target="_blank" rel="noopener noreferrer nofollow">https://history.army.mil/Portals/143/Images/Publications/catalog/23-17.pdf</a><details class="endnote-snippet"><summary>Source snippet</summary><p>states army in the world warMilitary historians and scholars of operational art have tended to neglect the role played by the American Ex...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: archive.org  
-   Link: <a href="https://archive.org/download/1stYearPartV/1stYearPartV.pdf" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/download/1stYearPartV/1stYearPartV.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>t L FThe War Dsparlment has directed that the history of the military occupation of Germny and Auntria in Torld War I1 be recordPd and in...</p></details>
+   Link:<a href="https://archive.org/download/1stYearPartV/1stYearPartV.pdf" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/download/1stYearPartV/1stYearPartV.pdf</a><details class="endnote-snippet"><summary>Source snippet</summary><p>t L FThe War Dsparlment has directed that the history of the military occupation of Germny and Auntria in Torld War I1 be recordPd and in...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: archive.org  
    Title: aircraft of the luftwaffe 1935 1945 djvu.txt  
-   Link: <a href="https://archive.org/stream/aircraft-of-the-luftwaffe-1935-1945/aircraft-of-the-luftwaffe-1935-1945_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/aircraft-of-the-luftwaffe-1935-1945/aircraft-of-the-luftwaffe-1935-1945_djvu.txt</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Full text of &quot;aircraft-of-the-luftwaffe-1935-1945&quot;In this book the most familiar and best-known Luftwaffe aircraft are all included, and...</p></details>
+   Link:<a href="https://archive.org/stream/aircraft-of-the-luftwaffe-1935-1945/aircraft-of-the-luftwaffe-1935-1945_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/aircraft-of-the-luftwaffe-1935-1945/aircraft-of-the-luftwaffe-1935-1945_djvu.txt</a><details class="endnote-snippet"><summary>Source snippet</summary><p>Full text of &quot;aircraft-of-the-luftwaffe-1935-1945&quot;In this book the most familiar and best-known Luftwaffe aircraft are all included, and...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: governmentattic.org  
    Title: FOIA Logs NARA ADDRES 2001 2009  
-   Link: <a href="https://www.governmentattic.org/2docs/FOIA_Logs_NARA-ADDRES_2001-2009.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.governmentattic.org/2docs/FOIA_Logs_NARA-ADDRES_2001-2009.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>National Archives and Records Administration (NARA)...7 Nov 2006 — The governmentattic.org web site and its principals have made every e...</p></details>
+   Link:<a href="https://www.governmentattic.org/2docs/FOIA_Logs_NARA-ADDRES_2001-2009.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.governmentattic.org/2docs/FOIA_Logs_NARA-ADDRES_2001-2009.pdf</a><details class="endnote-snippet"><summary>Source snippet</summary><p>National Archives and Records Administration (NARA)...7 Nov 2006 — The governmentattic.org web site and its principals have made every e...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=dgroqLFDaW0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=dgroqLFDaW0</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>PART 2 THE FBI FILES FLYING DISCS 1947 WHAT ELSE DID THEY FIND...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=dgroqLFDaW0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=dgroqLFDaW0</a><details class="endnote-snippet"><summary>Source snippet</summary><p>PART 2 THE FBI FILES FLYING DISCS 1947 WHAT ELSE DID THEY FIND...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: hdl.loc.gov  
-   Link: <a href="https://hdl.loc.gov/loc.mss/eadmss.ms011148.3" target="_blank" rel="noopener noreferrer nofollow">https://hdl.loc.gov/loc.mss/eadmss.ms011148.3</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Captured Documents CollectionMany collections of books and serials were returned as early as 1948 to individuals, the German government...</p></details>
+   Link:<a href="https://hdl.loc.gov/loc.mss/eadmss.ms011148.3" target="_blank" rel="noopener noreferrer nofollow">https://hdl.loc.gov/loc.mss/eadmss.ms011148.3</a><details class="endnote-snippet"><summary>Source snippet</summary><p>Captured Documents CollectionMany collections of books and serials were returned as early as 1948 to individuals, the German government...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: youtube.com  
    Title: The Berlin Airlift  
-   Link: <a href="https://www.youtube.com/watch?v=gzTDbsQKKpo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=gzTDbsQKKpo</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How a Cold War Airlift Saved Berlin With Food, Medicine and Chocolate | Retro Report...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=gzTDbsQKKpo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=gzTDbsQKKpo</a><details class="endnote-snippet"><summary>Source snippet</summary><p>How a Cold War Airlift Saved Berlin With Food, Medicine and Chocolate | Retro Report...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: bundesarchiv.de  
    Title: Memory of Society  
-   Link: <a href="https://www.bundesarchiv.de/assets/bundesarchiv/en/Downloads/Memory_of_Society.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.bundesarchiv.de/assets/bundesarchiv/en/Downloads/Memory_of_Society.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Federal Archives at a glanceFounded in 1952, the Federal Archive stores archival material primarily produced at central institutions...</p></details>
+   Link:<a href="https://www.bundesarchiv.de/assets/bundesarchiv/en/Downloads/Memory_of_Society.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.bundesarchiv.de/assets/bundesarchiv/en/Downloads/Memory_of_Society.pdf</a><details class="endnote-snippet"><summary>Source snippet</summary><p>The Federal Archives at a glanceFounded in 1952, the Federal Archive stores archival material primarily produced at central institutions...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: history.army.mil  
-   Link: <a href="https://history.army.mil/portals/143/Images/Publications/catalog/30-6.pdf" target="_blank" rel="noopener noreferrer nofollow">https://history.army.mil/portals/143/Images/Publications/catalog/30-6.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Army Center of Military HistoryThe U.S. Army and the Occupation of Germany, 1944-194630 Jun 1974 — This volume provides nn authoritative...</p></details>
+   Link:<a href="https://history.army.mil/portals/143/Images/Publications/catalog/30-6.pdf" target="_blank" rel="noopener noreferrer nofollow">https://history.army.mil/portals/143/Images/Publications/catalog/30-6.pdf</a><details class="endnote-snippet"><summary>Source snippet</summary><p>Army Center of Military HistoryThe U.S. Army and the Occupation of Germany, 1944-194630 Jun 1974 — This volume provides nn authoritative...</p></details>

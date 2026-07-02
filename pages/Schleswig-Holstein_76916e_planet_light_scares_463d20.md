@@ -52,7 +52,7 @@ text_direction: ltr
 ui_strings:
   home: Home
   overview: Overview
-  overview_prefix: 'Overview:'
+  overview_prefix:'Overview:'
   contents: Contents
   close: Close
   open_contents: Open contents
@@ -200,13 +200,13 @@ ui_strings:
   search_this_page_empty_hint: Type to search this page.
   no_search_results: No pages match this search.
   no_search_this_page_results: No sections on this page match this search.
-  search_results_count_template: '{count} results'
+  search_results_count_template:'{count} results'
   search_kind_page_title: Page title
   search_kind_page_summary: Summary of page
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date: '2026-06-30 10:53:11'
+date:'2026-06-30 10:53:11'
 parent_title: Schleswig Holstein UFOs
 parent_permalink: /what-really-flew-over-schleswig-holstein/
 parent_nav_short_title: Schleswig Holstein UFOs
@@ -302,290 +302,83 @@ image: /assets/images/Schleswig-Holstein_76916e_planet_light_scares_463d20-overv
 
 ## Introduction
 
-Bright planets are one of the simplest explanations behind some of [Schleswig-Holstein]({{ 'what-really-flew-over-schleswig-holstein/' | relative_url }})’s most convincing UFO reports. The key pattern is not exotic movement but surprise: a very bright light appears low in the eastern morning sky, remains visible in twilight after ordinary stars have faded, and may be joined by a second bright point close beside it. In August 2025, this exact situation occurred across Germany when Venus and Jupiter stood close together before sunrise, prompting anxious UFO enquiries from several regions, including Schleswig-Holstein. CENAP, the German reporting centre cited in national coverage, explained the lights as the two planets rather than [drones]({{ 'drones-315029/' | relative_url }}), aircraft or unknown craft. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.zdfheute.de/panorama/lichter-himmel-ufo-jupiter-venus-100.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: zdfheute.de">[ZDFheute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">zdfheute.de</span><span class="citation-popover-title">Meldestelle: Ungewöhnliche Lichter am Himmel sind keine Ufos</span><span class="citation-popover-snippet">Meldestelle: Ungewöhnliche Lichter am Himmel sind keine Ufos...</span></span></span>
-
-
-<img src="{{ "/assets/images/Schleswig-Holstein_76916e_planet_light_scares_463d20-overview.webp" | relative_url }}" alt="Overview image for Planets" loading="eager" decoding="sync" fetchpriority="high">
-For Schleswig-Holstein’s UFO history, the lesson is practical. The state has a real body of reported unusual aerial observations, but many are best understood as misidentified ordinary sky phenomena. Ufokarte’s Schleswig-Holstein page lists 243 investigated GEP UFO or UAP cases for the state, with only 2 marked as unresolved, a ratio that makes recurring explanations such as planets, satellites, meteors and aircraft central to any balanced reading of the record. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ufokarte.de/bundesland/schleswig-holstein" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufokarte.de">[Ufokarte.de]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufokarte.de</span><span class="citation-popover-title">UF O-Sichtungen in Schleswig-Holstein — Ufokarte.de</span><span class="citation-popover-snippet">UF O-Sichtungen in Schleswig-Holstein — Ufokarte.de</span></span></span>
-
-
+Bright planets are one of the simplest explanations behind some of [Schleswig-Holstein]({{'what-really-flew-over-schleswig-holstein/' | relative_url }})’s most convincing UFO reports. The key pattern is not exotic movement but surprise: a very bright light appears low in the eastern morning sky, remains visible in twilight after ordinary stars have faded, and may be joined by a second bright point close beside it. In August 2025, this exact situation occurred across Germany when Venus and Jupiter stood close together before sunrise, prompting anxious UFO enquiries from several regions, including Schleswig-Holstein. CENAP, the German reporting centre cited in national coverage, explained the lights as the two planets rather than [drones]({{'drones-315029/' | relative_url }}), aircraft or unknown craft.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.zdfheute.de/panorama/lichter-himmel-ufo-jupiter-venus-100.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: zdfheute.de">[ZDFheute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">zdfheute.de</span><span class="citation-popover-title">Meldestelle: Ungewöhnliche Lichter am Himmel sind keine Ufos</span><span class="citation-popover-snippet">Meldestelle: Ungewöhnliche Lichter am Himmel sind keine Ufos...</span></span></span><img src="{{"/assets/images/Schleswig-Holstein_76916e_planet_light_scares_463d20-overview.webp" | relative_url }}" alt="Overview image for Planets" loading="eager" decoding="sync" fetchpriority="high">
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/b6sWJMjt1xs" title="Not a UFO: Venus and Jupiter share a &#x27;kiss&#x27;" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=b6sWJMjt1xs" target="_blank" rel="noopener noreferrer">Not a UFO: Venus and Jupiter share a &#x27;kiss&#x27;</a></p><p class="youtube-embed-meta">Channel: TMJ4 News</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=b6sWJMjt1xs" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=b6sWJMjt1xs">Open on YouTube</a></p></div></div></div>
 
 ## The Jupiter and Venus morning-light confusion
 
-The August 2025 Venus-Jupiter episode is a useful modern example because it reached Schleswig-Holstein without needing a dramatic local incident. According to ZDF’s report from 12 August 2025, CENAP received numerous enquiries after people saw two unusually bright points in the morning sky. Witnesses compared them to paired drones, headlights in the sky or stars that should not be there. CENAP’s explanation was straightforward: the lights were Venus and Jupiter, close together from Earth’s point of view, and bright enough to remain visible in morning twilight. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.zdfheute.de/panorama/lichter-himmel-ufo-jupiter-venus-100.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: zdfheute.de">[ZDFheute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">zdfheute.de</span><span class="citation-popover-title">Meldestelle: Ungewöhnliche Lichter am Himmel sind keine Ufos</span><span class="citation-popover-snippet">Meldestelle: Ungewöhnliche Lichter am Himmel sind keine Ufos...</span></span></span>
+The August 2025 Venus-Jupiter episode is a useful modern example because it reached Schleswig-Holstein without needing a dramatic local incident. According to ZDF’s report from 12 August 2025, CENAP received numerous enquiries after people saw two unusually bright points in the morning sky. Witnesses compared them to paired drones, headlights in the sky or stars that should not be there. CENAP’s explanation was straightforward: the lights were Venus and Jupiter, close together from Earth’s point of view, and bright enough to remain visible in morning twilight.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.zdfheute.de/panorama/lichter-himmel-ufo-jupiter-venus-100.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: zdfheute.de">[ZDFheute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">zdfheute.de</span><span class="citation-popover-title">Meldestelle: Ungewöhnliche Lichter am Himmel sind keine Ufos</span><span class="citation-popover-snippet">Meldestelle: Ungewöhnliche Lichter am Himmel sind keine Ufos...</span></span></span>
 
-That detail matters. Many UFO scares begin not with something moving wildly, but with something familiar appearing in an unfamiliar setting. Venus and Jupiter are not rare objects, yet a close pairing before sunrise can look staged, artificial or vehicle-like. NASA’s August 2025 skywatching guide identified 11 and 12 August as the dates of a Venus-Jupiter conjunction, with the two brightest planets appearing only about one degree apart. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/solar-system/whats-up-august-2025-skywatching-tips-from-nasa/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">whats up august 2025 skywatching tips from nasa</span><span class="citation-popover-snippet">whats up august 2025 skywatching tips from nasa</span><span class="citation-popover-meta">Published: august 2025</span></span></span> Timeanddate gave the same practical scale: around 0.9 degrees, roughly the apparent width of a little finger held at arm’s length. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.timeanddate.com/news/astronomy/planet-parade-august-2025" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: timeanddate.com">[Time and Date]</a><span class="citation-popover" role="note"><span class="citation-popover-source">timeanddate.com</span><span class="citation-popover-title">planet parade august 2025</span><span class="citation-popover-snippet">planet parade august 2025</span><span class="citation-popover-meta">Published: august 2025</span></span></span>
+That detail matters. Many UFO scares begin not with something moving wildly, but with something familiar appearing in an unfamiliar setting. Venus and Jupiter are not rare objects, yet a close pairing before sunrise can look staged, artificial or vehicle-like. NASA’s August 2025 skywatching guide identified 11 and 12 August as the dates of a Venus-Jupiter conjunction, with the two brightest planets appearing only about one degree apart.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/solar-system/whats-up-august-2025-skywatching-tips-from-nasa/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">whats up august 2025 skywatching tips from nasa</span><span class="citation-popover-snippet">whats up august 2025 skywatching tips from nasa</span><span class="citation-popover-meta">Published: august 2025</span></span></span> Timeanddate gave the same practical scale: around 0.9 degrees, roughly the apparent width of a little finger held at arm’s length.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.timeanddate.com/news/astronomy/planet-parade-august-2025" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: timeanddate.com">[Time and Date]</a><span class="citation-popover" role="note"><span class="citation-popover-source">timeanddate.com</span><span class="citation-popover-title">planet parade august 2025</span><span class="citation-popover-snippet">planet parade august 2025</span><span class="citation-popover-meta">Published: august 2025</span></span></span>
 
-Schleswig-Holstein is especially suited to this kind of misreading because much of the state offers open horizons: Baltic and North Sea coasts, flat rural land, ferry routes, beaches, ports and early-morning commuters. A pair of bright lights low over Kiel, Flensburg, Lübeck, the Baltic coast or the North Sea horizon may seem suspended in space when there are few nearby reference points. Nothing in the August 2025 reports requires a Schleswig-Holstein-specific craft or military explanation; the value of the case is that the same ordinary astronomical pattern was strong enough to generate concern from the north as well as from other German regions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.zdfheute.de/panorama/lichter-himmel-ufo-jupiter-venus-100.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: zdfheute.de">[ZDFheute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">zdfheute.de</span><span class="citation-popover-title">Meldestelle: Ungewöhnliche Lichter am Himmel sind keine Ufos</span><span class="citation-popover-snippet">Meldestelle: Ungewöhnliche Lichter am Himmel sind keine Ufos...</span></span></span>
-
-
-<img src="{{ "/assets/images/Schleswig-Holstein_76916e_planet_light_scares_463d20-Illustration-1-dark.svg" | relative_url }}" alt="Planets illustration 1" data-theme-src-dark="{{ "/assets/images/Schleswig-Holstein_76916e_planet_light_scares_463d20-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Schleswig-Holstein_76916e_planet_light_scares_463d20-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+Schleswig-Holstein is especially suited to this kind of misreading because much of the state offers open horizons: Baltic and North Sea coasts, flat rural land, ferry routes, beaches, ports and early-morning commuters. A pair of bright lights low over Kiel, Flensburg, Lübeck, the Baltic coast or the North Sea horizon may seem suspended in space when there are few nearby reference points. Nothing in the August 2025 reports requires a Schleswig-Holstein-specific craft or military explanation; the value of the case is that the same ordinary astronomical pattern was strong enough to generate concern from the north as well as from other German regions.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.zdfheute.de/panorama/lichter-himmel-ufo-jupiter-venus-100.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: zdfheute.de">[ZDFheute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">zdfheute.de</span><span class="citation-popover-title">Meldestelle: Ungewöhnliche Lichter am Himmel sind keine Ufos</span><span class="citation-popover-snippet">Meldestelle: Ungewöhnliche Lichter am Himmel sind keine Ufos...</span></span></span><img src="{{"/assets/images/Schleswig-Holstein_76916e_planet_light_scares_463d20-Illustration-1-dark.svg" | relative_url }}" alt="Planets illustration 1" data-theme-src-dark="{{"/assets/images/Schleswig-Holstein_76916e_planet_light_scares_463d20-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{"/assets/images/Schleswig-Holstein_76916e_planet_light_scares_463d20-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why planets can seem unusual
 
-Venus causes a disproportionate number of sky scares because it is genuinely brilliant. NASA describes Venus as the third-brightest object in the sky after the Sun and Moon. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/venus/venus-facts/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science Venus: Facts</span><span class="citation-popover-snippet">Science Venus: Facts</span></span></span> Royal Museums Greenwich notes that Venus is best seen either after sunset or before sunrise, and that when it is near the horizon its twinkling can produce striking colour effects that are sometimes reported as peculiar objects or UFOs. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.rmg.co.uk/stories/space-astronomy/planet-venus" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rmg.co.uk">[Royal Museums Greenwich]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rmg.co.uk</span><span class="citation-popover-snippet">Open source on rmg.co.uk.</span></span></span>
+Venus causes a disproportionate number of sky scares because it is genuinely brilliant. NASA describes Venus as the third-brightest object in the sky after the Sun and Moon.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/venus/venus-facts/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science Venus: Facts</span><span class="citation-popover-snippet">Science Venus: Facts</span></span></span> Royal Museums Greenwich notes that Venus is best seen either after sunset or before sunrise, and that when it is near the horizon its twinkling can produce striking colour effects that are sometimes reported as peculiar objects or UFOs.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.rmg.co.uk/stories/space-astronomy/planet-venus" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rmg.co.uk">[Royal Museums Greenwich]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rmg.co.uk</span><span class="citation-popover-snippet">Open source on rmg.co.uk.</span></span></span>
 
 Jupiter is usually less dazzling than Venus, but it is still brighter than nearly every star. When the two appear together, the result is a misleading “pair” rather than a single point. That is why the August 2025 reports used vehicle-like comparisons. Two lights can imply structure: a craft with lamps, a drone pair, a distant aircraft facing the observer, or something hovering above the horizon. In reality, a conjunction is only a line-of-sight effect: the planets look close together from Earth while remaining vastly separated in space.
 
-Morning twilight adds another layer. The human eye expects stars to fade as dawn approaches. When Venus and Jupiter remain visible after fainter stars have vanished, they can seem to have switched on or entered the scene late. CENAP’s explanation in the 2025 coverage stressed exactly this point: the planets were bright enough to be seen clearly in morning twilight when other stars had already faded. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.zdfheute.de/panorama/lichter-himmel-ufo-jupiter-venus-100.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: zdfheute.de">[ZDFheute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">zdfheute.de</span><span class="citation-popover-title">Meldestelle: Ungewöhnliche Lichter am Himmel sind keine Ufos</span><span class="citation-popover-snippet">Meldestelle: Ungewöhnliche Lichter am Himmel sind keine Ufos...</span></span></span>
+Morning twilight adds another layer. The human eye expects stars to fade as dawn approaches. When Venus and Jupiter remain visible after fainter stars have vanished, they can seem to have switched on or entered the scene late. CENAP’s explanation in the 2025 coverage stressed exactly this point: the planets were bright enough to be seen clearly in morning twilight when other stars had already faded.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.zdfheute.de/panorama/lichter-himmel-ufo-jupiter-venus-100.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: zdfheute.de">[ZDFheute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">zdfheute.de</span><span class="citation-popover-title">Meldestelle: Ungewöhnliche Lichter am Himmel sind keine Ufos</span><span class="citation-popover-snippet">Meldestelle: Ungewöhnliche Lichter am Himmel sind keine Ufos...</span></span></span>
 
-There is also a perception problem near the horizon. Low objects are judged against trees, roofs, cranes, masts, clouds and shore lights. In Schleswig-Holstein, those reference points can be especially confusing along open water or flat countryside. A planet that is actually fixed against the star background may seem to move because the observer is walking, driving, looking through glass, or comparing it with drifting clouds. Atmospheric shimmer can add flicker or colour. The effect is not imaginary; the interpretation is the weak link.
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/sAmoOBCtDvE" title="How to Find Planet Venus in the Night Sky" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=sAmoOBCtDvE" target="_blank" rel="noopener noreferrer">How to Find Planet Venus in the Night Sky</a></p><p class="youtube-embed-meta">Channel: Learn the Sky &middot; Views: 27.7K &middot; Uploaded: December 2024 &middot; Length: 7 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=sAmoOBCtDvE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=sAmoOBCtDvE">Open on YouTube</a></p></div></div></div>
+There is also a perception problem near the horizon. Low objects are judged against trees, roofs, cranes, masts, clouds and shore lights. In Schleswig-Holstein, those reference points can be especially confusing along open water or flat countryside. A planet that is actually fixed against the star background may seem to move because the observer is walking, driving, looking through glass, or comparing it with drifting clouds. Atmospheric shimmer can add flicker or colour. The effect is not imaginary; the interpretation is the weak link.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/sAmoOBCtDvE" title="How to Find Planet Venus in the Night Sky" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=sAmoOBCtDvE" target="_blank" rel="noopener noreferrer">How to Find Planet Venus in the Night Sky</a></p><p class="youtube-embed-meta">Channel: Learn the Sky &middot; Views: 27.7K &middot; Uploaded: December 2024 &middot; Length: 7 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=sAmoOBCtDvE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=sAmoOBCtDvE">Open on YouTube</a></p></div></div></div>
 
 ## Why this matters for Schleswig-Holstein’s UFO record
 
-The planet explanation is not a way to dismiss every witness. It is a way to sort stronger cases from weaker ones. Schleswig-Holstein’s public UFO record includes many reports that were investigated and identified, and only a very small unresolved remainder in the Ufokarte/GEP-derived state listing. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ufokarte.de/bundesland/schleswig-holstein" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufokarte.de">[Ufokarte.de]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufokarte.de</span><span class="citation-popover-title">UF O-Sichtungen in Schleswig-Holstein — Ufokarte.de</span><span class="citation-popover-snippet">UF O-Sichtungen in Schleswig-Holstein — Ufokarte.de</span></span></span> The GEP dataset behind this kind of casework records observation date and time, location, report channel, witness summary, classification and investigation result, with personal details removed. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://zenodo.org/records/15882235" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: zenodo.org">[Zenodo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">zenodo.org</span><span class="citation-popover-snippet">Open source on zenodo.org.</span></span></span> That structure is important because planets are testable: they can be checked against time, direction, altitude and sky charts.
+The planet explanation is not a way to dismiss every witness. It is a way to sort stronger cases from weaker ones. Schleswig-Holstein’s public UFO record includes many reports that were investigated and identified, and only a very small unresolved remainder in the Ufokarte/GEP-derived state listing.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ufokarte.de/bundesland/schleswig-holstein" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufokarte.de">[Ufokarte.de]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufokarte.de</span><span class="citation-popover-title">UF O-Sichtungen in Schleswig-Holstein — Ufokarte.de</span><span class="citation-popover-snippet">UF O-Sichtungen in Schleswig-Holstein — Ufokarte.de</span></span></span> The GEP dataset behind this kind of casework records observation date and time, location, report channel, witness summary, classification and investigation result, with personal details removed.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://zenodo.org/records/15882235" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: zenodo.org">[Zenodo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">zenodo.org</span><span class="citation-popover-snippet">Open source on zenodo.org.</span></span></span> That structure is important because planets are testable: they can be checked against time, direction, altitude and sky charts.
 
-A planet case usually becomes persuasive when several details line up:
-
-
-<div class="content-enhancement content-enhancement--insight-grid" markdown="1">
+A planet case usually becomes persuasive when several details line up:<div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * The object is seen before sunrise or after sunset, especially low in the east or west.
 * The witness describes a very bright “star” or two bright points rather than a detailed solid craft.
 * The light appears steady or only slowly changes position.
 * The same object is visible on neighbouring mornings or evenings.
-* A sky chart for the witness location and time places Venus, Jupiter or another bright planet in the reported direction.
+* A sky chart for the witness location and time places Venus, Jupiter or another bright planet in the reported direction.</div>
 
-</div>
+The August 2025 reports fit this pattern closely. They involved two bright morning objects, public concern across Germany, and a direct astronomical match with a Venus-Jupiter conjunction. They do not strengthen the case for unknown craft over Schleswig-Holstein; they strengthen the case for careful astronomical filtering before a report is treated as unresolved.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/solar-system/whats-up-august-2025-skywatching-tips-from-nasa/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">whats up august 2025 skywatching tips from nasa</span><span class="citation-popover-snippet">whats up august 2025 skywatching tips from nasa</span><span class="citation-popover-meta">Published: august 2025</span></span></span>
 
-The August 2025 reports fit this pattern closely. They involved two bright morning objects, public concern across Germany, and a direct astronomical match with a Venus-Jupiter conjunction. They do not strengthen the case for unknown craft over Schleswig-Holstein; they strengthen the case for careful astronomical filtering before a report is treated as unresolved. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/solar-system/whats-up-august-2025-skywatching-tips-from-nasa/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">whats up august 2025 skywatching tips from nasa</span><span class="citation-popover-snippet">whats up august 2025 skywatching tips from nasa</span><span class="citation-popover-meta">Published: august 2025</span></span></span>
-
-This is especially relevant in a state where other explanations also compete for attention. Schleswig-Holstein has coastal aircraft, ferry and port lights, military aviation links, satellites, meteors and modern drone concerns. A bright planet can be overlooked precisely because it seems too simple. Yet in casework, simple explanations often carry the most weight when they match the time, direction and repeated appearance of the sighting.
-
-
-<img src="{{ "/assets/images/Schleswig-Holstein_76916e_planet_light_scares_463d20-Illustration-2-dark.svg" | relative_url }}" alt="Planets illustration 2" data-theme-src-dark="{{ "/assets/images/Schleswig-Holstein_76916e_planet_light_scares_463d20-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Schleswig-Holstein_76916e_planet_light_scares_463d20-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+This is especially relevant in a state where other explanations also compete for attention. Schleswig-Holstein has coastal aircraft, ferry and port lights, military aviation links, satellites, meteors and modern drone concerns. A bright planet can be overlooked precisely because it seems too simple. Yet in casework, simple explanations often carry the most weight when they match the time, direction and repeated appearance of the sighting.<img src="{{"/assets/images/Schleswig-Holstein_76916e_planet_light_scares_463d20-Illustration-2-dark.svg" | relative_url }}" alt="Planets illustration 2" data-theme-src-dark="{{"/assets/images/Schleswig-Holstein_76916e_planet_light_scares_463d20-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{"/assets/images/Schleswig-Holstein_76916e_planet_light_scares_463d20-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How observers can check the sky
 
 The most useful response to a bright morning-light scare is not ridicule, but a quick, repeatable check. A witness in Schleswig-Holstein can often resolve a planet report within minutes by recording four basic facts: exact time, viewing location, compass direction and height above the horizon. A phone compass is imperfect, but it is usually good enough to distinguish “low in the east before sunrise” from “moving north over the city”.
 
-The next step is to compare the sighting with a reputable sky map or monthly astronomy guide. In the August 2025 case, NASA, Timeanddate and astronomy publications all previewed the Venus-Jupiter conjunction before it produced UFO enquiries. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/solar-system/whats-up-august-2025-skywatching-tips-from-nasa/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">whats up august 2025 skywatching tips from nasa</span><span class="citation-popover-snippet">whats up august 2025 skywatching tips from nasa</span><span class="citation-popover-meta">Published: august 2025</span></span></span> For local observers, the practical question is simple: was Venus or Jupiter in the same part of the sky at the same time? If yes, a planet explanation should be treated as the leading candidate unless the report includes features a planet cannot produce, such as fast travel across a large part of the sky, a sudden turn, interaction with the ground, or radar/flight data that contradicts the sky position.
+The next step is to compare the sighting with a reputable sky map or monthly astronomy guide. In the August 2025 case, NASA, Timeanddate and astronomy publications all previewed the Venus-Jupiter conjunction before it produced UFO enquiries.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/solar-system/whats-up-august-2025-skywatching-tips-from-nasa/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">whats up august 2025 skywatching tips from nasa</span><span class="citation-popover-snippet">whats up august 2025 skywatching tips from nasa</span><span class="citation-popover-meta">Published: august 2025</span></span></span> For local observers, the practical question is simple: was Venus or Jupiter in the same part of the sky at the same time? If yes, a planet explanation should be treated as the leading candidate unless the report includes features a planet cannot produce, such as fast travel across a large part of the sky, a sudden turn, interaction with the ground, or radar/flight data that contradicts the sky position.
 
 A good check should also include patience. Planets do not streak across the sky like meteors or pass in minutes like low satellites. They shift slowly with Earth’s rotation. If the “UFO” is still in roughly the expected planetary position after ten or twenty minutes, and especially if it appears again the next clear morning, the case becomes much less mysterious. If the light races across the sky, fragments, leaves a trail, flashes in a navigation-light pattern or follows an aircraft route, another explanation may be more likely.
 
-Photography can help, but it can also mislead. Phone cameras exaggerate glare, create lens reflections and make bright points look larger than they are. A useful image includes foreground context, direction, time and ideally a second wider shot. A zoomed-in glowing blob without location or time is weak evidence, even if it looks strange.
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/NJrG1yBUn24" title="The Two Brightest Planets &quot;Touch&quot; Tonight | How to See the Venus and Jupiter Conjunction | June 8/9" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=NJrG1yBUn24" target="_blank" rel="noopener noreferrer">The Two Brightest Planets &quot;Touch&quot; Tonight | How to See the Venus and Jupiter Conjunction | June 8/9</a></p><p class="youtube-embed-meta">Channel: Late Night Astronomy</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=NJrG1yBUn24" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=NJrG1yBUn24">Open on YouTube</a></p></div></div></div>
+Photography can help, but it can also mislead. Phone cameras exaggerate glare, create lens reflections and make bright points look larger than they are. A useful image includes foreground context, direction, time and ideally a second wider shot. A zoomed-in glowing blob without location or time is weak evidence, even if it looks strange.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/NJrG1yBUn24" title="The Two Brightest Planets &quot;Touch&quot; Tonight | How to See the Venus and Jupiter Conjunction | June 8/9" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=NJrG1yBUn24" target="_blank" rel="noopener noreferrer">The Two Brightest Planets &quot;Touch&quot; Tonight | How to See the Venus and Jupiter Conjunction | June 8/9</a></p><p class="youtube-embed-meta">Channel: Late Night Astronomy</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=NJrG1yBUn24" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=NJrG1yBUn24">Open on YouTube</a></p></div></div></div>
 
 ## What planet scares can and cannot explain
 
 Bright planets can explain a specific type of UFO report: steady, brilliant lights seen near twilight, often low on the horizon, sometimes appearing as a pair or near the Moon. They cannot explain every Schleswig-Holstein sighting, and they should not be used as a lazy answer when a report describes incompatible behaviour. A carefully handled case still asks whether the object’s direction, timing, brightness, duration and motion match the proposed planet.
 
-The August 2025 Venus-Jupiter scare shows the boundary well. The explanation is strong because the reported appearance and timing matched a known conjunction of the two brightest planets, visible before sunrise and widely forecast by astronomy sources. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/solar-system/whats-up-august-2025-skywatching-tips-from-nasa/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">whats up august 2025 skywatching tips from nasa</span><span class="citation-popover-snippet">whats up august 2025 skywatching tips from nasa</span><span class="citation-popover-meta">Published: august 2025</span></span></span> It also matched CENAP’s real-time public explanation for the wave of enquiries, including concern from Schleswig-Holstein. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.zdfheute.de/panorama/lichter-himmel-ufo-jupiter-venus-100.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: zdfheute.de">[ZDFheute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">zdfheute.de</span><span class="citation-popover-title">Meldestelle: Ungewöhnliche Lichter am Himmel sind keine Ufos</span><span class="citation-popover-snippet">Meldestelle: Ungewöhnliche Lichter am Himmel sind keine Ufos...</span></span></span>
+The August 2025 Venus-Jupiter scare shows the boundary well. The explanation is strong because the reported appearance and timing matched a known conjunction of the two brightest planets, visible before sunrise and widely forecast by astronomy sources.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/solar-system/whats-up-august-2025-skywatching-tips-from-nasa/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">whats up august 2025 skywatching tips from nasa</span><span class="citation-popover-snippet">whats up august 2025 skywatching tips from nasa</span><span class="citation-popover-meta">Published: august 2025</span></span></span> It also matched CENAP’s real-time public explanation for the wave of enquiries, including concern from Schleswig-Holstein.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.zdfheute.de/panorama/lichter-himmel-ufo-jupiter-venus-100.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: zdfheute.de">[ZDFheute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">zdfheute.de</span><span class="citation-popover-title">Meldestelle: Ungewöhnliche Lichter am Himmel sind keine Ufos</span><span class="citation-popover-snippet">Meldestelle: Ungewöhnliche Lichter am Himmel sind keine Ufos...</span></span></span>
 
-For readers following Schleswig-Holstein’s UFO history, this makes “planets” more than a throwaway sceptical label. It is one of the basic filters that separates a puzzling first impression from a genuinely harder case. A report that collapses under a Venus or Jupiter check was still a real experience for the witness, but it is not strong evidence for an unidentified craft. A report that survives that check may deserve comparison with aircraft, satellites, meteors, drones, coastal lights and other state-specific explanations before being left unresolved.
-
-
-<img src="{{ "/assets/images/Schleswig-Holstein_76916e_planet_light_scares_463d20-Illustration-3-dark.svg" | relative_url }}" alt="Planets illustration 3" data-theme-src-dark="{{ "/assets/images/Schleswig-Holstein_76916e_planet_light_scares_463d20-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Schleswig-Holstein_76916e_planet_light_scares_463d20-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
-
-<section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to When Bright Planets Spark UFO Reports. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
-        
-        <p class="fr-book-desc">Contrasts unexplained reports with cases that have ordinary explanations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open NightWatch on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=BaMBgoKPmjAC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for NightWatch" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="NightWatch">NightWatch</a>
-        </h4>
-        <p class="fr-book-author">By Terence Dickinson</p>
-        
-        <p class="fr-book-desc">Helps readers identify planets and avoid common sky misidentifications.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Turn+Left+at+Orion+by+Guy+Consolmagno&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Turn Left at Orion on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=h3712RgWkOYC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Turn Left at Orion" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Turn+Left+at+Orion+by+Guy+Consolmagno&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Turn Left at Orion">Turn Left at Orion</a>
-        </h4>
-        <p class="fr-book-author">By Guy Consolmagno, Dan M. Davis</p>
-        
-        <p class="fr-book-desc">Teaches recognition of planets and other common night-sky objects.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Turn+Left+at+Orion+by+Guy+Consolmagno&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Backyard+Astronomer%27s+Guide+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Backyard Astronomer&#x27;s Guide on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=hdvYKwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Backyard Astronomer&#x27;s Guide" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Backyard+Astronomer%27s+Guide+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Backyard Astronomer&#x27;s Guide">The Backyard Astronomer&#x27;s Guide</a>
-        </h4>
-        <p class="fr-book-author">By Terence Dickinson, Alan Dyer</p>
-        
-        <p class="fr-book-desc">Explains observing conditions and celestial phenomena.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Backyard+Astronomer%27s+Guide+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=NightWatch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">NightWatch</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Turn+Left+at+Orion&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Turn Left at Orion</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
-</section>
-
-<section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
-
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
-
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=planets-9a1d7f-when-bright-planets-spark-ufo-reports-schleswig-holstein-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="planets-9a1d7f-when-bright-planets-spark-ufo-reports-schleswig-holstein-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A3 UFO Poster (Brand New)"><img src="{{ '/assets/images/marketplace-covers/1650548ae4afb533ff2b.jpg' | relative_url }}" alt="Listing image for Large A3 UFO Poster (Brand New)" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=planets-9a1d7f-when-bright-planets-spark-ufo-reports-schleswig-holstein-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="planets-9a1d7f-when-bright-planets-spark-ufo-reports-schleswig-holstein-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">Large A3 UFO Poster (Brand New)</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=planets-9a1d7f-when-bright-planets-spark-ufo-reports-schleswig-holstein-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="planets-9a1d7f-when-bright-planets-spark-ufo-reports-schleswig-holstein-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=planets-9a1d7f-when-bright-planets-spark-ufo-reports-schleswig-holstein-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="planets-9a1d7f-when-bright-planets-spark-ufo-reports-schleswig-holstein-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=planets-9a1d7f-when-bright-planets-spark-ufo-reports-schleswig-holstein-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="planets-9a1d7f-when-bright-planets-spark-ufo-reports-schleswig-holstein-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO SHADO Watercolour A3 Episode Montage Poster Personalised"><img src="{{ '/assets/images/marketplace-covers/5d55002ee4786459b6a4.jpg' | relative_url }}" alt="Listing image for UFO SHADO Watercolour A3 Episode Montage Poster Personalised" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=planets-9a1d7f-when-bright-planets-spark-ufo-reports-schleswig-holstein-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="planets-9a1d7f-when-bright-planets-spark-ufo-reports-schleswig-holstein-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">UFO SHADO Watercolour A3 Episode Montage Poster Personalised</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=planets-9a1d7f-when-bright-planets-spark-ufo-reports-schleswig-holstein-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="planets-9a1d7f-when-bright-planets-spark-ufo-reports-schleswig-holstein-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=planets-9a1d7f-when-bright-planets-spark-ufo-reports-schleswig-holstein-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="planets-9a1d7f-when-bright-planets-spark-ufo-reports-schleswig-holstein-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=planets-9a1d7f-when-bright-planets-spark-ufo-reports-schleswig-holstein-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="planets-9a1d7f-when-bright-planets-spark-ufo-reports-schleswig-holstein-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3"><img src="{{ '/assets/images/marketplace-covers/3ca51934ba0b39a1ad1c.jpg' | relative_url }}" alt="Listing image for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=planets-9a1d7f-when-bright-planets-spark-ufo-reports-schleswig-holstein-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="planets-9a1d7f-when-bright-planets-spark-ufo-reports-schleswig-holstein-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=planets-9a1d7f-when-bright-planets-spark-ufo-reports-schleswig-holstein-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="planets-9a1d7f-when-bright-planets-spark-ufo-reports-schleswig-holstein-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=planets-9a1d7f-when-bright-planets-spark-ufo-reports-schleswig-holstein-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="planets-9a1d7f-when-bright-planets-spark-ufo-reports-schleswig-holstein-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=planets-9a1d7f-when-bright-planets-spark-ufo-reports-schleswig-holstein-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="planets-9a1d7f-when-bright-planets-spark-ufo-reports-schleswig-holstein-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print"><img src="{{ '/assets/images/marketplace-covers/f85be2c5b8e158c6af1f.jpg' | relative_url }}" alt="Listing image for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=planets-9a1d7f-when-bright-planets-spark-ufo-reports-schleswig-holstein-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="planets-9a1d7f-when-bright-planets-spark-ufo-reports-schleswig-holstein-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=planets-9a1d7f-when-bright-planets-spark-ufo-reports-schleswig-holstein-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="planets-9a1d7f-when-bright-planets-spark-ufo-reports-schleswig-holstein-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=planets-9a1d7f-when-bright-planets-spark-ufo-reports-schleswig-holstein-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="planets-9a1d7f-when-bright-planets-spark-ufo-reports-schleswig-holstein-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=planets-9a1d7f-when-bright-planets-spark-ufo-reports-schleswig-holstein-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="planets-9a1d7f-when-bright-planets-spark-ufo-reports-schleswig-holstein-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+For readers following Schleswig-Holstein’s UFO history, this makes “planets” more than a throwaway sceptical label. It is one of the basic filters that separates a puzzling first impression from a genuinely harder case. A report that collapses under a Venus or Jupiter check was still a real experience for the witness, but it is not strong evidence for an unidentified craft. A report that survives that check may deserve comparison with aircraft, satellites, meteors, drones, coastal lights and other state-specific explanations before being left unresolved.<img src="{{"/assets/images/Schleswig-Holstein_76916e_planet_light_scares_463d20-Illustration-3-dark.svg" | relative_url }}" alt="Planets illustration 3" data-theme-src-dark="{{"/assets/images/Schleswig-Holstein_76916e_planet_light_scares_463d20-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{"/assets/images/Schleswig-Holstein_76916e_planet_light_scares_463d20-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low"><section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title"><div class="fr-section-shell"><div class="fr-section-header"><div class="fr-section-heading"><p class="fr-section-kicker">Amazon book picks</p><h3 class="fr-heading" id="further-reading-title">Further Reading</h3></div><p class="fr-intro">Books and field guides related to When Bright Planets Spark UFO Reports. Use these as the next step if you want deeper reading beyond the article.</p></div><div class="fr-books-grid"><article class="fr-book-card"><a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a><div class="fr-book-info"><h4 class="fr-book-title"><a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a></h4><p class="fr-book-author">By Leslie Kean</p><p class="fr-book-desc">Contrasts unexplained reports with cases that have ordinary explanations.</p><div class="fr-book-actions"><a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon</a></div></div></article><article class="fr-book-card"><a class="fr-book-cover" href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open NightWatch on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=BaMBgoKPmjAC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for NightWatch" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a><div class="fr-book-info"><h4 class="fr-book-title"><a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="NightWatch">NightWatch</a></h4><p class="fr-book-author">By Terence Dickinson</p><p class="fr-book-desc">Helps readers identify planets and avoid common sky misidentifications.</p><div class="fr-book-actions"><a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon</a></div></div></article><article class="fr-book-card"><a class="fr-book-cover" href="https://www.amazon.com/s?k=Turn+Left+at+Orion+by+Guy+Consolmagno&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Turn Left at Orion on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=h3712RgWkOYC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Turn Left at Orion" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a><div class="fr-book-info"><h4 class="fr-book-title"><a href="https://www.amazon.com/s?k=Turn+Left+at+Orion+by+Guy+Consolmagno&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Turn Left at Orion">Turn Left at Orion</a></h4><p class="fr-book-author">By Guy Consolmagno, Dan M. Davis</p><p class="fr-book-desc">Teaches recognition of planets and other common night-sky objects.</p><div class="fr-book-actions"><a href="https://www.amazon.com/s?k=Turn+Left+at+Orion+by+Guy+Consolmagno&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon</a></div></div></article><article class="fr-book-card"><a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Backyard+Astronomer%27s+Guide+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Backyard Astronomer&#x27;s Guide on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=hdvYKwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Backyard Astronomer&#x27;s Guide" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a><div class="fr-book-info"><h4 class="fr-book-title"><a href="https://www.amazon.com/s?k=The+Backyard+Astronomer%27s+Guide+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Backyard Astronomer&#x27;s Guide">The Backyard Astronomer&#x27;s Guide</a></h4><p class="fr-book-author">By Terence Dickinson, Alan Dyer</p><p class="fr-book-desc">Explains observing conditions and celestial phenomena.</p><div class="fr-book-actions"><a href="https://www.amazon.com/s?k=The+Backyard+Astronomer%27s+Guide+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon</a></div></div></article></div><div class="fr-section-footer"><div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=NightWatch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">NightWatch</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Turn+Left+at+Orion&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Turn Left at Orion</a></div><p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p></div></div></section><section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title"><div class="fr-section-shell"><div class="fr-section-header"><div class="fr-section-heading"><p class="fr-section-kicker">eBay marketplace picks</p><h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3></div><p class="fr-intro">Live-tested eBay searches with available results related to this page.</p><div class="fr-ebay-market-toolbar"><label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label><div class="fr-ebay-market-picker"><span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span><button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span><span data-ebay-trigger-market-label>USA</span></button><select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location"><option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option></select><div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button></div></div></div></div><div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1"><div class="fr-books-grid"><article class="fr-book-card"><a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=planets-9a1d7f-when-bright-planets-spark-ufo-reports-schleswig-holstein-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="planets-9a1d7f-when-bright-planets-spark-ufo-reports-schleswig-holstein-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO UAP Flying Saucer Mountains Enamel Pin Brooch Button + Free Gift Bag"><img src="{{'/assets/images/marketplace-covers/423dfe011ecd80a392ff.jpg' | relative_url }}" alt="Listing image for UFO UAP Flying Saucer Mountains Enamel Pin Brooch Button + Free Gift Bag" loading="lazy" decoding="async" fetchpriority="low"></a><div class="fr-book-info"><p class="fr-book-kicker">Example eBay listing</p><h4 class="fr-book-title"><a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=planets-9a1d7f-when-bright-planets-spark-ufo-reports-schleswig-holstein-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="planets-9a1d7f-when-bright-planets-spark-ufo-reports-schleswig-holstein-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">UFO UAP Flying Saucer Mountains Enamel Pin Brooch Button + Free Gift Bag</a></h4><a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=planets-9a1d7f-when-bright-planets-spark-ufo-reports-schleswig-holstein-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="planets-9a1d7f-when-bright-planets-spark-ufo-reports-schleswig-holstein-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO enamel pin">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO enamel pin</a><div class="fr-book-actions"><a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=planets-9a1d7f-when-bright-planets-spark-ufo-reports-schleswig-holstein-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="planets-9a1d7f-when-bright-planets-spark-ufo-reports-schleswig-holstein-ufo-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span></a></div></div></article><article class="fr-book-card"><a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=planets-9a1d7f-when-bright-planets-spark-ufo-reports-schleswig-holstein-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="planets-9a1d7f-when-bright-planets-spark-ufo-reports-schleswig-holstein-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Shado Metal &amp; Enamel Pin Badge Brooch Alien Defence Organisation New"><img src="{{'/assets/images/marketplace-covers/32f4b74de02c9f446b8c.jpg' | relative_url }}" alt="Listing image for UFO Shado Metal &amp; Enamel Pin Badge Brooch Alien Defence Organisation New" loading="lazy" decoding="async" fetchpriority="low"></a><div class="fr-book-info"><p class="fr-book-kicker">Example eBay listing</p><h4 class="fr-book-title"><a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=planets-9a1d7f-when-bright-planets-spark-ufo-reports-schleswig-holstein-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="planets-9a1d7f-when-bright-planets-spark-ufo-reports-schleswig-holstein-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">UFO Shado Metal &amp; Enamel Pin Badge Brooch Alien Defence Organisation New</a></h4><a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=planets-9a1d7f-when-bright-planets-spark-ufo-reports-schleswig-holstein-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="planets-9a1d7f-when-bright-planets-spark-ufo-reports-schleswig-holstein-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO enamel pin">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO enamel pin</a><div class="fr-book-actions"><a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=planets-9a1d7f-when-bright-planets-spark-ufo-reports-schleswig-holstein-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="planets-9a1d7f-when-bright-planets-spark-ufo-reports-schleswig-holstein-ufo-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span></a></div></div></article><article class="fr-book-card"><a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=planets-9a1d7f-when-bright-planets-spark-ufo-reports-schleswig-holstein-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="planets-9a1d7f-when-bright-planets-spark-ufo-reports-schleswig-holstein-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO SHADO Interceptor + Alien Craft Metal &amp; Enamel Lapel Tie Tac Pin Badge Logo"><img src="{{'/assets/images/marketplace-covers/5393c4d87c985792ef01.jpg' | relative_url }}" alt="Listing image for UFO SHADO Interceptor + Alien Craft Metal &amp; Enamel Lapel Tie Tac Pin Badge Logo" loading="lazy" decoding="async" fetchpriority="low"></a><div class="fr-book-info"><p class="fr-book-kicker">Example eBay listing</p><h4 class="fr-book-title"><a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=planets-9a1d7f-when-bright-planets-spark-ufo-reports-schleswig-holstein-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="planets-9a1d7f-when-bright-planets-spark-ufo-reports-schleswig-holstein-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">UFO SHADO Interceptor + Alien Craft Metal &amp; Enamel Lapel Tie Tac Pin Badge Logo</a></h4><a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=planets-9a1d7f-when-bright-planets-spark-ufo-reports-schleswig-holstein-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="planets-9a1d7f-when-bright-planets-spark-ufo-reports-schleswig-holstein-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO enamel pin">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO enamel pin</a><div class="fr-book-actions"><a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=planets-9a1d7f-when-bright-planets-spark-ufo-reports-schleswig-holstein-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="planets-9a1d7f-when-bright-planets-spark-ufo-reports-schleswig-holstein-ufo-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span></a></div></div></article><article class="fr-book-card"><a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=planets-9a1d7f-when-bright-planets-spark-ufo-reports-schleswig-holstein-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="planets-9a1d7f-when-bright-planets-spark-ufo-reports-schleswig-holstein-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Small UFO Flying Saucer Metal &amp; Enamel Pin Badge with Secure Locking Back"><img src="{{'/assets/images/marketplace-covers/388b6b35343af265e1f9.jpg' | relative_url }}" alt="Listing image for Small UFO Flying Saucer Metal &amp; Enamel Pin Badge with Secure Locking Back" loading="lazy" decoding="async" fetchpriority="low"></a><div class="fr-book-info"><p class="fr-book-kicker">Example eBay listing</p><h4 class="fr-book-title"><a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=planets-9a1d7f-when-bright-planets-spark-ufo-reports-schleswig-holstein-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="planets-9a1d7f-when-bright-planets-spark-ufo-reports-schleswig-holstein-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">Small UFO Flying Saucer Metal &amp; Enamel Pin Badge with Secure Locking Back</a></h4><a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=planets-9a1d7f-when-bright-planets-spark-ufo-reports-schleswig-holstein-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="planets-9a1d7f-when-bright-planets-spark-ufo-reports-schleswig-holstein-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO enamel pin">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO enamel pin</a><div class="fr-book-actions"><a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=planets-9a1d7f-when-bright-planets-spark-ufo-reports-schleswig-holstein-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="planets-9a1d7f-when-bright-planets-spark-ufo-reports-schleswig-holstein-ufo-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span></a></div></div></article></div><div class="fr-section-footer"><a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=planets-9a1d7f-when-bright-planets-spark-ufo-reports-schleswig-holstein-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="planets-9a1d7f-when-bright-planets-spark-ufo-reports-schleswig-holstein-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span></a><p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p></div></div></div><script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
-  var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
-  var timezoneRules = [{"market": "EBAY_IE", "pattern": "^Europe/Dublin$"}, {"market": "EBAY_GB", "pattern": "^Europe/(London|Belfast)$"}, {"market": "EBAY_CA", "pattern": "^America/(Toronto|Vancouver|Edmonton|Winnipeg|Halifax|St_Johns|Regina|Saskatoon|Whitehorse|Dawson|Moncton|Glace_Bay|Goose_Bay|Iqaluit|Yellowknife|Inuvik|Rankin_Inlet|Resolute|Cambridge_Bay|Fort_Nelson|Creston|Dawson_Creek)$"}, {"market": "EBAY_US", "pattern": "^America/"}, {"market": "EBAY_DE", "pattern": "^Europe/Berlin$"}, {"market": "EBAY_FR", "pattern": "^Europe/Paris$"}, {"market": "EBAY_IT", "pattern": "^Europe/Rome$"}, {"market": "EBAY_ES", "pattern": "^Europe/Madrid$"}, {"market": "EBAY_AU", "pattern": "^Australia/"}, {"market": "EBAY_AU", "pattern": "^Pacific/(Auckland|Chatham)$"}];
+  var localeMarketMap = {"de":"EBAY_DE","de-at":"EBAY_AT","de-ch":"EBAY_CH","de-de":"EBAY_DE","en":"EBAY_US","en-au":"EBAY_AU","en-ca":"EBAY_CA","en-gb":"EBAY_GB","en-ie":"EBAY_IE","en-nz":"EBAY_AU","en-uk":"EBAY_GB","en-us":"EBAY_US","es":"EBAY_ES","es-es":"EBAY_ES","fr":"EBAY_FR","fr-be":"EBAY_BE","fr-ca":"EBAY_CA","fr-fr":"EBAY_FR","it":"EBAY_IT","it-it":"EBAY_IT","nl":"EBAY_NL","nl-be":"EBAY_BE","nl-nl":"EBAY_NL"};
+  var timezoneRules = [{"market":"EBAY_IE","pattern":"^Europe/Dublin$"}, {"market":"EBAY_GB","pattern":"^Europe/(London|Belfast)$"}, {"market":"EBAY_CA","pattern":"^America/(Toronto|Vancouver|Edmonton|Winnipeg|Halifax|St_Johns|Regina|Saskatoon|Whitehorse|Dawson|Moncton|Glace_Bay|Goose_Bay|Iqaluit|Yellowknife|Inuvik|Rankin_Inlet|Resolute|Cambridge_Bay|Fort_Nelson|Creston|Dawson_Creek)$"}, {"market":"EBAY_US","pattern":"^America/"}, {"market":"EBAY_DE","pattern":"^Europe/Berlin$"}, {"market":"EBAY_FR","pattern":"^Europe/Paris$"}, {"market":"EBAY_IT","pattern":"^Europe/Rome$"}, {"market":"EBAY_ES","pattern":"^Europe/Madrid$"}, {"market":"EBAY_AU","pattern":"^Australia/"}, {"market":"EBAY_AU","pattern":"^Pacific/(Auckland|Chatham)$"}];
   function normalize(value) {
-    return String(value || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
+    return String(value ||'').toLowerCase().replace(/_/g,'-').replace(/[^a-z0-9-]+/g,'');
   }
   function localeMatches() {
     var languages = [];
-    var exactMarket = '';
-    var languageMarket = '';
+    var exactMarket ='';
+    var languageMarket ='';
     try {
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -599,24 +392,24 @@ For readers following Schleswig-Holstein’s UFO history, this makes “planets�
   }
   function inferFromLocale() {
     var matches = localeMatches();
-    return matches.exact || matches.language || '';
+    return matches.exact || matches.language ||'';
   }
   function inferFromTimezone() {
-    var tz = '';
-    try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
-    if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    var tz ='';
+    try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone ||''); } catch (err) {}
+    if (!tz) return'';
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
       } catch (err) {}
     }
-    return '';
+    return'';
   }
   function inferMarket(available, options) {
     available = Array.isArray(available) ? available : [];
     options = options || {};
-    var storageKey = options.storageKey || 'phoenix-affiliate-market';
+    var storageKey = options.storageKey ||'phoenix-affiliate-market';
     try {
       var saved = window.localStorage && localStorage.getItem(storageKey);
       if (saved && available.indexOf(saved) >= 0) return saved;
@@ -627,7 +420,7 @@ For readers following Schleswig-Holstein’s UFO history, this makes “planets�
     if (localeMarkets.exact && available.indexOf(localeMarkets.exact) >= 0) return localeMarkets.exact;
     if (localeMarkets.language && available.indexOf(localeMarkets.language) >= 0) return localeMarkets.language;
     if (options.defaultMarket && available.indexOf(options.defaultMarket) >= 0) return options.defaultMarket;
-    return available[0] || '';
+    return available[0] ||'';
   }
   window.PhoenixAffiliateLocation = {
     normalize: normalize,
@@ -635,45 +428,43 @@ For readers following Schleswig-Holstein’s UFO history, this makes “planets�
     inferFromLocale: inferFromLocale,
     inferFromTimezone: inferFromTimezone
   };
-})();
-</script>
-  <script type="text/javascript">
+})();</script><script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
-  var markets = {"EBAY_AU": {"campaign_id": "5339151051", "domain_label": "eBay.com.au", "label": "Australia", "mkrid": "705-53470-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com.au/sch/i.html?_nkw={query}"}, "EBAY_CA": {"campaign_id": "5339151051", "domain_label": "eBay.ca", "label": "Canada", "mkrid": "706-53473-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ca/sch/i.html?_nkw={query}"}, "EBAY_GB": {"campaign_id": "5339151051", "domain_label": "eBay.co.uk", "label": "UK", "mkrid": "710-53481-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.co.uk/sch/i.html?_nkw={query}"}, "EBAY_IE": {"campaign_id": "5339151051", "domain_label": "eBay.ie", "label": "Ireland", "mkrid": "5282-53468-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ie/sch/i.html?_nkw={query}"}, "EBAY_US": {"campaign_id": "5339151051", "domain_label": "eBay.com", "label": "USA", "mkrid": "711-53200-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com/sch/i.html?_nkw={query}"}};
-  var defaultMarket = "EBAY_GB";
+  var markets = {"EBAY_AU": {"campaign_id":"5339151051","domain_label":"eBay.com.au","label":"Australia","mkrid":"705-53470-19255-0","tool_id":"10001","url_template":"https://www.ebay.com.au/sch/i.html?_nkw={query}"},"EBAY_CA": {"campaign_id":"5339151051","domain_label":"eBay.ca","label":"Canada","mkrid":"706-53473-19255-0","tool_id":"10001","url_template":"https://www.ebay.ca/sch/i.html?_nkw={query}"},"EBAY_GB": {"campaign_id":"5339151051","domain_label":"eBay.co.uk","label":"UK","mkrid":"710-53481-19255-0","tool_id":"10001","url_template":"https://www.ebay.co.uk/sch/i.html?_nkw={query}"},"EBAY_IE": {"campaign_id":"5339151051","domain_label":"eBay.ie","label":"Ireland","mkrid":"5282-53468-19255-0","tool_id":"10001","url_template":"https://www.ebay.ie/sch/i.html?_nkw={query}"},"EBAY_US": {"campaign_id":"5339151051","domain_label":"eBay.com","label":"USA","mkrid":"711-53200-19255-0","tool_id":"10001","url_template":"https://www.ebay.com/sch/i.html?_nkw={query}"}};
+  var defaultMarket ="EBAY_GB";
   function encodeQuery(value) {
-    return encodeURIComponent(String(value || '').replace(/\s+/g, ' ').trim()).replace(/%20/g, '+');
+    return encodeURIComponent(String(value ||'').replace(/\s+/g,'').trim()).replace(/%20/g,'+');
   }
   function buildUrl(query, reference, marketId) {
     var cfg = markets[marketId] || markets[defaultMarket];
-    if (!cfg) return '#';
-    var template = String(cfg.url_template || 'https://www.ebay.com/sch/i.html?_nkw={query}');
-    var url = template.replace('{query}', encodeQuery(query || '')).replace('{query_plain}', String(query || ''));
-    var joiner = url.indexOf('?') >= 0 ? '&' : '?';
+    if (!cfg) return'#';
+    var template = String(cfg.url_template ||'https://www.ebay.com/sch/i.html?_nkw={query}');
+    var url = template.replace('{query}', encodeQuery(query ||'')).replace('{query_plain}', String(query ||''));
+    var joiner = url.indexOf('?') >= 0 ?'&' :'?';
     var params = [];
     if (cfg.mkrid) params.push('mkrid=' + encodeURIComponent(cfg.mkrid));
     if (cfg.campaign_id) params.push('campid=' + encodeURIComponent(cfg.campaign_id));
     params.push('mkevt=1');
     params.push('mkcid=1');
-    params.push('toolid=' + encodeURIComponent(cfg.tool_id || '10001'));
+    params.push('toolid=' + encodeURIComponent(cfg.tool_id ||'10001'));
     if (reference) params.push('customid=' + encodeURIComponent(reference).slice(0, 256));
     return url + joiner + params.join('&');
   }
   function domainLabel(marketId) {
     var cfg = markets[marketId] || markets[defaultMarket] || {};
-    return cfg.domain_label || 'eBay';
+    return cfg.domain_label ||'eBay';
   }
   function flagClass(marketId) {
-    return 'fr-ebay-market-flag fr-ebay-market-flag--' + String(marketId || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
+    return'fr-ebay-market-flag fr-ebay-market-flag--' + String(marketId ||'').toLowerCase().replace(/_/g,'-').replace(/[^a-z0-9-]+/g,'');
   }
   function closeMenu(section) {
     var menu = section.querySelector('[data-ebay-market-menu]');
     var trigger = section.querySelector('[data-ebay-market-trigger]');
     var picker = section.querySelector('.fr-ebay-market-picker');
     if (menu) menu.hidden = true;
-    if (trigger) trigger.setAttribute('aria-expanded', 'false');
+    if (trigger) trigger.setAttribute('aria-expanded','false');
     if (picker) picker.classList.remove('fr-ebay-market-picker--open');
   }
   function availableMarkets(section) {
@@ -689,10 +480,10 @@ For readers following Schleswig-Holstein’s UFO history, this makes “planets�
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
-      var query = link.getAttribute('data-ebay-query') || '';
-      var reference = link.getAttribute('data-ebay-reference') || '';
+      var query = link.getAttribute('data-ebay-query') ||'';
+      var reference = link.getAttribute('data-ebay-reference') ||'';
       link.setAttribute('href', buildUrl(query, reference, marketId));
     });
     var select = section.querySelector('[data-ebay-market-select]');
@@ -712,11 +503,11 @@ For readers following Schleswig-Holstein’s UFO history, this makes “planets�
       label.textContent = domainLabel(marketId);
     });
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
-      button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
+      button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ?'true' :'false');
     });
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
       var active = button.getAttribute('data-ebay-market-button') === marketId;
-      button.setAttribute('aria-pressed', active ? 'true' : 'false');
+      button.setAttribute('aria-pressed', active ?'true' :'false');
     });
     section.setAttribute('data-ebay-selected-market', marketId);
     if (persist) {
@@ -725,16 +516,16 @@ For readers following Schleswig-Holstein’s UFO history, this makes “planets�
     closeMenu(section);
   }
   sections.forEach(function (section) {
-    if (section.getAttribute('data-ebay-localized-init') === '1') return;
-    section.setAttribute('data-ebay-localized-init', '1');
+    if (section.getAttribute('data-ebay-localized-init') ==='1') return;
+    section.setAttribute('data-ebay-localized-init','1');
     var available = availableMarkets(section);
     var marketId = defaultMarket;
     if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
       marketId = window.PhoenixAffiliateLocation.inferMarket(available, {
-        storageKey: 'phoenix-ebay-market',
+        storageKey:'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -748,9 +539,9 @@ For readers following Schleswig-Holstein’s UFO history, this makes “planets�
     if (trigger && menu) {
       trigger.addEventListener('click', function (event) {
         event.stopPropagation();
-        var expanded = trigger.getAttribute('aria-expanded') === 'true';
+        var expanded = trigger.getAttribute('aria-expanded') ==='true';
         menu.hidden = expanded;
-        trigger.setAttribute('aria-expanded', expanded ? 'false' : 'true');
+        trigger.setAttribute('aria-expanded', expanded ?'false' :'true');
         var picker = trigger.closest('.fr-ebay-market-picker');
         if (picker) picker.classList.toggle('fr-ebay-market-picker--open', !expanded);
       });
@@ -769,134 +560,127 @@ For readers following Schleswig-Holstein’s UFO history, this makes “planets�
     });
     applyMarket(section, marketId, false);
   });
-})();
-</script>
-</section>
+})();</script></section>
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: zdfheute.de  
    Title: Meldestelle: Ungewöhnliche Lichter am Himmel sind keine Ufos  
-   Link: <a href="https://www.zdfheute.de/panorama/lichter-himmel-ufo-jupiter-venus-100.html" target="_blank" rel="noopener noreferrer nofollow">https://www.zdfheute.de/panorama/lichter-himmel-ufo-jupiter-venus-100.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Meldestelle: Ungewöhnliche Lichter am Himmel sind keine Ufos...</p></details>
+   Link:<a href="https://www.zdfheute.de/panorama/lichter-himmel-ufo-jupiter-venus-100.html" target="_blank" rel="noopener noreferrer nofollow">https://www.zdfheute.de/panorama/lichter-himmel-ufo-jupiter-venus-100.html</a><details class="endnote-snippet"><summary>Source snippet</summary><p>Meldestelle: Ungewöhnliche Lichter am Himmel sind keine Ufos...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: ufokarte.de  
    Title: UF O-Sichtungen in Schleswig-Holstein — Ufokarte.de  
-   Link: <a href="https://ufokarte.de/bundesland/schleswig-holstein" target="_blank" rel="noopener noreferrer nofollow">https://ufokarte.de/bundesland/schleswig-holstein</a>  
+   Link:<a href="https://ufokarte.de/bundesland/schleswig-holstein" target="_blank" rel="noopener noreferrer nofollow">https://ufokarte.de/bundesland/schleswig-holstein</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: science.nasa.gov  
    Title: whats up august 2025 skywatching tips from nasa  
-   Link: <a href="https://science.nasa.gov/solar-system/whats-up-august-2025-skywatching-tips-from-nasa/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/solar-system/whats-up-august-2025-skywatching-tips-from-nasa/</a>  
+   Link:<a href="https://science.nasa.gov/solar-system/whats-up-august-2025-skywatching-tips-from-nasa/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/solar-system/whats-up-august-2025-skywatching-tips-from-nasa/</a>  
    Published: august 2025  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: timeanddate.com  
    Title: planet parade august 2025  
-   Link: <a href="https://www.timeanddate.com/news/astronomy/planet-parade-august-2025" target="_blank" rel="noopener noreferrer nofollow">https://www.timeanddate.com/news/astronomy/planet-parade-august-2025</a>  
+   Link:<a href="https://www.timeanddate.com/news/astronomy/planet-parade-august-2025" target="_blank" rel="noopener noreferrer nofollow">https://www.timeanddate.com/news/astronomy/planet-parade-august-2025</a>  
    Published: august 2025  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: science.nasa.gov  
    Title: Science Venus: Facts  
-   Link: <a href="https://science.nasa.gov/venus/venus-facts/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/venus/venus-facts/</a>  
+   Link:<a href="https://science.nasa.gov/venus/venus-facts/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/venus/venus-facts/</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: zenodo.org  
-   Link: <a href="https://zenodo.org/records/15882235" target="_blank" rel="noopener noreferrer nofollow">https://zenodo.org/records/15882235</a>  
+   Link:<a href="https://zenodo.org/records/15882235" target="_blank" rel="noopener noreferrer nofollow">https://zenodo.org/records/15882235</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: zenodo.org  
-   Link: <a href="https://zenodo.org/records/13923653" target="_blank" rel="noopener noreferrer nofollow">https://zenodo.org/records/13923653</a>  
+   Link:<a href="https://zenodo.org/records/13923653" target="_blank" rel="noopener noreferrer nofollow">https://zenodo.org/records/13923653</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: zenodo.org  
-   Link: <a href="https://zenodo.org/records/10547073" target="_blank" rel="noopener noreferrer nofollow">https://zenodo.org/records/10547073</a>  
+   Link:<a href="https://zenodo.org/records/10547073" target="_blank" rel="noopener noreferrer nofollow">https://zenodo.org/records/10547073</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: space.com  
-   Link: <a href="https://www.space.com/stargazing/venus-and-jupiter-conjunction-2025-how-to-see-two-iconic-planets-meet-in-the-morning-sky" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/stargazing/venus-and-jupiter-conjunction-2025-how-to-see-two-iconic-planets-meet-in-the-morning-sky</a>  
+   Link:<a href="https://www.space.com/stargazing/venus-and-jupiter-conjunction-2025-how-to-see-two-iconic-planets-meet-in-the-morning-sky" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/stargazing/venus-and-jupiter-conjunction-2025-how-to-see-two-iconic-planets-meet-in-the-morning-sky</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: nightsky.jpl.nasa.gov  
-   Link: <a href="https://nightsky.jpl.nasa.gov/news/190/" target="_blank" rel="noopener noreferrer nofollow">https://nightsky.jpl.nasa.gov/news/190/</a>  
+   Link:<a href="https://nightsky.jpl.nasa.gov/news/190/" target="_blank" rel="noopener noreferrer nofollow">https://nightsky.jpl.nasa.gov/news/190/</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: astronomy.com  
    Title: sky this month august 2025  
-   Link: <a href="https://www.astronomy.com/observing/sky-this-month-august-2025/" target="_blank" rel="noopener noreferrer nofollow">https://www.astronomy.com/observing/sky-this-month-august-2025/</a>  
+   Link:<a href="https://www.astronomy.com/observing/sky-this-month-august-2025/" target="_blank" rel="noopener noreferrer nofollow">https://www.astronomy.com/observing/sky-this-month-august-2025/</a>  
    Published: august 2025  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: astronomy.com  
    Title: the sky today tuesday august 12 2025  
-   Link: <a href="https://www.astronomy.com/observing/the-sky-today-tuesday-august-12-2025/" target="_blank" rel="noopener noreferrer nofollow">https://www.astronomy.com/observing/the-sky-today-tuesday-august-12-2025/</a>  
+   Link:<a href="https://www.astronomy.com/observing/the-sky-today-tuesday-august-12-2025/" target="_blank" rel="noopener noreferrer nofollow">https://www.astronomy.com/observing/the-sky-today-tuesday-august-12-2025/</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: rmg.co.uk  
-   Link: <a href="https://www.rmg.co.uk/stories/space-astronomy/planet-venus" target="_blank" rel="noopener noreferrer nofollow">https://www.rmg.co.uk/stories/space-astronomy/planet-venus</a>  
+   Link:<a href="https://www.rmg.co.uk/stories/space-astronomy/planet-venus" target="_blank" rel="noopener noreferrer nofollow">https://www.rmg.co.uk/stories/space-astronomy/planet-venus</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: skyatnightmagazine.com  
    Title: planet parade august 2025  
-   Link: <a href="https://www.skyatnightmagazine.com/news/planet-parade-august-2025" target="_blank" rel="noopener noreferrer nofollow">https://www.skyatnightmagazine.com/news/planet-parade-august-2025</a>  
+   Link:<a href="https://www.skyatnightmagazine.com/news/planet-parade-august-2025" target="_blank" rel="noopener noreferrer nofollow">https://www.skyatnightmagazine.com/news/planet-parade-august-2025</a>  
    Published: august 2025  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: explore.openaire.eu  
-   Link: <a href="https://explore.openaire.eu/search/result?pid=10.5281%2Fzenodo.15882235" target="_blank" rel="noopener noreferrer nofollow">https://explore.openaire.eu/search/result?pid=10.5281%2Fzenodo.15882235</a>  
+   Link:<a href="https://explore.openaire.eu/search/result?pid=10.5281%2Fzenodo.15882235" target="_blank" rel="noopener noreferrer nofollow">https://explore.openaire.eu/search/result?pid=10.5281%2Fzenodo.15882235</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: data.qld.gov.au  
    Title: heritage register 2025.xml  
-   Link: <a href="https://www.data.qld.gov.au/dataset/1c52c0d3-f7d0-49b4-87ff-d88f9241617e/resource/43ff6bb2-8dfb-4d87-90ab-b89cb20c7ef7/archive/heritage-register-2025.xml" target="_blank" rel="noopener noreferrer nofollow">https://www.data.qld.gov.au/dataset/1c52c0d3-f7d0-49b4-87ff-d88f9241617e/resource/43ff6bb2-8dfb-4d87-90ab-b89cb20c7ef7/archive/heritage-register-2025.xml</a>  
+   Link:<a href="https://www.data.qld.gov.au/dataset/1c52c0d3-f7d0-49b4-87ff-d88f9241617e/resource/43ff6bb2-8dfb-4d87-90ab-b89cb20c7ef7/archive/heritage-register-2025.xml" target="_blank" rel="noopener noreferrer nofollow">https://www.data.qld.gov.au/dataset/1c52c0d3-f7d0-49b4-87ff-d88f9241617e/resource/43ff6bb2-8dfb-4d87-90ab-b89cb20c7ef7/archive/heritage-register-2025.xml</a>  
 
 ### Additional References
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=NJrG1yBUn24" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=NJrG1yBUn24</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Jupiter and Venus mistaken for UFOs Jupiter and Venus &#x27;could be mistaken for UFOs&#x27; The Telegraph...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=NJrG1yBUn24" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=NJrG1yBUn24</a><details class="endnote-snippet"><summary>Source snippet</summary><p>Jupiter and Venus mistaken for UFOs Jupiter and Venus &#x27;could be mistaken for UFOs&#x27; The Telegraph...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: youtube.com  
-   Title: Not a UFO: Venus and Jupiter share a 'kiss'  
-   Link: <a href="https://www.youtube.com/watch?v=b6sWJMjt1xs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=b6sWJMjt1xs</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Venus mistaken as UFO&#x27;s, David Grusch, and Aussie UFO cases | Bill Chalker on The Caulfield...</p></details>
+   Title: Not a UFO: Venus and Jupiter share a'kiss'  
+   Link:<a href="https://www.youtube.com/watch?v=b6sWJMjt1xs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=b6sWJMjt1xs</a><details class="endnote-snippet"><summary>Source snippet</summary><p>Venus mistaken as UFO&#x27;s, David Grusch, and Aussie UFO cases | Bill Chalker on The Caulfield...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: youtube.com  
    Title: Sirius: Often Mistaken for an UFO  
-   Link: <a href="https://www.youtube.com/watch?v=GW3YIdLkZHg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=GW3YIdLkZHg</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Two Brightest Planets &quot;Touch&quot; Tonight | How to See the Venus and Jupiter Conjunction | June 8/9...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=GW3YIdLkZHg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=GW3YIdLkZHg</a><details class="endnote-snippet"><summary>Source snippet</summary><p>The Two Brightest Planets &quot;Touch&quot; Tonight | How to See the Venus and Jupiter Conjunction | June 8/9...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=GdBo5nuJWYo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=GdBo5nuJWYo</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Sirius: Often Mistaken for an UFO...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=GdBo5nuJWYo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=GdBo5nuJWYo</a><details class="endnote-snippet"><summary>Source snippet</summary><p>Sirius: Often Mistaken for an UFO...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: sternwarte-luebeck.de  
-   Link: <a href="https://www.sternwarte-luebeck.de/15-10-07-11-planetenparade-am-morgenhimmel/" target="_blank" rel="noopener noreferrer nofollow">https://www.sternwarte-luebeck.de/15-10-07-11-planetenparade-am-morgenhimmel/</a>  
+   Link:<a href="https://www.sternwarte-luebeck.de/15-10-07-11-planetenparade-am-morgenhimmel/" target="_blank" rel="noopener noreferrer nofollow">https://www.sternwarte-luebeck.de/15-10-07-11-planetenparade-am-morgenhimmel/</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: huggingface.co  
-   Link: <a href="https://huggingface.co/helboukkouri/character-bert-medical/resolve/30397d827839963ebdd7260716f2e92308bdf1f5/mlm_vocab.txt?download=true" target="_blank" rel="noopener noreferrer nofollow">https://huggingface.co/helboukkouri/character-bert-medical/resolve/30397d827839963ebdd7260716f2e92308bdf1f5/mlm_vocab.txt?download=true</a>  
+   Link:<a href="https://huggingface.co/helboukkouri/character-bert-medical/resolve/30397d827839963ebdd7260716f2e92308bdf1f5/mlm_vocab.txt?download=true" target="_blank" rel="noopener noreferrer nofollow">https://huggingface.co/helboukkouri/character-bert-medical/resolve/30397d827839963ebdd7260716f2e92308bdf1f5/mlm_vocab.txt?download=true</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/p/DZV6T9dmYk3/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DZV6T9dmYk3/</a>  
+   Link:<a href="https://www.instagram.com/p/DZV6T9dmYk3/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DZV6T9dmYk3/</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: debshome.com  
-   Link: <a href="https://debshome.com/news.html" target="_blank" rel="noopener noreferrer nofollow">https://debshome.com/news.html</a>  
+   Link:<a href="https://debshome.com/news.html" target="_blank" rel="noopener noreferrer nofollow">https://debshome.com/news.html</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: planetarium-bochum.de  
-   Link: <a href="https://planetarium-bochum.de/de_DE/actual-starry-sky" target="_blank" rel="noopener noreferrer nofollow">https://planetarium-bochum.de/de_DE/actual-starry-sky</a>  
+   Link:<a href="https://planetarium-bochum.de/de_DE/actual-starry-sky" target="_blank" rel="noopener noreferrer nofollow">https://planetarium-bochum.de/de_DE/actual-starry-sky</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/381390939_Die_vergebliche_Suche_nach_dem_Bewusstsein_Ein_Bericht_von_der_Konferenz_The_Science_of_Consciousness_in_Taormina/fulltext/669446a1c1cf0d77ffd71dc5/Die-vergebliche-Suche-nach-dem-Bewusstsein-Ein-Bericht-von-der-Konferenz-The-Science-of-Consciousness-in-Taormina.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/381390939_Die_vergebliche_Suche_nach_dem_Bewusstsein_Ein_Bericht_von_der_Konferenz_The_Science_of_Consciousness_in_Taormina/fulltext/669446a1c1cf0d77ffd71dc5/Die-vergebliche-Suche-nach-dem-Bewusstsein-Ein-Bericht-von-der-Konferenz-The-Science-of-Consciousness-in-Taormina.pdf</a>  
+   Link:<a href="https://www.researchgate.net/publication/381390939_Die_vergebliche_Suche_nach_dem_Bewusstsein_Ein_Bericht_von_der_Konferenz_The_Science_of_Consciousness_in_Taormina/fulltext/669446a1c1cf0d77ffd71dc5/Die-vergebliche-Suche-nach-dem-Bewusstsein-Ein-Bericht-von-der-Konferenz-The-Science-of-Consciousness-in-Taormina.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/381390939_Die_vergebliche_Suche_nach_dem_Bewusstsein_Ein_Bericht_von_der_Konferenz_The_Science_of_Consciousness_in_Taormina/fulltext/669446a1c1cf0d77ffd71dc5/Die-vergebliche-Suche-nach-dem-Bewusstsein-Ein-Bericht-von-der-Konferenz-The-Science-of-Consciousness-in-Taormina.pdf</a>  

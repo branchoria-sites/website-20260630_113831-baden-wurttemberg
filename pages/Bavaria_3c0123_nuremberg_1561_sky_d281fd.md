@@ -52,7 +52,7 @@ text_direction: ltr
 ui_strings:
   home: Home
   overview: Overview
-  overview_prefix: 'Overview:'
+  overview_prefix:'Overview:'
   contents: Contents
   close: Close
   open_contents: Open contents
@@ -200,13 +200,13 @@ ui_strings:
   search_this_page_empty_hint: Type to search this page.
   no_search_results: No pages match this search.
   no_search_this_page_results: No sections on this page match this search.
-  search_results_count_template: '{count} results'
+  search_results_count_template:'{count} results'
   search_kind_page_title: Page title
   search_kind_page_summary: Summary of page
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date: '2026-06-29 22:45:48'
+date:'2026-06-29 22:45:48'
 parent_title: Bavaria UFOs
 parent_permalink: /what-really-happened-over-bavarias-skies/
 parent_nav_short_title: Bavaria UFOs
@@ -302,61 +302,44 @@ image: /assets/images/Bavaria_3c0123_nuremberg_1561_sky_d281fd-overview-social.j
 
 ## Introduction
 
-The Nuremberg sky spectacle of 14 April 1561 is often presented online as one of Europe’s earliest “UFO battles”. Read closely, it is something more historically interesting and less sensational: a 16th-century printed broadsheet describing a frightening dawn display near the sun, framed by its author as a divine warning rather than as a report of machines in the sky. Nuremberg belongs here because it is now in [Bavaria]({{ 'what-really-happened-over-bavarias-skies/' | relative_url }}), although in 1561 it was a Free Imperial City within the Holy Roman Empire, not part of the modern Bavarian state.
-
-
-<img src="{{ "/assets/images/Bavaria_3c0123_nuremberg_1561_sky_d281fd-overview.webp" | relative_url }}" alt="Overview image for Nuremberg 1561" loading="eager" decoding="sync" fetchpriority="high">
-The case matters in Bavaria’s UFO history because it shows how a local early modern sky report was later absorbed into modern UFO culture. The strongest evidence is the broadsheet itself, produced by the Nuremberg artist Hans Glaser later in April 1561. The main doubts are just as important: the source is religious, symbolic, mediated through print, and centred on the rising sun, making atmospheric optics and early modern “wonder sign” culture more cautious explanations than extraterrestrial craft. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://publicdomainreview.org/collection/celestial-phenomenon-over-nuremberg-april-14th-1561/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: publicdomainreview.org">[The Public Domain Review]</a><span class="citation-popover" role="note"><span class="citation-popover-source">publicdomainreview.org</span><span class="citation-popover-title">celestial phenomenon over nuremberg april 14th 1561</span><span class="citation-popover-snippet">The Public Domain ReviewCelestial Phenomenon Over Nuremberg, April 14th, 1561 — The Public Domain Review...</span></span></span>
+The Nuremberg sky spectacle of 14 April 1561 is often presented online as one of Europe’s earliest “UFO battles”. Read closely, it is something more historically interesting and less sensational: a 16th-century printed broadsheet describing a frightening dawn display near the sun, framed by its author as a divine warning rather than as a report of machines in the sky. Nuremberg belongs here because it is now in [Bavaria]({{'what-really-happened-over-bavarias-skies/' | relative_url }}), although in 1561 it was a Free Imperial City within the Holy Roman Empire, not part of the modern Bavarian state.<img src="{{"/assets/images/Bavaria_3c0123_nuremberg_1561_sky_d281fd-overview.webp" | relative_url }}" alt="Overview image for Nuremberg 1561" loading="eager" decoding="sync" fetchpriority="high">
+The case matters in Bavaria’s UFO history because it shows how a local early modern sky report was later absorbed into modern UFO culture. The strongest evidence is the broadsheet itself, produced by the Nuremberg artist Hans Glaser later in April 1561. The main doubts are just as important: the source is religious, symbolic, mediated through print, and centred on the rising sun, making atmospheric optics and early modern “wonder sign” culture more cautious explanations than extraterrestrial craft.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://publicdomainreview.org/collection/celestial-phenomenon-over-nuremberg-april-14th-1561/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: publicdomainreview.org">[The Public Domain Review]</a><span class="citation-popover" role="note"><span class="citation-popover-source">publicdomainreview.org</span><span class="citation-popover-title">celestial phenomenon over nuremberg april 14th 1561</span><span class="citation-popover-snippet">The Public Domain ReviewCelestial Phenomenon Over Nuremberg, April 14th, 1561 — The Public Domain Review...</span></span></span>
 
 ## What the broadsheet reported
 
-Glaser’s broadsheet describes an event at daybreak, between about 4 and 5 in the morning, seen by “many men and women” in and around Nuremberg. The reported display began at the sun: red semi-circular arcs, dark and blood-coloured globes, crosses, rods and other shapes appeared around or within the solar glare. The text then shifts from description into battle language, saying that globes and rods moved in and out of the sun, fought for more than an hour, and eventually seemed to fall towards the earth as if burning, with smoke below. A long black spear-like form appeared after the conflict. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://publicdomainreview.org/collection/celestial-phenomenon-over-nuremberg-april-14th-1561/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: publicdomainreview.org">[The Public Domain Review]</a><span class="citation-popover" role="note"><span class="citation-popover-source">publicdomainreview.org</span><span class="citation-popover-title">celestial phenomenon over nuremberg april 14th 1561</span><span class="citation-popover-snippet">The Public Domain ReviewCelestial Phenomenon Over Nuremberg, April 14th, 1561 — The Public Domain Review...</span></span></span>
+Glaser’s broadsheet describes an event at daybreak, between about 4 and 5 in the morning, seen by “many men and women” in and around Nuremberg. The reported display began at the sun: red semi-circular arcs, dark and blood-coloured globes, crosses, rods and other shapes appeared around or within the solar glare. The text then shifts from description into battle language, saying that globes and rods moved in and out of the sun, fought for more than an hour, and eventually seemed to fall towards the earth as if burning, with smoke below. A long black spear-like form appeared after the conflict.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://publicdomainreview.org/collection/celestial-phenomenon-over-nuremberg-april-14th-1561/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: publicdomainreview.org">[The Public Domain Review]</a><span class="citation-popover" role="note"><span class="citation-popover-source">publicdomainreview.org</span><span class="citation-popover-title">celestial phenomenon over nuremberg april 14th 1561</span><span class="citation-popover-snippet">The Public Domain ReviewCelestial Phenomenon Over Nuremberg, April 14th, 1561 — The Public Domain Review...</span></span></span>
 
-That is the core of the case. The famous image is not a photograph-like record and should not be treated as one. It is a coloured woodcut: a printed visual interpretation attached to a moralising text. Its shapes are vivid because the medium needed to communicate quickly to viewers and buyers. In the same passage where Glaser describes the spectacle, he also tells readers that only God knows what such signs mean and urges repentance, making the broadsheet a religious warning as much as a sighting report. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://publicdomainreview.org/collection/celestial-phenomenon-over-nuremberg-april-14th-1561/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: publicdomainreview.org">[The Public Domain Review]</a><span class="citation-popover" role="note"><span class="citation-popover-source">publicdomainreview.org</span><span class="citation-popover-title">celestial phenomenon over nuremberg april 14th 1561</span><span class="citation-popover-snippet">The Public Domain ReviewCelestial Phenomenon Over Nuremberg, April 14th, 1561 — The Public Domain Review...</span></span></span>
+That is the core of the case. The famous image is not a photograph-like record and should not be treated as one. It is a coloured woodcut: a printed visual interpretation attached to a moralising text. Its shapes are vivid because the medium needed to communicate quickly to viewers and buyers. In the same passage where Glaser describes the spectacle, he also tells readers that only God knows what such signs mean and urges repentance, making the broadsheet a religious warning as much as a sighting report.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://publicdomainreview.org/collection/celestial-phenomenon-over-nuremberg-april-14th-1561/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: publicdomainreview.org">[The Public Domain Review]</a><span class="citation-popover" role="note"><span class="citation-popover-source">publicdomainreview.org</span><span class="citation-popover-title">celestial phenomenon over nuremberg april 14th 1561</span><span class="citation-popover-snippet">The Public Domain ReviewCelestial Phenomenon Over Nuremberg, April 14th, 1561 — The Public Domain Review...</span></span></span>
 
 The details that later UFO writers find most compelling are easy to see: round objects, cylinders, cross-like forms, darting movement, apparent conflict, falling bodies and smoke. But the same details also make the source difficult to use as straightforward evidence. The broadsheet does not give a chain of named witnesses, measurements, independent observations, weather records, impact sites, debris, official investigation or follow-up verification. It gives a dramatic public account, printed in the language and expectations of its time.
 
-For a modern reader, the most careful answer is therefore not “nothing happened”. Something may well have been seen at dawn over Nuremberg. The more cautious question is what kind of seeing the source preserves: a physical sky display, a religiously interpreted omen, a stylised printed warning, or some mixture of all three.
-
-
-<img src="{{ "/assets/images/Bavaria_3c0123_nuremberg_1561_sky_d281fd-Illustration-1-dark.svg" | relative_url }}" alt="Nuremberg 1561 illustration 1" data-theme-src-dark="{{ "/assets/images/Bavaria_3c0123_nuremberg_1561_sky_d281fd-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Bavaria_3c0123_nuremberg_1561_sky_d281fd-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+For a modern reader, the most careful answer is therefore not “nothing happened”. Something may well have been seen at dawn over Nuremberg. The more cautious question is what kind of seeing the source preserves: a physical sky display, a religiously interpreted omen, a stylised printed warning, or some mixture of all three.<img src="{{"/assets/images/Bavaria_3c0123_nuremberg_1561_sky_d281fd-Illustration-1-dark.svg" | relative_url }}" alt="Nuremberg 1561 illustration 1" data-theme-src-dark="{{"/assets/images/Bavaria_3c0123_nuremberg_1561_sky_d281fd-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{"/assets/images/Bavaria_3c0123_nuremberg_1561_sky_d281fd-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why later UFO writers adopted it
 
 The Nuremberg case became attractive to modern UFO culture because it seems, at first glance, to offer a pre-aircraft account of structured objects behaving like aerial vehicles. If spheres appear to fly from rods, fight in the sky and fall smoking to the ground, it is not hard to see why 20th- and 21st-century readers might reach for a “space battle” interpretation. The case also benefits from having a striking image, a firm date, a named city and a surviving printed source, which makes it more memorable than many vague pre-modern sky stories.
 
-Its modern afterlife owes much to the mid-20th-century habit of reading older prodigy reports through UFO categories. Public Domain Review notes that the Nuremberg image was little discussed in this modern sense until it appeared in Carl Jung’s 1958 work on flying saucers as a modern myth. Jung’s interest was not mainly to prove an alien event; he was concerned with the symbolic and psychological meaning of sky visions, including how people project contemporary fears and hopes onto strange things seen overhead. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://publicdomainreview.org/collection/celestial-phenomenon-over-nuremberg-april-14th-1561/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: publicdomainreview.org">[The Public Domain Review]</a><span class="citation-popover" role="note"><span class="citation-popover-source">publicdomainreview.org</span><span class="citation-popover-title">celestial phenomenon over nuremberg april 14th 1561</span><span class="citation-popover-snippet">The Public Domain ReviewCelestial Phenomenon Over Nuremberg, April 14th, 1561 — The Public Domain Review...</span></span></span>
+Its modern afterlife owes much to the mid-20th-century habit of reading older prodigy reports through UFO categories. Public Domain Review notes that the Nuremberg image was little discussed in this modern sense until it appeared in Carl Jung’s 1958 work on flying saucers as a modern myth. Jung’s interest was not mainly to prove an alien event; he was concerned with the symbolic and psychological meaning of sky visions, including how people project contemporary fears and hopes onto strange things seen overhead.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://publicdomainreview.org/collection/celestial-phenomenon-over-nuremberg-april-14th-1561/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: publicdomainreview.org">[The Public Domain Review]</a><span class="citation-popover" role="note"><span class="citation-popover-source">publicdomainreview.org</span><span class="citation-popover-title">celestial phenomenon over nuremberg april 14th 1561</span><span class="citation-popover-snippet">The Public Domain ReviewCelestial Phenomenon Over Nuremberg, April 14th, 1561 — The Public Domain Review...</span></span></span>
 
 Once placed in UFO literature, the broadsheet could be detached from its early modern religious setting. The “battle” became literal. The black spear became a craft. The globes became vehicles. The smoke became crash evidence. This is the key shift: modern UFO claims often treat Glaser’s printed language as if it were a neutral technical report, while the original text treats the event as a sign from God.
 
-That does not mean the UFO reading is irrational in a simple sense. It responds to real features in the account: movement, multiplicity, formation, apparent interaction and falling objects. But it depends on translating early modern symbolic and religious language into a modern technological vocabulary. That translation is the weakest part of the claim.
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/rX0189Ky9G0" title="Germany’s Other Roswell? 1561 Nuremberg Sky Battle Explained" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=rX0189Ky9G0" target="_blank" rel="noopener noreferrer">Germany’s Other Roswell? 1561 Nuremberg Sky Battle Explained</a></p><p class="youtube-embed-meta">Channel: Get Germanized &middot; Views: 3.5K &middot; Uploaded: October 2025 &middot; Length: 6 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=rX0189Ky9G0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=rX0189Ky9G0">Open on YouTube</a></p></div></div></div>
+That does not mean the UFO reading is irrational in a simple sense. It responds to real features in the account: movement, multiplicity, formation, apparent interaction and falling objects. But it depends on translating early modern symbolic and religious language into a modern technological vocabulary. That translation is the weakest part of the claim.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/rX0189Ky9G0" title="Germany’s Other Roswell? 1561 Nuremberg Sky Battle Explained" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=rX0189Ky9G0" target="_blank" rel="noopener noreferrer">Germany’s Other Roswell? 1561 Nuremberg Sky Battle Explained</a></p><p class="youtube-embed-meta">Channel: Get Germanized &middot; Views: 3.5K &middot; Uploaded: October 2025 &middot; Length: 6 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=rX0189Ky9G0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=rX0189Ky9G0">Open on YouTube</a></p></div></div></div>
 
 ## Atmospheric and cultural explanations
 
-The most grounded natural explanation begins with the setting: the spectacle occurred at daybreak and was described as happening on or around the sun. Modern atmospheric science gives a clear reason to start there. Sundogs, halos and related optical effects occur when sunlight is refracted or reflected by ice crystals in the atmosphere. NASA explains that sundogs are common ice-halo phenomena, most easily seen when the sun is low, appearing around 22 degrees to either side of it; the US National Weather Service similarly describes sundogs as coloured spots caused by light refracting through ice crystals. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/blogs/earth-matters/2014/02/03/reader-pics-sundogs/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science Reader Pics: Sundogs</span><span class="citation-popover-snippet">Science Reader Pics: Sundogs</span></span></span>
+The most grounded natural explanation begins with the setting: the spectacle occurred at daybreak and was described as happening on or around the sun. Modern atmospheric science gives a clear reason to start there. Sundogs, halos and related optical effects occur when sunlight is refracted or reflected by ice crystals in the atmosphere. NASA explains that sundogs are common ice-halo phenomena, most easily seen when the sun is low, appearing around 22 degrees to either side of it; the US National Weather Service similarly describes sundogs as coloured spots caused by light refracting through ice crystals.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/blogs/earth-matters/2014/02/03/reader-pics-sundogs/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science Reader Pics: Sundogs</span><span class="citation-popover-snippet">Science Reader Pics: Sundogs</span></span></span>
 
 This does not perfectly “solve” every feature of the Nuremberg broadsheet. A classic sundog does not normally look like a sky full of fighting rods, globes and crosses. But it does explain why a dawn solar phenomenon could produce unusual colours, multiple bright patches, arcs, halo-like forms and strong visual drama around the rising sun. It also explains why observers unfamiliar with the physics of ice-crystal optics might describe the event in vivid, metaphorical or religious terms.
 
-The cultural explanation is just as important. Nuremberg’s broadsheet belongs to a wider 16th-century German print world full of celestial warnings. Public Domain Review’s broader survey of German sky prodigy prints describes reports of anomalies in the sun, moon and stars, fire falling from the sky, blood rain, strange births and other “wonder signs”. It notes that more than 400 broadsheets and tracts about such prognostic events appeared between 1550 and 1559 alone, and that these reports circulated through pamphlets, sermons, diaries, astrological writing and collections of wonders. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://publicdomainreview.org/collection/celestial-phenomena-16th-century-germany/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: publicdomainreview.org">[The Public Domain Review]</a><span class="citation-popover" role="note"><span class="citation-popover-source">publicdomainreview.org</span><span class="citation-popover-snippet">Open source on publicdomainreview.org.</span></span></span>
+The cultural explanation is just as important. Nuremberg’s broadsheet belongs to a wider 16th-century German print world full of celestial warnings. Public Domain Review’s broader survey of German sky prodigy prints describes reports of anomalies in the sun, moon and stars, fire falling from the sky, blood rain, strange births and other “wonder signs”. It notes that more than 400 broadsheets and tracts about such prognostic events appeared between 1550 and 1559 alone, and that these reports circulated through pamphlets, sermons, diaries, astrological writing and collections of wonders.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://publicdomainreview.org/collection/celestial-phenomena-16th-century-germany/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: publicdomainreview.org">[The Public Domain Review]</a><span class="citation-popover" role="note"><span class="citation-popover-source">publicdomainreview.org</span><span class="citation-popover-snippet">Open source on publicdomainreview.org.</span></span></span>
 
 That matters because Glaser was not working in isolation. The Nuremberg sheet was part of a recognisable genre in which strange sky events were interpreted as warnings about sin, judgement, war or upheaval. The image’s martial language also fits a period when printed battle imagery, apocalyptic preaching and celestial interpretation overlapped. In that setting, “fighting in the sky” may tell us as much about the mental world of Reformation-era readers as about the physical appearance of the sky.
 
-The best sceptical reading, then, is not one single debunking slogan. It is a layered explanation:
-
-
-<div class="content-enhancement content-enhancement--caution" markdown="1">
+The best sceptical reading, then, is not one single debunking slogan. It is a layered explanation:<div class="content-enhancement content-enhancement--caution" markdown="1">
 
 * **A real dawn optical event is plausible** because the account is sun-centred and the conditions described match the general circumstances in which halos and sundogs can be striking.
 * **The printed form shaped the story** because a broadsheet was designed to condense, dramatise and moralise.
 * **Religious interpretation was built into the source** because Glaser explicitly frames the event as a warning from God.
-* **The UFO interpretation is modern** because it depends on reading 16th-century symbolic language through the expectations of aircraft, spacecraft and technological warfare.
-
-</div>
-
-
-<img src="{{ "/assets/images/Bavaria_3c0123_nuremberg_1561_sky_d281fd-Illustration-2-dark.svg" | relative_url }}" alt="Nuremberg 1561 illustration 2" data-theme-src-dark="{{ "/assets/images/Bavaria_3c0123_nuremberg_1561_sky_d281fd-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Bavaria_3c0123_nuremberg_1561_sky_d281fd-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+* **The UFO interpretation is modern** because it depends on reading 16th-century symbolic language through the expectations of aircraft, spacecraft and technological warfare.</div><img src="{{"/assets/images/Bavaria_3c0123_nuremberg_1561_sky_d281fd-Illustration-2-dark.svg" | relative_url }}" alt="Nuremberg 1561 illustration 2" data-theme-src-dark="{{"/assets/images/Bavaria_3c0123_nuremberg_1561_sky_d281fd-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{"/assets/images/Bavaria_3c0123_nuremberg_1561_sky_d281fd-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Nuremberg still belongs in Bavaria’s UFO history
 
 Nuremberg 1561 is not a Bavarian government file, a radar case, an airbase incident or a modern witness investigation. It belongs in Bavaria’s UFO history for a different reason: it is the region’s most famous inherited sky mystery, repeatedly repackaged as evidence that “UFOs” were seen long before the modern flying saucer era. That makes it useful as a test case for how historical sources should be handled.
@@ -371,236 +354,46 @@ The case also helps separate three categories that are often blurred:
 
 **Extraterrestrial** is a much stronger claim, and the Nuremberg broadsheet does not supply the kind of evidence needed for it.
 
-That distinction is valuable across the wider Bavaria project. Many UFO stories survive because they are memorable, not because they are evidentially strong. Nuremberg is memorable in the extreme. Its evidential value is more limited.
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/tifpLEFjz3U" title="Nuremberg Sky Battle of 1561 from a Catholic Perspective" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=tifpLEFjz3U" target="_blank" rel="noopener noreferrer">Nuremberg Sky Battle of 1561 from a Catholic Perspective</a></p><p class="youtube-embed-meta">Channel: Heroic Lives</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=tifpLEFjz3U" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=tifpLEFjz3U">Open on YouTube</a></p></div></div></div>
+That distinction is valuable across the wider Bavaria project. Many UFO stories survive because they are memorable, not because they are evidentially strong. Nuremberg is memorable in the extreme. Its evidential value is more limited.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/tifpLEFjz3U" title="Nuremberg Sky Battle of 1561 from a Catholic Perspective" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=tifpLEFjz3U" target="_blank" rel="noopener noreferrer">Nuremberg Sky Battle of 1561 from a Catholic Perspective</a></p><p class="youtube-embed-meta">Channel: Heroic Lives</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=tifpLEFjz3U" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=tifpLEFjz3U">Open on YouTube</a></p></div></div></div>
 
 ## What later reporting changed
 
-Later reporting has strengthened the case’s cultural importance but weakened its usefulness as a literal UFO claim. The more the broadsheet is placed alongside other 16th-century celestial prodigy prints, the less it looks like an isolated report of technology and the more it looks like part of a broader print culture of heavenly warnings. Public Domain Review’s survey explicitly situates Nuremberg among many similar German accounts, including reports of battles and signs in the sky, and links such material to Reformation-era apocalyptic expectations and rapidly spreading broadsheet media. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://publicdomainreview.org/collection/celestial-phenomena-16th-century-germany/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: publicdomainreview.org">[The Public Domain Review]</a><span class="citation-popover" role="note"><span class="citation-popover-source">publicdomainreview.org</span><span class="citation-popover-snippet">Open source on publicdomainreview.org.</span></span></span>
+Later reporting has strengthened the case’s cultural importance but weakened its usefulness as a literal UFO claim. The more the broadsheet is placed alongside other 16th-century celestial prodigy prints, the less it looks like an isolated report of technology and the more it looks like part of a broader print culture of heavenly warnings. Public Domain Review’s survey explicitly situates Nuremberg among many similar German accounts, including reports of battles and signs in the sky, and links such material to Reformation-era apocalyptic expectations and rapidly spreading broadsheet media.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://publicdomainreview.org/collection/celestial-phenomena-16th-century-germany/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: publicdomainreview.org">[The Public Domain Review]</a><span class="citation-popover" role="note"><span class="citation-popover-source">publicdomainreview.org</span><span class="citation-popover-snippet">Open source on publicdomainreview.org.</span></span></span>
 
-Modern atmospheric science has also made the natural starting point clearer. We do not need to identify the exact cloud field above Nuremberg on 14 April 1561 to know that low-sun ice-crystal phenomena can generate multiple bright forms, colour separation, halos and apparent “extra suns”. That is not a perfect reconstruction, but it is a more evidence-led explanation than spacecraft, because it fits the time of day, the solar focus and known optical mechanisms. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/blogs/earth-matters/2014/02/03/reader-pics-sundogs/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science Reader Pics: Sundogs</span><span class="citation-popover-snippet">Science Reader Pics: Sundogs</span></span></span>
+Modern atmospheric science has also made the natural starting point clearer. We do not need to identify the exact cloud field above Nuremberg on 14 April 1561 to know that low-sun ice-crystal phenomena can generate multiple bright forms, colour separation, halos and apparent “extra suns”. That is not a perfect reconstruction, but it is a more evidence-led explanation than spacecraft, because it fits the time of day, the solar focus and known optical mechanisms.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/blogs/earth-matters/2014/02/03/reader-pics-sundogs/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science Reader Pics: Sundogs</span><span class="citation-popover-snippet">Science Reader Pics: Sundogs</span></span></span>
 
-At the same time, a fair assessment should not overclaim. The Nuremberg broadsheet cannot be reduced neatly to “just a sundog” with every rod, globe, cross and spear accounted for. Its image is too stylised and its text too interpretive for that. The stronger conclusion is that the source is too culturally mediated to bear the weight placed on it by modern UFO claims.
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/zkLA5_dyOlc" title="The Day the Sky Went to War: World’s 1561 UFO Mystery" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=zkLA5_dyOlc" target="_blank" rel="noopener noreferrer">The Day the Sky Went to War: World’s 1561 UFO Mystery</a></p><p class="youtube-embed-meta">Channel: Bright Side Mystery</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=zkLA5_dyOlc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=zkLA5_dyOlc">Open on YouTube</a></p></div></div></div>
+At the same time, a fair assessment should not overclaim. The Nuremberg broadsheet cannot be reduced neatly to “just a sundog” with every rod, globe, cross and spear accounted for. Its image is too stylised and its text too interpretive for that. The stronger conclusion is that the source is too culturally mediated to bear the weight placed on it by modern UFO claims.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/zkLA5_dyOlc" title="The Day the Sky Went to War: World’s 1561 UFO Mystery" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=zkLA5_dyOlc" target="_blank" rel="noopener noreferrer">The Day the Sky Went to War: World’s 1561 UFO Mystery</a></p><p class="youtube-embed-meta">Channel: Bright Side Mystery</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=zkLA5_dyOlc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=zkLA5_dyOlc">Open on YouTube</a></p></div></div></div>
 
 ## A balanced judgement
 
 The Nuremberg sky spectacle is best understood as a famous early modern sky report, not as strong evidence for a UFO battle. The broadsheet records a dramatic dawn event over a city now in Bavaria, but it records it through the language of religious warning, printed spectacle and 16th-century visual symbolism. Its modern UFO reputation depends on extracting the most technological-looking details while downplaying the source’s devotional purpose and media context.
 
-For readers interested in Bavaria’s UFO history, the case is still worth taking seriously — not as proof of alien craft, but as a lesson in interpretation. It shows how a report can move through centuries, changing meaning as each age brings its own fears and categories to the sky. In 1561, the question was what God might be warning Nuremberg about. In the modern UFO era, the question became whether the woodcut showed craft fighting above the city. The surviving evidence supports a more careful answer: an unusual or reported sky display, transformed by early modern print culture, later reimagined as a UFO event.
-
-
-<img src="{{ "/assets/images/Bavaria_3c0123_nuremberg_1561_sky_d281fd-Illustration-3-dark.svg" | relative_url }}" alt="Nuremberg 1561 illustration 3" data-theme-src-dark="{{ "/assets/images/Bavaria_3c0123_nuremberg_1561_sky_d281fd-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Bavaria_3c0123_nuremberg_1561_sky_d281fd-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
-
-<section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Was Nuremberg&#x27;s Sky Battle Really a UFO?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
-        
-        <p class="fr-book-desc">Introduces critical evaluation of reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
-        
-        <p class="fr-book-desc">Frequently cited in discussions of historical UFO reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Believing Brain on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=a1ueBAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Believing Brain" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Believing Brain">The Believing Brain</a>
-        </h4>
-        <p class="fr-book-author">By Michael Shermer</p>
-        
-        <p class="fr-book-desc">Explores interpretation of extraordinary claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+UFO+Encyclopedia+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Encyclopedia on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Encyclopedia+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Encyclopedia">The UFO Encyclopedia</a>
-        </h4>
-        <p class="fr-book-author">By Jerome Clark</p>
-        
-        <p class="fr-book-desc">Includes famous historical UFO cases.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Encyclopedia+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Believing+Brain&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Believing Brain</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
-</section>
-
-<section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
-
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
-
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+tin+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nuremberg-1561-was-nuremberg-s-sky-battle-really-a-ufo-bavaria-ufo-tin-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO tin sign" data-ebay-reference="nuremberg-1561-was-nuremberg-s-sky-battle-really-a-ufo-bavaria-ufo-tin-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Aliens Area Explore The Galaxy Tin Sign 20cm X 30cm Retro Style"><img src="{{ '/assets/images/marketplace-covers/b6b9bdd489ae3c0b815e.jpg' | relative_url }}" alt="Listing image for Aliens Area Explore The Galaxy Tin Sign 20cm X 30cm Retro Style" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+tin+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nuremberg-1561-was-nuremberg-s-sky-battle-really-a-ufo-bavaria-ufo-tin-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO tin sign" data-ebay-reference="nuremberg-1561-was-nuremberg-s-sky-battle-really-a-ufo-bavaria-ufo-tin-sign" target="_blank" rel="sponsored noopener noreferrer">Aliens Area Explore The Galaxy Tin Sign 20cm X 30cm Retro Style</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+tin+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nuremberg-1561-was-nuremberg-s-sky-battle-really-a-ufo-bavaria-ufo-tin-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO tin sign" data-ebay-reference="nuremberg-1561-was-nuremberg-s-sky-battle-really-a-ufo-bavaria-ufo-tin-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO tin sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO tin sign</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+tin+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nuremberg-1561-was-nuremberg-s-sky-battle-really-a-ufo-bavaria-ufo-tin-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO tin sign" data-ebay-reference="nuremberg-1561-was-nuremberg-s-sky-battle-really-a-ufo-bavaria-ufo-tin-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+tin+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nuremberg-1561-was-nuremberg-s-sky-battle-really-a-ufo-bavaria-ufo-tin-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO tin sign" data-ebay-reference="nuremberg-1561-was-nuremberg-s-sky-battle-really-a-ufo-bavaria-ufo-tin-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage Area 51 Alien Metal Sign Retro UFO Tin Wall Art Home Bar Cafe Decor"><img src="{{ '/assets/images/marketplace-covers/6db7b2cc3951e1518785.jpg' | relative_url }}" alt="Listing image for Vintage Area 51 Alien Metal Sign Retro UFO Tin Wall Art Home Bar Cafe Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+tin+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nuremberg-1561-was-nuremberg-s-sky-battle-really-a-ufo-bavaria-ufo-tin-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO tin sign" data-ebay-reference="nuremberg-1561-was-nuremberg-s-sky-battle-really-a-ufo-bavaria-ufo-tin-sign" target="_blank" rel="sponsored noopener noreferrer">Vintage Area 51 Alien Metal Sign Retro UFO Tin Wall Art Home Bar Cafe Decor</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+tin+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nuremberg-1561-was-nuremberg-s-sky-battle-really-a-ufo-bavaria-ufo-tin-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO tin sign" data-ebay-reference="nuremberg-1561-was-nuremberg-s-sky-battle-really-a-ufo-bavaria-ufo-tin-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO tin sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO tin sign</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+tin+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nuremberg-1561-was-nuremberg-s-sky-battle-really-a-ufo-bavaria-ufo-tin-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO tin sign" data-ebay-reference="nuremberg-1561-was-nuremberg-s-sky-battle-really-a-ufo-bavaria-ufo-tin-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+tin+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nuremberg-1561-was-nuremberg-s-sky-battle-really-a-ufo-bavaria-ufo-tin-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO tin sign" data-ebay-reference="nuremberg-1561-was-nuremberg-s-sky-battle-really-a-ufo-bavaria-ufo-tin-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Flying Saucers Tin Sign 20cm X 30cm Retro Style"><img src="{{ '/assets/images/marketplace-covers/0766f5870481e1cb1479.jpg' | relative_url }}" alt="Listing image for UFO Flying Saucers Tin Sign 20cm X 30cm Retro Style" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+tin+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nuremberg-1561-was-nuremberg-s-sky-battle-really-a-ufo-bavaria-ufo-tin-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO tin sign" data-ebay-reference="nuremberg-1561-was-nuremberg-s-sky-battle-really-a-ufo-bavaria-ufo-tin-sign" target="_blank" rel="sponsored noopener noreferrer">UFO Flying Saucers Tin Sign 20cm X 30cm Retro Style</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+tin+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nuremberg-1561-was-nuremberg-s-sky-battle-really-a-ufo-bavaria-ufo-tin-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO tin sign" data-ebay-reference="nuremberg-1561-was-nuremberg-s-sky-battle-really-a-ufo-bavaria-ufo-tin-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO tin sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO tin sign</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+tin+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nuremberg-1561-was-nuremberg-s-sky-battle-really-a-ufo-bavaria-ufo-tin-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO tin sign" data-ebay-reference="nuremberg-1561-was-nuremberg-s-sky-battle-really-a-ufo-bavaria-ufo-tin-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+tin+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nuremberg-1561-was-nuremberg-s-sky-battle-really-a-ufo-bavaria-ufo-tin-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO tin sign" data-ebay-reference="nuremberg-1561-was-nuremberg-s-sky-battle-really-a-ufo-bavaria-ufo-tin-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Danger Radiation – Alien/UFO Area 51 Warning Tin Metal Sign – Garage Man Cave Ar"><img src="{{ '/assets/images/marketplace-covers/5d94b10d5d0f4c4b9720.jpg' | relative_url }}" alt="Listing image for Danger Radiation – Alien/UFO Area 51 Warning Tin Metal Sign – Garage Man Cave Ar" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+tin+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nuremberg-1561-was-nuremberg-s-sky-battle-really-a-ufo-bavaria-ufo-tin-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO tin sign" data-ebay-reference="nuremberg-1561-was-nuremberg-s-sky-battle-really-a-ufo-bavaria-ufo-tin-sign" target="_blank" rel="sponsored noopener noreferrer">Danger Radiation – Alien/UFO Area 51 Warning Tin Metal Sign – Garage Man Cave Ar</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+tin+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nuremberg-1561-was-nuremberg-s-sky-battle-really-a-ufo-bavaria-ufo-tin-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO tin sign" data-ebay-reference="nuremberg-1561-was-nuremberg-s-sky-battle-really-a-ufo-bavaria-ufo-tin-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO tin sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO tin sign</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+tin+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nuremberg-1561-was-nuremberg-s-sky-battle-really-a-ufo-bavaria-ufo-tin-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO tin sign" data-ebay-reference="nuremberg-1561-was-nuremberg-s-sky-battle-really-a-ufo-bavaria-ufo-tin-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+tin+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nuremberg-1561-was-nuremberg-s-sky-battle-really-a-ufo-bavaria-ufo-tin-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO tin sign" data-ebay-reference="nuremberg-1561-was-nuremberg-s-sky-battle-really-a-ufo-bavaria-ufo-tin-sign" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+For readers interested in Bavaria’s UFO history, the case is still worth taking seriously — not as proof of alien craft, but as a lesson in interpretation. It shows how a report can move through centuries, changing meaning as each age brings its own fears and categories to the sky. In 1561, the question was what God might be warning Nuremberg about. In the modern UFO era, the question became whether the woodcut showed craft fighting above the city. The surviving evidence supports a more careful answer: an unusual or reported sky display, transformed by early modern print culture, later reimagined as a UFO event.<img src="{{"/assets/images/Bavaria_3c0123_nuremberg_1561_sky_d281fd-Illustration-3-dark.svg" | relative_url }}" alt="Nuremberg 1561 illustration 3" data-theme-src-dark="{{"/assets/images/Bavaria_3c0123_nuremberg_1561_sky_d281fd-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{"/assets/images/Bavaria_3c0123_nuremberg_1561_sky_d281fd-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low"><section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title"><div class="fr-section-shell"><div class="fr-section-header"><div class="fr-section-heading"><p class="fr-section-kicker">Amazon book picks</p><h3 class="fr-heading" id="further-reading-title">Further Reading</h3></div><p class="fr-intro">Books and field guides related to Was Nuremberg&#x27;s Sky Battle Really a UFO?. Use these as the next step if you want deeper reading beyond the article.</p></div><div class="fr-books-grid"><article class="fr-book-card"><a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a><div class="fr-book-info"><h4 class="fr-book-title"><a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a></h4><p class="fr-book-author">By Joseph Allen Hynek</p><p class="fr-book-desc">Introduces critical evaluation of reports.</p><div class="fr-book-actions"><a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon</a></div></div></article><article class="fr-book-card"><a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a><div class="fr-book-info"><h4 class="fr-book-title"><a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a></h4><p class="fr-book-author">By Jacques Vallee</p><p class="fr-book-desc">Frequently cited in discussions of historical UFO reports.</p><div class="fr-book-actions"><a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon</a></div></div></article><article class="fr-book-card"><a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Believing Brain on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=a1ueBAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Believing Brain" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a><div class="fr-book-info"><h4 class="fr-book-title"><a href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Believing Brain">The Believing Brain</a></h4><p class="fr-book-author">By Michael Shermer</p><p class="fr-book-desc">Explores interpretation of extraordinary claims.</p><div class="fr-book-actions"><a href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon</a></div></div></article><article class="fr-book-card"><a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+UFO+Encyclopedia+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Encyclopedia on Amazon"><span class="fr-book-cover-fallback">Book</span></a><div class="fr-book-info"><h4 class="fr-book-title"><a href="https://www.amazon.com/s?k=The+UFO+Encyclopedia+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Encyclopedia">The UFO Encyclopedia</a></h4><p class="fr-book-author">By Jerome Clark</p><p class="fr-book-desc">Includes famous historical UFO cases.</p><div class="fr-book-actions"><a href="https://www.amazon.com/s?k=The+UFO+Encyclopedia+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon</a></div></div></article></div><div class="fr-section-footer"><div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Believing+Brain&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Believing Brain</a></div><p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p></div></div></section><section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title"><div class="fr-section-shell"><div class="fr-section-header"><div class="fr-section-heading"><p class="fr-section-kicker">eBay marketplace picks</p><h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3></div><p class="fr-intro">Live-tested eBay searches with available results related to this page.</p><div class="fr-ebay-market-toolbar"><label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label><div class="fr-ebay-market-picker"><span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span><button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span><span data-ebay-trigger-market-label>USA</span></button><select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location"><option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option></select><div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button></div></div></div></div><div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1"><div class="fr-books-grid"><article class="fr-book-card"><a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+tin+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nuremberg-1561-was-nuremberg-s-sky-battle-really-a-ufo-bavaria-ufo-tin-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO tin sign" data-ebay-reference="nuremberg-1561-was-nuremberg-s-sky-battle-really-a-ufo-bavaria-ufo-tin-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Aliens Area Explore The Galaxy Tin Sign 20cm X 30cm Retro Style"><img src="{{'/assets/images/marketplace-covers/b6b9bdd489ae3c0b815e.jpg' | relative_url }}" alt="Listing image for Aliens Area Explore The Galaxy Tin Sign 20cm X 30cm Retro Style" loading="lazy" decoding="async" fetchpriority="low"></a><div class="fr-book-info"><p class="fr-book-kicker">Example eBay listing</p><h4 class="fr-book-title"><a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+tin+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nuremberg-1561-was-nuremberg-s-sky-battle-really-a-ufo-bavaria-ufo-tin-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO tin sign" data-ebay-reference="nuremberg-1561-was-nuremberg-s-sky-battle-really-a-ufo-bavaria-ufo-tin-sign" target="_blank" rel="sponsored noopener noreferrer">Aliens Area Explore The Galaxy Tin Sign 20cm X 30cm Retro Style</a></h4><a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+tin+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nuremberg-1561-was-nuremberg-s-sky-battle-really-a-ufo-bavaria-ufo-tin-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO tin sign" data-ebay-reference="nuremberg-1561-was-nuremberg-s-sky-battle-really-a-ufo-bavaria-ufo-tin-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO tin sign">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO tin sign</a><div class="fr-book-actions"><a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+tin+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nuremberg-1561-was-nuremberg-s-sky-battle-really-a-ufo-bavaria-ufo-tin-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO tin sign" data-ebay-reference="nuremberg-1561-was-nuremberg-s-sky-battle-really-a-ufo-bavaria-ufo-tin-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span></a></div></div></article><article class="fr-book-card"><a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+tin+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nuremberg-1561-was-nuremberg-s-sky-battle-really-a-ufo-bavaria-ufo-tin-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO tin sign" data-ebay-reference="nuremberg-1561-was-nuremberg-s-sky-battle-really-a-ufo-bavaria-ufo-tin-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage Area 51 Alien Metal Sign Retro UFO Tin Wall Art Home Bar Cafe Decor"><img src="{{'/assets/images/marketplace-covers/6db7b2cc3951e1518785.jpg' | relative_url }}" alt="Listing image for Vintage Area 51 Alien Metal Sign Retro UFO Tin Wall Art Home Bar Cafe Decor" loading="lazy" decoding="async" fetchpriority="low"></a><div class="fr-book-info"><p class="fr-book-kicker">Example eBay listing</p><h4 class="fr-book-title"><a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+tin+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nuremberg-1561-was-nuremberg-s-sky-battle-really-a-ufo-bavaria-ufo-tin-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO tin sign" data-ebay-reference="nuremberg-1561-was-nuremberg-s-sky-battle-really-a-ufo-bavaria-ufo-tin-sign" target="_blank" rel="sponsored noopener noreferrer">Vintage Area 51 Alien Metal Sign Retro UFO Tin Wall Art Home Bar Cafe Decor</a></h4><a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+tin+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nuremberg-1561-was-nuremberg-s-sky-battle-really-a-ufo-bavaria-ufo-tin-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO tin sign" data-ebay-reference="nuremberg-1561-was-nuremberg-s-sky-battle-really-a-ufo-bavaria-ufo-tin-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO tin sign">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO tin sign</a><div class="fr-book-actions"><a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+tin+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nuremberg-1561-was-nuremberg-s-sky-battle-really-a-ufo-bavaria-ufo-tin-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO tin sign" data-ebay-reference="nuremberg-1561-was-nuremberg-s-sky-battle-really-a-ufo-bavaria-ufo-tin-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span></a></div></div></article><article class="fr-book-card"><a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+tin+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nuremberg-1561-was-nuremberg-s-sky-battle-really-a-ufo-bavaria-ufo-tin-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO tin sign" data-ebay-reference="nuremberg-1561-was-nuremberg-s-sky-battle-really-a-ufo-bavaria-ufo-tin-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Flying Saucers Tin Sign 20cm X 30cm Retro Style"><img src="{{'/assets/images/marketplace-covers/0766f5870481e1cb1479.jpg' | relative_url }}" alt="Listing image for UFO Flying Saucers Tin Sign 20cm X 30cm Retro Style" loading="lazy" decoding="async" fetchpriority="low"></a><div class="fr-book-info"><p class="fr-book-kicker">Example eBay listing</p><h4 class="fr-book-title"><a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+tin+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nuremberg-1561-was-nuremberg-s-sky-battle-really-a-ufo-bavaria-ufo-tin-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO tin sign" data-ebay-reference="nuremberg-1561-was-nuremberg-s-sky-battle-really-a-ufo-bavaria-ufo-tin-sign" target="_blank" rel="sponsored noopener noreferrer">UFO Flying Saucers Tin Sign 20cm X 30cm Retro Style</a></h4><a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+tin+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nuremberg-1561-was-nuremberg-s-sky-battle-really-a-ufo-bavaria-ufo-tin-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO tin sign" data-ebay-reference="nuremberg-1561-was-nuremberg-s-sky-battle-really-a-ufo-bavaria-ufo-tin-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO tin sign">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO tin sign</a><div class="fr-book-actions"><a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+tin+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nuremberg-1561-was-nuremberg-s-sky-battle-really-a-ufo-bavaria-ufo-tin-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO tin sign" data-ebay-reference="nuremberg-1561-was-nuremberg-s-sky-battle-really-a-ufo-bavaria-ufo-tin-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span></a></div></div></article><article class="fr-book-card"><a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+tin+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nuremberg-1561-was-nuremberg-s-sky-battle-really-a-ufo-bavaria-ufo-tin-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO tin sign" data-ebay-reference="nuremberg-1561-was-nuremberg-s-sky-battle-really-a-ufo-bavaria-ufo-tin-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Danger Radiation – Alien/UFO Area 51 Warning Tin Metal Sign – Garage Man Cave Ar"><img src="{{'/assets/images/marketplace-covers/5d94b10d5d0f4c4b9720.jpg' | relative_url }}" alt="Listing image for Danger Radiation – Alien/UFO Area 51 Warning Tin Metal Sign – Garage Man Cave Ar" loading="lazy" decoding="async" fetchpriority="low"></a><div class="fr-book-info"><p class="fr-book-kicker">Example eBay listing</p><h4 class="fr-book-title"><a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+tin+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nuremberg-1561-was-nuremberg-s-sky-battle-really-a-ufo-bavaria-ufo-tin-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO tin sign" data-ebay-reference="nuremberg-1561-was-nuremberg-s-sky-battle-really-a-ufo-bavaria-ufo-tin-sign" target="_blank" rel="sponsored noopener noreferrer">Danger Radiation – Alien/UFO Area 51 Warning Tin Metal Sign – Garage Man Cave Ar</a></h4><a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+tin+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nuremberg-1561-was-nuremberg-s-sky-battle-really-a-ufo-bavaria-ufo-tin-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO tin sign" data-ebay-reference="nuremberg-1561-was-nuremberg-s-sky-battle-really-a-ufo-bavaria-ufo-tin-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO tin sign">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO tin sign</a><div class="fr-book-actions"><a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+tin+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nuremberg-1561-was-nuremberg-s-sky-battle-really-a-ufo-bavaria-ufo-tin-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO tin sign" data-ebay-reference="nuremberg-1561-was-nuremberg-s-sky-battle-really-a-ufo-bavaria-ufo-tin-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span></a></div></div></article></div><div class="fr-section-footer"><a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+tin+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nuremberg-1561-was-nuremberg-s-sky-battle-really-a-ufo-bavaria-ufo-tin-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO tin sign" data-ebay-reference="nuremberg-1561-was-nuremberg-s-sky-battle-really-a-ufo-bavaria-ufo-tin-sign" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span></a><p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p></div></div></div><script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
-  var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
-  var timezoneRules = [{"market": "EBAY_IE", "pattern": "^Europe/Dublin$"}, {"market": "EBAY_GB", "pattern": "^Europe/(London|Belfast)$"}, {"market": "EBAY_CA", "pattern": "^America/(Toronto|Vancouver|Edmonton|Winnipeg|Halifax|St_Johns|Regina|Saskatoon|Whitehorse|Dawson|Moncton|Glace_Bay|Goose_Bay|Iqaluit|Yellowknife|Inuvik|Rankin_Inlet|Resolute|Cambridge_Bay|Fort_Nelson|Creston|Dawson_Creek)$"}, {"market": "EBAY_US", "pattern": "^America/"}, {"market": "EBAY_DE", "pattern": "^Europe/Berlin$"}, {"market": "EBAY_FR", "pattern": "^Europe/Paris$"}, {"market": "EBAY_IT", "pattern": "^Europe/Rome$"}, {"market": "EBAY_ES", "pattern": "^Europe/Madrid$"}, {"market": "EBAY_AU", "pattern": "^Australia/"}, {"market": "EBAY_AU", "pattern": "^Pacific/(Auckland|Chatham)$"}];
+  var localeMarketMap = {"de":"EBAY_DE","de-at":"EBAY_AT","de-ch":"EBAY_CH","de-de":"EBAY_DE","en":"EBAY_US","en-au":"EBAY_AU","en-ca":"EBAY_CA","en-gb":"EBAY_GB","en-ie":"EBAY_IE","en-nz":"EBAY_AU","en-uk":"EBAY_GB","en-us":"EBAY_US","es":"EBAY_ES","es-es":"EBAY_ES","fr":"EBAY_FR","fr-be":"EBAY_BE","fr-ca":"EBAY_CA","fr-fr":"EBAY_FR","it":"EBAY_IT","it-it":"EBAY_IT","nl":"EBAY_NL","nl-be":"EBAY_BE","nl-nl":"EBAY_NL"};
+  var timezoneRules = [{"market":"EBAY_IE","pattern":"^Europe/Dublin$"}, {"market":"EBAY_GB","pattern":"^Europe/(London|Belfast)$"}, {"market":"EBAY_CA","pattern":"^America/(Toronto|Vancouver|Edmonton|Winnipeg|Halifax|St_Johns|Regina|Saskatoon|Whitehorse|Dawson|Moncton|Glace_Bay|Goose_Bay|Iqaluit|Yellowknife|Inuvik|Rankin_Inlet|Resolute|Cambridge_Bay|Fort_Nelson|Creston|Dawson_Creek)$"}, {"market":"EBAY_US","pattern":"^America/"}, {"market":"EBAY_DE","pattern":"^Europe/Berlin$"}, {"market":"EBAY_FR","pattern":"^Europe/Paris$"}, {"market":"EBAY_IT","pattern":"^Europe/Rome$"}, {"market":"EBAY_ES","pattern":"^Europe/Madrid$"}, {"market":"EBAY_AU","pattern":"^Australia/"}, {"market":"EBAY_AU","pattern":"^Pacific/(Auckland|Chatham)$"}];
   function normalize(value) {
-    return String(value || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
+    return String(value ||'').toLowerCase().replace(/_/g,'-').replace(/[^a-z0-9-]+/g,'');
   }
   function localeMatches() {
     var languages = [];
-    var exactMarket = '';
-    var languageMarket = '';
+    var exactMarket ='';
+    var languageMarket ='';
     try {
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -614,24 +407,24 @@ For readers interested in Bavaria’s UFO history, the case is still worth takin
   }
   function inferFromLocale() {
     var matches = localeMatches();
-    return matches.exact || matches.language || '';
+    return matches.exact || matches.language ||'';
   }
   function inferFromTimezone() {
-    var tz = '';
-    try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
-    if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    var tz ='';
+    try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone ||''); } catch (err) {}
+    if (!tz) return'';
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
       } catch (err) {}
     }
-    return '';
+    return'';
   }
   function inferMarket(available, options) {
     available = Array.isArray(available) ? available : [];
     options = options || {};
-    var storageKey = options.storageKey || 'phoenix-affiliate-market';
+    var storageKey = options.storageKey ||'phoenix-affiliate-market';
     try {
       var saved = window.localStorage && localStorage.getItem(storageKey);
       if (saved && available.indexOf(saved) >= 0) return saved;
@@ -642,7 +435,7 @@ For readers interested in Bavaria’s UFO history, the case is still worth takin
     if (localeMarkets.exact && available.indexOf(localeMarkets.exact) >= 0) return localeMarkets.exact;
     if (localeMarkets.language && available.indexOf(localeMarkets.language) >= 0) return localeMarkets.language;
     if (options.defaultMarket && available.indexOf(options.defaultMarket) >= 0) return options.defaultMarket;
-    return available[0] || '';
+    return available[0] ||'';
   }
   window.PhoenixAffiliateLocation = {
     normalize: normalize,
@@ -650,45 +443,43 @@ For readers interested in Bavaria’s UFO history, the case is still worth takin
     inferFromLocale: inferFromLocale,
     inferFromTimezone: inferFromTimezone
   };
-})();
-</script>
-  <script type="text/javascript">
+})();</script><script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
-  var markets = {"EBAY_AU": {"campaign_id": "5339151051", "domain_label": "eBay.com.au", "label": "Australia", "mkrid": "705-53470-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com.au/sch/i.html?_nkw={query}"}, "EBAY_CA": {"campaign_id": "5339151051", "domain_label": "eBay.ca", "label": "Canada", "mkrid": "706-53473-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ca/sch/i.html?_nkw={query}"}, "EBAY_GB": {"campaign_id": "5339151051", "domain_label": "eBay.co.uk", "label": "UK", "mkrid": "710-53481-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.co.uk/sch/i.html?_nkw={query}"}, "EBAY_IE": {"campaign_id": "5339151051", "domain_label": "eBay.ie", "label": "Ireland", "mkrid": "5282-53468-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ie/sch/i.html?_nkw={query}"}, "EBAY_US": {"campaign_id": "5339151051", "domain_label": "eBay.com", "label": "USA", "mkrid": "711-53200-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com/sch/i.html?_nkw={query}"}};
-  var defaultMarket = "EBAY_GB";
+  var markets = {"EBAY_AU": {"campaign_id":"5339151051","domain_label":"eBay.com.au","label":"Australia","mkrid":"705-53470-19255-0","tool_id":"10001","url_template":"https://www.ebay.com.au/sch/i.html?_nkw={query}"},"EBAY_CA": {"campaign_id":"5339151051","domain_label":"eBay.ca","label":"Canada","mkrid":"706-53473-19255-0","tool_id":"10001","url_template":"https://www.ebay.ca/sch/i.html?_nkw={query}"},"EBAY_GB": {"campaign_id":"5339151051","domain_label":"eBay.co.uk","label":"UK","mkrid":"710-53481-19255-0","tool_id":"10001","url_template":"https://www.ebay.co.uk/sch/i.html?_nkw={query}"},"EBAY_IE": {"campaign_id":"5339151051","domain_label":"eBay.ie","label":"Ireland","mkrid":"5282-53468-19255-0","tool_id":"10001","url_template":"https://www.ebay.ie/sch/i.html?_nkw={query}"},"EBAY_US": {"campaign_id":"5339151051","domain_label":"eBay.com","label":"USA","mkrid":"711-53200-19255-0","tool_id":"10001","url_template":"https://www.ebay.com/sch/i.html?_nkw={query}"}};
+  var defaultMarket ="EBAY_GB";
   function encodeQuery(value) {
-    return encodeURIComponent(String(value || '').replace(/\s+/g, ' ').trim()).replace(/%20/g, '+');
+    return encodeURIComponent(String(value ||'').replace(/\s+/g,'').trim()).replace(/%20/g,'+');
   }
   function buildUrl(query, reference, marketId) {
     var cfg = markets[marketId] || markets[defaultMarket];
-    if (!cfg) return '#';
-    var template = String(cfg.url_template || 'https://www.ebay.com/sch/i.html?_nkw={query}');
-    var url = template.replace('{query}', encodeQuery(query || '')).replace('{query_plain}', String(query || ''));
-    var joiner = url.indexOf('?') >= 0 ? '&' : '?';
+    if (!cfg) return'#';
+    var template = String(cfg.url_template ||'https://www.ebay.com/sch/i.html?_nkw={query}');
+    var url = template.replace('{query}', encodeQuery(query ||'')).replace('{query_plain}', String(query ||''));
+    var joiner = url.indexOf('?') >= 0 ?'&' :'?';
     var params = [];
     if (cfg.mkrid) params.push('mkrid=' + encodeURIComponent(cfg.mkrid));
     if (cfg.campaign_id) params.push('campid=' + encodeURIComponent(cfg.campaign_id));
     params.push('mkevt=1');
     params.push('mkcid=1');
-    params.push('toolid=' + encodeURIComponent(cfg.tool_id || '10001'));
+    params.push('toolid=' + encodeURIComponent(cfg.tool_id ||'10001'));
     if (reference) params.push('customid=' + encodeURIComponent(reference).slice(0, 256));
     return url + joiner + params.join('&');
   }
   function domainLabel(marketId) {
     var cfg = markets[marketId] || markets[defaultMarket] || {};
-    return cfg.domain_label || 'eBay';
+    return cfg.domain_label ||'eBay';
   }
   function flagClass(marketId) {
-    return 'fr-ebay-market-flag fr-ebay-market-flag--' + String(marketId || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
+    return'fr-ebay-market-flag fr-ebay-market-flag--' + String(marketId ||'').toLowerCase().replace(/_/g,'-').replace(/[^a-z0-9-]+/g,'');
   }
   function closeMenu(section) {
     var menu = section.querySelector('[data-ebay-market-menu]');
     var trigger = section.querySelector('[data-ebay-market-trigger]');
     var picker = section.querySelector('.fr-ebay-market-picker');
     if (menu) menu.hidden = true;
-    if (trigger) trigger.setAttribute('aria-expanded', 'false');
+    if (trigger) trigger.setAttribute('aria-expanded','false');
     if (picker) picker.classList.remove('fr-ebay-market-picker--open');
   }
   function availableMarkets(section) {
@@ -704,10 +495,10 @@ For readers interested in Bavaria’s UFO history, the case is still worth takin
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
-      var query = link.getAttribute('data-ebay-query') || '';
-      var reference = link.getAttribute('data-ebay-reference') || '';
+      var query = link.getAttribute('data-ebay-query') ||'';
+      var reference = link.getAttribute('data-ebay-reference') ||'';
       link.setAttribute('href', buildUrl(query, reference, marketId));
     });
     var select = section.querySelector('[data-ebay-market-select]');
@@ -727,11 +518,11 @@ For readers interested in Bavaria’s UFO history, the case is still worth takin
       label.textContent = domainLabel(marketId);
     });
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
-      button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
+      button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ?'true' :'false');
     });
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
       var active = button.getAttribute('data-ebay-market-button') === marketId;
-      button.setAttribute('aria-pressed', active ? 'true' : 'false');
+      button.setAttribute('aria-pressed', active ?'true' :'false');
     });
     section.setAttribute('data-ebay-selected-market', marketId);
     if (persist) {
@@ -740,16 +531,16 @@ For readers interested in Bavaria’s UFO history, the case is still worth takin
     closeMenu(section);
   }
   sections.forEach(function (section) {
-    if (section.getAttribute('data-ebay-localized-init') === '1') return;
-    section.setAttribute('data-ebay-localized-init', '1');
+    if (section.getAttribute('data-ebay-localized-init') ==='1') return;
+    section.setAttribute('data-ebay-localized-init','1');
     var available = availableMarkets(section);
     var marketId = defaultMarket;
     if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
       marketId = window.PhoenixAffiliateLocation.inferMarket(available, {
-        storageKey: 'phoenix-ebay-market',
+        storageKey:'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -763,9 +554,9 @@ For readers interested in Bavaria’s UFO history, the case is still worth takin
     if (trigger && menu) {
       trigger.addEventListener('click', function (event) {
         event.stopPropagation();
-        var expanded = trigger.getAttribute('aria-expanded') === 'true';
+        var expanded = trigger.getAttribute('aria-expanded') ==='true';
         menu.hidden = expanded;
-        trigger.setAttribute('aria-expanded', expanded ? 'false' : 'true');
+        trigger.setAttribute('aria-expanded', expanded ?'false' :'true');
         var picker = trigger.closest('.fr-ebay-market-picker');
         if (picker) picker.classList.toggle('fr-ebay-market-picker--open', !expanded);
       });
@@ -784,101 +575,93 @@ For readers interested in Bavaria’s UFO history, the case is still worth takin
     });
     applyMarket(section, marketId, false);
   });
-})();
-</script>
-</section>
+})();</script></section>
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: science.nasa.gov  
    Title: Science Reader Pics: Sundogs  
-   Link: <a href="https://science.nasa.gov/blogs/earth-matters/2014/02/03/reader-pics-sundogs/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/blogs/earth-matters/2014/02/03/reader-pics-sundogs/</a>  
+   Link:<a href="https://science.nasa.gov/blogs/earth-matters/2014/02/03/reader-pics-sundogs/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/blogs/earth-matters/2014/02/03/reader-pics-sundogs/</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: weather.gov  
    Title: National Weather Service What Causes Halos, Sundogs and Sun Pillars?  
-   Link: <a href="https://www.weather.gov/arx/why_halos_sundogs_pillars" target="_blank" rel="noopener noreferrer nofollow">https://www.weather.gov/arx/why_halos_sundogs_pillars</a>  
+   Link:<a href="https://www.weather.gov/arx/why_halos_sundogs_pillars" target="_blank" rel="noopener noreferrer nofollow">https://www.weather.gov/arx/why_halos_sundogs_pillars</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: medium.com  
-   Link: <a href="https://medium.com/%40leonardoalmeida_5103/the-nuremberg-celestial-phenomenon-embracing-the-beauty-of-the-unknown-f5db92506055" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40leonardoalmeida_5103/the-nuremberg-celestial-phenomenon-embracing-the-beauty-of-the-unknown-f5db92506055</a>  
+   Link:<a href="https://medium.com/%40leonardoalmeida_5103/the-nuremberg-celestial-phenomenon-embracing-the-beauty-of-the-unknown-f5db92506055" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40leonardoalmeida_5103/the-nuremberg-celestial-phenomenon-embracing-the-beauty-of-the-unknown-f5db92506055</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: medium.com  
    Title: the nuremberg ufo sighting of 1561 4078ecfcd946  
-   Link: <a href="https://medium.com/lessons-from-history/the-nuremberg-ufo-sighting-of-1561-4078ecfcd946" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/lessons-from-history/the-nuremberg-ufo-sighting-of-1561-4078ecfcd946</a>  
+   Link:<a href="https://medium.com/lessons-from-history/the-nuremberg-ufo-sighting-of-1561-4078ecfcd946" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/lessons-from-history/the-nuremberg-ufo-sighting-of-1561-4078ecfcd946</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: medium.com  
-   Link: <a href="https://medium.com/the-mystery-box/the-strangest-day-in-human-history-ufo-battle-over-nuremberg-69d04e9e177f" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/the-mystery-box/the-strangest-day-in-human-history-ufo-battle-over-nuremberg-69d04e9e177f</a>  
+   Link:<a href="https://medium.com/the-mystery-box/the-strangest-day-in-human-history-ufo-battle-over-nuremberg-69d04e9e177f" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/the-mystery-box/the-strangest-day-in-human-history-ufo-battle-over-nuremberg-69d04e9e177f</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: publicdomainreview.org  
    Title: celestial phenomenon over nuremberg april 14th 1561  
-   Link: <a href="https://publicdomainreview.org/collection/celestial-phenomenon-over-nuremberg-april-14th-1561/" target="_blank" rel="noopener noreferrer nofollow">https://publicdomainreview.org/collection/celestial-phenomenon-over-nuremberg-april-14th-1561/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Public Domain ReviewCelestial Phenomenon Over Nuremberg, April 14th, 1561 — The Public Domain Review...</p></details>
+   Link:<a href="https://publicdomainreview.org/collection/celestial-phenomenon-over-nuremberg-april-14th-1561/" target="_blank" rel="noopener noreferrer nofollow">https://publicdomainreview.org/collection/celestial-phenomenon-over-nuremberg-april-14th-1561/</a><details class="endnote-snippet"><summary>Source snippet</summary><p>The Public Domain ReviewCelestial Phenomenon Over Nuremberg, April 14th, 1561 — The Public Domain Review...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: publicdomainreview.org  
-   Link: <a href="https://publicdomainreview.org/collection/celestial-phenomena-16th-century-germany/" target="_blank" rel="noopener noreferrer nofollow">https://publicdomainreview.org/collection/celestial-phenomena-16th-century-germany/</a>  
+   Link:<a href="https://publicdomainreview.org/collection/celestial-phenomena-16th-century-germany/" target="_blank" rel="noopener noreferrer nofollow">https://publicdomainreview.org/collection/celestial-phenomena-16th-century-germany/</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: pdimagearchive.org  
    Title: hans glaser  
-   Link: <a href="https://pdimagearchive.org/galleries/artists/hans-glaser//" target="_blank" rel="noopener noreferrer nofollow">https://pdimagearchive.org/galleries/artists/hans-glaser//</a>  
+   Link:<a href="https://pdimagearchive.org/galleries/artists/hans-glaser//" target="_blank" rel="noopener noreferrer nofollow">https://pdimagearchive.org/galleries/artists/hans-glaser//</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: weather.gov.hk  
    Title: 00353 indepth anatomy of the atmospheric optical phenomenon sun dog  
-   Link: <a href="https://www.weather.gov.hk/en/education/earth-science/optical-phenomena/00353-indepth-anatomy-of-the-atmospheric-optical-phenomenon-sun-dog.html" target="_blank" rel="noopener noreferrer nofollow">https://www.weather.gov.hk/en/education/earth-science/optical-phenomena/00353-indepth-anatomy-of-the-atmospheric-optical-phenomenon-sun-dog.html</a>  
+   Link:<a href="https://www.weather.gov.hk/en/education/earth-science/optical-phenomena/00353-indepth-anatomy-of-the-atmospheric-optical-phenomenon-sun-dog.html" target="_blank" rel="noopener noreferrer nofollow">https://www.weather.gov.hk/en/education/earth-science/optical-phenomena/00353-indepth-anatomy-of-the-atmospheric-optical-phenomenon-sun-dog.html</a>  
 
 ### Additional References
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: s3.us-west-1.wasabisys.com  
    Title: Jung Flying Saucers  
-   Link: <a href="https://s3.us-west-1.wasabisys.com/luminist/EB/I-J-K/Jung%20-%20Flying%20Saucers.pdf" target="_blank" rel="noopener noreferrer nofollow">https://s3.us-west-1.wasabisys.com/luminist/EB/I-J-K/Jung%20-%20Flying%20Saucers.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Page 114. Nuremberg Broadsheet, 1561. VI. Page 115. &quot;The... Jung&#x27;s primary concern in Flying Saucers is not with the reality or...Read...</p></details>
+   Link:<a href="https://s3.us-west-1.wasabisys.com/luminist/EB/I-J-K/Jung%20-%20Flying%20Saucers.pdf" target="_blank" rel="noopener noreferrer nofollow">https://s3.us-west-1.wasabisys.com/luminist/EB/I-J-K/Jung%20-%20Flying%20Saucers.pdf</a><details class="endnote-snippet"><summary>Source snippet</summary><p>Page 114. Nuremberg Broadsheet, 1561. VI. Page 115. &quot;The... Jung&#x27;s primary concern in Flying Saucers is not with the reality or...Read...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=tifpLEFjz3U" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=tifpLEFjz3U</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Oldest UFO Mass Sighting Ever Recorded | Nuremberg 1561...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=tifpLEFjz3U" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=tifpLEFjz3U</a><details class="endnote-snippet"><summary>Source snippet</summary><p>The Oldest UFO Mass Sighting Ever Recorded | Nuremberg 1561...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=rX0189Ky9G0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=rX0189Ky9G0</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>14th April 1561: The Nuremberg Celestial Phenomenon...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=rX0189Ky9G0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=rX0189Ky9G0</a><details class="endnote-snippet"><summary>Source snippet</summary><p>14th April 1561: The Nuremberg Celestial Phenomenon...</p></details>
    Published: April 1561  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=zkLA5_dyOlc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=zkLA5_dyOlc</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Nuremberg Sky Battle of 1561 from a Catholic Perspective...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=zkLA5_dyOlc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=zkLA5_dyOlc</a><details class="endnote-snippet"><summary>Source snippet</summary><p>Nuremberg Sky Battle of 1561 from a Catholic Perspective...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=b1sMKLrN4BI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=b1sMKLrN4BI</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Day the Sky Went to War: World&#x27;s 1561 UFO Mystery...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=b1sMKLrN4BI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=b1sMKLrN4BI</a><details class="endnote-snippet"><summary>Source snippet</summary><p>The Day the Sky Went to War: World&#x27;s 1561 UFO Mystery...</p></details>
    Published: April 1561  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: academia.edu  
-   Link: <a href="https://www.academia.edu/44787434/Three_Images_of_Celestial_Phenomena_in_Sixteenth_Century_German_Illustrated_Broadsheets_in_Matthias_Heiduk_Klaus_Herbers_Hans_Christian_Lehner_Hg_Prognostication_in_the_Medieval_World_A_Handbook_Berlin_Boston_2021_Vol_2_S_984_990" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/44787434/Three_Images_of_Celestial_Phenomena_in_Sixteenth_Century_German_Illustrated_Broadsheets_in_Matthias_Heiduk_Klaus_Herbers_Hans_Christian_Lehner_Hg_Prognostication_in_the_Medieval_World_A_Handbook_Berlin_Boston_2021_Vol_2_S_984_990</a>  
+   Link:<a href="https://www.academia.edu/44787434/Three_Images_of_Celestial_Phenomena_in_Sixteenth_Century_German_Illustrated_Broadsheets_in_Matthias_Heiduk_Klaus_Herbers_Hans_Christian_Lehner_Hg_Prognostication_in_the_Medieval_World_A_Handbook_Berlin_Boston_2021_Vol_2_S" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/44787434/Three_Images_of_Celestial_Phenomena_in_Sixteenth_Century_German_Illustrated_Broadsheets_in_Matthias_Heiduk_Klaus_Herbers_Hans_Christian_Lehner_Hg_Prognostication_in_the_Medieval_World_A_Handbook_Berlin_Boston_2021_Vol_2_S</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/BastilleGlobal/posts/a-rare-atmospheric-optical-phenomenon-commonly-known-as-sun-dogs-was-seen-in-ski/1337647805076549/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/BastilleGlobal/posts/a-rare-atmospheric-optical-phenomenon-commonly-known-as-sun-dogs-was-seen-in-ski/1337647805076549/</a>  
+   Link:<a href="https://www.facebook.com/BastilleGlobal/posts/a-rare-atmospheric-optical-phenomenon-commonly-known-as-sun-dogs-was-seen-in-ski/1337647805076549/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/BastilleGlobal/posts/a-rare-atmospheric-optical-phenomenon-commonly-known-as-sun-dogs-was-seen-in-ski/1337647805076549/</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: archive.org  
-   Link: <a href="https://archive.org/download/1965JacquesValleeAnatomyOfAPhenomenonnotOCR/%281965%29%20Jacques%20Vallee%20-%20Anatomy%20of%20a%20Phenomenon%20%28not%20OCR%29.pdf" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/download/1965JacquesValleeAnatomyOfAPhenomenonnotOCR/%281965%29%20Jacques%20Vallee%20-%20Anatomy%20of%20a%20Phenomenon%20%28not%20OCR%29.pdf</a>  
+   Link:<a href="https://archive.org/download/1965JacquesValleeAnatomyOfAPhenomenonnotOCR/%281965%29%20Jacques%20Vallee%20-%20Anatomy%20of%20a%20Phenomenon%20%28not%20OCR%29.pdf" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/download/1965JacquesValleeAnatomyOfAPhenomenonnotOCR/%281965%29%20Jacques%20Vallee%20-%20Anatomy%20of%20a%20Phenomenon%20%28not%20OCR%29.pdf</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: etsy.com  
-   Link: <a href="https://www.etsy.com/listing/545049675/celestial-phenomenon-over-nuremberg" target="_blank" rel="noopener noreferrer nofollow">https://www.etsy.com/listing/545049675/celestial-phenomenon-over-nuremberg</a>  
+   Link:<a href="https://www.etsy.com/listing/545049675/celestial-phenomenon-over-nuremberg" target="_blank" rel="noopener noreferrer nofollow">https://www.etsy.com/listing/545049675/celestial-phenomenon-over-nuremberg</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/PublicDomainReview/posts/image-from-a-16th-century-broadsheet-telling-of-a-celestial-apparition-which-occ/1072102888280415/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/PublicDomainReview/posts/image-from-a-16th-century-broadsheet-telling-of-a-celestial-apparition-which-occ/1072102888280415/</a>  
+   Link:<a href="https://www.facebook.com/PublicDomainReview/posts/image-from-a-16th-century-broadsheet-telling-of-a-celestial-apparition-which-occ/1072102888280415/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/PublicDomainReview/posts/image-from-a-16th-century-broadsheet-telling-of-a-celestial-apparition-which-occ/1072102888280415/</a>  

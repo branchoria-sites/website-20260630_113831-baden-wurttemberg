@@ -52,7 +52,7 @@ text_direction: ltr
 ui_strings:
   home: Home
   overview: Overview
-  overview_prefix: 'Overview:'
+  overview_prefix:'Overview:'
   contents: Contents
   close: Close
   open_contents: Open contents
@@ -200,13 +200,13 @@ ui_strings:
   search_this_page_empty_hint: Type to search this page.
   no_search_results: No pages match this search.
   no_search_this_page_results: No sections on this page match this search.
-  search_results_count_template: '{count} results'
+  search_results_count_template:'{count} results'
   search_kind_page_title: Page title
   search_kind_page_summary: Summary of page
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date: '2026-06-30 01:24:01'
+date:'2026-06-30 01:24:01'
 parent_title: Bremen UFOs
 parent_permalink: /when-bremens-ufo-story-became-an-airport/
 parent_nav_short_title: Bremen UFOs
@@ -271,7 +271,7 @@ sibling_links:
   title: UFO Meaning | When Bremen's UFO Story Became an Airport...
   permalink: /ufo-meaning/
   short_title: UFO Meaning
-  heading_title: What 'UFO' Really Meant in Bremen
+  heading_title: What'UFO' Really Meant in Bremen
 - basename: Bremen_20b942_witness_reports_78ec97
   title: Witnesses | When Bremen's UFO Story Became an Airport...
   permalink: /witnesses-0d1ceb/
@@ -302,77 +302,59 @@ image: /assets/images/Bremen_20b942_media_coverage_018ad5-overview-social.jpg
 
 ## Introduction
 
-[Bremen]({{ 'when-bremens-ufo-story-became-an-airport/' | relative_url }})’s best-known UFO story began as an airport safety problem, not as evidence of visitors from elsewhere. On 6 January 2014, an unidentified object in or near [Bremen Airport]({{ '2014-incident/' | relative_url }})’s controlled airspace disrupted operations, appeared in early reporting as a “UFO”, and drew public curiosity because the word carried a ready-made sense of mystery. The useful lesson is not that the case became more extraordinary over time, but almost the opposite: the news cycle moved from dramatic uncertainty towards a more ordinary explanation, with police later saying a remotely controlled model aircraft or multicopter was the likeliest cause. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.euronews.com/2014/01/07/ufo-disrupts-flights-at-bremen-airport-in-germany" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: euronews.com">[euronews]</a><span class="citation-popover" role="note"><span class="citation-popover-source">euronews.com</span><span class="citation-popover-snippet">UFO disrupts flights at Bremen airport in Germany7 Jan 2014 — Flights were disrupted when a UFO appeared on radars at a German ai...</span></span></span>
-
-
-<img src="{{ "/assets/images/Bremen_20b942_media_coverage_018ad5-overview.webp" | relative_url }}" alt="Overview image for Media Story" loading="eager" decoding="sync" fetchpriority="high">
-That makes the Bremen case valuable within the state’s UFO history. It shows how a technically accurate label — an unidentified flying object — can become a public-facing UFO headline when it meets radar mentions, flight delays, police searches and eyewitness reports. The story mattered because it affected real aviation decisions. It cooled down because follow-up reporting shifted the focus from “What was that?” to “Who operated it, and why was it near an airport?” <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.n-tv.de/panorama/Ufo-Sichtung-am-Airport-Bremen-Polizei-muss-auf-Augenzeugen-warten-article12026851.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: n-tv.de">[n-tv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">n-tv.de</span><span class="citation-popover-snippet">Ufo-Sichtung am Airport Bremen: Polizei muss auf...January 7, 2014 — 7 Jan 2014 — Die Polizei in Bremen sucht nach einem unbekannten...</span><span class="citation-popover-meta">Published: January 7, 2014</span></span></span>
-
-
+[Bremen]({{'when-bremens-ufo-story-became-an-airport/' | relative_url }})’s best-known UFO story began as an airport safety problem, not as evidence of visitors from elsewhere. On 6 January 2014, an unidentified object in or near [Bremen Airport]({{'2014-incident/' | relative_url }})’s controlled airspace disrupted operations, appeared in early reporting as a “UFO”, and drew public curiosity because the word carried a ready-made sense of mystery. The useful lesson is not that the case became more extraordinary over time, but almost the opposite: the news cycle moved from dramatic uncertainty towards a more ordinary explanation, with police later saying a remotely controlled model aircraft or multicopter was the likeliest cause.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.euronews.com/2014/01/07/ufo-disrupts-flights-at-bremen-airport-in-germany" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: euronews.com">[euronews]</a><span class="citation-popover" role="note"><span class="citation-popover-source">euronews.com</span><span class="citation-popover-snippet">UFO disrupts flights at Bremen airport in Germany7 Jan 2014 — Flights were disrupted when a UFO appeared on radars at a German ai...</span></span></span><img src="{{"/assets/images/Bremen_20b942_media_coverage_018ad5-overview.webp" | relative_url }}" alt="Overview image for Media Story" loading="eager" decoding="sync" fetchpriority="high">
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/1KjffJAtIWc" title="German police investigates drone sightings after airspace violations • FRANCE 24 English" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=1KjffJAtIWc" target="_blank" rel="noopener noreferrer">German police investigates drone sightings after airspace violations • FRANCE 24 English</a></p><p class="youtube-embed-meta">Channel: FRANCE 24 English</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=1KjffJAtIWc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=1KjffJAtIWc">Open on YouTube</a></p></div></div></div>
 
 ## Early headlines and public curiosity
 
-The first wave of coverage had all the ingredients needed to turn a local aviation incident into a UFO story. Euronews reported on 7 January 2014 that flights at Bremen Airport had been disrupted after a UFO appeared on radar, causing one cancellation, one diversion and delays. The report said the object had shown up several times between 16:30 and 21:30 local time, and that police sent a helicopter to investigate. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.euronews.com/2014/01/07/ufo-disrupts-flights-at-bremen-airport-in-germany" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: euronews.com">[euronews]</a><span class="citation-popover" role="note"><span class="citation-popover-source">euronews.com</span><span class="citation-popover-snippet">UFO disrupts flights at Bremen airport in Germany7 Jan 2014 — Flights were disrupted when a UFO appeared on radars at a German ai...</span></span></span>
+The first wave of coverage had all the ingredients needed to turn a local aviation incident into a UFO story. Euronews reported on 7 January 2014 that flights at Bremen Airport had been disrupted after a UFO appeared on radar, causing one cancellation, one diversion and delays. The report said the object had shown up several times between 16:30 and 21:30 local time, and that police sent a helicopter to investigate.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.euronews.com/2014/01/07/ufo-disrupts-flights-at-bremen-airport-in-germany" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: euronews.com">[euronews]</a><span class="citation-popover" role="note"><span class="citation-popover-source">euronews.com</span><span class="citation-popover-snippet">UFO disrupts flights at Bremen airport in Germany7 Jan 2014 — Flights were disrupted when a UFO appeared on radars at a German ai...</span></span></span>
 
 The framing was powerful because it combined two meanings of “UFO”. In aviation and policing terms, the object was unidentified: it was not in radio contact, could not immediately be matched to known traffic, and was close enough to the airport to affect operations. In popular culture, however, “UFO” suggests a larger mystery. That double meaning helped the Bremen story travel beyond local German reporting into international outlets.
 
-German coverage also supplied details that made the incident feel more concrete than a vague light-in-the-sky anecdote. n-tv described police searching for an unknown flying object after tower staff could not identify the aircraft, while also noting that nobody seriously expected an extraterrestrial explanation. That combination — operational seriousness plus sceptical caution — is central to how the case should be read. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.n-tv.de/panorama/Ufo-Sichtung-am-Airport-Bremen-Polizei-muss-auf-Augenzeugen-warten-article12026851.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: n-tv.de">[n-tv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">n-tv.de</span><span class="citation-popover-snippet">Ufo-Sichtung am Airport Bremen: Polizei muss auf...January 7, 2014 — 7 Jan 2014 — Die Polizei in Bremen sucht nach einem unbekannten...</span><span class="citation-popover-meta">Published: January 7, 2014</span></span></span>
+German coverage also supplied details that made the incident feel more concrete than a vague light-in-the-sky anecdote. n-tv described police searching for an unknown flying object after tower staff could not identify the aircraft, while also noting that nobody seriously expected an extraterrestrial explanation. That combination — operational seriousness plus sceptical caution — is central to how the case should be read.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.n-tv.de/panorama/Ufo-Sichtung-am-Airport-Bremen-Polizei-muss-auf-Augenzeugen-warten-article12026851.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: n-tv.de">[n-tv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">n-tv.de</span><span class="citation-popover-snippet">Ufo-Sichtung am Airport Bremen: Polizei muss auf...January 7, 2014 — 7 Jan 2014 — Die Polizei in Bremen sucht nach einem unbekannten...</span><span class="citation-popover-meta">Published: January 7, 2014</span></span></span>
 
-The public curiosity was not irrational. The report involved a real airport, not an isolated countryside sighting. Police were involved. A helicopter search was reported. [Witnesses]({{ 'witnesses-0d1ceb/' | relative_url }}) were invited to come forward. Some accounts described a helicopter-like object with lights, hovering or moving slowly at low altitude. Welt reported witness descriptions including a “small helicopter”-sized object and changing light patterns, details that sound vivid but are also compatible with more mundane aerial devices. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.welt.de/vermischtes/article123636633/Ausserirdische-Die-Theorie-zum-raetselhaften-Ufo-ueber-Bremen.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: welt.de">[DIE WELT]</a><span class="citation-popover" role="note"><span class="citation-popover-source">welt.de</span><span class="citation-popover-title">DIE WELTDie Theorie zum rätselhaften Ufo über Bremen</span><span class="citation-popover-snippet">DIE WELTDie Theorie zum rätselhaften Ufo über Bremen</span></span></span>
+The public curiosity was not irrational. The report involved a real airport, not an isolated countryside sighting. Police were involved. A helicopter search was reported. [Witnesses]({{'witnesses-0d1ceb/' | relative_url }}) were invited to come forward. Some accounts described a helicopter-like object with lights, hovering or moving slowly at low altitude. Welt reported witness descriptions including a “small helicopter”-sized object and changing light patterns, details that sound vivid but are also compatible with more mundane aerial devices.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.welt.de/vermischtes/article123636633/Ausserirdische-Die-Theorie-zum-raetselhaften-Ufo-ueber-Bremen.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: welt.de">[DIE WELT]</a><span class="citation-popover" role="note"><span class="citation-popover-source">welt.de</span><span class="citation-popover-title">DIE WELTDie Theorie zum rätselhaften Ufo über Bremen</span><span class="citation-popover-snippet">DIE WELTDie Theorie zum rätselhaften Ufo über Bremen</span></span></span>
 
-This is where the media story becomes more interesting than the mystery itself. The early articles did not need to claim aliens to create a UFO moment. The word “UFO” did the work because the object was unexplained at the time, because airport disruption made it newsworthy, and because readers already knew how to read the label.
-
-
-<img src="{{ "/assets/images/Bremen_20b942_media_coverage_018ad5-Illustration-1-dark.svg" | relative_url }}" alt="Media Story illustration 1" data-theme-src-dark="{{ "/assets/images/Bremen_20b942_media_coverage_018ad5-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Bremen_20b942_media_coverage_018ad5-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+This is where the media story becomes more interesting than the mystery itself. The early articles did not need to claim aliens to create a UFO moment. The word “UFO” did the work because the object was unexplained at the time, because airport disruption made it newsworthy, and because readers already knew how to read the label.<img src="{{"/assets/images/Bremen_20b942_media_coverage_018ad5-Illustration-1-dark.svg" | relative_url }}" alt="Media Story illustration 1" data-theme-src-dark="{{"/assets/images/Bremen_20b942_media_coverage_018ad5-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{"/assets/images/Bremen_20b942_media_coverage_018ad5-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why an airport hazard became a UFO headline
 
 Bremen’s case shows how media framing can change the emotional temperature of an event without necessarily changing the facts. A hazard near an active runway is news because it affects passenger safety and flight operations. Add radar, eyewitnesses and the phrase “unknown flying object”, and the same incident becomes a UFO story.
 
 Several features made the Bremen incident especially easy to headline this way:
 
-* **The object was unidentified in a literal sense.** Air traffic personnel reportedly could not identify it or establish radio contact, which made the term “UFO” technically defensible in early reporting. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.n-tv.de/panorama/Ufo-Sichtung-am-Airport-Bremen-Polizei-muss-auf-Augenzeugen-warten-article12026851.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: n-tv.de">[n-tv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">n-tv.de</span><span class="citation-popover-snippet">Ufo-Sichtung am Airport Bremen: Polizei muss auf...January 7, 2014 — 7 Jan 2014 — Die Polizei in Bremen sucht nach einem unbekannten...</span><span class="citation-popover-meta">Published: January 7, 2014</span></span></span>
-* **It had operational consequences.** Reports described a cancelled flight, a diverted flight and delayed traffic, which separated the case from ordinary public sightings. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.euronews.com/2014/01/07/ufo-disrupts-flights-at-bremen-airport-in-germany" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: euronews.com">[euronews]</a><span class="citation-popover" role="note"><span class="citation-popover-source">euronews.com</span><span class="citation-popover-snippet">UFO disrupts flights at Bremen airport in Germany7 Jan 2014 — Flights were disrupted when a UFO appeared on radars at a German ai...</span></span></span>
-* **Police treated it as a possible offence.** Bild’s contemporary report said investigators were considering unlawful interference with air traffic and were following witness tips, making the story a matter of public safety rather than simple curiosity. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.bild.de/regional/bremen/ufo-sichtung/fluglotsen-und-das-ufo-von-bremen-34112930.bildMobile.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bild.de">[BILD]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bild.de</span><span class="citation-popover-title">Polizei will das Ufo-Rätsel von Bremen lösen</span><span class="citation-popover-snippet">Polizei will das Ufo-Rätsel von Bremen lösen</span></span></span>
+* **The object was unidentified in a literal sense.** Air traffic personnel reportedly could not identify it or establish radio contact, which made the term “UFO” technically defensible in early reporting.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.n-tv.de/panorama/Ufo-Sichtung-am-Airport-Bremen-Polizei-muss-auf-Augenzeugen-warten-article12026851.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: n-tv.de">[n-tv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">n-tv.de</span><span class="citation-popover-snippet">Ufo-Sichtung am Airport Bremen: Polizei muss auf...January 7, 2014 — 7 Jan 2014 — Die Polizei in Bremen sucht nach einem unbekannten...</span><span class="citation-popover-meta">Published: January 7, 2014</span></span></span>
+* **It had operational consequences.** Reports described a cancelled flight, a diverted flight and delayed traffic, which separated the case from ordinary public sightings.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.euronews.com/2014/01/07/ufo-disrupts-flights-at-bremen-airport-in-germany" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: euronews.com">[euronews]</a><span class="citation-popover" role="note"><span class="citation-popover-source">euronews.com</span><span class="citation-popover-snippet">UFO disrupts flights at Bremen airport in Germany7 Jan 2014 — Flights were disrupted when a UFO appeared on radars at a German ai...</span></span></span>
+* **Police treated it as a possible offence.** Bild’s contemporary report said investigators were considering unlawful interference with air traffic and were following witness tips, making the story a matter of public safety rather than simple curiosity.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.bild.de/regional/bremen/ufo-sichtung/fluglotsen-und-das-ufo-von-bremen-34112930.bildMobile.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bild.de">[BILD]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bild.de</span><span class="citation-popover-title">Polizei will das Ufo-Rätsel von Bremen lösen</span><span class="citation-popover-snippet">Polizei will das Ufo-Rätsel von Bremen lösen</span></span></span>
 * **The scene was familiar and visible.** Bremen Airport sits close to the city, so an unusual object over or near the airport could produce both official concern and public reports from the surrounding area.
 
 The most important distinction is that “unidentified” did not mean “unexplainable”. Early uncertainty is normal in aviation incidents involving small or unexpected objects. A radar return, a lighted object, a police sighting and a public report may all refer to the same thing, but they can also be partial observations under difficult conditions: darkness, distance, movement, glare and the observer’s expectations all matter.
 
-That is why Bremen’s 2014 case should not be read as a classic mystery that authorities failed to solve. It is better understood as a short-lived identification problem in controlled airspace, intensified by news language. The public saw a UFO story; the airport and police saw a safety hazard.
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/o3yPmW5BqtU" title="3 UFO sightings near LaGuardia Airport | Banfield" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=o3yPmW5BqtU" target="_blank" rel="noopener noreferrer">3 UFO sightings near LaGuardia Airport | Banfield</a></p><p class="youtube-embed-meta">Channel: NewsNation</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=o3yPmW5BqtU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=o3yPmW5BqtU">Open on YouTube</a></p></div></div></div>
+That is why Bremen’s 2014 case should not be read as a classic mystery that authorities failed to solve. It is better understood as a short-lived identification problem in controlled airspace, intensified by news language. The public saw a UFO story; the airport and police saw a safety hazard.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/o3yPmW5BqtU" title="3 UFO sightings near LaGuardia Airport | Banfield" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=o3yPmW5BqtU" target="_blank" rel="noopener noreferrer">3 UFO sightings near LaGuardia Airport | Banfield</a></p><p class="youtube-embed-meta">Channel: NewsNation</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=o3yPmW5BqtU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=o3yPmW5BqtU">Open on YouTube</a></p></div></div></div>
 
 ## German follow-up reporting
 
-The story changed significantly once German follow-up reporting shifted from the dramatic first reports to the likely cause. By 21 January 2014, several outlets were reporting that police considered a model aircraft or remotely controlled miniature flying device the most plausible explanation. Süddeutsche Zeitung reported that, according to police findings, the supposed UFO over Bremen was a remote-controlled small aircraft, with the unknown operator likely connected to the model aircraft or multicopter scene. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sueddeutsche.de/panorama/ufo-alarm-in-bremen-raetsel-um-mysterioeses-flugobjekt-geloest-1.1868344" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sueddeutsche.de">[Süddeutsche.de]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sueddeutsche.de</span><span class="citation-popover-snippet">Süddeutsche.deUfo-Alarm in Bremen: Rätsel um mysteriöses Flugobjekt...21 Jan 2014 — Das vermeintliche Ufo über Bremen war nach den Ermit...</span></span></span>
+The story changed significantly once German follow-up reporting shifted from the dramatic first reports to the likely cause. By 21 January 2014, several outlets were reporting that police considered a model aircraft or remotely controlled miniature flying device the most plausible explanation. Süddeutsche Zeitung reported that, according to police findings, the supposed UFO over Bremen was a remote-controlled small aircraft, with the unknown operator likely connected to the model aircraft or multicopter scene.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sueddeutsche.de/panorama/ufo-alarm-in-bremen-raetsel-um-mysterioeses-flugobjekt-geloest-1.1868344" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sueddeutsche.de">[Süddeutsche.de]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sueddeutsche.de</span><span class="citation-popover-snippet">Süddeutsche.deUfo-Alarm in Bremen: Rätsel um mysteriöses Flugobjekt...21 Jan 2014 — Das vermeintliche Ufo über Bremen war nach den Ermit...</span></span></span>
 
-The Local’s English-language follow-up made the same cooling effect visible for international readers. It reported that police believed the object that grounded flights at Bremen Airport was likely a model plane, and that many of the at least 50 eyewitness reports pointed in that direction. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.thelocal.de/20140122/bremen-ufo-was-likely-model-plane" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thelocal.de">[The Local Germany]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thelocal.de</span><span class="citation-popover-snippet">The Local GermanyPolice: Bremen UFO &#x27;was a model plane&#x27;The unidentified flying object which grounded flights at Bremen airport earlier in...</span></span></span>
+The Local’s English-language follow-up made the same cooling effect visible for international readers. It reported that police believed the object that grounded flights at Bremen Airport was likely a model plane, and that many of the at least 50 eyewitness reports pointed in that direction.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.thelocal.de/20140122/bremen-ufo-was-likely-model-plane" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thelocal.de">[The Local Germany]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thelocal.de</span><span class="citation-popover-snippet">The Local GermanyPolice: Bremen UFO &#x27;was a model plane&#x27;The unidentified flying object which grounded flights at Bremen airport earlier in...</span></span></span>
 
-Airliners.de also reported that the object could have been a model aircraft, while noting that the person controlling it remained unknown. That unresolved operator question is important: the case became less exotic without becoming fully closed. The object could be explained in ordinary terms, but the exact device and pilot were not publicly pinned down. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.airliners.de/ufo-vom-flughafen-bremen-war-moglicherweise-modellflugzeug/31236" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: airliners.de">[airliners.de]</a><span class="citation-popover" role="note"><span class="citation-popover-source">airliners.de</span><span class="citation-popover-title">Ufo vom Flughafen Bremen war möglicherweise</span><span class="citation-popover-snippet">Ufo vom Flughafen Bremen war möglicherweise</span></span></span>
+Airliners.de also reported that the object could have been a model aircraft, while noting that the person controlling it remained unknown. That unresolved operator question is important: the case became less exotic without becoming fully closed. The object could be explained in ordinary terms, but the exact device and pilot were not publicly pinned down.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.airliners.de/ufo-vom-flughafen-bremen-war-moglicherweise-modellflugzeug/31236" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: airliners.de">[airliners.de]</a><span class="citation-popover" role="note"><span class="citation-popover-source">airliners.de</span><span class="citation-popover-title">Ufo vom Flughafen Bremen war möglicherweise</span><span class="citation-popover-snippet">Ufo vom Flughafen Bremen war möglicherweise</span></span></span>
 
 This is the pattern that often separates serious UFO history from UFO folklore. The strongest later reporting did not simply repeat the earliest headline. It narrowed the case. The unknown object became a suspected remote-controlled aircraft. The mystery moved from identity to responsibility. The central question was no longer “Was something extraordinary over Bremen?” but “Was someone flying an unauthorised device in dangerous airspace?”
 
-Die Presse captured this cooling trend clearly in its follow-up headline asking whether the UFO over Bremen was merely a model aircraft, and noted that many UFO witness claims had proved doubtful. That point matters because public tips can widen an investigation, but they can also introduce noise after a story becomes widely known. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.diepresse.com/1551762/war-ufo-ueber-bremen-bloss-ein-modellflugzeug" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: diepresse.com">[Die Presse]</a><span class="citation-popover" role="note"><span class="citation-popover-source">diepresse.com</span><span class="citation-popover-title">Die Presse War UFO über Bremen bloß ein Modellflugzeug?</span><span class="citation-popover-snippet">Die Presse War UFO über Bremen bloß ein Modellflugzeug?</span></span></span>
-
-
-<img src="{{ "/assets/images/Bremen_20b942_media_coverage_018ad5-Illustration-2-dark.svg" | relative_url }}" alt="Media Story illustration 2" data-theme-src-dark="{{ "/assets/images/Bremen_20b942_media_coverage_018ad5-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Bremen_20b942_media_coverage_018ad5-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+Die Presse captured this cooling trend clearly in its follow-up headline asking whether the UFO over Bremen was merely a model aircraft, and noted that many UFO witness claims had proved doubtful. That point matters because public tips can widen an investigation, but they can also introduce noise after a story becomes widely known.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.diepresse.com/1551762/war-ufo-ueber-bremen-bloss-ein-modellflugzeug" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: diepresse.com">[Die Presse]</a><span class="citation-popover" role="note"><span class="citation-popover-source">diepresse.com</span><span class="citation-popover-title">Die Presse War UFO über Bremen bloß ein Modellflugzeug?</span><span class="citation-popover-snippet">Die Presse War UFO über Bremen bloß ein Modellflugzeug?</span></span></span><img src="{{"/assets/images/Bremen_20b942_media_coverage_018ad5-Illustration-2-dark.svg" | relative_url }}" alt="Media Story illustration 2" data-theme-src-dark="{{"/assets/images/Bremen_20b942_media_coverage_018ad5-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{"/assets/images/Bremen_20b942_media_coverage_018ad5-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How the story cooled down
 
 The Bremen story cooled down because each stage of later reporting made an extraordinary reading less necessary. The first stage was uncertainty: air traffic staff and police had a real, immediate identification problem. The second stage was public amplification: the UFO label helped the story travel. The third stage was investigative narrowing: police and media reports moved towards a model aircraft or multicopter explanation.
 
 That does not mean the early reports were worthless. They tell us that something triggered a real airport response. But they do show the limits of early breaking-news language. A headline written while the object is still unidentified can preserve the most dramatic word long after the most likely explanation has changed.
 
-The later drone context also makes Bremen’s 2014 story look less strange in hindsight. European aviation bodies now treat unauthorised drones near airports as a recognised operational risk. The European Union Aviation Safety Agency has issued guidance for managing drone incidents at aerodromes, noting that unauthorised drone activity near airports can arise from ignorance, deliberate disruption, criminal intent or more serious security motives. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.easa.europa.eu/en/newsroom-and-events/press-releases/easa-issues-guidelines-management-drone-incidents-airports" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: easa.europa.eu">[EASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">easa.europa.eu</span><span class="citation-popover-snippet">Open source on europa.eu.</span></span></span>
+The later drone context also makes Bremen’s 2014 story look less strange in hindsight. European aviation bodies now treat unauthorised drones near airports as a recognised operational risk. The European Union Aviation Safety Agency has issued guidance for managing drone incidents at aerodromes, noting that unauthorised drone activity near airports can arise from ignorance, deliberate disruption, criminal intent or more serious security motives.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.easa.europa.eu/en/newsroom-and-events/press-releases/easa-issues-guidelines-management-drone-incidents-airports" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: easa.europa.eu">[EASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">easa.europa.eu</span><span class="citation-popover-snippet">Open source on europa.eu.</span></span></span>
 
-German airspace rules also help explain why Bremen Airport reacted cautiously. Deutsche Flugsicherung says drone sightings near airports or control zones should be reported immediately to police or airport security, and German rules require drone operators near airports and control zones to observe strict aviation requirements. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dfs.de/homepage/de/drohnenflug/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dfs.de">[DFS Deutsche Flugsicherung GmbH]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dfs.de</span><span class="citation-popover-snippet">Open source on dfs.de.</span></span></span>
+German airspace rules also help explain why Bremen Airport reacted cautiously. Deutsche Flugsicherung says drone sightings near airports or control zones should be reported immediately to police or airport security, and German rules require drone operators near airports and control zones to observe strict aviation requirements.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dfs.de/homepage/de/drohnenflug/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dfs.de">[DFS Deutsche Flugsicherung GmbH]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dfs.de</span><span class="citation-popover-snippet">Open source on dfs.de.</span></span></span>
 
-That later context weakens the “classic UFO mystery” reading. A small unmanned aircraft near an airport can cause serious disruption even when there is nothing paranormal about it. Bremen has since seen more plainly described drone-related airport disruption, including a November 2025 incident in which air traffic was temporarily interrupted after a drone was sighted near the airport. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.bluewin.ch/en/news/drone-sighted-air-traffic-briefly-interrupted-2944812.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bluewin.ch">[bluewin.ch]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bluewin.ch</span><span class="citation-popover-title">Bremen: Drone sighted</span><span class="citation-popover-snippet">Bremen: Drone sighted</span></span></span>
+That later context weakens the “classic UFO mystery” reading. A small unmanned aircraft near an airport can cause serious disruption even when there is nothing paranormal about it. Bremen has since seen more plainly described drone-related airport disruption, including a November 2025 incident in which air traffic was temporarily interrupted after a drone was sighted near the airport.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.bluewin.ch/en/news/drone-sighted-air-traffic-briefly-interrupted-2944812.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bluewin.ch">[bluewin.ch]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bluewin.ch</span><span class="citation-popover-title">Bremen: Drone sighted</span><span class="citation-popover-snippet">Bremen: Drone sighted</span></span></span>
 
-The result is a useful before-and-after contrast. In 2014, the shorthand “UFO” dominated because the object was unidentified and the drone-risk vocabulary was less familiar to the general public. In later reporting, similar hazards are more likely to be called drone incidents from the start.
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/8wVw5ByNb9c" title="Caught on camera: Possible UFO reported over New York&#x27;s LaGuardia Airport | Banfield" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=8wVw5ByNb9c" target="_blank" rel="noopener noreferrer">Caught on camera: Possible UFO reported over New York&#x27;s LaGuardia Airport | Banfield</a></p><p class="youtube-embed-meta">Channel: NewsNation</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=8wVw5ByNb9c" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=8wVw5ByNb9c">Open on YouTube</a></p></div></div></div>
+The result is a useful before-and-after contrast. In 2014, the shorthand “UFO” dominated because the object was unidentified and the drone-risk vocabulary was less familiar to the general public. In later reporting, similar hazards are more likely to be called drone incidents from the start.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/8wVw5ByNb9c" title="Caught on camera: Possible UFO reported over New York&#x27;s LaGuardia Airport | Banfield" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=8wVw5ByNb9c" target="_blank" rel="noopener noreferrer">Caught on camera: Possible UFO reported over New York&#x27;s LaGuardia Airport | Banfield</a></p><p class="youtube-embed-meta">Channel: NewsNation</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=8wVw5ByNb9c" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=8wVw5ByNb9c">Open on YouTube</a></p></div></div></div>
 
 ## What the Bremen media story reveals
 
@@ -382,218 +364,34 @@ For readers, the case offers three practical lessons.
 
 First, the word “UFO” in a news headline should be read carefully. It may mean only that an object was unidentified at the time of reporting. In Bremen, that was enough to be newsworthy, but it was not proof of anything beyond an unresolved aviation hazard.
 
-Second, follow-up reporting matters more than the first burst of coverage. The most useful articles were not the ones that simply repeated the mystery, but the ones that tracked how police and witnesses moved towards a model aircraft or multicopter explanation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sueddeutsche.de/panorama/ufo-alarm-in-bremen-raetsel-um-mysterioeses-flugobjekt-geloest-1.1868344" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sueddeutsche.de">[Süddeutsche.de]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sueddeutsche.de</span><span class="citation-popover-snippet">Süddeutsche.deUfo-Alarm in Bremen: Rätsel um mysteriöses Flugobjekt...21 Jan 2014 — Das vermeintliche Ufo über Bremen war nach den Ermit...</span></span></span>
+Second, follow-up reporting matters more than the first burst of coverage. The most useful articles were not the ones that simply repeated the mystery, but the ones that tracked how police and witnesses moved towards a model aircraft or multicopter explanation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sueddeutsche.de/panorama/ufo-alarm-in-bremen-raetsel-um-mysterioeses-flugobjekt-geloest-1.1868344" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sueddeutsche.de">[Süddeutsche.de]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sueddeutsche.de</span><span class="citation-popover-snippet">Süddeutsche.deUfo-Alarm in Bremen: Rätsel um mysteriöses Flugobjekt...21 Jan 2014 — Das vermeintliche Ufo über Bremen war nach den Ermit...</span></span></span>
 
-Third, Bremen’s incident belongs in state-level UFO history because it sits at the boundary between older UFO language and modern drone-era airspace risk. The same object can be a mystery to a witness, a hazard to a controller, a criminal investigation to police, and a UFO story to the media. Bremen’s 2014 episode became famous because all four frames briefly overlapped.
-
-
-<img src="{{ "/assets/images/Bremen_20b942_media_coverage_018ad5-Illustration-3-dark.svg" | relative_url }}" alt="Media Story illustration 3" data-theme-src-dark="{{ "/assets/images/Bremen_20b942_media_coverage_018ad5-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Bremen_20b942_media_coverage_018ad5-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
-
-<section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to How Bremen&#x27;s Airport Hazard Became a UFO Headline. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
-        
-        <p class="fr-book-desc">Shows how UFO terminology evolved.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
-        
-        <p class="fr-book-desc">Illustrates how media and official reporting interact.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open American Cosmic on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=jtc7swEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for American Cosmic" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="American Cosmic">American Cosmic</a>
-        </h4>
-        <p class="fr-book-author">By Diana Walsh Pasulka</p>
-        
-        <p class="fr-book-desc">Explores cultural meaning attached to UFO stories.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Skunk Works on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=nXUbFuRT9LwC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Skunk Works" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Skunk Works">Skunk Works</a>
-        </h4>
-        <p class="fr-book-author">By Ben R. Rich, Leo Janos</p>
-        
-        <p class="fr-book-desc">Provides alternative explanations for mysterious aircraft reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=American+Cosmic&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">American Cosmic</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
-</section>
-
-<section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
-
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
-
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Bremen+Airport+postcard&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-story-how-bremen-s-airport-hazard-became-a-ufo-headline-bremen-bremen-airport-postcard&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bremen Airport postcard" data-ebay-reference="media-story-how-bremen-s-airport-hazard-became-a-ufo-headline-bremen-bremen-airport-postcard" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bremen Airport, Pan Am and Lufthansa aircraft, postcard"><img src="{{ '/assets/images/marketplace-covers/624b866df7b42a3452b1.jpg' | relative_url }}" alt="Listing image for Bremen Airport, Pan Am and Lufthansa aircraft, postcard" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Bremen+Airport+postcard&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-story-how-bremen-s-airport-hazard-became-a-ufo-headline-bremen-bremen-airport-postcard&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bremen Airport postcard" data-ebay-reference="media-story-how-bremen-s-airport-hazard-became-a-ufo-headline-bremen-bremen-airport-postcard" target="_blank" rel="sponsored noopener noreferrer">Bremen Airport, Pan Am and Lufthansa aircraft, postcard</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Bremen+Airport+postcard&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-story-how-bremen-s-airport-hazard-became-a-ufo-headline-bremen-bremen-airport-postcard&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bremen Airport postcard" data-ebay-reference="media-story-how-bremen-s-airport-hazard-became-a-ufo-headline-bremen-bremen-airport-postcard" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Bremen Airport postcard">Search <span data-ebay-domain-label>eBay.co.uk</span>: Bremen Airport postcard</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Bremen+Airport+postcard&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-story-how-bremen-s-airport-hazard-became-a-ufo-headline-bremen-bremen-airport-postcard&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bremen Airport postcard" data-ebay-reference="media-story-how-bremen-s-airport-hazard-became-a-ufo-headline-bremen-bremen-airport-postcard" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Bremen+Airport+postcard&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-story-how-bremen-s-airport-hazard-became-a-ufo-headline-bremen-bremen-airport-postcard&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bremen Airport postcard" data-ebay-reference="media-story-how-bremen-s-airport-hazard-became-a-ufo-headline-bremen-bremen-airport-postcard" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bremen, Germany - Flughafen, airport - postcard c.1970s"><img src="{{ '/assets/images/marketplace-covers/7fc07dbb3b979f81e5ca.jpg' | relative_url }}" alt="Listing image for Bremen, Germany - Flughafen, airport - postcard c.1970s" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Bremen+Airport+postcard&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-story-how-bremen-s-airport-hazard-became-a-ufo-headline-bremen-bremen-airport-postcard&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bremen Airport postcard" data-ebay-reference="media-story-how-bremen-s-airport-hazard-became-a-ufo-headline-bremen-bremen-airport-postcard" target="_blank" rel="sponsored noopener noreferrer">Bremen, Germany - Flughafen, airport - postcard c.1970s</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Bremen+Airport+postcard&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-story-how-bremen-s-airport-hazard-became-a-ufo-headline-bremen-bremen-airport-postcard&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bremen Airport postcard" data-ebay-reference="media-story-how-bremen-s-airport-hazard-became-a-ufo-headline-bremen-bremen-airport-postcard" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Bremen Airport postcard">Search <span data-ebay-domain-label>eBay.co.uk</span>: Bremen Airport postcard</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Bremen+Airport+postcard&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-story-how-bremen-s-airport-hazard-became-a-ufo-headline-bremen-bremen-airport-postcard&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bremen Airport postcard" data-ebay-reference="media-story-how-bremen-s-airport-hazard-became-a-ufo-headline-bremen-bremen-airport-postcard" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Bremen+Airport+postcard&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-story-how-bremen-s-airport-hazard-became-a-ufo-headline-bremen-bremen-airport-postcard&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bremen Airport postcard" data-ebay-reference="media-story-how-bremen-s-airport-hazard-became-a-ufo-headline-bremen-bremen-airport-postcard" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Postcard Airport Bremen in Germany"><img src="{{ '/assets/images/marketplace-covers/b66f900bb9ceae29c41a.jpg' | relative_url }}" alt="Listing image for Postcard Airport Bremen in Germany" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Bremen+Airport+postcard&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-story-how-bremen-s-airport-hazard-became-a-ufo-headline-bremen-bremen-airport-postcard&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bremen Airport postcard" data-ebay-reference="media-story-how-bremen-s-airport-hazard-became-a-ufo-headline-bremen-bremen-airport-postcard" target="_blank" rel="sponsored noopener noreferrer">Postcard Airport Bremen in Germany</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Bremen+Airport+postcard&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-story-how-bremen-s-airport-hazard-became-a-ufo-headline-bremen-bremen-airport-postcard&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bremen Airport postcard" data-ebay-reference="media-story-how-bremen-s-airport-hazard-became-a-ufo-headline-bremen-bremen-airport-postcard" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Bremen Airport postcard">Search <span data-ebay-domain-label>eBay.co.uk</span>: Bremen Airport postcard</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Bremen+Airport+postcard&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-story-how-bremen-s-airport-hazard-became-a-ufo-headline-bremen-bremen-airport-postcard&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bremen Airport postcard" data-ebay-reference="media-story-how-bremen-s-airport-hazard-became-a-ufo-headline-bremen-bremen-airport-postcard" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Bremen+Airport+postcard&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-story-how-bremen-s-airport-hazard-became-a-ufo-headline-bremen-bremen-airport-postcard&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bremen Airport postcard" data-ebay-reference="media-story-how-bremen-s-airport-hazard-became-a-ufo-headline-bremen-bremen-airport-postcard" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Germany Bremen Airport RPPC Photo Postcard COPY"><img src="{{ '/assets/images/marketplace-covers/2fa30fc1befbb273df99.jpg' | relative_url }}" alt="Listing image for Germany Bremen Airport RPPC Photo Postcard COPY" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Bremen+Airport+postcard&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-story-how-bremen-s-airport-hazard-became-a-ufo-headline-bremen-bremen-airport-postcard&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bremen Airport postcard" data-ebay-reference="media-story-how-bremen-s-airport-hazard-became-a-ufo-headline-bremen-bremen-airport-postcard" target="_blank" rel="sponsored noopener noreferrer">Germany Bremen Airport RPPC Photo Postcard COPY</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Bremen+Airport+postcard&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-story-how-bremen-s-airport-hazard-became-a-ufo-headline-bremen-bremen-airport-postcard&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bremen Airport postcard" data-ebay-reference="media-story-how-bremen-s-airport-hazard-became-a-ufo-headline-bremen-bremen-airport-postcard" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Bremen Airport postcard">Search <span data-ebay-domain-label>eBay.co.uk</span>: Bremen Airport postcard</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Bremen+Airport+postcard&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-story-how-bremen-s-airport-hazard-became-a-ufo-headline-bremen-bremen-airport-postcard&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bremen Airport postcard" data-ebay-reference="media-story-how-bremen-s-airport-hazard-became-a-ufo-headline-bremen-bremen-airport-postcard" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Bremen+Airport+postcard&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-story-how-bremen-s-airport-hazard-became-a-ufo-headline-bremen-bremen-airport-postcard&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bremen Airport postcard" data-ebay-reference="media-story-how-bremen-s-airport-hazard-became-a-ufo-headline-bremen-bremen-airport-postcard" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+Third, Bremen’s incident belongs in state-level UFO history because it sits at the boundary between older UFO language and modern drone-era airspace risk. The same object can be a mystery to a witness, a hazard to a controller, a criminal investigation to police, and a UFO story to the media. Bremen’s 2014 episode became famous because all four frames briefly overlapped.<img src="{{"/assets/images/Bremen_20b942_media_coverage_018ad5-Illustration-3-dark.svg" | relative_url }}" alt="Media Story illustration 3" data-theme-src-dark="{{"/assets/images/Bremen_20b942_media_coverage_018ad5-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{"/assets/images/Bremen_20b942_media_coverage_018ad5-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low"><section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title"><div class="fr-section-shell"><div class="fr-section-header"><div class="fr-section-heading"><p class="fr-section-kicker">Amazon book picks</p><h3 class="fr-heading" id="further-reading-title">Further Reading</h3></div><p class="fr-intro">Books and field guides related to How Bremen&#x27;s Airport Hazard Became a UFO Headline. Use these as the next step if you want deeper reading beyond the article.</p></div><div class="fr-books-grid"><article class="fr-book-card"><a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a><div class="fr-book-info"><h4 class="fr-book-title"><a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a></h4><p class="fr-book-author">By Joseph Allen Hynek</p><p class="fr-book-desc">Shows how UFO terminology evolved.</p><div class="fr-book-actions"><a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon</a></div></div></article><article class="fr-book-card"><a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a><div class="fr-book-info"><h4 class="fr-book-title"><a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a></h4><p class="fr-book-author">By Leslie Kean</p><p class="fr-book-desc">Illustrates how media and official reporting interact.</p><div class="fr-book-actions"><a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon</a></div></div></article><article class="fr-book-card"><a class="fr-book-cover" href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open American Cosmic on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=jtc7swEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for American Cosmic" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a><div class="fr-book-info"><h4 class="fr-book-title"><a href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="American Cosmic">American Cosmic</a></h4><p class="fr-book-author">By Diana Walsh Pasulka</p><p class="fr-book-desc">Explores cultural meaning attached to UFO stories.</p><div class="fr-book-actions"><a href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon</a></div></div></article><article class="fr-book-card"><a class="fr-book-cover" href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Skunk Works on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=nXUbFuRT9LwC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Skunk Works" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a><div class="fr-book-info"><h4 class="fr-book-title"><a href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Skunk Works">Skunk Works</a></h4><p class="fr-book-author">By Ben R. Rich, Leo Janos</p><p class="fr-book-desc">Provides alternative explanations for mysterious aircraft reports.</p><div class="fr-book-actions"><a href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon</a></div></div></article></div><div class="fr-section-footer"><div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=American+Cosmic&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">American Cosmic</a></div><p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p></div></div></section><section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title"><div class="fr-section-shell"><div class="fr-section-header"><div class="fr-section-heading"><p class="fr-section-kicker">eBay marketplace picks</p><h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3></div><p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p><div class="fr-ebay-market-toolbar"><label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label><div class="fr-ebay-market-picker"><span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span><button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span><span data-ebay-trigger-market-label>USA</span></button><select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location"><option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option></select><div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button></div></div></div></div><div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1"><div class="fr-books-grid"><article class="fr-book-card"><a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Bremen+Airport+postcard&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-story-how-bremen-s-airport-hazard-became-a-ufo-headline-bremen-bremen-airport-postcard&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bremen Airport postcard" data-ebay-reference="media-story-how-bremen-s-airport-hazard-became-a-ufo-headline-bremen-bremen-airport-postcard" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bremen Airport, Pan Am and Lufthansa aircraft, postcard"><img src="{{'/assets/images/marketplace-covers/624b866df7b42a3452b1.jpg' | relative_url }}" alt="Listing image for Bremen Airport, Pan Am and Lufthansa aircraft, postcard" loading="lazy" decoding="async" fetchpriority="low"></a><div class="fr-book-info"><p class="fr-book-kicker">Example eBay listing</p><h4 class="fr-book-title"><a href="https://www.ebay.co.uk/sch/i.html?_nkw=Bremen+Airport+postcard&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-story-how-bremen-s-airport-hazard-became-a-ufo-headline-bremen-bremen-airport-postcard&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bremen Airport postcard" data-ebay-reference="media-story-how-bremen-s-airport-hazard-became-a-ufo-headline-bremen-bremen-airport-postcard" target="_blank" rel="sponsored noopener noreferrer">Bremen Airport, Pan Am and Lufthansa aircraft, postcard</a></h4><a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Bremen+Airport+postcard&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-story-how-bremen-s-airport-hazard-became-a-ufo-headline-bremen-bremen-airport-postcard&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bremen Airport postcard" data-ebay-reference="media-story-how-bremen-s-airport-hazard-became-a-ufo-headline-bremen-bremen-airport-postcard" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Bremen Airport postcard">Search<span data-ebay-domain-label>eBay.co.uk</span>: Bremen Airport postcard</a><div class="fr-book-actions"><a href="https://www.ebay.co.uk/sch/i.html?_nkw=Bremen+Airport+postcard&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-story-how-bremen-s-airport-hazard-became-a-ufo-headline-bremen-bremen-airport-postcard&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bremen Airport postcard" data-ebay-reference="media-story-how-bremen-s-airport-hazard-became-a-ufo-headline-bremen-bremen-airport-postcard" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span></a></div></div></article><article class="fr-book-card"><a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Bremen+Airport+postcard&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-story-how-bremen-s-airport-hazard-became-a-ufo-headline-bremen-bremen-airport-postcard&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bremen Airport postcard" data-ebay-reference="media-story-how-bremen-s-airport-hazard-became-a-ufo-headline-bremen-bremen-airport-postcard" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bremen, Germany - Flughafen, airport - postcard c.1970s"><img src="{{'/assets/images/marketplace-covers/7fc07dbb3b979f81e5ca.jpg' | relative_url }}" alt="Listing image for Bremen, Germany - Flughafen, airport - postcard c.1970s" loading="lazy" decoding="async" fetchpriority="low"></a><div class="fr-book-info"><p class="fr-book-kicker">Example eBay listing</p><h4 class="fr-book-title"><a href="https://www.ebay.co.uk/sch/i.html?_nkw=Bremen+Airport+postcard&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-story-how-bremen-s-airport-hazard-became-a-ufo-headline-bremen-bremen-airport-postcard&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bremen Airport postcard" data-ebay-reference="media-story-how-bremen-s-airport-hazard-became-a-ufo-headline-bremen-bremen-airport-postcard" target="_blank" rel="sponsored noopener noreferrer">Bremen, Germany - Flughafen, airport - postcard c.1970s</a></h4><a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Bremen+Airport+postcard&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-story-how-bremen-s-airport-hazard-became-a-ufo-headline-bremen-bremen-airport-postcard&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bremen Airport postcard" data-ebay-reference="media-story-how-bremen-s-airport-hazard-became-a-ufo-headline-bremen-bremen-airport-postcard" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Bremen Airport postcard">Search<span data-ebay-domain-label>eBay.co.uk</span>: Bremen Airport postcard</a><div class="fr-book-actions"><a href="https://www.ebay.co.uk/sch/i.html?_nkw=Bremen+Airport+postcard&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-story-how-bremen-s-airport-hazard-became-a-ufo-headline-bremen-bremen-airport-postcard&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bremen Airport postcard" data-ebay-reference="media-story-how-bremen-s-airport-hazard-became-a-ufo-headline-bremen-bremen-airport-postcard" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span></a></div></div></article><article class="fr-book-card"><a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Bremen+Airport+postcard&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-story-how-bremen-s-airport-hazard-became-a-ufo-headline-bremen-bremen-airport-postcard&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bremen Airport postcard" data-ebay-reference="media-story-how-bremen-s-airport-hazard-became-a-ufo-headline-bremen-bremen-airport-postcard" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Postcard Airport Bremen in Germany"><img src="{{'/assets/images/marketplace-covers/b66f900bb9ceae29c41a.jpg' | relative_url }}" alt="Listing image for Postcard Airport Bremen in Germany" loading="lazy" decoding="async" fetchpriority="low"></a><div class="fr-book-info"><p class="fr-book-kicker">Example eBay listing</p><h4 class="fr-book-title"><a href="https://www.ebay.co.uk/sch/i.html?_nkw=Bremen+Airport+postcard&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-story-how-bremen-s-airport-hazard-became-a-ufo-headline-bremen-bremen-airport-postcard&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bremen Airport postcard" data-ebay-reference="media-story-how-bremen-s-airport-hazard-became-a-ufo-headline-bremen-bremen-airport-postcard" target="_blank" rel="sponsored noopener noreferrer">Postcard Airport Bremen in Germany</a></h4><a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Bremen+Airport+postcard&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-story-how-bremen-s-airport-hazard-became-a-ufo-headline-bremen-bremen-airport-postcard&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bremen Airport postcard" data-ebay-reference="media-story-how-bremen-s-airport-hazard-became-a-ufo-headline-bremen-bremen-airport-postcard" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Bremen Airport postcard">Search<span data-ebay-domain-label>eBay.co.uk</span>: Bremen Airport postcard</a><div class="fr-book-actions"><a href="https://www.ebay.co.uk/sch/i.html?_nkw=Bremen+Airport+postcard&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-story-how-bremen-s-airport-hazard-became-a-ufo-headline-bremen-bremen-airport-postcard&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bremen Airport postcard" data-ebay-reference="media-story-how-bremen-s-airport-hazard-became-a-ufo-headline-bremen-bremen-airport-postcard" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span></a></div></div></article><article class="fr-book-card"><a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Bremen+Airport+postcard&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-story-how-bremen-s-airport-hazard-became-a-ufo-headline-bremen-bremen-airport-postcard&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bremen Airport postcard" data-ebay-reference="media-story-how-bremen-s-airport-hazard-became-a-ufo-headline-bremen-bremen-airport-postcard" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Germany Bremen Airport RPPC Photo Postcard COPY"><img src="{{'/assets/images/marketplace-covers/2fa30fc1befbb273df99.jpg' | relative_url }}" alt="Listing image for Germany Bremen Airport RPPC Photo Postcard COPY" loading="lazy" decoding="async" fetchpriority="low"></a><div class="fr-book-info"><p class="fr-book-kicker">Example eBay listing</p><h4 class="fr-book-title"><a href="https://www.ebay.co.uk/sch/i.html?_nkw=Bremen+Airport+postcard&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-story-how-bremen-s-airport-hazard-became-a-ufo-headline-bremen-bremen-airport-postcard&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bremen Airport postcard" data-ebay-reference="media-story-how-bremen-s-airport-hazard-became-a-ufo-headline-bremen-bremen-airport-postcard" target="_blank" rel="sponsored noopener noreferrer">Germany Bremen Airport RPPC Photo Postcard COPY</a></h4><a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Bremen+Airport+postcard&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-story-how-bremen-s-airport-hazard-became-a-ufo-headline-bremen-bremen-airport-postcard&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bremen Airport postcard" data-ebay-reference="media-story-how-bremen-s-airport-hazard-became-a-ufo-headline-bremen-bremen-airport-postcard" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Bremen Airport postcard">Search<span data-ebay-domain-label>eBay.co.uk</span>: Bremen Airport postcard</a><div class="fr-book-actions"><a href="https://www.ebay.co.uk/sch/i.html?_nkw=Bremen+Airport+postcard&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-story-how-bremen-s-airport-hazard-became-a-ufo-headline-bremen-bremen-airport-postcard&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bremen Airport postcard" data-ebay-reference="media-story-how-bremen-s-airport-hazard-became-a-ufo-headline-bremen-bremen-airport-postcard" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span></a></div></div></article></div><div class="fr-section-footer"><a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Bremen+Airport+postcard&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-story-how-bremen-s-airport-hazard-became-a-ufo-headline-bremen-bremen-airport-postcard&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bremen Airport postcard" data-ebay-reference="media-story-how-bremen-s-airport-hazard-became-a-ufo-headline-bremen-bremen-airport-postcard" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span></a><p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p></div></div></div><script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
-  var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
-  var timezoneRules = [{"market": "EBAY_IE", "pattern": "^Europe/Dublin$"}, {"market": "EBAY_GB", "pattern": "^Europe/(London|Belfast)$"}, {"market": "EBAY_CA", "pattern": "^America/(Toronto|Vancouver|Edmonton|Winnipeg|Halifax|St_Johns|Regina|Saskatoon|Whitehorse|Dawson|Moncton|Glace_Bay|Goose_Bay|Iqaluit|Yellowknife|Inuvik|Rankin_Inlet|Resolute|Cambridge_Bay|Fort_Nelson|Creston|Dawson_Creek)$"}, {"market": "EBAY_US", "pattern": "^America/"}, {"market": "EBAY_DE", "pattern": "^Europe/Berlin$"}, {"market": "EBAY_FR", "pattern": "^Europe/Paris$"}, {"market": "EBAY_IT", "pattern": "^Europe/Rome$"}, {"market": "EBAY_ES", "pattern": "^Europe/Madrid$"}, {"market": "EBAY_AU", "pattern": "^Australia/"}, {"market": "EBAY_AU", "pattern": "^Pacific/(Auckland|Chatham)$"}];
+  var localeMarketMap = {"de":"EBAY_DE","de-at":"EBAY_AT","de-ch":"EBAY_CH","de-de":"EBAY_DE","en":"EBAY_US","en-au":"EBAY_AU","en-ca":"EBAY_CA","en-gb":"EBAY_GB","en-ie":"EBAY_IE","en-nz":"EBAY_AU","en-uk":"EBAY_GB","en-us":"EBAY_US","es":"EBAY_ES","es-es":"EBAY_ES","fr":"EBAY_FR","fr-be":"EBAY_BE","fr-ca":"EBAY_CA","fr-fr":"EBAY_FR","it":"EBAY_IT","it-it":"EBAY_IT","nl":"EBAY_NL","nl-be":"EBAY_BE","nl-nl":"EBAY_NL"};
+  var timezoneRules = [{"market":"EBAY_IE","pattern":"^Europe/Dublin$"}, {"market":"EBAY_GB","pattern":"^Europe/(London|Belfast)$"}, {"market":"EBAY_CA","pattern":"^America/(Toronto|Vancouver|Edmonton|Winnipeg|Halifax|St_Johns|Regina|Saskatoon|Whitehorse|Dawson|Moncton|Glace_Bay|Goose_Bay|Iqaluit|Yellowknife|Inuvik|Rankin_Inlet|Resolute|Cambridge_Bay|Fort_Nelson|Creston|Dawson_Creek)$"}, {"market":"EBAY_US","pattern":"^America/"}, {"market":"EBAY_DE","pattern":"^Europe/Berlin$"}, {"market":"EBAY_FR","pattern":"^Europe/Paris$"}, {"market":"EBAY_IT","pattern":"^Europe/Rome$"}, {"market":"EBAY_ES","pattern":"^Europe/Madrid$"}, {"market":"EBAY_AU","pattern":"^Australia/"}, {"market":"EBAY_AU","pattern":"^Pacific/(Auckland|Chatham)$"}];
   function normalize(value) {
-    return String(value || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
+    return String(value ||'').toLowerCase().replace(/_/g,'-').replace(/[^a-z0-9-]+/g,'');
   }
   function localeMatches() {
     var languages = [];
-    var exactMarket = '';
-    var languageMarket = '';
+    var exactMarket ='';
+    var languageMarket ='';
     try {
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -607,24 +405,24 @@ Third, Bremen’s incident belongs in state-level UFO history because it sits at
   }
   function inferFromLocale() {
     var matches = localeMatches();
-    return matches.exact || matches.language || '';
+    return matches.exact || matches.language ||'';
   }
   function inferFromTimezone() {
-    var tz = '';
-    try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
-    if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    var tz ='';
+    try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone ||''); } catch (err) {}
+    if (!tz) return'';
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
       } catch (err) {}
     }
-    return '';
+    return'';
   }
   function inferMarket(available, options) {
     available = Array.isArray(available) ? available : [];
     options = options || {};
-    var storageKey = options.storageKey || 'phoenix-affiliate-market';
+    var storageKey = options.storageKey ||'phoenix-affiliate-market';
     try {
       var saved = window.localStorage && localStorage.getItem(storageKey);
       if (saved && available.indexOf(saved) >= 0) return saved;
@@ -635,7 +433,7 @@ Third, Bremen’s incident belongs in state-level UFO history because it sits at
     if (localeMarkets.exact && available.indexOf(localeMarkets.exact) >= 0) return localeMarkets.exact;
     if (localeMarkets.language && available.indexOf(localeMarkets.language) >= 0) return localeMarkets.language;
     if (options.defaultMarket && available.indexOf(options.defaultMarket) >= 0) return options.defaultMarket;
-    return available[0] || '';
+    return available[0] ||'';
   }
   window.PhoenixAffiliateLocation = {
     normalize: normalize,
@@ -643,45 +441,43 @@ Third, Bremen’s incident belongs in state-level UFO history because it sits at
     inferFromLocale: inferFromLocale,
     inferFromTimezone: inferFromTimezone
   };
-})();
-</script>
-  <script type="text/javascript">
+})();</script><script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
-  var markets = {"EBAY_AU": {"campaign_id": "5339151051", "domain_label": "eBay.com.au", "label": "Australia", "mkrid": "705-53470-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com.au/sch/i.html?_nkw={query}"}, "EBAY_CA": {"campaign_id": "5339151051", "domain_label": "eBay.ca", "label": "Canada", "mkrid": "706-53473-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ca/sch/i.html?_nkw={query}"}, "EBAY_GB": {"campaign_id": "5339151051", "domain_label": "eBay.co.uk", "label": "UK", "mkrid": "710-53481-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.co.uk/sch/i.html?_nkw={query}"}, "EBAY_IE": {"campaign_id": "5339151051", "domain_label": "eBay.ie", "label": "Ireland", "mkrid": "5282-53468-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ie/sch/i.html?_nkw={query}"}, "EBAY_US": {"campaign_id": "5339151051", "domain_label": "eBay.com", "label": "USA", "mkrid": "711-53200-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com/sch/i.html?_nkw={query}"}};
-  var defaultMarket = "EBAY_GB";
+  var markets = {"EBAY_AU": {"campaign_id":"5339151051","domain_label":"eBay.com.au","label":"Australia","mkrid":"705-53470-19255-0","tool_id":"10001","url_template":"https://www.ebay.com.au/sch/i.html?_nkw={query}"},"EBAY_CA": {"campaign_id":"5339151051","domain_label":"eBay.ca","label":"Canada","mkrid":"706-53473-19255-0","tool_id":"10001","url_template":"https://www.ebay.ca/sch/i.html?_nkw={query}"},"EBAY_GB": {"campaign_id":"5339151051","domain_label":"eBay.co.uk","label":"UK","mkrid":"710-53481-19255-0","tool_id":"10001","url_template":"https://www.ebay.co.uk/sch/i.html?_nkw={query}"},"EBAY_IE": {"campaign_id":"5339151051","domain_label":"eBay.ie","label":"Ireland","mkrid":"5282-53468-19255-0","tool_id":"10001","url_template":"https://www.ebay.ie/sch/i.html?_nkw={query}"},"EBAY_US": {"campaign_id":"5339151051","domain_label":"eBay.com","label":"USA","mkrid":"711-53200-19255-0","tool_id":"10001","url_template":"https://www.ebay.com/sch/i.html?_nkw={query}"}};
+  var defaultMarket ="EBAY_GB";
   function encodeQuery(value) {
-    return encodeURIComponent(String(value || '').replace(/\s+/g, ' ').trim()).replace(/%20/g, '+');
+    return encodeURIComponent(String(value ||'').replace(/\s+/g,'').trim()).replace(/%20/g,'+');
   }
   function buildUrl(query, reference, marketId) {
     var cfg = markets[marketId] || markets[defaultMarket];
-    if (!cfg) return '#';
-    var template = String(cfg.url_template || 'https://www.ebay.com/sch/i.html?_nkw={query}');
-    var url = template.replace('{query}', encodeQuery(query || '')).replace('{query_plain}', String(query || ''));
-    var joiner = url.indexOf('?') >= 0 ? '&' : '?';
+    if (!cfg) return'#';
+    var template = String(cfg.url_template ||'https://www.ebay.com/sch/i.html?_nkw={query}');
+    var url = template.replace('{query}', encodeQuery(query ||'')).replace('{query_plain}', String(query ||''));
+    var joiner = url.indexOf('?') >= 0 ?'&' :'?';
     var params = [];
     if (cfg.mkrid) params.push('mkrid=' + encodeURIComponent(cfg.mkrid));
     if (cfg.campaign_id) params.push('campid=' + encodeURIComponent(cfg.campaign_id));
     params.push('mkevt=1');
     params.push('mkcid=1');
-    params.push('toolid=' + encodeURIComponent(cfg.tool_id || '10001'));
+    params.push('toolid=' + encodeURIComponent(cfg.tool_id ||'10001'));
     if (reference) params.push('customid=' + encodeURIComponent(reference).slice(0, 256));
     return url + joiner + params.join('&');
   }
   function domainLabel(marketId) {
     var cfg = markets[marketId] || markets[defaultMarket] || {};
-    return cfg.domain_label || 'eBay';
+    return cfg.domain_label ||'eBay';
   }
   function flagClass(marketId) {
-    return 'fr-ebay-market-flag fr-ebay-market-flag--' + String(marketId || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
+    return'fr-ebay-market-flag fr-ebay-market-flag--' + String(marketId ||'').toLowerCase().replace(/_/g,'-').replace(/[^a-z0-9-]+/g,'');
   }
   function closeMenu(section) {
     var menu = section.querySelector('[data-ebay-market-menu]');
     var trigger = section.querySelector('[data-ebay-market-trigger]');
     var picker = section.querySelector('.fr-ebay-market-picker');
     if (menu) menu.hidden = true;
-    if (trigger) trigger.setAttribute('aria-expanded', 'false');
+    if (trigger) trigger.setAttribute('aria-expanded','false');
     if (picker) picker.classList.remove('fr-ebay-market-picker--open');
   }
   function availableMarkets(section) {
@@ -697,10 +493,10 @@ Third, Bremen’s incident belongs in state-level UFO history because it sits at
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
-      var query = link.getAttribute('data-ebay-query') || '';
-      var reference = link.getAttribute('data-ebay-reference') || '';
+      var query = link.getAttribute('data-ebay-query') ||'';
+      var reference = link.getAttribute('data-ebay-reference') ||'';
       link.setAttribute('href', buildUrl(query, reference, marketId));
     });
     var select = section.querySelector('[data-ebay-market-select]');
@@ -720,11 +516,11 @@ Third, Bremen’s incident belongs in state-level UFO history because it sits at
       label.textContent = domainLabel(marketId);
     });
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
-      button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
+      button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ?'true' :'false');
     });
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
       var active = button.getAttribute('data-ebay-market-button') === marketId;
-      button.setAttribute('aria-pressed', active ? 'true' : 'false');
+      button.setAttribute('aria-pressed', active ?'true' :'false');
     });
     section.setAttribute('data-ebay-selected-market', marketId);
     if (persist) {
@@ -733,16 +529,16 @@ Third, Bremen’s incident belongs in state-level UFO history because it sits at
     closeMenu(section);
   }
   sections.forEach(function (section) {
-    if (section.getAttribute('data-ebay-localized-init') === '1') return;
-    section.setAttribute('data-ebay-localized-init', '1');
+    if (section.getAttribute('data-ebay-localized-init') ==='1') return;
+    section.setAttribute('data-ebay-localized-init','1');
     var available = availableMarkets(section);
     var marketId = defaultMarket;
     if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
       marketId = window.PhoenixAffiliateLocation.inferMarket(available, {
-        storageKey: 'phoenix-ebay-market',
+        storageKey:'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -756,9 +552,9 @@ Third, Bremen’s incident belongs in state-level UFO history because it sits at
     if (trigger && menu) {
       trigger.addEventListener('click', function (event) {
         event.stopPropagation();
-        var expanded = trigger.getAttribute('aria-expanded') === 'true';
+        var expanded = trigger.getAttribute('aria-expanded') ==='true';
         menu.hidden = expanded;
-        trigger.setAttribute('aria-expanded', expanded ? 'false' : 'true');
+        trigger.setAttribute('aria-expanded', expanded ?'false' :'true');
         var picker = trigger.closest('.fr-ebay-market-picker');
         if (picker) picker.classList.toggle('fr-ebay-market-picker--open', !expanded);
       });
@@ -777,141 +573,131 @@ Third, Bremen’s incident belongs in state-level UFO history because it sits at
     });
     applyMarket(section, marketId, false);
   });
-})();
-</script>
-</section>
+})();</script></section>
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: euronews.com  
-   Link: <a href="https://www.euronews.com/2014/01/07/ufo-disrupts-flights-at-bremen-airport-in-germany" target="_blank" rel="noopener noreferrer nofollow">https://www.euronews.com/2014/01/07/ufo-disrupts-flights-at-bremen-airport-in-germany</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO disrupts flights at Bremen airport in Germany7 Jan 2014 — Flights were disrupted when a UFO appeared on radars at a German ai...</p></details>
+   Link:<a href="https://www.euronews.com/2014/01/07/ufo-disrupts-flights-at-bremen-airport-in-germany" target="_blank" rel="noopener noreferrer nofollow">https://www.euronews.com/2014/01/07/ufo-disrupts-flights-at-bremen-airport-in-germany</a><details class="endnote-snippet"><summary>Source snippet</summary><p>UFO disrupts flights at Bremen airport in Germany7 Jan 2014 — Flights were disrupted when a UFO appeared on radars at a German ai...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: n-tv.de  
-   Link: <a href="https://www.n-tv.de/panorama/Ufo-Sichtung-am-Airport-Bremen-Polizei-muss-auf-Augenzeugen-warten-article12026851.html" target="_blank" rel="noopener noreferrer nofollow">https://www.n-tv.de/panorama/Ufo-Sichtung-am-Airport-Bremen-Polizei-muss-auf-Augenzeugen-warten-article12026851.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Ufo-Sichtung am Airport Bremen: Polizei muss auf...January 7, 2014 — 7 Jan 2014 — Die Polizei in Bremen sucht nach einem unbekannten...</p></details>
+   Link:<a href="https://www.n-tv.de/panorama/Ufo-Sichtung-am-Airport-Bremen-Polizei-muss-auf-Augenzeugen-warten-article12026851.html" target="_blank" rel="noopener noreferrer nofollow">https://www.n-tv.de/panorama/Ufo-Sichtung-am-Airport-Bremen-Polizei-muss-auf-Augenzeugen-warten-article12026851.html</a><details class="endnote-snippet"><summary>Source snippet</summary><p>Ufo-Sichtung am Airport Bremen: Polizei muss auf...January 7, 2014 — 7 Jan 2014 — Die Polizei in Bremen sucht nach einem unbekannten...</p></details>
    Published: January 7, 2014  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: welt.de  
    Title: DIE WELTDie Theorie zum rätselhaften Ufo über Bremen  
-   Link: <a href="https://www.welt.de/vermischtes/article123636633/Ausserirdische-Die-Theorie-zum-raetselhaften-Ufo-ueber-Bremen.html" target="_blank" rel="noopener noreferrer nofollow">https://www.welt.de/vermischtes/article123636633/Ausserirdische-Die-Theorie-zum-raetselhaften-Ufo-ueber-Bremen.html</a>  
+   Link:<a href="https://www.welt.de/vermischtes/article123636633/Ausserirdische-Die-Theorie-zum-raetselhaften-Ufo-ueber-Bremen.html" target="_blank" rel="noopener noreferrer nofollow">https://www.welt.de/vermischtes/article123636633/Ausserirdische-Die-Theorie-zum-raetselhaften-Ufo-ueber-Bremen.html</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: bild.de  
    Title: Polizei will das Ufo-Rätsel von Bremen lösen  
-   Link: <a href="https://www.bild.de/regional/bremen/ufo-sichtung/fluglotsen-und-das-ufo-von-bremen-34112930.bildMobile.html" target="_blank" rel="noopener noreferrer nofollow">https://www.bild.de/regional/bremen/ufo-sichtung/fluglotsen-und-das-ufo-von-bremen-34112930.bildMobile.html</a>  
+   Link:<a href="https://www.bild.de/regional/bremen/ufo-sichtung/fluglotsen-und-das-ufo-von-bremen-34112930.bildMobile.html" target="_blank" rel="noopener noreferrer nofollow">https://www.bild.de/regional/bremen/ufo-sichtung/fluglotsen-und-das-ufo-von-bremen-34112930.bildMobile.html</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: airliners.de  
    Title: Ufo vom Flughafen Bremen war möglicherweise  
-   Link: <a href="https://www.airliners.de/ufo-vom-flughafen-bremen-war-moglicherweise-modellflugzeug/31236" target="_blank" rel="noopener noreferrer nofollow">https://www.airliners.de/ufo-vom-flughafen-bremen-war-moglicherweise-modellflugzeug/31236</a>  
+   Link:<a href="https://www.airliners.de/ufo-vom-flughafen-bremen-war-moglicherweise-modellflugzeug/31236" target="_blank" rel="noopener noreferrer nofollow">https://www.airliners.de/ufo-vom-flughafen-bremen-war-moglicherweise-modellflugzeug/31236</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: dfs.de  
-   Link: <a href="https://www.dfs.de/homepage/de/drohnenflug/" target="_blank" rel="noopener noreferrer nofollow">https://www.dfs.de/homepage/de/drohnenflug/</a>  
+   Link:<a href="https://www.dfs.de/homepage/de/drohnenflug/" target="_blank" rel="noopener noreferrer nofollow">https://www.dfs.de/homepage/de/drohnenflug/</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: dfs.de  
-   Link: <a href="https://www.dfs.de/homepage/de/drohnenflug/antraege-und-genehmigungen/" target="_blank" rel="noopener noreferrer nofollow">https://www.dfs.de/homepage/de/drohnenflug/antraege-und-genehmigungen/</a>  
+   Link:<a href="https://www.dfs.de/homepage/de/drohnenflug/antraege-und-genehmigungen/" target="_blank" rel="noopener noreferrer nofollow">https://www.dfs.de/homepage/de/drohnenflug/antraege-und-genehmigungen/</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: bluewin.ch  
    Title: Bremen: Drone sighted  
-   Link: <a href="https://www.bluewin.ch/en/news/drone-sighted-air-traffic-briefly-interrupted-2944812.html" target="_blank" rel="noopener noreferrer nofollow">https://www.bluewin.ch/en/news/drone-sighted-air-traffic-briefly-interrupted-2944812.html</a>  
+   Link:<a href="https://www.bluewin.ch/en/news/drone-sighted-air-traffic-briefly-interrupted-2944812.html" target="_blank" rel="noopener noreferrer nofollow">https://www.bluewin.ch/en/news/drone-sighted-air-traffic-briefly-interrupted-2944812.html</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: dfs.de  
-   Link: <a href="https://www.dfs.de/homepage/en/drone-flight/checklist-for-drone-pilots/" target="_blank" rel="noopener noreferrer nofollow">https://www.dfs.de/homepage/en/drone-flight/checklist-for-drone-pilots/</a>  
+   Link:<a href="https://www.dfs.de/homepage/en/drone-flight/checklist-for-drone-pilots/" target="_blank" rel="noopener noreferrer nofollow">https://www.dfs.de/homepage/en/drone-flight/checklist-for-drone-pilots/</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: bremen.eu  
-   Link: <a href="https://www.bremen.eu/tourism" target="_blank" rel="noopener noreferrer nofollow">https://www.bremen.eu/tourism</a>  
+   Link:<a href="https://www.bremen.eu/tourism" target="_blank" rel="noopener noreferrer nofollow">https://www.bremen.eu/tourism</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: bremen.de  
-   Link: <a href="https://www.bremen.de/" target="_blank" rel="noopener noreferrer nofollow">https://www.bremen.de/</a>  
+   Link:<a href="https://www.bremen.de/" target="_blank" rel="noopener noreferrer nofollow">https://www.bremen.de/</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: sueddeutsche.de  
-   Link: <a href="https://www.sueddeutsche.de/panorama/ufo-alarm-in-bremen-raetsel-um-mysterioeses-flugobjekt-geloest-1.1868344" target="_blank" rel="noopener noreferrer nofollow">https://www.sueddeutsche.de/panorama/ufo-alarm-in-bremen-raetsel-um-mysterioeses-flugobjekt-geloest-1.1868344</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Süddeutsche.deUfo-Alarm in Bremen: Rätsel um mysteriöses Flugobjekt...21 Jan 2014 — Das vermeintliche Ufo über Bremen war nach den Ermit...</p></details>
+   Link:<a href="https://www.sueddeutsche.de/panorama/ufo-alarm-in-bremen-raetsel-um-mysterioeses-flugobjekt-geloest-1.1868344" target="_blank" rel="noopener noreferrer nofollow">https://www.sueddeutsche.de/panorama/ufo-alarm-in-bremen-raetsel-um-mysterioeses-flugobjekt-geloest-1.1868344</a><details class="endnote-snippet"><summary>Source snippet</summary><p>Süddeutsche.deUfo-Alarm in Bremen: Rätsel um mysteriöses Flugobjekt...21 Jan 2014 — Das vermeintliche Ufo über Bremen war nach den Ermit...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: thelocal.de  
-   Link: <a href="https://www.thelocal.de/20140122/bremen-ufo-was-likely-model-plane" target="_blank" rel="noopener noreferrer nofollow">https://www.thelocal.de/20140122/bremen-ufo-was-likely-model-plane</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Local GermanyPolice: Bremen UFO &#x27;was a model plane&#x27;The unidentified flying object which grounded flights at Bremen airport earlier in...</p></details>
+   Link:<a href="https://www.thelocal.de/20140122/bremen-ufo-was-likely-model-plane" target="_blank" rel="noopener noreferrer nofollow">https://www.thelocal.de/20140122/bremen-ufo-was-likely-model-plane</a><details class="endnote-snippet"><summary>Source snippet</summary><p>The Local GermanyPolice: Bremen UFO &#x27;was a model plane&#x27;The unidentified flying object which grounded flights at Bremen airport earlier in...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: diepresse.com  
    Title: Die Presse War UFO über Bremen bloß ein Modellflugzeug?  
-   Link: <a href="https://www.diepresse.com/1551762/war-ufo-ueber-bremen-bloss-ein-modellflugzeug" target="_blank" rel="noopener noreferrer nofollow">https://www.diepresse.com/1551762/war-ufo-ueber-bremen-bloss-ein-modellflugzeug</a>  
+   Link:<a href="https://www.diepresse.com/1551762/war-ufo-ueber-bremen-bloss-ein-modellflugzeug" target="_blank" rel="noopener noreferrer nofollow">https://www.diepresse.com/1551762/war-ufo-ueber-bremen-bloss-ein-modellflugzeug</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: easa.europa.eu  
-   Link: <a href="https://www.easa.europa.eu/en/newsroom-and-events/press-releases/easa-issues-guidelines-management-drone-incidents-airports" target="_blank" rel="noopener noreferrer nofollow">https://www.easa.europa.eu/en/newsroom-and-events/press-releases/easa-issues-guidelines-management-drone-incidents-airports</a>  
+   Link:<a href="https://www.easa.europa.eu/en/newsroom-and-events/press-releases/easa-issues-guidelines-management-drone-incidents-airports" target="_blank" rel="noopener noreferrer nofollow">https://www.easa.europa.eu/en/newsroom-and-events/press-releases/easa-issues-guidelines-management-drone-incidents-airports</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Bremen" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Bremen</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Bremen" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Bremen</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: diepresse.com  
    Title: ufo sorgt fuer flugausfall  
-   Link: <a href="https://www.diepresse.com/1513514/ufo-sorgt-fuer-flugausfall" target="_blank" rel="noopener noreferrer nofollow">https://www.diepresse.com/1513514/ufo-sorgt-fuer-flugausfall</a>  
+   Link:<a href="https://www.diepresse.com/1513514/ufo-sorgt-fuer-flugausfall" target="_blank" rel="noopener noreferrer nofollow">https://www.diepresse.com/1513514/ufo-sorgt-fuer-flugausfall</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: easa.europa.eu  
    Title: eu Drones & Air Mobility  
-   Link: <a href="https://www.easa.europa.eu/en/domains/civil-drones" target="_blank" rel="noopener noreferrer nofollow">https://www.easa.europa.eu/en/domains/civil-drones</a>  
+   Link:<a href="https://www.easa.europa.eu/en/domains/civil-drones" target="_blank" rel="noopener noreferrer nofollow">https://www.easa.europa.eu/en/domains/civil-drones</a>  
 
 ### Additional References
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: youtube.com  
    Title: Unknown objects spotted over Bremen Airport  
-   Link: <a href="https://www.youtube.com/watch?v=OVepZSfT05Y" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=OVepZSfT05Y</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>This is happening at various airports around the world - Guarulhos Airport + fighter jets are being deployed...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=OVepZSfT05Y" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=OVepZSfT05Y</a><details class="endnote-snippet"><summary>Source snippet</summary><p>This is happening at various airports around the world - Guarulhos Airport + fighter jets are being deployed...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: youtube.com  
    Title: This is happening at various airports around the world  
-   Link: <a href="https://www.youtube.com/watch?v=X71J9Tc1k9g" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=X71J9Tc1k9g</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>3 UFO sightings near LaGuardia Airport | Banfield...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=X71J9Tc1k9g" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=X71J9Tc1k9g</a><details class="endnote-snippet"><summary>Source snippet</summary><p>3 UFO sightings near LaGuardia Airport | Banfield...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=8wVw5ByNb9c" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=8wVw5ByNb9c</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Credible UFO Sightings of the 21st Century...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=8wVw5ByNb9c" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=8wVw5ByNb9c</a><details class="endnote-snippet"><summary>Source snippet</summary><p>Credible UFO Sightings of the 21st Century...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: youtube.com  
    Title: 3 UFO sightings near La Guardia Airport | Banfield  
-   Link: <a href="https://www.youtube.com/watch?v=o3yPmW5BqtU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=o3yPmW5BqtU</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Caught on camera: Possible UFO reported over New York&#x27;s LaGuardia Airport | Banfield...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=o3yPmW5BqtU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=o3yPmW5BqtU</a><details class="endnote-snippet"><summary>Source snippet</summary><p>Caught on camera: Possible UFO reported over New York&#x27;s LaGuardia Airport | Banfield...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/European.Aviation.Safety.Agency/posts/easa-publishes-revised-easyaccessrules-for-drones-updating-the-acceptable-means-/10158957445674686/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/European.Aviation.Safety.Agency/posts/easa-publishes-revised-easyaccessrules-for-drones-updating-the-acceptable-means-/10158957445674686/</a>  
+   Link:<a href="https://www.facebook.com/European.Aviation.Safety.Agency/posts/easa-publishes-revised-easyaccessrules-for-drones-updating-the-acceptable-means-/10158957445674686/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/European.Aviation.Safety.Agency/posts/easa-publishes-revised-easyaccessrules-for-drones-updating-the-acceptable-means-/10158957445674686/</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/p/DY9e4akDdH3/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DY9e4akDdH3/?hl=en</a>  
+   Link:<a href="https://www.instagram.com/p/DY9e4akDdH3/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DY9e4akDdH3/?hl=en</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/IBTimesUK/posts/berlin-brandenburg-airport-lights-were-halted-after-a-luminous-object-appeared-a/1274886838077340/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/IBTimesUK/posts/berlin-brandenburg-airport-lights-were-halted-after-a-luminous-object-appeared-a/1274886838077340/</a>  
+   Link:<a href="https://www.facebook.com/IBTimesUK/posts/berlin-brandenburg-airport-lights-were-halted-after-a-luminous-object-appeared-a/1274886838077340/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/IBTimesUK/posts/berlin-brandenburg-airport-lights-were-halted-after-a-luminous-object-appeared-a/1274886838077340/</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: hanse.org  
-   Link: <a href="https://www.hanse.org/en/tourist/bremen" target="_blank" rel="noopener noreferrer nofollow">https://www.hanse.org/en/tourist/bremen</a>  
+   Link:<a href="https://www.hanse.org/en/tourist/bremen" target="_blank" rel="noopener noreferrer nofollow">https://www.hanse.org/en/tourist/bremen</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: expedia.co.uk  
-   Link: <a href="https://www.expedia.co.uk/Bremen.dx6050592" target="_blank" rel="noopener noreferrer nofollow">https://www.expedia.co.uk/Bremen.dx6050592</a>  
+   Link:<a href="https://www.expedia.co.uk/Bremen.dx6050592" target="_blank" rel="noopener noreferrer nofollow">https://www.expedia.co.uk/Bremen.dx6050592</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: aci.aero  
-   Link: <a href="https://aci.aero/wp-content/uploads/2021/08/DRONES-IN-THE-AIRPORT-ENVIRONMENT-CONCEPT-OF-OPERATIONS-INDUSTRY-GUIDANCE.pdf" target="_blank" rel="noopener noreferrer nofollow">https://aci.aero/wp-content/uploads/2021/08/DRONES-IN-THE-AIRPORT-ENVIRONMENT-CONCEPT-OF-OPERATIONS-INDUSTRY-GUIDANCE.pdf</a>  
+   Link:<a href="https://aci.aero/wp-content/uploads/2021/08/DRONES-IN-THE-AIRPORT-ENVIRONMENT-CONCEPT-OF-OPERATIONS-INDUSTRY-GUIDANCE.pdf" target="_blank" rel="noopener noreferrer nofollow">https://aci.aero/wp-content/uploads/2021/08/DRONES-IN-THE-AIRPORT-ENVIRONMENT-CONCEPT-OF-OPERATIONS-INDUSTRY-GUIDANCE.pdf</a>  

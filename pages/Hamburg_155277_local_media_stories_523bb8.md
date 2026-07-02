@@ -52,7 +52,7 @@ text_direction: ltr
 ui_strings:
   home: Home
   overview: Overview
-  overview_prefix: 'Overview:'
+  overview_prefix:'Overview:'
   contents: Contents
   close: Close
   open_contents: Open contents
@@ -200,13 +200,13 @@ ui_strings:
   search_this_page_empty_hint: Type to search this page.
   no_search_results: No pages match this search.
   no_search_this_page_results: No sections on this page match this search.
-  search_results_count_template: '{count} results'
+  search_results_count_template:'{count} results'
   search_kind_page_title: Page title
   search_kind_page_summary: Summary of page
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date: '2026-06-30 02:44:12'
+date:'2026-06-30 02:44:12'
 parent_title: Hamburg UFOs
 parent_permalink: /what-did-hamburg-really-see-in-the-sky/
 parent_nav_short_title: Hamburg UFOs
@@ -302,69 +302,54 @@ image: /assets/images/Hamburg_155277_local_media_stories_523bb8-overview-social.
 
 ## Introduction
 
-[Hamburg]({{ 'what-did-hamburg-really-see-in-the-sky/' | relative_url }}) UFO stories are often made twice: first in the sky, and then in the local media. A brief light, a moving chain of dots, a glowing “cigar” or a strange object above a neighbourhood becomes memorable when a newspaper, radio station or TV report gives it a time, a place, witness language and a question: was it a UFO? In Hamburg’s record, the answer has usually become less mysterious after follow-up reporting, astronomical checks or mundane explanations caught up with the first burst of public curiosity.
-
-
-<img src="{{ "/assets/images/Hamburg_155277_local_media_stories_523bb8-overview.webp" | relative_url }}" alt="Overview image for Media Stories" loading="eager" decoding="sync" fetchpriority="high">
+[Hamburg]({{'what-did-hamburg-really-see-in-the-sky/' | relative_url }}) UFO stories are often made twice: first in the sky, and then in the local media. A brief light, a moving chain of dots, a glowing “cigar” or a strange object above a neighbourhood becomes memorable when a newspaper, radio station or TV report gives it a time, a place, witness language and a question: was it a UFO? In Hamburg’s record, the answer has usually become less mysterious after follow-up reporting, astronomical checks or mundane explanations caught up with the first burst of public curiosity.<img src="{{"/assets/images/Hamburg_155277_local_media_stories_523bb8-overview.webp" | relative_url }}" alt="Overview image for Media Stories" loading="eager" decoding="sync" fetchpriority="high">
 That media pattern matters because Hamburg does not have one definitive, well-documented “classic UFO case” that dominates the city’s history. Instead, it has a sequence of reports in which local coverage helped turn fleeting sky events into shared civic mysteries. The strongest lesson is not that Hamburg has been visited by unknown craft, but that the city’s UFO memory is shaped by headlines, witness phrasing, local geography, and the speed with which explanations arrive.
 
 ## How reports enter local news
 
 Hamburg’s UFO stories usually begin with ordinary witnesses seeing something that seems out of place: a light crossing the sky, a formation moving too neatly, an object hovering above rooftops, or a sudden glow over the city. Local media then translate that private surprise into a public puzzle. The first report does not need to claim aliens; it only has to frame the object as unidentified, unusual and locally visible.
 
-The 1958 “cigar” reports show this process in a compact historical form. A CENAP archive note reproduces Hamburger Abendblatt coverage from 4 February 1958 under the headline that it was not “Explorer”, referring to the early American satellite context of the period. According to the report, many Abendblatt readers described a bright object over Hamburg at 20:27, moving from the south-east towards the north-west, apparently high in the sky, “cigar”-shaped and glowing blue to violet. The Bergedorf Observatory suspected a meteor, while the article explicitly ruled out Explorer because it would not pass over northern Germany and was not visible to the naked eye. A second Abendblatt item on 19 February 1958 again described reader reports of a puzzling object, with astronomers again leaning towards a meteor explanation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://alien.de/cenap/cenapnews/zeigen.php?satzid=8732" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: alien.de">[alien.de]</a><span class="citation-popover" role="note"><span class="citation-popover-source">alien.de</span><span class="citation-popover-snippet">Open source on alien.de.</span></span></span>
+The 1958 “cigar” reports show this process in a compact historical form. A CENAP archive note reproduces Hamburger Abendblatt coverage from 4 February 1958 under the headline that it was not “Explorer”, referring to the early American satellite context of the period. According to the report, many Abendblatt readers described a bright object over Hamburg at 20:27, moving from the south-east towards the north-west, apparently high in the sky, “cigar”-shaped and glowing blue to violet. The Bergedorf Observatory suspected a meteor, while the article explicitly ruled out Explorer because it would not pass over northern Germany and was not visible to the naked eye. A second Abendblatt item on 19 February 1958 again described reader reports of a puzzling object, with astronomers again leaning towards a meteor explanation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://alien.de/cenap/cenapnews/zeigen.php?satzid=8732" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: alien.de">[alien.de]</a><span class="citation-popover" role="note"><span class="citation-popover-source">alien.de</span><span class="citation-popover-snippet">Open source on alien.de.</span></span></span>
 
 That sequence is important because it shows how the UFO story was created in layers. The witness descriptions made the incident vivid; the newspaper gathered and compared reader reports; the satellite age supplied a topical possibility; and the observatory’s response pulled the case back towards a natural explanation. Without the local newspaper, the event might have remained a handful of private impressions. With the newspaper, it became part of Hamburg’s sky folklore, even though the best contemporary explanation was not exotic.
 
-Modern Hamburg examples follow the same pattern, but the media ecology is faster. In April 2020, Hamburger Abendblatt reported a chain of 42 fast-moving points over the city and immediately framed the story around what was behind the “mysterious flying objects”. The explanation was [Starlink]({{ 'starlink-7d87a2/' | relative_url }}) satellites, the SpaceX communications satellites that can appear shortly after launch as a striking line of lights across the night sky. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.abendblatt.de/hamburg/article228936889/UFO-Hamburg-Satelliten-Himmel-SpaceX-Starlink-Elon-Musk-Tesla-Wetter-UFO-Atmosphaere.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abendblatt.de">[Hamburger Abendblatt]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abendblatt.de</span><span class="citation-popover-snippet">Open source on abendblatt.de.</span></span></span> The object had not changed; the story changed as soon as the report connected a startling visual pattern with a known technical cause.
+Modern Hamburg examples follow the same pattern, but the media ecology is faster. In April 2020, Hamburger Abendblatt reported a chain of 42 fast-moving points over the city and immediately framed the story around what was behind the “mysterious flying objects”. The explanation was [Starlink]({{'starlink-7d87a2/' | relative_url }}) satellites, the SpaceX communications satellites that can appear shortly after launch as a striking line of lights across the night sky.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.abendblatt.de/hamburg/article228936889/UFO-Hamburg-Satelliten-Himmel-SpaceX-Starlink-Elon-Musk-Tesla-Wetter-UFO-Atmosphaere.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abendblatt.de">[Hamburger Abendblatt]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abendblatt.de</span><span class="citation-popover-snippet">Open source on abendblatt.de.</span></span></span> The object had not changed; the story changed as soon as the report connected a startling visual pattern with a known technical cause.
 
-This is why local media are not just passive recorders in Hamburg UFO history. They perform three functions at once: they collect witnesses, choose memorable language, and decide whether the story remains a mystery or becomes an explainer. The difference between “lights seen over Hamburg” and “mysterious flying objects over Hamburg” is not only a factual difference. It is a storytelling choice that affects whether readers remember the event as a solved sky curiosity or as a lingering UFO episode.
-
-
-<img src="{{ "/assets/images/Hamburg_155277_local_media_stories_523bb8-Illustration-1-dark.svg" | relative_url }}" alt="Media Stories illustration 1" data-theme-src-dark="{{ "/assets/images/Hamburg_155277_local_media_stories_523bb8-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Hamburg_155277_local_media_stories_523bb8-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+This is why local media are not just passive recorders in Hamburg UFO history. They perform three functions at once: they collect witnesses, choose memorable language, and decide whether the story remains a mystery or becomes an explainer. The difference between “lights seen over Hamburg” and “mysterious flying objects over Hamburg” is not only a factual difference. It is a storytelling choice that affects whether readers remember the event as a solved sky curiosity or as a lingering UFO episode.<img src="{{"/assets/images/Hamburg_155277_local_media_stories_523bb8-Illustration-1-dark.svg" | relative_url }}" alt="Media Stories illustration 1" data-theme-src-dark="{{"/assets/images/Hamburg_155277_local_media_stories_523bb8-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{"/assets/images/Hamburg_155277_local_media_stories_523bb8-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why witness language sticks
 
 Hamburg UFO stories often survive because of the words used at the moment of uncertainty. “Cigar”, “light chain”, “UFO over Barmbek”, “spiral”, “light trail” and “mysterious object” are not technical classifications. They are quick visual handles that help readers imagine the event. Once those phrases appear in local coverage, they can outlive the later explanation.
 
-The 1958 Abendblatt descriptions are a good example. The reported object was not just a light; it became a “cigar” and a bright blue-violet body crossing the city. That language made the sighting concrete enough to remember, even though astronomers suspected a meteor. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://alien.de/cenap/cenapnews/zeigen.php?satzid=8732" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: alien.de">[alien.de]</a><span class="citation-popover" role="note"><span class="citation-popover-source">alien.de</span><span class="citation-popover-snippet">Open source on alien.de.</span></span></span> The word “cigar” also carried wider UFO-era resonance, because cigar-shaped objects were already part of international flying saucer vocabulary. A short meteor-like event could therefore borrow the drama of the space age without needing strong evidence for a craft.
+The 1958 Abendblatt descriptions are a good example. The reported object was not just a light; it became a “cigar” and a bright blue-violet body crossing the city. That language made the sighting concrete enough to remember, even though astronomers suspected a meteor.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://alien.de/cenap/cenapnews/zeigen.php?satzid=8732" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: alien.de">[alien.de]</a><span class="citation-popover" role="note"><span class="citation-popover-source">alien.de</span><span class="citation-popover-snippet">Open source on alien.de.</span></span></span> The word “cigar” also carried wider UFO-era resonance, because cigar-shaped objects were already part of international flying saucer vocabulary. A short meteor-like event could therefore borrow the drama of the space age without needing strong evidence for a craft.
 
-The same mechanism appears in more playful contemporary coverage. In January 2025, Radio Hamburg ran a neighbourhood-level item asking whether there was “a UFO over Barmbek” after a listener sent video from a balcony. The report leaned into the question while also naming ordinary possibilities: a bird, a balloon, a drone or something else. It quoted the witness’s certainty that it was a UFO and joked about aliens choosing Hamburg for first contact, but it did not present that claim as established fact. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.radiohamburg.de/aktionen/on_air/Ein-UFO-%C3%BCber-Barmbek-id1270752.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: radiohamburg.de">[Radio Hamburg]</a><span class="citation-popover" role="note"><span class="citation-popover-source">radiohamburg.de</span><span class="citation-popover-title">Radio Hamburg Ein UFO über Barmbek? &#124; Radio Hamburg</span><span class="citation-popover-snippet">Radio Hamburg Ein UFO über Barmbek? &#124; Radio Hamburg</span></span></span>
+The same mechanism appears in more playful contemporary coverage. In January 2025, Radio Hamburg ran a neighbourhood-level item asking whether there was “a UFO over Barmbek” after a listener sent video from a balcony. The report leaned into the question while also naming ordinary possibilities: a bird, a balloon, a drone or something else. It quoted the witness’s certainty that it was a UFO and joked about aliens choosing Hamburg for first contact, but it did not present that claim as established fact.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.radiohamburg.de/aktionen/on_air/Ein-UFO-%C3%BCber-Barmbek-id1270752.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: radiohamburg.de">[Radio Hamburg]</a><span class="citation-popover" role="note"><span class="citation-popover-source">radiohamburg.de</span><span class="citation-popover-title">Radio Hamburg Ein UFO über Barmbek? &#124; Radio Hamburg</span><span class="citation-popover-snippet">Radio Hamburg Ein UFO über Barmbek? &#124; Radio Hamburg</span></span></span>
 
 That kind of tone is easy to dismiss, but it reveals how modern UFO stories circulate. A local station can turn a small video clip into a participatory mystery by inviting comments and reactions. The public is not merely told what happened; it is asked to join the act of interpretation. In older newspaper culture, readers phoned or wrote to the paper. In modern coverage, listeners and social media users contribute instantly, and uncertainty itself becomes part of the entertainment.
 
-The risk is that memorable phrasing can detach from the later explanation. A reader may remember “UFO over Barmbek” more readily than any subsequent clarification. A “mysterious light” headline travels faster than a cautious note about drones, balloons or camera artefacts. For Hamburg’s UFO history, this means that the media record must be read carefully: the most vivid label is often the least reliable part of the case.
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/dQovgvlAI6g" title="The UFO Reporter: A look inside the wild world of Investigation Alien" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=dQovgvlAI6g" target="_blank" rel="noopener noreferrer">The UFO Reporter: A look inside the wild world of Investigation Alien</a></p><p class="youtube-embed-meta">Channel: KOMO News</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=dQovgvlAI6g" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=dQovgvlAI6g">Open on YouTube</a></p></div></div></div>
+The risk is that memorable phrasing can detach from the later explanation. A reader may remember “UFO over Barmbek” more readily than any subsequent clarification. A “mysterious light” headline travels faster than a cautious note about drones, balloons or camera artefacts. For Hamburg’s UFO history, this means that the media record must be read carefully: the most vivid label is often the least reliable part of the case.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/dQovgvlAI6g" title="The UFO Reporter: A look inside the wild world of Investigation Alien" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=dQovgvlAI6g" target="_blank" rel="noopener noreferrer">The UFO Reporter: A look inside the wild world of Investigation Alien</a></p><p class="youtube-embed-meta">Channel: KOMO News</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=dQovgvlAI6g" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=dQovgvlAI6g">Open on YouTube</a></p></div></div></div>
 
 ## When follow-up reporting changes the story
 
 The most useful Hamburg UFO reports are the ones that show the before-and-after: first surprise, then explanation. These cases teach readers how quickly a convincing mystery can shrink once timing, location and known aerial activity are checked.
 
-A clear example came in March 2024, when RTL reported a Hamburg “UFO alarm” after a blinking object caused public concern and a police response. The story had the ingredients of a classic urban UFO report: multiple citizens noticed lights in the dark sky, the police were contacted, air traffic control was reportedly informed, and the object remained puzzling long enough to draw attention. The resolution was prosaic. Police traced the light to the Heiligengeistfeld, where a steerable kite fitted with LED lights was being flown; the kite pilot packed it away at officers’ request. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.rtl.de/cms/hamburg-ufo-alarm-unbekanntes-flugobjekt-verwirrt-buerger-und-polizei-das-steckt-dahinter-5079137.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rtl.de">[rtl.de]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rtl.de</span><span class="citation-popover-title">Hamburg: UFO-Alarm? Unbekanntes Flugobjekt verwirrt Bürger und Polizei</span><span class="citation-popover-snippet">Hamburg: UFO-Alarm? Unbekanntes Flugobjekt verwirrt Bürger und Polizei</span></span></span>
+A clear example came in March 2024, when RTL reported a Hamburg “UFO alarm” after a blinking object caused public concern and a police response. The story had the ingredients of a classic urban UFO report: multiple citizens noticed lights in the dark sky, the police were contacted, air traffic control was reportedly informed, and the object remained puzzling long enough to draw attention. The resolution was prosaic. Police traced the light to the Heiligengeistfeld, where a steerable kite fitted with LED lights was being flown; the kite pilot packed it away at officers’ request.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.rtl.de/cms/hamburg-ufo-alarm-unbekanntes-flugobjekt-verwirrt-buerger-und-polizei-das-steckt-dahinter-5079137.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rtl.de">[rtl.de]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rtl.de</span><span class="citation-popover-title">Hamburg: UFO-Alarm? Unbekanntes Flugobjekt verwirrt Bürger und Polizei</span><span class="citation-popover-snippet">Hamburg: UFO-Alarm? Unbekanntes Flugobjekt verwirrt Bürger und Polizei</span></span></span>
 
 That case matters because it shows why local reporting can strengthen rather than weaken sceptical understanding. The first phase gave the event its public visibility; the follow-up gave it evidential value. Readers learned not only that the “UFO” was a kite, but also why it had seemed more significant: darkness, LED lighting, a central urban site and multiple concerned observers combined to create a credible-looking mystery.
 
-Rocket and satellite stories follow a similar pattern at a larger scale. In February 2025, NDR’s Hamburg Journal described a night-time spectacle in which burning rocket parts lit up over Germany, producing a light trail that caused both wonder and concern among many Hamburg residents. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ardmediathek.de/video/hamburg-journal/naechtliches-spektakel-raketenteile-vergluehen/ndr/Y3JpZDovL25kci5kZS84ZjQ0ZTBmMi1hMDI3LTRkOTEtYTk1Yi1mNTFjMTU5NDIxNzM" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ardmediathek.de">[ARD Mediathek]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ardmediathek.de</span><span class="citation-popover-title">ARD Mediathek Hamburg Journal</span><span class="citation-popover-snippet">ARD Mediathek Hamburg Journal</span></span></span> In March 2025, NDR reported a blue spiral seen across northern Germany, including Hamburg, Schleswig-Holstein, Lower Saxony and Mecklenburg-Western Pomerania. The explanation was linked to a SpaceX Falcon 9 rocket releasing fuel; an observatory expert explained that the fuel cloud was illuminated by the Sun at roughly 400 to 600 kilometres altitude. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ndr.de/nachrichten/mecklenburg-vorpommern/Spektakulaeres-Leuchten-am-Himmel-Blaue-Spirale-sorgt-fuer-Staunen%2Cleuchtspirale100.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ndr.de">[ndr.de]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ndr.de</span><span class="citation-popover-title">Spektakuläres Leuchten am Himmel: Blaue Spirale sorgt für Staunen &#124; ndr.de</span><span class="citation-popover-snippet">Spektakuläres Leuchten am Himmel: Blaue Spirale sorgt für Staunen &#124; ndr.de</span></span></span>
+Rocket and satellite stories follow a similar pattern at a larger scale. In February 2025, NDR’s Hamburg Journal described a night-time spectacle in which burning rocket parts lit up over Germany, producing a light trail that caused both wonder and concern among many Hamburg residents.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ardmediathek.de/video/hamburg-journal/naechtliches-spektakel-raketenteile-vergluehen/ndr/Y3JpZDovL25kci5kZS84ZjQ0ZTBmMi1hMDI3LTRkOTEtYTk1Yi1mNTFjMTU5NDIxNzM" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ardmediathek.de">[ARD Mediathek]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ardmediathek.de</span><span class="citation-popover-title">ARD Mediathek Hamburg Journal</span><span class="citation-popover-snippet">ARD Mediathek Hamburg Journal</span></span></span> In March 2025, NDR reported a blue spiral seen across northern Germany, including Hamburg, Schleswig-Holstein, Lower Saxony and Mecklenburg-Western Pomerania. The explanation was linked to a SpaceX Falcon 9 rocket releasing fuel; an observatory expert explained that the fuel cloud was illuminated by the Sun at roughly 400 to 600 kilometres altitude.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ndr.de/nachrichten/mecklenburg-vorpommern/Spektakulaeres-Leuchten-am-Himmel-Blaue-Spirale-sorgt-fuer-Staunen%2Cleuchtspirale100.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ndr.de">[ndr.de]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ndr.de</span><span class="citation-popover-title">Spektakuläres Leuchten am Himmel: Blaue Spirale sorgt für Staunen &#124; ndr.de</span><span class="citation-popover-snippet">Spektakuläres Leuchten am Himmel: Blaue Spirale sorgt für Staunen &#124; ndr.de</span></span></span>
 
-Spektrum der Wissenschaft gave the same March 2025 spiral a concise scientific framing: impressive, visible over Hamburg and northern Germany, but caused by a rocket stage passivation manoeuvre rather than anything alien. Its account noted that the phenomenon appeared around 21:00 on 24 March and was produced when the Falcon 9 second stage released fuel at about 500 kilometres altitude while passing over Europe. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.spektrum.de/alias/bilder-der-woche/himmelsspirale-ueber-hamburg/2258863" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: spektrum.de">[Spektrum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">spektrum.de</span><span class="citation-popover-title">Himmelsspirale über Hamburg</span><span class="citation-popover-snippet">Himmelsspirale über Hamburg</span></span></span>
+Spektrum der Wissenschaft gave the same March 2025 spiral a concise scientific framing: impressive, visible over Hamburg and northern Germany, but caused by a rocket stage passivation manoeuvre rather than anything alien. Its account noted that the phenomenon appeared around 21:00 on 24 March and was produced when the Falcon 9 second stage released fuel at about 500 kilometres altitude while passing over Europe.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.spektrum.de/alias/bilder-der-woche/himmelsspirale-ueber-hamburg/2258863" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: spektrum.de">[Spektrum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">spektrum.de</span><span class="citation-popover-title">Himmelsspirale über Hamburg</span><span class="citation-popover-snippet">Himmelsspirale über Hamburg</span></span></span>
 
-These examples change how older Hamburg UFO stories should be read. A luminous “cigar” in 1958, a chain of lights in 2020, an LED kite in 2024 and a rocket spiral in 2025 are not the same event type. But they share a media rhythm: an unfamiliar sight becomes public because witnesses and journalists recognise it as strange; later checks place it in a known category. The story is still worth recording, but its value lies in the process of identification rather than in the survival of a mystery.
-
-
-<img src="{{ "/assets/images/Hamburg_155277_local_media_stories_523bb8-Illustration-2-dark.svg" | relative_url }}" alt="Media Stories illustration 2" data-theme-src-dark="{{ "/assets/images/Hamburg_155277_local_media_stories_523bb8-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Hamburg_155277_local_media_stories_523bb8-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+These examples change how older Hamburg UFO stories should be read. A luminous “cigar” in 1958, a chain of lights in 2020, an LED kite in 2024 and a rocket spiral in 2025 are not the same event type. But they share a media rhythm: an unfamiliar sight becomes public because witnesses and journalists recognise it as strange; later checks place it in a known category. The story is still worth recording, but its value lies in the process of identification rather than in the survival of a mystery.<img src="{{"/assets/images/Hamburg_155277_local_media_stories_523bb8-Illustration-2-dark.svg" | relative_url }}" alt="Media Stories illustration 2" data-theme-src-dark="{{"/assets/images/Hamburg_155277_local_media_stories_523bb8-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{"/assets/images/Hamburg_155277_local_media_stories_523bb8-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Hamburg’s media pattern in the German reporting system
 
 Hamburg’s local UFO stories also sit inside a wider German reporting culture shaped by civilian investigation groups and media-friendly explanation work. CENAP and GEP are not state agencies, but they have become important reference points because many German UFO reports reach the public through local journalism before being compared with astronomical, satellite, aircraft, drone or photographic explanations.
 
-GEP’s published dataset describes its UFO/UAP case records as including sighting date and time, location, reporting form, free-text witness statements, classifications and investigation results, with personal data removed for privacy. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://zenodo.org/records/10547073" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: zenodo.org">[Zenodo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">zenodo.org</span><span class="citation-popover-snippet">Open source on zenodo.org.</span></span></span> A related research article on German UAP work explains that GEP investigations rely heavily on spontaneous witness reports, structured questionnaires, secondary data such as weather and astronomical conditions, and documented explanatory hypotheses; it also notes that roughly 5% of reported cases remain unexplained after investigation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/380530617_UAP_Research_in_Germany_Single_Case_Studies_Data_Management_Understanding_of_Strangeness" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">Open source on researchgate.net.</span></span></span>
+GEP’s published dataset describes its UFO/UAP case records as including sighting date and time, location, reporting form, free-text witness statements, classifications and investigation results, with personal data removed for privacy.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://zenodo.org/records/10547073" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: zenodo.org">[Zenodo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">zenodo.org</span><span class="citation-popover-snippet">Open source on zenodo.org.</span></span></span> A related research article on German UAP work explains that GEP investigations rely heavily on spontaneous witness reports, structured questionnaires, secondary data such as weather and astronomical conditions, and documented explanatory hypotheses; it also notes that roughly 5% of reported cases remain unexplained after investigation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/380530617_UAP_Research_in_Germany_Single_Case_Studies_Data_Management_Understanding_of_Strangeness" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">Open source on researchgate.net.</span></span></span>
 
 For Hamburg, that matters because the media version of a case is often incomplete. A local article may preserve the most vivid detail — a colour, shape, neighbourhood or witness reaction — while a case database asks different questions: exact time, direction, duration, weather, camera behaviour, aircraft routes and possible known causes. The two records do not replace each other. The media record shows how the story entered public memory; the investigation record tests whether the sighting has evidential strength.
 
-Recent national reporting also helps explain why Hamburg’s UFO stories increasingly involve satellites, drones and camera effects rather than classic saucers. ZDF reported that CENAP received 1,084 UFO reports in 2024 from Germany, Austria and Switzerland, a record number, and that most were traced to satellites. The same report listed bright planets and stars, LED balloons, foil balloons, private and industrial drones, aircraft, helicopters, light-effect devices and meteors among common explanations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.zdfheute.de/panorama/ufo-sichtungen-rekord-cenap-forschungsgruppe-100.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: zdfheute.de">[ZDFheute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">zdfheute.de</span><span class="citation-popover-title">ufo sichtungen rekord cenap forschungsgruppe 100</span><span class="citation-popover-snippet">ufo sichtungen rekord cenap forschungsgruppe 100</span></span></span> WELT similarly reported that Starlink has been especially important since 2019 because newly launched satellites can appear like a string of pearls moving across the sky, and that many submitted photos and videos turn out to show lens reflections, insects or birds close to the camera. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.welt.de/255086178" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: welt.de">[DIE WELT]</a><span class="citation-popover" role="note"><span class="citation-popover-source">welt.de</span><span class="citation-popover-title">DIE WELTHimmelserscheinungen: Immer mehr Deutsche glauben, Ufos zu sehen</span><span class="citation-popover-snippet">DIE WELTHimmelserscheinungen: Immer mehr Deutsche glauben, Ufos zu sehen</span></span></span>
-
-Hamburg’s own figures appear modest within that national picture. RTL Nord, citing CENAP data, reported that Hamburg had nine UFO reports in 2023, far below larger northern totals such as Lower Saxony’s 61 and Schleswig-Holstein’s 19. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.rtl.de/rtl-nord/deutschland-karte-zeigt-ufo-sichtungen-bekommen-wir-besuch-aus-dem-all-id1899914.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rtl.de">[rtl.de]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rtl.de</span><span class="citation-popover-title">Deutschland-Karte zeigt UFO-Sichtungen! Bekommen wir Besuch aus dem All?</span><span class="citation-popover-snippet">Deutschland-Karte zeigt UFO-Sichtungen! Bekommen wir Besuch aus dem All?</span></span></span> That low number is a useful corrective: Hamburg may generate memorable local UFO stories, but it is not, on the available public data, an exceptional German hotspot. Its importance for this subtopic lies less in volume than in how clearly local media show the making and unmaking of UFO narratives.
-
+Recent national reporting also helps explain why Hamburg’s UFO stories increasingly involve satellites, drones and camera effects rather than classic saucers. ZDF reported that CENAP received 1,084 UFO reports in 2024 from Germany, Austria and Switzerland, a record number, and that most were traced to satellites. The same report listed bright planets and stars, LED balloons, foil balloons, private and industrial drones, aircraft, helicopters, light-effect devices and meteors among common explanations.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.zdfheute.de/panorama/ufo-sichtungen-rekord-cenap-forschungsgruppe-100.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: zdfheute.de">[ZDFheute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">zdfheute.de</span><span class="citation-popover-title">ufo sichtungen rekord cenap forschungsgruppe 100</span><span class="citation-popover-snippet">ufo sichtungen rekord cenap forschungsgruppe 100</span></span></span> WELT similarly reported that Starlink has been especially important since 2019 because newly launched satellites can appear like a string of pearls moving across the sky, and that many submitted photos and videos turn out to show lens reflections, insects or birds close to the camera.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.welt.de/255086178" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: welt.de">[DIE WELT]</a><span class="citation-popover" role="note"><span class="citation-popover-source">welt.de</span><span class="citation-popover-title">DIE WELTHimmelserscheinungen: Immer mehr Deutsche glauben, Ufos zu sehen</span><span class="citation-popover-snippet">DIE WELTHimmelserscheinungen: Immer mehr Deutsche glauben, Ufos zu sehen</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/aZ740UKCP74" title="Real Historical Records of UFO Sightings Nobody Can Explain" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=aZ740UKCP74" target="_blank" rel="noopener noreferrer">Real Historical Records of UFO Sightings Nobody Can Explain</a></p><p class="youtube-embed-meta">Channel: Universe Inside You</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=aZ740UKCP74" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=aZ740UKCP74">Open on YouTube</a></p></div></div></div>
 
@@ -372,241 +357,48 @@ Hamburg’s own figures appear modest within that national picture. RTL Nord, ci
 
 Hamburg’s media-shaped UFO history should not be treated as a purely modern phenomenon. Long before radio clips, online videos and Starlink explainers, unusual sky events were already being turned into public stories through broadsheets, illustrated reports and early news culture. These older accounts are much weaker as evidence of physical objects, but they are strong evidence for the social life of sky mysteries.
 
-The best comparison is the 1665 Stralsund “air battle”, which has been examined by museum and cultural historians as both a reported celestial phenomenon and a media event. Tagesspiegel’s account of the Berlin Kunstbibliothek exhibition describes how a pamphlet appeared only two days after the Stralsund event, naming witnesses and presenting the report as a serious account; it also notes that the story spread through an already developed media system of broadsheets, newspapers and popular books. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.tagesspiegel.de/kultur/ufo-alarm-im-17-jahrhundert-die-berliner-kunstbibliothek-erforscht-eine-bizarre-mediensensation-9767375.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tagesspiegel.de">[Tagesspiegel]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tagesspiegel.de</span><span class="citation-popover-snippet">Open source on tagesspiegel.de.</span></span></span>
+The best comparison is the 1665 Stralsund “air battle”, which has been examined by museum and cultural historians as both a reported celestial phenomenon and a media event. Tagesspiegel’s account of the Berlin Kunstbibliothek exhibition describes how a pamphlet appeared only two days after the Stralsund event, naming witnesses and presenting the report as a serious account; it also notes that the story spread through an already developed media system of broadsheets, newspapers and popular books.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.tagesspiegel.de/kultur/ufo-alarm-im-17-jahrhundert-die-berliner-kunstbibliothek-erforscht-eine-bizarre-mediensensation-9767375.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tagesspiegel.de">[Tagesspiegel]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tagesspiegel.de</span><span class="citation-popover-snippet">Open source on tagesspiegel.de.</span></span></span>
 
 That comparison helps frame Hamburg’s often-cited 1697 “glowing wheels” tradition. The surviving UFO-lore version presents two luminous wheel-like objects over Hamburg, but the evidential problem is obvious: the historical image and later retellings do not provide the kind of timing, weather, angular measurements, independent observation logs or investigative chain that would make the case strong by modern standards. Its value is cultural rather than forensic. It shows that Hamburg belongs to a northern European tradition in which strange sky reports became memorable because media forms made them visible, shareable and dramatic.
 
-This is also why modern readers should be cautious with old illustrations. A picture can look more precise than the original observation was. Early printed sky wonders often mixed observation, symbolism, religious meaning, artistic convention and commercial appeal. Read as UFO evidence, they are fragile. Read as media history, they are highly relevant: they show that the transformation of lights into stories predates the flying saucer era by centuries.
-
-
-<img src="{{ "/assets/images/Hamburg_155277_local_media_stories_523bb8-Illustration-3-dark.svg" | relative_url }}" alt="Media Stories illustration 3" data-theme-src-dark="{{ "/assets/images/Hamburg_155277_local_media_stories_523bb8-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Hamburg_155277_local_media_stories_523bb8-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+This is also why modern readers should be cautious with old illustrations. A picture can look more precise than the original observation was. Early printed sky wonders often mixed observation, symbolism, religious meaning, artistic convention and commercial appeal. Read as UFO evidence, they are fragile. Read as media history, they are highly relevant: they show that the transformation of lights into stories predates the flying saucer era by centuries.<img src="{{"/assets/images/Hamburg_155277_local_media_stories_523bb8-Illustration-3-dark.svg" | relative_url }}" alt="Media Stories illustration 3" data-theme-src-dark="{{"/assets/images/Hamburg_155277_local_media_stories_523bb8-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{"/assets/images/Hamburg_155277_local_media_stories_523bb8-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What readers should take from Hamburg’s UFO media record
 
 The most reliable way to read Hamburg UFO stories is to separate the event, the report and the afterlife. The event is whatever was physically seen. The report is how witnesses and journalists first described it. The afterlife is what people remember once the explanation, if any, has arrived. Many Hamburg cases are interesting precisely because those three layers do not move at the same speed.
 
-A practical reading of the record suggests four cautions:
-
-
-<div class="content-enhancement content-enhancement--insight-grid" markdown="1">
+A practical reading of the record suggests four cautions:<div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * **A local headline is not a classification.** “UFO” usually means unidentified at the time of reporting, not alien or technologically extraordinary.
-* **Witness agreement helps, but does not settle the cause.** Multiple readers in 1958 could agree on a bright “cigar” while astronomers still reasonably suspected a meteor. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://alien.de/cenap/cenapnews/zeigen.php?satzid=8732" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: alien.de">[alien.de]</a><span class="citation-popover" role="note"><span class="citation-popover-source">alien.de</span><span class="citation-popover-snippet">Open source on alien.de.</span></span></span>
-* **Follow-up matters more than first impact.** The 2024 Heiligengeistfeld case became evidentially useful only when police traced the blinking object to an LED kite. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.rtl.de/cms/hamburg-ufo-alarm-unbekanntes-flugobjekt-verwirrt-buerger-und-polizei-das-steckt-dahinter-5079137.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rtl.de">[rtl.de]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rtl.de</span><span class="citation-popover-title">Hamburg: UFO-Alarm? Unbekanntes Flugobjekt verwirrt Bürger und Polizei</span><span class="citation-popover-snippet">Hamburg: UFO-Alarm? Unbekanntes Flugobjekt verwirrt Bürger und Polizei</span></span></span>
-* **New technology creates new UFO waves.** Starlink trains, rocket fuel releases, drones and LED devices produce genuine surprises, but they also leave traceable technical explanations when timing and location are checked. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.abendblatt.de/hamburg/article228936889/UFO-Hamburg-Satelliten-Himmel-SpaceX-Starlink-Elon-Musk-Tesla-Wetter-UFO-Atmosphaere.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abendblatt.de">[Hamburger Abendblatt+2ndr.de]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abendblatt.de</span><span class="citation-popover-snippet">Open source on abendblatt.de.</span></span></span>
+* **Witness agreement helps, but does not settle the cause.** Multiple readers in 1958 could agree on a bright “cigar” while astronomers still reasonably suspected a meteor.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://alien.de/cenap/cenapnews/zeigen.php?satzid=8732" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: alien.de">[alien.de]</a><span class="citation-popover" role="note"><span class="citation-popover-source">alien.de</span><span class="citation-popover-snippet">Open source on alien.de.</span></span></span>
+* **Follow-up matters more than first impact.** The 2024 Heiligengeistfeld case became evidentially useful only when police traced the blinking object to an LED kite.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.rtl.de/cms/hamburg-ufo-alarm-unbekanntes-flugobjekt-verwirrt-buerger-und-polizei-das-steckt-dahinter-5079137.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rtl.de">[rtl.de]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rtl.de</span><span class="citation-popover-title">Hamburg: UFO-Alarm? Unbekanntes Flugobjekt verwirrt Bürger und Polizei</span><span class="citation-popover-snippet">Hamburg: UFO-Alarm? Unbekanntes Flugobjekt verwirrt Bürger und Polizei</span></span></span>
+* **New technology creates new UFO waves.** Starlink trains, rocket fuel releases, drones and LED devices produce genuine surprises, but they also leave traceable technical explanations when timing and location are checked.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.abendblatt.de/hamburg/article228936889/UFO-Hamburg-Satelliten-Himmel-SpaceX-Starlink-Elon-Musk-Tesla-Wetter-UFO-Atmosphaere.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abendblatt.de">[Hamburger Abendblatt+2ndr.de]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abendblatt.de</span><span class="citation-popover-snippet">Open source on abendblatt.de.</span></span></span></div>
 
-</div>
-
-The balanced conclusion is that Hamburg newspapers, broadcasters and online outlets have not merely reported UFO stories; they have helped construct the public form those stories take. Sometimes that means amplifying mystery before an explanation is available. Sometimes it means doing the crucial second act: naming the satellite, meteor, kite, rocket stage or camera effect that resolves the case. Hamburg’s UFO history is therefore best understood not as a hidden archive of extraordinary craft, but as a visible record of how a modern city notices the sky, talks about uncertainty, and gradually sorts mystery from misidentification.
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/DTha26_xiN0" title="ECHTE VERSCHWÖRUNGEN - André Kramer (GEP e. V.)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=DTha26_xiN0" target="_blank" rel="noopener noreferrer">ECHTE VERSCHWÖRUNGEN - André Kramer (GEP e. V.)</a></p><p class="youtube-embed-meta">Channel: Die Deutschen - Podcast</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=DTha26_xiN0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=DTha26_xiN0">Open on YouTube</a></p></div></div></div>
-
-
-<section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to How Hamburg Newspapers Turn Lights Into Mysteries. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
-        
-        <p class="fr-book-desc">Examines how extraordinary stories spread.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Them+by+Jon+Ronson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Them on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Okg6WBbMjzQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Them" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Them+by+Jon+Ronson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Them">Them</a>
-        </h4>
-        <p class="fr-book-author">By Jon Ronson</p>
-        
-        <p class="fr-book-desc">Explores sensational claims and media narratives.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Them+by+Jon+Ronson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
-        
-        <p class="fr-book-desc">Contrasts careful reporting with headline-driven stories.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
-        
-        <p class="fr-book-desc">Provides context for evaluating historical reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Them&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Them</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
-</section>
-
-<section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
-
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
-
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-stories-how-hamburg-newspapers-turn-lights-into-mysteries-hamburg-aviation-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation wall art" data-ebay-reference="media-stories-how-hamburg-newspapers-turn-lights-into-mysteries-hamburg-aviation-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vulcan bomber aviation wall art canvas print mounted framed ready to hang"><img src="{{ '/assets/images/marketplace-covers/df93f96186ab197a5b3a.jpg' | relative_url }}" alt="Listing image for Vulcan bomber aviation wall art canvas print mounted framed ready to hang" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-stories-how-hamburg-newspapers-turn-lights-into-mysteries-hamburg-aviation-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation wall art" data-ebay-reference="media-stories-how-hamburg-newspapers-turn-lights-into-mysteries-hamburg-aviation-wall-art" target="_blank" rel="sponsored noopener noreferrer">Vulcan bomber aviation wall art canvas print mounted framed ready to hang</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-stories-how-hamburg-newspapers-turn-lights-into-mysteries-hamburg-aviation-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation wall art" data-ebay-reference="media-stories-how-hamburg-newspapers-turn-lights-into-mysteries-hamburg-aviation-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: aviation wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-stories-how-hamburg-newspapers-turn-lights-into-mysteries-hamburg-aviation-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation wall art" data-ebay-reference="media-stories-how-hamburg-newspapers-turn-lights-into-mysteries-hamburg-aviation-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-stories-how-hamburg-newspapers-turn-lights-into-mysteries-hamburg-aviation-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation wall art" data-ebay-reference="media-stories-how-hamburg-newspapers-turn-lights-into-mysteries-hamburg-aviation-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vulcan Bomber Red Arrows Aviation Wall Art Canvas 22 x 14 inch ready to hang"><img src="{{ '/assets/images/marketplace-covers/b9902b7979d1c778c904.jpg' | relative_url }}" alt="Listing image for Vulcan Bomber Red Arrows Aviation Wall Art Canvas 22 x 14 inch ready to hang" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-stories-how-hamburg-newspapers-turn-lights-into-mysteries-hamburg-aviation-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation wall art" data-ebay-reference="media-stories-how-hamburg-newspapers-turn-lights-into-mysteries-hamburg-aviation-wall-art" target="_blank" rel="sponsored noopener noreferrer">Vulcan Bomber Red Arrows Aviation Wall Art Canvas 22 x 14 inch ready to hang</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-stories-how-hamburg-newspapers-turn-lights-into-mysteries-hamburg-aviation-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation wall art" data-ebay-reference="media-stories-how-hamburg-newspapers-turn-lights-into-mysteries-hamburg-aviation-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: aviation wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-stories-how-hamburg-newspapers-turn-lights-into-mysteries-hamburg-aviation-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation wall art" data-ebay-reference="media-stories-how-hamburg-newspapers-turn-lights-into-mysteries-hamburg-aviation-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-stories-how-hamburg-newspapers-turn-lights-into-mysteries-hamburg-aviation-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation wall art" data-ebay-reference="media-stories-how-hamburg-newspapers-turn-lights-into-mysteries-hamburg-aviation-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for WW2 Spitfire Over White Cliffs RAF Aviation Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/172b1b875ec6ecdb1d02.jpg' | relative_url }}" alt="Listing image for WW2 Spitfire Over White Cliffs RAF Aviation Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-stories-how-hamburg-newspapers-turn-lights-into-mysteries-hamburg-aviation-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation wall art" data-ebay-reference="media-stories-how-hamburg-newspapers-turn-lights-into-mysteries-hamburg-aviation-wall-art" target="_blank" rel="sponsored noopener noreferrer">WW2 Spitfire Over White Cliffs RAF Aviation Poster Print Framed Canvas Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-stories-how-hamburg-newspapers-turn-lights-into-mysteries-hamburg-aviation-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation wall art" data-ebay-reference="media-stories-how-hamburg-newspapers-turn-lights-into-mysteries-hamburg-aviation-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: aviation wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-stories-how-hamburg-newspapers-turn-lights-into-mysteries-hamburg-aviation-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation wall art" data-ebay-reference="media-stories-how-hamburg-newspapers-turn-lights-into-mysteries-hamburg-aviation-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-stories-how-hamburg-newspapers-turn-lights-into-mysteries-hamburg-aviation-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation wall art" data-ebay-reference="media-stories-how-hamburg-newspapers-turn-lights-into-mysteries-hamburg-aviation-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Spitfire aviation poster wall art print un framed various size options available"><img src="{{ '/assets/images/marketplace-covers/ad50048f5e8927ed1a97.jpg' | relative_url }}" alt="Listing image for Spitfire aviation poster wall art print un framed various size options available" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-stories-how-hamburg-newspapers-turn-lights-into-mysteries-hamburg-aviation-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation wall art" data-ebay-reference="media-stories-how-hamburg-newspapers-turn-lights-into-mysteries-hamburg-aviation-wall-art" target="_blank" rel="sponsored noopener noreferrer">Spitfire aviation poster wall art print un framed various size options available</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-stories-how-hamburg-newspapers-turn-lights-into-mysteries-hamburg-aviation-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation wall art" data-ebay-reference="media-stories-how-hamburg-newspapers-turn-lights-into-mysteries-hamburg-aviation-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: aviation wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-stories-how-hamburg-newspapers-turn-lights-into-mysteries-hamburg-aviation-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation wall art" data-ebay-reference="media-stories-how-hamburg-newspapers-turn-lights-into-mysteries-hamburg-aviation-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-stories-how-hamburg-newspapers-turn-lights-into-mysteries-hamburg-aviation-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation wall art" data-ebay-reference="media-stories-how-hamburg-newspapers-turn-lights-into-mysteries-hamburg-aviation-wall-art" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+The balanced conclusion is that Hamburg newspapers, broadcasters and online outlets have not merely reported UFO stories; they have helped construct the public form those stories take. Sometimes that means amplifying mystery before an explanation is available. Sometimes it means doing the crucial second act: naming the satellite, meteor, kite, rocket stage or camera effect that resolves the case. Hamburg’s UFO history is therefore best understood not as a hidden archive of extraordinary craft, but as a visible record of how a modern city notices the sky, talks about uncertainty, and gradually sorts mystery from misidentification.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/DTha26_xiN0" title="ECHTE VERSCHWÖRUNGEN - André Kramer (GEP e. V.)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=DTha26_xiN0" target="_blank" rel="noopener noreferrer">ECHTE VERSCHWÖRUNGEN - André Kramer (GEP e. V.)</a></p><p class="youtube-embed-meta">Channel: Die Deutschen - Podcast</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=DTha26_xiN0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=DTha26_xiN0">Open on YouTube</a></p></div></div></div><section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title"><div class="fr-section-shell"><div class="fr-section-header"><div class="fr-section-heading"><p class="fr-section-kicker">Amazon book picks</p><h3 class="fr-heading" id="further-reading-title">Further Reading</h3></div><p class="fr-intro">Books and field guides related to How Hamburg Newspapers Turn Lights Into Mysteries. Use these as the next step if you want deeper reading beyond the article.</p></div><div class="fr-books-grid"><article class="fr-book-card"><a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a><div class="fr-book-info"><h4 class="fr-book-title"><a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a></h4><p class="fr-book-author">By Carl Sagan</p><p class="fr-book-desc">Examines how extraordinary stories spread.</p><div class="fr-book-actions"><a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon</a></div></div></article><article class="fr-book-card"><a class="fr-book-cover" href="https://www.amazon.com/s?k=Them+by+Jon+Ronson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Them on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Okg6WBbMjzQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Them" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a><div class="fr-book-info"><h4 class="fr-book-title"><a href="https://www.amazon.com/s?k=Them+by+Jon+Ronson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Them">Them</a></h4><p class="fr-book-author">By Jon Ronson</p><p class="fr-book-desc">Explores sensational claims and media narratives.</p><div class="fr-book-actions"><a href="https://www.amazon.com/s?k=Them+by+Jon+Ronson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon</a></div></div></article><article class="fr-book-card"><a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a><div class="fr-book-info"><h4 class="fr-book-title"><a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a></h4><p class="fr-book-author">By Leslie Kean</p><p class="fr-book-desc">Contrasts careful reporting with headline-driven stories.</p><div class="fr-book-actions"><a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon</a></div></div></article><article class="fr-book-card"><a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a><div class="fr-book-info"><h4 class="fr-book-title"><a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a></h4><p class="fr-book-author">By Joseph Allen Hynek</p><p class="fr-book-desc">Provides context for evaluating historical reports.</p><div class="fr-book-actions"><a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon</a></div></div></article></div><div class="fr-section-footer"><div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Them&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Them</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div><p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p></div></div></section><section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title"><div class="fr-section-shell"><div class="fr-section-header"><div class="fr-section-heading"><p class="fr-section-kicker">eBay marketplace picks</p><h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3></div><p class="fr-intro">Live-tested eBay searches with available results related to this page.</p><div class="fr-ebay-market-toolbar"><label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label><div class="fr-ebay-market-picker"><span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span><button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span><span data-ebay-trigger-market-label>USA</span></button><select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location"><option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option></select><div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button></div></div></div></div><div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1"><div class="fr-books-grid"><article class="fr-book-card"><a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-stories-how-hamburg-newspapers-turn-lights-into-mysteries-hamburg-cold-war-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War poster" data-ebay-reference="media-stories-how-hamburg-newspapers-turn-lights-into-mysteries-hamburg-cold-war-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Cold War 94mm Heat L1A1 (LAW) Rocket System 1989 Poster (Woolwich) 118cm x 85cm"><img src="{{'/assets/images/marketplace-covers/da9ccdd0383b0b19bdb6.jpg' | relative_url }}" alt="Listing image for Cold War 94mm Heat L1A1 (LAW) Rocket System 1989 Poster (Woolwich) 118cm x 85cm" loading="lazy" decoding="async" fetchpriority="low"></a><div class="fr-book-info"><p class="fr-book-kicker">Example eBay listing</p><h4 class="fr-book-title"><a href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-stories-how-hamburg-newspapers-turn-lights-into-mysteries-hamburg-cold-war-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War poster" data-ebay-reference="media-stories-how-hamburg-newspapers-turn-lights-into-mysteries-hamburg-cold-war-poster" target="_blank" rel="sponsored noopener noreferrer">Cold War 94mm Heat L1A1 (LAW) Rocket System 1989 Poster (Woolwich) 118cm x 85cm</a></h4><a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-stories-how-hamburg-newspapers-turn-lights-into-mysteries-hamburg-cold-war-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War poster" data-ebay-reference="media-stories-how-hamburg-newspapers-turn-lights-into-mysteries-hamburg-cold-war-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Cold War poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: Cold War poster</a><div class="fr-book-actions"><a href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-stories-how-hamburg-newspapers-turn-lights-into-mysteries-hamburg-cold-war-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War poster" data-ebay-reference="media-stories-how-hamburg-newspapers-turn-lights-into-mysteries-hamburg-cold-war-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span></a></div></div></article><article class="fr-book-card"><a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-stories-how-hamburg-newspapers-turn-lights-into-mysteries-hamburg-cold-war-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War poster" data-ebay-reference="media-stories-how-hamburg-newspapers-turn-lights-into-mysteries-hamburg-cold-war-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Original 1989 USSR Navy Day Vintage Soviet Military Poster Cold War Era"><img src="{{'/assets/images/marketplace-covers/1c44acd63010d3196bb9.jpg' | relative_url }}" alt="Listing image for Original 1989 USSR Navy Day Vintage Soviet Military Poster Cold War Era" loading="lazy" decoding="async" fetchpriority="low"></a><div class="fr-book-info"><p class="fr-book-kicker">Example eBay listing</p><h4 class="fr-book-title"><a href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-stories-how-hamburg-newspapers-turn-lights-into-mysteries-hamburg-cold-war-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War poster" data-ebay-reference="media-stories-how-hamburg-newspapers-turn-lights-into-mysteries-hamburg-cold-war-poster" target="_blank" rel="sponsored noopener noreferrer">Original 1989 USSR Navy Day Vintage Soviet Military Poster Cold War Era</a></h4><a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-stories-how-hamburg-newspapers-turn-lights-into-mysteries-hamburg-cold-war-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War poster" data-ebay-reference="media-stories-how-hamburg-newspapers-turn-lights-into-mysteries-hamburg-cold-war-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Cold War poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: Cold War poster</a><div class="fr-book-actions"><a href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-stories-how-hamburg-newspapers-turn-lights-into-mysteries-hamburg-cold-war-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War poster" data-ebay-reference="media-stories-how-hamburg-newspapers-turn-lights-into-mysteries-hamburg-cold-war-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span></a></div></div></article><article class="fr-book-card"><a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-stories-how-hamburg-newspapers-turn-lights-into-mysteries-hamburg-cold-war-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War poster" data-ebay-reference="media-stories-how-hamburg-newspapers-turn-lights-into-mysteries-hamburg-cold-war-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Original Soviet Cold War Poster Depicting American And British Aeroplanes"><img src="{{'/assets/images/marketplace-covers/dc4e7bfd617e5cfb49c8.jpg' | relative_url }}" alt="Listing image for Original Soviet Cold War Poster Depicting American And British Aeroplanes" loading="lazy" decoding="async" fetchpriority="low"></a><div class="fr-book-info"><p class="fr-book-kicker">Example eBay listing</p><h4 class="fr-book-title"><a href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-stories-how-hamburg-newspapers-turn-lights-into-mysteries-hamburg-cold-war-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War poster" data-ebay-reference="media-stories-how-hamburg-newspapers-turn-lights-into-mysteries-hamburg-cold-war-poster" target="_blank" rel="sponsored noopener noreferrer">Original Soviet Cold War Poster Depicting American And British Aeroplanes</a></h4><a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-stories-how-hamburg-newspapers-turn-lights-into-mysteries-hamburg-cold-war-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War poster" data-ebay-reference="media-stories-how-hamburg-newspapers-turn-lights-into-mysteries-hamburg-cold-war-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Cold War poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: Cold War poster</a><div class="fr-book-actions"><a href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-stories-how-hamburg-newspapers-turn-lights-into-mysteries-hamburg-cold-war-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War poster" data-ebay-reference="media-stories-how-hamburg-newspapers-turn-lights-into-mysteries-hamburg-cold-war-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span></a></div></div></article><article class="fr-book-card"><a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-stories-how-hamburg-newspapers-turn-lights-into-mysteries-hamburg-cold-war-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War poster" data-ebay-reference="media-stories-how-hamburg-newspapers-turn-lights-into-mysteries-hamburg-cold-war-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Original, cold war No Arms for germany campaign Propaganda Poster 30&quot; x 20&quot;"><img src="{{'/assets/images/marketplace-covers/63b42e6d0e98f4985269.jpg' | relative_url }}" alt="Listing image for Original, cold war No Arms for germany campaign Propaganda Poster 30&quot; x 20&quot;" loading="lazy" decoding="async" fetchpriority="low"></a><div class="fr-book-info"><p class="fr-book-kicker">Example eBay listing</p><h4 class="fr-book-title"><a href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-stories-how-hamburg-newspapers-turn-lights-into-mysteries-hamburg-cold-war-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War poster" data-ebay-reference="media-stories-how-hamburg-newspapers-turn-lights-into-mysteries-hamburg-cold-war-poster" target="_blank" rel="sponsored noopener noreferrer">Original, cold war No Arms for germany campaign Propaganda Poster 30&quot; x 20&quot;</a></h4><a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-stories-how-hamburg-newspapers-turn-lights-into-mysteries-hamburg-cold-war-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War poster" data-ebay-reference="media-stories-how-hamburg-newspapers-turn-lights-into-mysteries-hamburg-cold-war-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Cold War poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: Cold War poster</a><div class="fr-book-actions"><a href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-stories-how-hamburg-newspapers-turn-lights-into-mysteries-hamburg-cold-war-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War poster" data-ebay-reference="media-stories-how-hamburg-newspapers-turn-lights-into-mysteries-hamburg-cold-war-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span></a></div></div></article></div><div class="fr-section-footer"><a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-stories-how-hamburg-newspapers-turn-lights-into-mysteries-hamburg-cold-war-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War poster" data-ebay-reference="media-stories-how-hamburg-newspapers-turn-lights-into-mysteries-hamburg-cold-war-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span></a><p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p></div></div></div><script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
-  var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
-  var timezoneRules = [{"market": "EBAY_IE", "pattern": "^Europe/Dublin$"}, {"market": "EBAY_GB", "pattern": "^Europe/(London|Belfast)$"}, {"market": "EBAY_CA", "pattern": "^America/(Toronto|Vancouver|Edmonton|Winnipeg|Halifax|St_Johns|Regina|Saskatoon|Whitehorse|Dawson|Moncton|Glace_Bay|Goose_Bay|Iqaluit|Yellowknife|Inuvik|Rankin_Inlet|Resolute|Cambridge_Bay|Fort_Nelson|Creston|Dawson_Creek)$"}, {"market": "EBAY_US", "pattern": "^America/"}, {"market": "EBAY_DE", "pattern": "^Europe/Berlin$"}, {"market": "EBAY_FR", "pattern": "^Europe/Paris$"}, {"market": "EBAY_IT", "pattern": "^Europe/Rome$"}, {"market": "EBAY_ES", "pattern": "^Europe/Madrid$"}, {"market": "EBAY_AU", "pattern": "^Australia/"}, {"market": "EBAY_AU", "pattern": "^Pacific/(Auckland|Chatham)$"}];
+  var localeMarketMap = {"de":"EBAY_DE","de-at":"EBAY_AT","de-ch":"EBAY_CH","de-de":"EBAY_DE","en":"EBAY_US","en-au":"EBAY_AU","en-ca":"EBAY_CA","en-gb":"EBAY_GB","en-ie":"EBAY_IE","en-nz":"EBAY_AU","en-uk":"EBAY_GB","en-us":"EBAY_US","es":"EBAY_ES","es-es":"EBAY_ES","fr":"EBAY_FR","fr-be":"EBAY_BE","fr-ca":"EBAY_CA","fr-fr":"EBAY_FR","it":"EBAY_IT","it-it":"EBAY_IT","nl":"EBAY_NL","nl-be":"EBAY_BE","nl-nl":"EBAY_NL"};
+  var timezoneRules = [{"market":"EBAY_IE","pattern":"^Europe/Dublin$"}, {"market":"EBAY_GB","pattern":"^Europe/(London|Belfast)$"}, {"market":"EBAY_CA","pattern":"^America/(Toronto|Vancouver|Edmonton|Winnipeg|Halifax|St_Johns|Regina|Saskatoon|Whitehorse|Dawson|Moncton|Glace_Bay|Goose_Bay|Iqaluit|Yellowknife|Inuvik|Rankin_Inlet|Resolute|Cambridge_Bay|Fort_Nelson|Creston|Dawson_Creek)$"}, {"market":"EBAY_US","pattern":"^America/"}, {"market":"EBAY_DE","pattern":"^Europe/Berlin$"}, {"market":"EBAY_FR","pattern":"^Europe/Paris$"}, {"market":"EBAY_IT","pattern":"^Europe/Rome$"}, {"market":"EBAY_ES","pattern":"^Europe/Madrid$"}, {"market":"EBAY_AU","pattern":"^Australia/"}, {"market":"EBAY_AU","pattern":"^Pacific/(Auckland|Chatham)$"}];
   function normalize(value) {
-    return String(value || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
+    return String(value ||'').toLowerCase().replace(/_/g,'-').replace(/[^a-z0-9-]+/g,'');
   }
   function localeMatches() {
     var languages = [];
-    var exactMarket = '';
-    var languageMarket = '';
+    var exactMarket ='';
+    var languageMarket ='';
     try {
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -620,24 +412,24 @@ The balanced conclusion is that Hamburg newspapers, broadcasters and online outl
   }
   function inferFromLocale() {
     var matches = localeMatches();
-    return matches.exact || matches.language || '';
+    return matches.exact || matches.language ||'';
   }
   function inferFromTimezone() {
-    var tz = '';
-    try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
-    if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    var tz ='';
+    try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone ||''); } catch (err) {}
+    if (!tz) return'';
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
       } catch (err) {}
     }
-    return '';
+    return'';
   }
   function inferMarket(available, options) {
     available = Array.isArray(available) ? available : [];
     options = options || {};
-    var storageKey = options.storageKey || 'phoenix-affiliate-market';
+    var storageKey = options.storageKey ||'phoenix-affiliate-market';
     try {
       var saved = window.localStorage && localStorage.getItem(storageKey);
       if (saved && available.indexOf(saved) >= 0) return saved;
@@ -648,7 +440,7 @@ The balanced conclusion is that Hamburg newspapers, broadcasters and online outl
     if (localeMarkets.exact && available.indexOf(localeMarkets.exact) >= 0) return localeMarkets.exact;
     if (localeMarkets.language && available.indexOf(localeMarkets.language) >= 0) return localeMarkets.language;
     if (options.defaultMarket && available.indexOf(options.defaultMarket) >= 0) return options.defaultMarket;
-    return available[0] || '';
+    return available[0] ||'';
   }
   window.PhoenixAffiliateLocation = {
     normalize: normalize,
@@ -656,45 +448,43 @@ The balanced conclusion is that Hamburg newspapers, broadcasters and online outl
     inferFromLocale: inferFromLocale,
     inferFromTimezone: inferFromTimezone
   };
-})();
-</script>
-  <script type="text/javascript">
+})();</script><script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
-  var markets = {"EBAY_AU": {"campaign_id": "5339151051", "domain_label": "eBay.com.au", "label": "Australia", "mkrid": "705-53470-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com.au/sch/i.html?_nkw={query}"}, "EBAY_CA": {"campaign_id": "5339151051", "domain_label": "eBay.ca", "label": "Canada", "mkrid": "706-53473-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ca/sch/i.html?_nkw={query}"}, "EBAY_GB": {"campaign_id": "5339151051", "domain_label": "eBay.co.uk", "label": "UK", "mkrid": "710-53481-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.co.uk/sch/i.html?_nkw={query}"}, "EBAY_IE": {"campaign_id": "5339151051", "domain_label": "eBay.ie", "label": "Ireland", "mkrid": "5282-53468-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ie/sch/i.html?_nkw={query}"}, "EBAY_US": {"campaign_id": "5339151051", "domain_label": "eBay.com", "label": "USA", "mkrid": "711-53200-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com/sch/i.html?_nkw={query}"}};
-  var defaultMarket = "EBAY_GB";
+  var markets = {"EBAY_AU": {"campaign_id":"5339151051","domain_label":"eBay.com.au","label":"Australia","mkrid":"705-53470-19255-0","tool_id":"10001","url_template":"https://www.ebay.com.au/sch/i.html?_nkw={query}"},"EBAY_CA": {"campaign_id":"5339151051","domain_label":"eBay.ca","label":"Canada","mkrid":"706-53473-19255-0","tool_id":"10001","url_template":"https://www.ebay.ca/sch/i.html?_nkw={query}"},"EBAY_GB": {"campaign_id":"5339151051","domain_label":"eBay.co.uk","label":"UK","mkrid":"710-53481-19255-0","tool_id":"10001","url_template":"https://www.ebay.co.uk/sch/i.html?_nkw={query}"},"EBAY_IE": {"campaign_id":"5339151051","domain_label":"eBay.ie","label":"Ireland","mkrid":"5282-53468-19255-0","tool_id":"10001","url_template":"https://www.ebay.ie/sch/i.html?_nkw={query}"},"EBAY_US": {"campaign_id":"5339151051","domain_label":"eBay.com","label":"USA","mkrid":"711-53200-19255-0","tool_id":"10001","url_template":"https://www.ebay.com/sch/i.html?_nkw={query}"}};
+  var defaultMarket ="EBAY_GB";
   function encodeQuery(value) {
-    return encodeURIComponent(String(value || '').replace(/\s+/g, ' ').trim()).replace(/%20/g, '+');
+    return encodeURIComponent(String(value ||'').replace(/\s+/g,'').trim()).replace(/%20/g,'+');
   }
   function buildUrl(query, reference, marketId) {
     var cfg = markets[marketId] || markets[defaultMarket];
-    if (!cfg) return '#';
-    var template = String(cfg.url_template || 'https://www.ebay.com/sch/i.html?_nkw={query}');
-    var url = template.replace('{query}', encodeQuery(query || '')).replace('{query_plain}', String(query || ''));
-    var joiner = url.indexOf('?') >= 0 ? '&' : '?';
+    if (!cfg) return'#';
+    var template = String(cfg.url_template ||'https://www.ebay.com/sch/i.html?_nkw={query}');
+    var url = template.replace('{query}', encodeQuery(query ||'')).replace('{query_plain}', String(query ||''));
+    var joiner = url.indexOf('?') >= 0 ?'&' :'?';
     var params = [];
     if (cfg.mkrid) params.push('mkrid=' + encodeURIComponent(cfg.mkrid));
     if (cfg.campaign_id) params.push('campid=' + encodeURIComponent(cfg.campaign_id));
     params.push('mkevt=1');
     params.push('mkcid=1');
-    params.push('toolid=' + encodeURIComponent(cfg.tool_id || '10001'));
+    params.push('toolid=' + encodeURIComponent(cfg.tool_id ||'10001'));
     if (reference) params.push('customid=' + encodeURIComponent(reference).slice(0, 256));
     return url + joiner + params.join('&');
   }
   function domainLabel(marketId) {
     var cfg = markets[marketId] || markets[defaultMarket] || {};
-    return cfg.domain_label || 'eBay';
+    return cfg.domain_label ||'eBay';
   }
   function flagClass(marketId) {
-    return 'fr-ebay-market-flag fr-ebay-market-flag--' + String(marketId || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
+    return'fr-ebay-market-flag fr-ebay-market-flag--' + String(marketId ||'').toLowerCase().replace(/_/g,'-').replace(/[^a-z0-9-]+/g,'');
   }
   function closeMenu(section) {
     var menu = section.querySelector('[data-ebay-market-menu]');
     var trigger = section.querySelector('[data-ebay-market-trigger]');
     var picker = section.querySelector('.fr-ebay-market-picker');
     if (menu) menu.hidden = true;
-    if (trigger) trigger.setAttribute('aria-expanded', 'false');
+    if (trigger) trigger.setAttribute('aria-expanded','false');
     if (picker) picker.classList.remove('fr-ebay-market-picker--open');
   }
   function availableMarkets(section) {
@@ -710,10 +500,10 @@ The balanced conclusion is that Hamburg newspapers, broadcasters and online outl
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
-      var query = link.getAttribute('data-ebay-query') || '';
-      var reference = link.getAttribute('data-ebay-reference') || '';
+      var query = link.getAttribute('data-ebay-query') ||'';
+      var reference = link.getAttribute('data-ebay-reference') ||'';
       link.setAttribute('href', buildUrl(query, reference, marketId));
     });
     var select = section.querySelector('[data-ebay-market-select]');
@@ -733,11 +523,11 @@ The balanced conclusion is that Hamburg newspapers, broadcasters and online outl
       label.textContent = domainLabel(marketId);
     });
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
-      button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
+      button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ?'true' :'false');
     });
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
       var active = button.getAttribute('data-ebay-market-button') === marketId;
-      button.setAttribute('aria-pressed', active ? 'true' : 'false');
+      button.setAttribute('aria-pressed', active ?'true' :'false');
     });
     section.setAttribute('data-ebay-selected-market', marketId);
     if (persist) {
@@ -746,16 +536,16 @@ The balanced conclusion is that Hamburg newspapers, broadcasters and online outl
     closeMenu(section);
   }
   sections.forEach(function (section) {
-    if (section.getAttribute('data-ebay-localized-init') === '1') return;
-    section.setAttribute('data-ebay-localized-init', '1');
+    if (section.getAttribute('data-ebay-localized-init') ==='1') return;
+    section.setAttribute('data-ebay-localized-init','1');
     var available = availableMarkets(section);
     var marketId = defaultMarket;
     if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
       marketId = window.PhoenixAffiliateLocation.inferMarket(available, {
-        storageKey: 'phoenix-ebay-market',
+        storageKey:'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -769,9 +559,9 @@ The balanced conclusion is that Hamburg newspapers, broadcasters and online outl
     if (trigger && menu) {
       trigger.addEventListener('click', function (event) {
         event.stopPropagation();
-        var expanded = trigger.getAttribute('aria-expanded') === 'true';
+        var expanded = trigger.getAttribute('aria-expanded') ==='true';
         menu.hidden = expanded;
-        trigger.setAttribute('aria-expanded', expanded ? 'false' : 'true');
+        trigger.setAttribute('aria-expanded', expanded ?'false' :'true');
         var picker = trigger.closest('.fr-ebay-market-picker');
         if (picker) picker.classList.toggle('fr-ebay-market-picker--open', !expanded);
       });
@@ -790,169 +580,165 @@ The balanced conclusion is that Hamburg newspapers, broadcasters and online outl
     });
     applyMarket(section, marketId, false);
   });
-})();
-</script>
-</section>
+})();</script></section>
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: alien.de  
-   Link: <a href="https://alien.de/cenap/cenapnews/zeigen.php?satzid=8732" target="_blank" rel="noopener noreferrer nofollow">https://alien.de/cenap/cenapnews/zeigen.php?satzid=8732</a>  
+   Link:<a href="https://alien.de/cenap/cenapnews/zeigen.php?satzid=8732" target="_blank" rel="noopener noreferrer nofollow">https://alien.de/cenap/cenapnews/zeigen.php?satzid=8732</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: abendblatt.de  
-   Link: <a href="https://www.abendblatt.de/hamburg/article228936889/UFO-Hamburg-Satelliten-Himmel-SpaceX-Starlink-Elon-Musk-Tesla-Wetter-UFO-Atmosphaere.html" target="_blank" rel="noopener noreferrer nofollow">https://www.abendblatt.de/hamburg/article228936889/UFO-Hamburg-Satelliten-Himmel-SpaceX-Starlink-Elon-Musk-Tesla-Wetter-UFO-Atmosphaere.html</a>  
+   Link:<a href="https://www.abendblatt.de/hamburg/article228936889/UFO-Hamburg-Satelliten-Himmel-SpaceX-Starlink-Elon-Musk-Tesla-Wetter-UFO-Atmosphaere.html" target="_blank" rel="noopener noreferrer nofollow">https://www.abendblatt.de/hamburg/article228936889/UFO-Hamburg-Satelliten-Himmel-SpaceX-Starlink-Elon-Musk-Tesla-Wetter-UFO-Atmosphaere.html</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: rtl.de  
    Title: Hamburg: UFO-Alarm? Unbekanntes Flugobjekt verwirrt Bürger und Polizei  
-   Link: <a href="https://www.rtl.de/cms/hamburg-ufo-alarm-unbekanntes-flugobjekt-verwirrt-buerger-und-polizei-das-steckt-dahinter-5079137.html" target="_blank" rel="noopener noreferrer nofollow">https://www.rtl.de/cms/hamburg-ufo-alarm-unbekanntes-flugobjekt-verwirrt-buerger-und-polizei-das-steckt-dahinter-5079137.html</a>  
+   Link:<a href="https://www.rtl.de/cms/hamburg-ufo-alarm-unbekanntes-flugobjekt-verwirrt-buerger-und-polizei-das-steckt-dahinter-5079137.html" target="_blank" rel="noopener noreferrer nofollow">https://www.rtl.de/cms/hamburg-ufo-alarm-unbekanntes-flugobjekt-verwirrt-buerger-und-polizei-das-steckt-dahinter-5079137.html</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: ndr.de  
    Title: Spektakuläres Leuchten am Himmel: Blaue Spirale sorgt für Staunen | ndr.de  
-   Link: <a href="https://www.ndr.de/nachrichten/mecklenburg-vorpommern/Spektakulaeres-Leuchten-am-Himmel-Blaue-Spirale-sorgt-fuer-Staunen%2Cleuchtspirale100.html" target="_blank" rel="noopener noreferrer nofollow">https://www.ndr.de/nachrichten/mecklenburg-vorpommern/Spektakulaeres-Leuchten-am-Himmel-Blaue-Spirale-sorgt-fuer-Staunen%2Cleuchtspirale100.html</a>  
+   Link:<a href="https://www.ndr.de/nachrichten/mecklenburg-vorpommern/Spektakulaeres-Leuchten-am-Himmel-Blaue-Spirale-sorgt-fuer-Staunen%2Cleuchtspirale100.html" target="_blank" rel="noopener noreferrer nofollow">https://www.ndr.de/nachrichten/mecklenburg-vorpommern/Spektakulaeres-Leuchten-am-Himmel-Blaue-Spirale-sorgt-fuer-Staunen%2Cleuchtspirale100.html</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: spektrum.de  
    Title: Himmelsspirale über Hamburg  
-   Link: <a href="https://www.spektrum.de/alias/bilder-der-woche/himmelsspirale-ueber-hamburg/2258863" target="_blank" rel="noopener noreferrer nofollow">https://www.spektrum.de/alias/bilder-der-woche/himmelsspirale-ueber-hamburg/2258863</a>  
+   Link:<a href="https://www.spektrum.de/alias/bilder-der-woche/himmelsspirale-ueber-hamburg/2258863" target="_blank" rel="noopener noreferrer nofollow">https://www.spektrum.de/alias/bilder-der-woche/himmelsspirale-ueber-hamburg/2258863</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: zenodo.org  
-   Link: <a href="https://zenodo.org/records/10547073" target="_blank" rel="noopener noreferrer nofollow">https://zenodo.org/records/10547073</a>  
+   Link:<a href="https://zenodo.org/records/10547073" target="_blank" rel="noopener noreferrer nofollow">https://zenodo.org/records/10547073</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/380530617_UAP_Research_in_Germany_Single_Case_Studies_Data_Management_Understanding_of_Strangeness" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/380530617_UAP_Research_in_Germany_Single_Case_Studies_Data_Management_Understanding_of_Strangeness</a>  
+   Link:<a href="https://www.researchgate.net/publication/380530617_UAP_Research_in_Germany_Single_Case_Studies_Data_Management_Understanding_of_Strangeness" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/380530617_UAP_Research_in_Germany_Single_Case_Studies_Data_Management_Understanding_of_Strangeness</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: zdfheute.de  
    Title: ufo sichtungen rekord cenap forschungsgruppe 100  
-   Link: <a href="https://www.zdfheute.de/panorama/ufo-sichtungen-rekord-cenap-forschungsgruppe-100.html" target="_blank" rel="noopener noreferrer nofollow">https://www.zdfheute.de/panorama/ufo-sichtungen-rekord-cenap-forschungsgruppe-100.html</a>  
+   Link:<a href="https://www.zdfheute.de/panorama/ufo-sichtungen-rekord-cenap-forschungsgruppe-100.html" target="_blank" rel="noopener noreferrer nofollow">https://www.zdfheute.de/panorama/ufo-sichtungen-rekord-cenap-forschungsgruppe-100.html</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: welt.de  
    Title: DIE WELTHimmelserscheinungen: Immer mehr Deutsche glauben, Ufos zu sehen  
-   Link: <a href="https://www.welt.de/255086178" target="_blank" rel="noopener noreferrer nofollow">https://www.welt.de/255086178</a>  
+   Link:<a href="https://www.welt.de/255086178" target="_blank" rel="noopener noreferrer nofollow">https://www.welt.de/255086178</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: rtl.de  
    Title: Deutschland-Karte zeigt UFO-Sichtungen! Bekommen wir Besuch aus dem All?  
-   Link: <a href="https://www.rtl.de/rtl-nord/deutschland-karte-zeigt-ufo-sichtungen-bekommen-wir-besuch-aus-dem-all-id1899914.html" target="_blank" rel="noopener noreferrer nofollow">https://www.rtl.de/rtl-nord/deutschland-karte-zeigt-ufo-sichtungen-bekommen-wir-besuch-aus-dem-all-id1899914.html</a>  
+   Link:<a href="https://www.rtl.de/rtl-nord/deutschland-karte-zeigt-ufo-sichtungen-bekommen-wir-besuch-aus-dem-all-id1899914.html" target="_blank" rel="noopener noreferrer nofollow">https://www.rtl.de/rtl-nord/deutschland-karte-zeigt-ufo-sichtungen-bekommen-wir-besuch-aus-dem-all-id1899914.html</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: tagesspiegel.de  
-   Link: <a href="https://www.tagesspiegel.de/kultur/ufo-alarm-im-17-jahrhundert-die-berliner-kunstbibliothek-erforscht-eine-bizarre-mediensensation-9767375.html" target="_blank" rel="noopener noreferrer nofollow">https://www.tagesspiegel.de/kultur/ufo-alarm-im-17-jahrhundert-die-berliner-kunstbibliothek-erforscht-eine-bizarre-mediensensation-9767375.html</a>  
+   Link:<a href="https://www.tagesspiegel.de/kultur/ufo-alarm-im-17-jahrhundert-die-berliner-kunstbibliothek-erforscht-eine-bizarre-mediensensation-9767375.html" target="_blank" rel="noopener noreferrer nofollow">https://www.tagesspiegel.de/kultur/ufo-alarm-im-17-jahrhundert-die-berliner-kunstbibliothek-erforscht-eine-bizarre-mediensensation-9767375.html</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: abendblatt.de  
-   Link: <a href="https://www.abendblatt.de/" target="_blank" rel="noopener noreferrer nofollow">https://www.abendblatt.de/</a>  
+   Link:<a href="https://www.abendblatt.de/" target="_blank" rel="noopener noreferrer nofollow">https://www.abendblatt.de/</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: zdfheute.de  
    Title: ufo mythos technik weltall 100  
-   Link: <a href="https://www.zdfheute.de/wissen/ufo-mythos-technik-weltall-100.html" target="_blank" rel="noopener noreferrer nofollow">https://www.zdfheute.de/wissen/ufo-mythos-technik-weltall-100.html</a>  
+   Link:<a href="https://www.zdfheute.de/wissen/ufo-mythos-technik-weltall-100.html" target="_blank" rel="noopener noreferrer nofollow">https://www.zdfheute.de/wissen/ufo-mythos-technik-weltall-100.html</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: zdfheute.de  
    Title: lichter himmel ufo jupiter venus 100  
-   Link: <a href="https://www.zdfheute.de/panorama/lichter-himmel-ufo-jupiter-venus-100.html" target="_blank" rel="noopener noreferrer nofollow">https://www.zdfheute.de/panorama/lichter-himmel-ufo-jupiter-venus-100.html</a>  
+   Link:<a href="https://www.zdfheute.de/panorama/lichter-himmel-ufo-jupiter-venus-100.html" target="_blank" rel="noopener noreferrer nofollow">https://www.zdfheute.de/panorama/lichter-himmel-ufo-jupiter-venus-100.html</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: welt.de  
-   Link: <a href="https://www.welt.de/themen/ufos/" target="_blank" rel="noopener noreferrer nofollow">https://www.welt.de/themen/ufos/</a>  
+   Link:<a href="https://www.welt.de/themen/ufos/" target="_blank" rel="noopener noreferrer nofollow">https://www.welt.de/themen/ufos/</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: rtl.de  
-   Link: <a href="https://www.rtl.de/video/handelt-es-sich-bei-diesen-aufnahmen-um-ein-ufo-65e6401988ece1d3310b6832.html" target="_blank" rel="noopener noreferrer nofollow">https://www.rtl.de/video/handelt-es-sich-bei-diesen-aufnahmen-um-ein-ufo-65e6401988ece1d3310b6832.html</a>  
+   Link:<a href="https://www.rtl.de/video/handelt-es-sich-bei-diesen-aufnahmen-um-ein-ufo-65e6401988ece1d3310b6832.html" target="_blank" rel="noopener noreferrer nofollow">https://www.rtl.de/video/handelt-es-sich-bei-diesen-aufnahmen-um-ein-ufo-65e6401988ece1d3310b6832.html</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: archive.org  
-   Link: <a href="https://archive.org/download/flugblattundzeit00schouoft/flugblattundzeit00schouoft.pdf" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/download/flugblattundzeit00schouoft/flugblattundzeit00schouoft.pdf</a>  
+   Link:<a href="https://archive.org/download/flugblattundzeit00schouoft/flugblattundzeit00schouoft.pdf" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/download/flugblattundzeit00schouoft/flugblattundzeit00schouoft.pdf</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: radiohamburg.de  
    Title: Radio Hamburg Ein UFO über Barmbek? | Radio Hamburg  
-   Link: <a href="https://www.radiohamburg.de/aktionen/on_air/Ein-UFO-%C3%BCber-Barmbek-id1270752.html" target="_blank" rel="noopener noreferrer nofollow">https://www.radiohamburg.de/aktionen/on_air/Ein-UFO-%C3%BCber-Barmbek-id1270752.html</a>  
+   Link:<a href="https://www.radiohamburg.de/aktionen/on_air/Ein-UFO-%C3%BCber-Barmbek-id1270752.html" target="_blank" rel="noopener noreferrer nofollow">https://www.radiohamburg.de/aktionen/on_air/Ein-UFO-%C3%BCber-Barmbek-id1270752.html</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: ardmediathek.de  
    Title: ARD Mediathek Hamburg Journal  
-   Link: <a href="https://www.ardmediathek.de/video/hamburg-journal/naechtliches-spektakel-raketenteile-vergluehen/ndr/Y3JpZDovL25kci5kZS84ZjQ0ZTBmMi1hMDI3LTRkOTEtYTk1Yi1mNTFjMTU5NDIxNzM" target="_blank" rel="noopener noreferrer nofollow">https://www.ardmediathek.de/video/hamburg-journal/naechtliches-spektakel-raketenteile-vergluehen/ndr/Y3JpZDovL25kci5kZS84ZjQ0ZTBmMi1hMDI3LTRkOTEtYTk1Yi1mNTFjMTU5NDIxNzM</a>  
+   Link:<a href="https://www.ardmediathek.de/video/hamburg-journal/naechtliches-spektakel-raketenteile-vergluehen/ndr/Y3JpZDovL25kci5kZS84ZjQ0ZTBmMi1hMDI3LTRkOTEtYTk1Yi1mNTFjMTU5NDIxNzM" target="_blank" rel="noopener noreferrer nofollow">https://www.ardmediathek.de/video/hamburg-journal/naechtliches-spektakel-raketenteile-vergluehen/ndr/Y3JpZDovL25kci5kZS84ZjQ0ZTBmMi1hMDI3LTRkOTEtYTk1Yi1mNTFjMTU5NDIxNzM</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/abendblatt/photos/das-ufo-war-restaurant-schlafst%C3%A4tte-impfzentrum-bevor-aus-dem-schandfleck-ein-mo/1484126767089859/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/abendblatt/photos/das-ufo-war-restaurant-schlafst%C3%A4tte-impfzentrum-bevor-aus-dem-schandfleck-ein-mo/1484126767089859/</a>  
+   Link:<a href="https://www.facebook.com/abendblatt/photos/das-ufo-war-restaurant-schlafst%C3%A4tte-impfzentrum-bevor-aus-dem-schandfleck-ein-mo/1484126767089859/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/abendblatt/photos/das-ufo-war-restaurant-schlafst%C3%A4tte-impfzentrum-bevor-aus-dem-schandfleck-ein-mo/1484126767089859/</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/177905516269509/posts/1627781087948604/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/177905516269509/posts/1627781087948604/</a>  
+   Link:<a href="https://www.facebook.com/groups/177905516269509/posts/1627781087948604/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/177905516269509/posts/1627781087948604/</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/reel/DFM1a68MPih/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DFM1a68MPih/?hl=en</a>  
+   Link:<a href="https://www.instagram.com/reel/DFM1a68MPih/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DFM1a68MPih/?hl=en</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: ardmediathek.de  
-   Link: <a href="https://www.ardmediathek.de/video/hamburg-journal/open-air-festival-vogelball-findet-zum-letzten-mal-statt/ndr/Y3JpZDovL25kci5kZS8xZTE4MzI0NC1hYWJmLTQ2Y2MtOGYxOS03NmVkNzAyOGNjNzM" target="_blank" rel="noopener noreferrer nofollow">https://www.ardmediathek.de/video/hamburg-journal/open-air-festival-vogelball-findet-zum-letzten-mal-statt/ndr/Y3JpZDovL25kci5kZS8xZTE4MzI0NC1hYWJmLTQ2Y2MtOGYxOS03NmVkNzAyOGNjNzM</a>  
+   Link:<a href="https://www.ardmediathek.de/video/hamburg-journal/open-air-festival-vogelball-findet-zum-letzten-mal-statt/ndr/Y3JpZDovL25kci5kZS8xZTE4MzI0NC1hYWJmLTQ2Y2MtOGYxOS03NmVkNzAyOGNjNzM" target="_blank" rel="noopener noreferrer nofollow">https://www.ardmediathek.de/video/hamburg-journal/open-air-festival-vogelball-findet-zum-letzten-mal-statt/ndr/Y3JpZDovL25kci5kZS8xZTE4MzI0NC1hYWJmLTQ2Y2MtOGYxOS03NmVkNzAyOGNjNzM</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: ardmediathek.de  
    Title: Y3Jp ZDov L25kci5k ZS8y NTRh ODk3ZS02OTA5LTQw MDUt OWVk NS0y OWI1NDYy NDkz NTc  
-   Link: <a href="https://www.ardmediathek.de/video/hamburg-journal/hamburg-damals-der-gelbe-engel-am-hamburger-himmel/ndr/Y3JpZDovL25kci5kZS8yNTRhODk3ZS02OTA5LTQwMDUtOWVkNS0yOWI1NDYyNDkzNTc" target="_blank" rel="noopener noreferrer nofollow">https://www.ardmediathek.de/video/hamburg-journal/hamburg-damals-der-gelbe-engel-am-hamburger-himmel/ndr/Y3JpZDovL25kci5kZS8yNTRhODk3ZS02OTA5LTQwMDUtOWVkNS0yOWI1NDYyNDkzNTc</a>  
+   Link:<a href="https://www.ardmediathek.de/video/hamburg-journal/hamburg-damals-der-gelbe-engel-am-hamburger-himmel/ndr/Y3JpZDovL25kci5kZS8yNTRhODk3ZS02OTA5LTQwMDUtOWVkNS0yOWI1NDYyNDkzNTc" target="_blank" rel="noopener noreferrer nofollow">https://www.ardmediathek.de/video/hamburg-journal/hamburg-damals-der-gelbe-engel-am-hamburger-himmel/ndr/Y3JpZDovL25kci5kZS8yNTRhODk3ZS02OTA5LTQwMDUtOWVkNS0yOWI1NDYyNDkzNTc</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: mpifr-bonn.mpg.de  
-   Link: <a href="https://www.mpifr-bonn.mpg.de/medienbeitrage/newspaper" target="_blank" rel="noopener noreferrer nofollow">https://www.mpifr-bonn.mpg.de/medienbeitrage/newspaper</a>  
+   Link:<a href="https://www.mpifr-bonn.mpg.de/medienbeitrage/newspaper" target="_blank" rel="noopener noreferrer nofollow">https://www.mpifr-bonn.mpg.de/medienbeitrage/newspaper</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: orf.at  
-   Link: <a href="https://orf.at/stories/3381375/" target="_blank" rel="noopener noreferrer nofollow">https://orf.at/stories/3381375/</a>  
+   Link:<a href="https://orf.at/stories/3381375/" target="_blank" rel="noopener noreferrer nofollow">https://orf.at/stories/3381375/</a>  
 
 ### Additional References
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: youtube.com  
    Title: The UFO Reporter: A look inside the wild world of Investigation Alien  
-   Link: <a href="https://www.youtube.com/watch?v=dQovgvlAI6g" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=dQovgvlAI6g</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UAP disclosure revelations &amp; unanswered UFO questions | Backscroll...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=dQovgvlAI6g" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=dQovgvlAI6g</a><details class="endnote-snippet"><summary>Source snippet</summary><p>UAP disclosure revelations &amp; unanswered UFO questions | Backscroll...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: youtube.com  
    Title: ECHTE VERSCHWÖRUNGEN  
-   Link: <a href="https://www.youtube.com/watch?v=DTha26_xiN0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=DTha26_xiN0</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO research in Germany: Professor wants to scientifically prove aliens exist...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=DTha26_xiN0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=DTha26_xiN0</a><details class="endnote-snippet"><summary>Source snippet</summary><p>UFO research in Germany: Professor wants to scientifically prove aliens exist...</p></details>
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: academia.edu  
-   Link: <a href="https://www.academia.edu/150140247/Die_Entdeckung_der_Engelsbr%C3%BCder_Religiosit%C3%A4t_Gemeinschaftlichkeit_und_Kommunikation_um_1700" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/150140247/Die_Entdeckung_der_Engelsbr%C3%BCder_Religiosit%C3%A4t_Gemeinschaftlichkeit_und_Kommunikation_um_1700</a>  
+   Link:<a href="https://www.academia.edu/150140247/Die_Entdeckung_der_Engelsbr%C3%BCder_Religiosit%C3%A4t_Gemeinschaftlichkeit_und_Kommunikation_um_1700" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/150140247/Die_Entdeckung_der_Engelsbr%C3%BCder_Religiosit%C3%A4t_Gemeinschaftlichkeit_und_Kommunikation_um_1700</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/gintazaz45/posts/1561-a-celestial-phenomenon-is-reported-over-nuremberg-described-as-an-aerial-ba/2357813201184194/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/gintazaz45/posts/1561-a-celestial-phenomenon-is-reported-over-nuremberg-described-as-an-aerial-ba/2357813201184194/</a>  
+   Link:<a href="https://www.facebook.com/gintazaz45/posts/1561-a-celestial-phenomenon-is-reported-over-nuremberg-described-as-an-aerial-ba/2357813201184194/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/gintazaz45/posts/1561-a-celestial-phenomenon-is-reported-over-nuremberg-described-as-an-aerial-ba/2357813201184194/</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/1hvxrr6/blinking_stationary_object_in_the_sky_over/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1hvxrr6/blinking_stationary_object_in_the_sky_over/</a>  
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/1hvxrr6/blinking_stationary_object_in_the_sky_over/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1hvxrr6/blinking_stationary_object_in_the_sky_over/</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: prussia.online  
-   Link: <a href="https://prussia.online/Data/Book/di/die-kroenung-ihrer-majestaeten-des-koenigs-wilhelm/Die%20Kr%C3%B6nung%20Ihrer%20Majest%C3%A4ten%20des%20K%C3%B6nigs%20Wilhelm%20%281873%29%20Google%2C%20OCR%2C%20v2.pdf" target="_blank" rel="noopener noreferrer nofollow">https://prussia.online/Data/Book/di/die-kroenung-ihrer-majestaeten-des-koenigs-wilhelm/Die%20Kr%C3%B6nung%20Ihrer%20Majest%C3%A4ten%20des%20K%C3%B6nigs%20Wilhelm%20%281873%29%20Google%2C%20OCR%2C%20v2.pdf</a>  
+   Link:<a href="https://prussia.online/Data/Book/di/die-kroenung-ihrer-majestaeten-des-koenigs-wilhelm/Die%20Kr%C3%B6nung%20Ihrer%20Majest%C3%A4ten%20des%20K%C3%B6nigs%20Wilhelm%20%281873%29%20Google%2C%20OCR%2C%20v2.pdf" target="_blank" rel="noopener noreferrer nofollow">https://prussia.online/Data/Book/di/die-kroenung-ihrer-majestaeten-des-koenigs-wilhelm/Die%20Kr%C3%B6nung%20Ihrer%20Majest%C3%A4ten%20des%20K%C3%B6nigs%20Wilhelm%20%281873%29%20Google%2C%20OCR%2C%20v2.pdf</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: fwes.info  
-   Link: <a href="https://www.fwes.info/fubk-21-1-LONG-de.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.fwes.info/fubk-21-1-LONG-de.pdf</a>  
+   Link:<a href="https://www.fwes.info/fubk-21-1-LONG-de.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.fwes.info/fubk-21-1-LONG-de.pdf</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: rdklabor.de  
-   Link: <a href="https://www.rdklabor.de/wiki/Feuerwerk" target="_blank" rel="noopener noreferrer nofollow">https://www.rdklabor.de/wiki/Feuerwerk</a>  
+   Link:<a href="https://www.rdklabor.de/wiki/Feuerwerk" target="_blank" rel="noopener noreferrer nofollow">https://www.rdklabor.de/wiki/Feuerwerk</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: museumulm.de  
-   Link: <a href="https://museumulm.de/wp-content/uploads/2024/03/Inventarbuecher-Gemaelde-und-Graphik.pdf" target="_blank" rel="noopener noreferrer nofollow">https://museumulm.de/wp-content/uploads/2024/03/Inventarbuecher-Gemaelde-und-Graphik.pdf</a>  
+   Link:<a href="https://museumulm.de/wp-content/uploads/2024/03/Inventarbuecher-Gemaelde-und-Graphik.pdf" target="_blank" rel="noopener noreferrer nofollow">https://museumulm.de/wp-content/uploads/2024/03/Inventarbuecher-Gemaelde-und-Graphik.pdf</a>  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: brill.com  
-   Link: <a href="https://brill.com/downloadpdf/edcollbook/title/63884.pdf?srsltid=AfmBOooYNqTRavHvsEV9olvauZLp6YXWkTYBPa9IKntNELh66wJ_d7-p" target="_blank" rel="noopener noreferrer nofollow">https://brill.com/downloadpdf/edcollbook/title/63884.pdf?srsltid=AfmBOooYNqTRavHvsEV9olvauZLp6YXWkTYBPa9IKntNELh66wJ_d7-p</a>  
+   Link:<a href="https://brill.com/downloadpdf/edcollbook/title/63884.pdf?srsltid=AfmBOooYNqTRavHvsEV9olvauZLp6YXWkTYBPa9IKntNELh66wJ_d7-p" target="_blank" rel="noopener noreferrer nofollow">https://brill.com/downloadpdf/edcollbook/title/63884.pdf?srsltid=AfmBOooYNqTRavHvsEV9olvauZLp6YXWkTYBPa9IKntNELh66wJ_d7-p</a>  

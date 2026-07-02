@@ -52,7 +52,7 @@ text_direction: ltr
 ui_strings:
   home: Home
   overview: Overview
-  overview_prefix: 'Overview:'
+  overview_prefix:'Overview:'
   contents: Contents
   close: Close
   open_contents: Open contents
@@ -200,13 +200,13 @@ ui_strings:
   search_this_page_empty_hint: Type to search this page.
   no_search_results: No pages match this search.
   no_search_this_page_results: No sections on this page match this search.
-  search_results_count_template: '{count} results'
+  search_results_count_template:'{count} results'
   search_kind_page_title: Page title
   search_kind_page_summary: Summary of page
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date: '2026-06-30 02:03:11'
+date:'2026-06-30 02:03:11'
 parent_title: Hamburg UFOs
 parent_permalink: /what-did-hamburg-really-see-in-the-sky/
 parent_nav_short_title: Hamburg UFOs
@@ -302,61 +302,46 @@ image: /assets/images/Hamburg_155277_harbour_city_lights_52e719-overview-social.
 
 ## Introduction
 
-[Hamburg]({{ 'what-did-hamburg-really-see-in-the-sky/' | relative_url }})’s harbour can make ordinary lights look stranger than they are. The city’s UFO history includes reports of unusual points, beams and formations in the night sky, but the harbour setting gives investigators a built-in caution: bright port lighting, wet surfaces, glass-fronted buildings, ships, cranes, haze, low cloud and moving viewpoints can all turn familiar sources into ambiguous aerial impressions. The point is not that every Hamburg sighting is “just lights”. It is that the port is one of the first places where a careful check should ask what the observer was facing, what the weather was doing, and which fixed or moving lights were in the line of sight.
-
-
-<img src="{{ "/assets/images/Hamburg_155277_harbour_city_lights_52e719-overview.webp" | relative_url }}" alt="Overview image for Harbour Lights" loading="eager" decoding="sync" fetchpriority="high">
-That matters because Hamburg is not a dark, empty observation site. It is a working port city, and the night sky above the Elbe is full of visual traps: reflected lights can appear detached from their source, beams can seem to hang in cloud, and aircraft, satellites or drones can be misread against a bright urban background. Modern German UFO reporting also shows that many sightings begin exactly this way: as sincere, puzzling observations later matched to planets, satellites, aircraft, drones, balloons, meteors or optical effects. CENAP, one of Germany’s long-running UFO reporting centres, reported record sighting numbers in 2024 and 2025, while emphasising that the bulk were traced to ordinary causes such as [Starlink]({{ 'starlink-7d87a2/' | relative_url }}) satellites, bright planets, meteors, drones and reflections or camera effects. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.welt.de/255086178" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: welt.de">[DIE WELT]</a><span class="citation-popover" role="note"><span class="citation-popover-source">welt.de</span><span class="citation-popover-title">DIE WELTImmer mehr Deutsche glauben, Ufos zu sehen</span><span class="citation-popover-snippet">Insgesamt wurden 1.084 Sichtungen aus Deutschland, Österreich und der Schweiz gemeldet, verglichen mit dem üblichen Durchschnitt von 600...</span></span></span>
+[Hamburg]({{'what-did-hamburg-really-see-in-the-sky/' | relative_url }})’s harbour can make ordinary lights look stranger than they are. The city’s UFO history includes reports of unusual points, beams and formations in the night sky, but the harbour setting gives investigators a built-in caution: bright port lighting, wet surfaces, glass-fronted buildings, ships, cranes, haze, low cloud and moving viewpoints can all turn familiar sources into ambiguous aerial impressions. The point is not that every Hamburg sighting is “just lights”. It is that the port is one of the first places where a careful check should ask what the observer was facing, what the weather was doing, and which fixed or moving lights were in the line of sight.<img src="{{"/assets/images/Hamburg_155277_harbour_city_lights_52e719-overview.webp" | relative_url }}" alt="Overview image for Harbour Lights" loading="eager" decoding="sync" fetchpriority="high">
+That matters because Hamburg is not a dark, empty observation site. It is a working port city, and the night sky above the Elbe is full of visual traps: reflected lights can appear detached from their source, beams can seem to hang in cloud, and aircraft, satellites or drones can be misread against a bright urban background. Modern German UFO reporting also shows that many sightings begin exactly this way: as sincere, puzzling observations later matched to planets, satellites, aircraft, drones, balloons, meteors or optical effects. CENAP, one of Germany’s long-running UFO reporting centres, reported record sighting numbers in 2024 and 2025, while emphasising that the bulk were traced to ordinary causes such as [Starlink]({{'starlink-7d87a2/' | relative_url }}) satellites, bright planets, meteors, drones and reflections or camera effects.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.welt.de/255086178" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: welt.de">[DIE WELT]</a><span class="citation-popover" role="note"><span class="citation-popover-source">welt.de</span><span class="citation-popover-title">DIE WELTImmer mehr Deutsche glauben, Ufos zu sehen</span><span class="citation-popover-snippet">Insgesamt wurden 1.084 Sichtungen aus Deutschland, Österreich und der Schweiz gemeldet, verglichen mit dem üblichen Durchschnitt von 600...</span></span></span>
 
 ## Why the harbour changes what witnesses think they see
 
-Hamburg’s port is not a neutral backdrop. It is a dense, illuminated industrial landscape beside water, with container terminals, cranes, bridges, ferries, cruise ships, warehouse fronts and glass architecture all producing or reflecting light. Official and tourism descriptions of the harbour routinely sell its night-time appeal as a “sea of lights”, with illuminated facades, modern architecture and harbour panoramas forming part of evening cruises through the port and warehouse district. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.hamburg-travel.com/booking/tickets/harbour-tour-in-the-evening/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hamburg-travel.com">[Hamburg Travel]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hamburg-travel.com</span><span class="citation-popover-snippet">Open source on hamburg-travel.com.</span></span></span>
+Hamburg’s port is not a neutral backdrop. It is a dense, illuminated industrial landscape beside water, with container terminals, cranes, bridges, ferries, cruise ships, warehouse fronts and glass architecture all producing or reflecting light. Official and tourism descriptions of the harbour routinely sell its night-time appeal as a “sea of lights”, with illuminated facades, modern architecture and harbour panoramas forming part of evening cruises through the port and warehouse district.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.hamburg-travel.com/booking/tickets/harbour-tour-in-the-evening/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hamburg-travel.com">[Hamburg Travel]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hamburg-travel.com</span><span class="citation-popover-snippet">Open source on hamburg-travel.com.</span></span></span>
 
 For UFO interpretation, that phrase is more than tourist language. A “sea of lights” means a witness may be looking into dozens or hundreds of potential sources at once: stationary navigation lights, moving vessel lights, crane lamps, vehicle lights, aircraft lights, reflections in water, reflections in windows and light bounced off low cloud. When a person sees one bright point or a short-lived pattern, the hard question is not simply “what was in the sky?” but “what was in the whole visual field?”
 
-Hamburg’s harbour also contains a rare mix of permanent, mobile and reflective elements. The city’s Blue Port light-art project is an extreme but useful example: it has been described as covering a programme area of around six square kilometres along about four kilometres of shoreline, combining fixed structures such as quays, terminals, buildings, bridges, towers and cranes with moving ships, pedestrians and water reflections. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.hamburg.com/visitors/events/maritime/artistic-space-of-light-21450" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hamburg.com">[Hamburg]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hamburg.com</span><span class="citation-popover-snippet">Open source on hamburg.com.</span></span></span> That is exactly the kind of environment in which a light can seem to move even when the source is fixed, or seem fixed when the observer is moving.
+Hamburg’s harbour also contains a rare mix of permanent, mobile and reflective elements. The city’s Blue Port light-art project is an extreme but useful example: it has been described as covering a programme area of around six square kilometres along about four kilometres of shoreline, combining fixed structures such as quays, terminals, buildings, bridges, towers and cranes with moving ships, pedestrians and water reflections.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.hamburg.com/visitors/events/maritime/artistic-space-of-light-21450" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hamburg.com">[Hamburg]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hamburg.com</span><span class="citation-popover-snippet">Open source on hamburg.com.</span></span></span> That is exactly the kind of environment in which a light can seem to move even when the source is fixed, or seem fixed when the observer is moving.
 
-This does not debunk a specific sighting by itself. It sets the investigative burden. A report from a dark rural field and a report from the harbour edge are not equally easy to interpret. In Hamburg, the port’s lighting geometry has to be treated as part of the evidence.
-
-
-<img src="{{ "/assets/images/Hamburg_155277_harbour_city_lights_52e719-Illustration-1-dark.svg" | relative_url }}" alt="Harbour Lights illustration 1" data-theme-src-dark="{{ "/assets/images/Hamburg_155277_harbour_city_lights_52e719-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Hamburg_155277_harbour_city_lights_52e719-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+This does not debunk a specific sighting by itself. It sets the investigative burden. A report from a dark rural field and a report from the harbour edge are not equally easy to interpret. In Hamburg, the port’s lighting geometry has to be treated as part of the evidence.<img src="{{"/assets/images/Hamburg_155277_harbour_city_lights_52e719-Illustration-1-dark.svg" | relative_url }}" alt="Harbour Lights illustration 1" data-theme-src-dark="{{"/assets/images/Hamburg_155277_harbour_city_lights_52e719-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{"/assets/images/Hamburg_155277_harbour_city_lights_52e719-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Port lighting and reflective surfaces
 
 The simplest false UFO impression in Hamburg is a bright light with no obvious body attached to it. At night, a crane, mast, ship, bridge or tower may be visible only as points of light. The dark structure between those points can disappear, especially through mist or at a distance. What remains for the witness is a shape made by lights rather than a visible object: a triangle, line, hovering cluster or “cigar” outline.
 
 Water makes this harder. Reflections in the Elbe and harbour basins can double a light, stretch it, break it into fragments or make it appear to tremble. A ship moving slowly past fixed harbour lights can create the impression that a light is gliding independently. A person watching from a ferry, promenade, bridge or moving car may unconsciously add their own motion to the perceived movement of the light.
 
-Hamburg’s deliberate light spectacles show how quickly the port can become an optical stage. Blue Port Hamburg uses thousands of lighting elements, and recent official tourism material describes more than 9,000 lights giving the harbour a blue glow after dark. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.hamburg-travel.com/see-explore/events/blue-port-hamburg/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hamburg-travel.com">[Hamburg Travel]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hamburg-travel.com</span><span class="citation-popover-snippet">Open source on hamburg-travel.com.</span></span></span> In 2025, HHLA reported that container gantry cranes at Hamburg container terminals and at O’Swaldkai were lit blue for the tenth Blue Port event. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://hhla.de/en/media/news/detail-view/blue-lit-hhla-container-opens-blue-port-hamburg" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hhla.de">[HHLA Hamburger Hafen und Logistik AG]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hhla.de</span><span class="citation-popover-title">Hamburger Hafen und Logistik AGBlue-lit HHLA container opens Blue Port Hamburg</span><span class="citation-popover-snippet">Hamburger Hafen und Logistik AGBlue-lit HHLA container opens Blue Port Hamburg</span></span></span> A witness who does not know such an event is underway may see coloured lights on cranes, buildings or ships and interpret them as something aerial, especially if only the upper illuminated sections are visible.
+Hamburg’s deliberate light spectacles show how quickly the port can become an optical stage. Blue Port Hamburg uses thousands of lighting elements, and recent official tourism material describes more than 9,000 lights giving the harbour a blue glow after dark.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.hamburg-travel.com/see-explore/events/blue-port-hamburg/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hamburg-travel.com">[Hamburg Travel]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hamburg-travel.com</span><span class="citation-popover-snippet">Open source on hamburg-travel.com.</span></span></span> In 2025, HHLA reported that container gantry cranes at Hamburg container terminals and at O’Swaldkai were lit blue for the tenth Blue Port event.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://hhla.de/en/media/news/detail-view/blue-lit-hhla-container-opens-blue-port-hamburg" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hhla.de">[HHLA Hamburger Hafen und Logistik AG]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hhla.de</span><span class="citation-popover-title">Hamburger Hafen und Logistik AGBlue-lit HHLA container opens Blue Port Hamburg</span><span class="citation-popover-snippet">Hamburger Hafen und Logistik AGBlue-lit HHLA container opens Blue Port Hamburg</span></span></span> A witness who does not know such an event is underway may see coloured lights on cranes, buildings or ships and interpret them as something aerial, especially if only the upper illuminated sections are visible.
 
-The same principle applies outside special events. The Hamburg Port Authority’s port information guide notes that the port operates around the clock, including inspections at night. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.hamburg-port-authority.de/fileadmin/user_upload/1_HPA_PIG_2022-1.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hamburg-port-authority.de">[hamburg-port-authority.de]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hamburg-port-authority.de</span><span class="citation-popover-title">1 HPA PIG 2022 1</span><span class="citation-popover-snippet">1 HPA PIG 2022 1</span></span></span> A 24-hour port requires lighting for safety, navigation, loading and security. That lighting is not arranged for skywatchers; it is arranged for work. As a result, it can produce glare, bright points, changing intensities and partial silhouettes that are meaningful to port workers but ambiguous to a casual observer across the water.
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/8dPm7xkNQVQ" title="Germany’s UFO Secrets They Don’t Want You to Know | Black Forest, Die Glocke &amp; More" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=8dPm7xkNQVQ" target="_blank" rel="noopener noreferrer">Germany’s UFO Secrets They Don’t Want You to Know | Black Forest, Die Glocke &amp; More</a></p><p class="youtube-embed-meta">Channel: Get Germanized &middot; Views: 1.3K &middot; Uploaded: August 2025 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=8dPm7xkNQVQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=8dPm7xkNQVQ">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/_tecEqEzDv4" title="First UFO Sighting? The 1561 Sky Battle Over Nuremberg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=_tecEqEzDv4" target="_blank" rel="noopener noreferrer">First UFO Sighting? The 1561 Sky Battle Over Nuremberg</a></p><p class="youtube-embed-meta">Channel: Brothers Mellema</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=_tecEqEzDv4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=_tecEqEzDv4">Open on YouTube</a></p></div></div></div>
 
 ## Haze, cloud and moving beams
 
-Hamburg’s weather adds another layer. Haze, mist, rain, low cloud and humid air scatter light, making beams visible and spreading point sources into soft glowing patches. Light pollution research explains the mechanism clearly: skyglow is produced when artificial light travels upward or reflects from surfaces and is scattered back by molecules, aerosols and cloud. The National Park Service describes light pollution in terms of glare, light trespass and skyglow, while research on night-sky brightness shows that aerosols and clouds can greatly increase the amount of artificial light scattered back towards observers. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nps.gov/subjects/nightskies/lightpollution.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nps.gov">[National Park Service]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nps.gov</span><span class="citation-popover-title">National Park Service Light Pollution</span><span class="citation-popover-snippet">National Park Service Light Pollution</span></span></span>
+Hamburg’s weather adds another layer. Haze, mist, rain, low cloud and humid air scatter light, making beams visible and spreading point sources into soft glowing patches. Light pollution research explains the mechanism clearly: skyglow is produced when artificial light travels upward or reflects from surfaces and is scattered back by molecules, aerosols and cloud. The National Park Service describes light pollution in terms of glare, light trespass and skyglow, while research on night-sky brightness shows that aerosols and clouds can greatly increase the amount of artificial light scattered back towards observers.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nps.gov/subjects/nightskies/lightpollution.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nps.gov">[National Park Service]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nps.gov</span><span class="citation-popover-title">National Park Service Light Pollution</span><span class="citation-popover-snippet">National Park Service Light Pollution</span></span></span>
 
 This is especially relevant in a port city. Industrial, road and maritime settings contain many bright lights close to reflective ground and water surfaces. When the air is damp or cloudy, a searchlight, event beam or powerful floodlight can stop looking like a beam from the ground and start looking like a luminous object suspended in the sky. If the beam sweeps, the “object” seems to move. If the beam is static, it can appear as a fixed vertical or slanted shape.
 
-A small Hamburg example shows how this happens in everyday public interpretation. In a local Reddit discussion, a user asked about streaks or rays seen around 11 pm over Hamburg-Othmarschen and said they did not think they were contrails or concert beams because they stayed visible for more than an hour. Other local commenters identified the source as lasers from a concert at the Trabrennbahn, with one saying the lights had remained on after the show. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/hamburg/comments/1mmuuky/was_k%C3%B6nnte_das_sein_hamburger_nachthimmel/?tl=en" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">Open source on reddit.com.</span></span></span> This is not a formal UFO case, but it is a useful miniature of the process: a sincere observation, a puzzling duration, an apparently sky-based effect, and a local ground source that only becomes obvious when the event context is known.
+A small Hamburg example shows how this happens in everyday public interpretation. In a local Reddit discussion, a user asked about streaks or rays seen around 11 pm over Hamburg-Othmarschen and said they did not think they were contrails or concert beams because they stayed visible for more than an hour. Other local commenters identified the source as lasers from a concert at the Trabrennbahn, with one saying the lights had remained on after the show.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/hamburg/comments/1mmuuky/was_k%C3%B6nnte_das_sein_hamburger_nachthimmel/?tl=en" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">Open source on reddit.com.</span></span></span> This is not a formal UFO case, but it is a useful miniature of the process: a sincere observation, a puzzling duration, an apparently sky-based effect, and a local ground source that only becomes obvious when the event context is known.
 
-Clouds can also widen the reach of artificial light beyond the source itself. A study using all-sky photometry found that cloud cover can dramatically extend the reach of skyglow; in that study, near-natural sky brightness was reached at a much greater distance on a partly cloudy night than on a clear one. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/1705.04968" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Open source on arxiv.org.</span></span></span> Another study mapping Berlin’s skyglow found strong cloud amplification inside the city, with brightness under overcast conditions rising well above full-moon light levels in the city centre. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2202.08258" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Open source on arxiv.org.</span></span></span> Hamburg is not Berlin, but the mechanism is directly relevant: in a bright German city, cloud can make urban light more visible, not less.
-
-
-<img src="{{ "/assets/images/Hamburg_155277_harbour_city_lights_52e719-Illustration-2-dark.svg" | relative_url }}" alt="Harbour Lights illustration 2" data-theme-src-dark="{{ "/assets/images/Hamburg_155277_harbour_city_lights_52e719-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Hamburg_155277_harbour_city_lights_52e719-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+Clouds can also widen the reach of artificial light beyond the source itself. A study using all-sky photometry found that cloud cover can dramatically extend the reach of skyglow; in that study, near-natural sky brightness was reached at a much greater distance on a partly cloudy night than on a clear one.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/1705.04968" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Open source on arxiv.org.</span></span></span> Another study mapping Berlin’s skyglow found strong cloud amplification inside the city, with brightness under overcast conditions rising well above full-moon light levels in the city centre.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2202.08258" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Open source on arxiv.org.</span></span></span> Hamburg is not Berlin, but the mechanism is directly relevant: in a bright German city, cloud can make urban light more visible, not less.<img src="{{"/assets/images/Hamburg_155277_harbour_city_lights_52e719-Illustration-2-dark.svg" | relative_url }}" alt="Harbour Lights illustration 2" data-theme-src-dark="{{"/assets/images/Hamburg_155277_harbour_city_lights_52e719-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{"/assets/images/Hamburg_155277_harbour_city_lights_52e719-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Hamburg sightings often start as “lights”, not craft
 
 The harbour context helps explain why many reports from urban areas are descriptions of lights rather than detailed objects. Witnesses may report brightness, colour, arrangement, apparent movement, disappearance or silence, but not a solid structure. That does not make the witness dishonest. It means the observation is incomplete.
 
-German UFO reporting data points in the same direction. CENAP’s public explanations often treat UFO reports as identification problems rather than as claims of alien craft. A 2024 profile of Hansjürgen Köhler and CENAP described cases in which police officers and pilots were puzzled by lights that were later explained as Sirius or Starlink reflections, and stated that CENAP received 746 reports in 2023, with a high clarification rate and unsolved cases often remaining unresolved because there was not enough information to identify them conclusively. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.deutschland.de/en/topic/knowledge/ufos-over-germany-hansjuergen-koehler-and-cenap" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: deutschland.de">[Deutschland]</a><span class="citation-popover" role="note"><span class="citation-popover-source">deutschland.de</span><span class="citation-popover-title">UFOs over Germany: An expert provides clarity</span><span class="citation-popover-snippet">UFOs over Germany: An expert provides clarity</span></span></span>
+German UFO reporting data points in the same direction. CENAP’s public explanations often treat UFO reports as identification problems rather than as claims of alien craft. A 2024 profile of Hansjürgen Köhler and CENAP described cases in which police officers and pilots were puzzled by lights that were later explained as Sirius or Starlink reflections, and stated that CENAP received 746 reports in 2023, with a high clarification rate and unsolved cases often remaining unresolved because there was not enough information to identify them conclusively.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.deutschland.de/en/topic/knowledge/ufos-over-germany-hansjuergen-koehler-and-cenap" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: deutschland.de">[Deutschland]</a><span class="citation-popover" role="note"><span class="citation-popover-source">deutschland.de</span><span class="citation-popover-title">UFOs over Germany: An expert provides clarity</span><span class="citation-popover-snippet">UFOs over Germany: An expert provides clarity</span></span></span>
 
-The pattern continued in later reporting. In 2025, CENAP received many calls about two bright morning lights that witnesses described in terms such as drones, car headlights in the sky or unfamiliar stars; the explanation given was the close appearance of Jupiter and Venus in the morning sky. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.anews.com.tr/world/2025/08/12/ufo-reporting-up-in-germany-as-people-misidentify-planets" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: anews.com.tr">[A News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">anews.com.tr</span><span class="citation-popover-title">A News UFO reporting up in Germany as people misidentify planets</span><span class="citation-popover-snippet">A News UFO reporting up in Germany as people misidentify planets</span></span></span> In January 2026, German reporting on CENAP’s 2025 figures listed common explanations including Venus, Jupiter, meteors, satellites, rocket stages, space debris and drones. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.welt.de/article695becd2fb77630dac278675" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: welt.de">[DIE WELT]</a><span class="citation-popover" role="note"><span class="citation-popover-source">welt.de</span><span class="citation-popover-snippet">Open source on welt.de.</span></span></span>
+The pattern continued in later reporting. In 2025, CENAP received many calls about two bright morning lights that witnesses described in terms such as drones, car headlights in the sky or unfamiliar stars; the explanation given was the close appearance of Jupiter and Venus in the morning sky.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.anews.com.tr/world/2025/08/12/ufo-reporting-up-in-germany-as-people-misidentify-planets" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: anews.com.tr">[A News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">anews.com.tr</span><span class="citation-popover-title">A News UFO reporting up in Germany as people misidentify planets</span><span class="citation-popover-snippet">A News UFO reporting up in Germany as people misidentify planets</span></span></span> In January 2026, German reporting on CENAP’s 2025 figures listed common explanations including Venus, Jupiter, meteors, satellites, rocket stages, space debris and drones.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.welt.de/article695becd2fb77630dac278675" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: welt.de">[DIE WELT]</a><span class="citation-popover" role="note"><span class="citation-popover-source">welt.de</span><span class="citation-popover-snippet">Open source on welt.de.</span></span></span>
 
-Hamburg’s harbour lights fit into that wider German pattern. They are not the only source of false UFO impressions, but they provide a local mechanism for the same basic outcome: a witness sees something real, but the observation lacks enough distance, context and reference points to show what it is.
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/_tecEqEzDv4" title="First UFO Sighting? The 1561 Sky Battle Over Nuremberg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=_tecEqEzDv4" target="_blank" rel="noopener noreferrer">First UFO Sighting? The 1561 Sky Battle Over Nuremberg</a></p><p class="youtube-embed-meta">Channel: Brothers Mellema</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=_tecEqEzDv4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=_tecEqEzDv4">Open on YouTube</a></p></div></div></div>
+Hamburg’s harbour lights fit into that wider German pattern. They are not the only source of false UFO impressions, but they provide a local mechanism for the same basic outcome: a witness sees something real, but the observation lacks enough distance, context and reference points to show what it is.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/agxwguKMsa0" title="HAMBURG 🇩🇪 Germany’s Most Livable City? 4K Walking Tour" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=agxwguKMsa0" target="_blank" rel="noopener noreferrer">HAMBURG 🇩🇪 Germany’s Most Livable City? 4K Walking Tour</a></p><p class="youtube-embed-meta">Channel: Walking OZ</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=agxwguKMsa0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=agxwguKMsa0">Open on YouTube</a></p></div></div></div>
 
 ## How location should be checked before a Hamburg harbour sighting is called unresolved
 
@@ -372,10 +357,7 @@ A useful first pass asks four practical questions.
 
 **Was there an event, ship movement or unusual port lighting?** Blue Port, concerts, cruise ship arrivals, stadium or festival lighting, industrial work and emergency activity can all change the night scene. A sighting that seems extraordinary at 11 pm may become ordinary when matched to a concert beam, a departing vessel or a scheduled light installation.
 
-These checks do not trivialise UFO reports. They protect the useful residue. If a sighting survives the obvious harbour-light explanations, it becomes more interesting precisely because the local false positives have been considered.
-
-
-<img src="{{ "/assets/images/Hamburg_155277_harbour_city_lights_52e719-Illustration-3-dark.svg" | relative_url }}" alt="Harbour Lights illustration 3" data-theme-src-dark="{{ "/assets/images/Hamburg_155277_harbour_city_lights_52e719-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Hamburg_155277_harbour_city_lights_52e719-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+These checks do not trivialise UFO reports. They protect the useful residue. If a sighting survives the obvious harbour-light explanations, it becomes more interesting precisely because the local false positives have been considered.<img src="{{"/assets/images/Hamburg_155277_harbour_city_lights_52e719-Illustration-3-dark.svg" | relative_url }}" alt="Harbour Lights illustration 3" data-theme-src-dark="{{"/assets/images/Hamburg_155277_harbour_city_lights_52e719-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{"/assets/images/Hamburg_155277_harbour_city_lights_52e719-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What the harbour explanation can and cannot prove
 
 The harbour-light explanation is strong for ambiguous night impressions, especially single lights, coloured clusters, beams, hovering points, shaky phone videos and reports made through glass or over water. It is weaker for cases with multiple independent witnesses from separated locations, good timing, clear direction, aircraft or radar correlation, high-quality original imagery and weather records that rule out obvious optical effects.
@@ -390,217 +372,32 @@ Hamburg’s harbour makes strange lights stranger because it compresses many mis
 
 The strongest Hamburg sighting checks therefore start on the ground. Before asking whether an object was extraordinary, investigators should ask whether the observer’s line of sight crossed the port, whether water or window reflections were involved, whether the light matched a crane, ship, aircraft, satellite, drone, concert beam or art installation, and whether weather made the light appear displaced. Only after those questions are answered does the label “unresolved” carry much weight.
 
-For readers, the lesson is simple but important: Hamburg’s UFO history is not weakened by noticing false impressions. It becomes clearer. The harbour helps explain why ordinary lights can feel uncanny, why sincere witnesses can be mistaken, and why the most credible cases are the ones that survive careful checks against the city’s own luminous landscape.
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/agxwguKMsa0" title="HAMBURG 🇩🇪 Germany’s Most Livable City? 4K Walking Tour" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=agxwguKMsa0" target="_blank" rel="noopener noreferrer">HAMBURG 🇩🇪 Germany’s Most Livable City? 4K Walking Tour</a></p><p class="youtube-embed-meta">Channel: Walking OZ</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=agxwguKMsa0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=agxwguKMsa0">Open on YouTube</a></p></div></div></div>
-
-
-<section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Hamburg&#x27;s Harbour Makes Strange Lights Stranger. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
-        
-        <p class="fr-book-desc">Encourages careful interpretation of unusual observations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
-        
-        <p class="fr-book-desc">Explains how environmental conditions affect reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Bad+Astronomy+by+Philip+C.+Plait&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Bad Astronomy on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=eInnwg77gbkC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Bad Astronomy" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Bad+Astronomy+by+Philip+C.+Plait&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Bad Astronomy">Bad Astronomy</a>
-        </h4>
-        <p class="fr-book-author">By Philip C. Plait</p>
-        
-        <p class="fr-book-desc">Helps identify common visual misinterpretations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Bad+Astronomy+by+Philip+C.+Plait&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Why+We+See+what+We+Do+by+Dale+Purves&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Why We See what We Do on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=DStpQgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Why We See what We Do" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Why+We+See+what+We+Do+by+Dale+Purves&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Why We See what We Do">Why We See what We Do</a>
-        </h4>
-        <p class="fr-book-author">By Dale Purves, R. Beau Lotto</p>
-        
-        <p class="fr-book-desc">Relevant to reflections, haze and visual ambiguity.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Why+We+See+what+We+Do+by+Dale+Purves&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Bad+Astronomy&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Bad Astronomy</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
-</section>
-
-<section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
-
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
-
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=historical+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=harbour-lights-why-hamburg-s-harbour-makes-strange-lights-stranger-hamburg-historical-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="historical wall art" data-ebay-reference="harbour-lights-why-hamburg-s-harbour-makes-strange-lights-stranger-hamburg-historical-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for USA Historical Vintage Map Wall Art Print Poster Picture Decor A4 A3 A5"><img src="{{ '/assets/images/marketplace-covers/e10777e075877fd043dc.jpg' | relative_url }}" alt="Listing image for USA Historical Vintage Map Wall Art Print Poster Picture Decor A4 A3 A5" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=historical+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=harbour-lights-why-hamburg-s-harbour-makes-strange-lights-stranger-hamburg-historical-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="historical wall art" data-ebay-reference="harbour-lights-why-hamburg-s-harbour-makes-strange-lights-stranger-hamburg-historical-wall-art" target="_blank" rel="sponsored noopener noreferrer">USA Historical Vintage Map Wall Art Print Poster Picture Decor A4 A3 A5</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=historical+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=harbour-lights-why-hamburg-s-harbour-makes-strange-lights-stranger-hamburg-historical-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="historical wall art" data-ebay-reference="harbour-lights-why-hamburg-s-harbour-makes-strange-lights-stranger-hamburg-historical-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for historical wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: historical wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=historical+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=harbour-lights-why-hamburg-s-harbour-makes-strange-lights-stranger-hamburg-historical-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="historical wall art" data-ebay-reference="harbour-lights-why-hamburg-s-harbour-makes-strange-lights-stranger-hamburg-historical-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=historical+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=harbour-lights-why-hamburg-s-harbour-makes-strange-lights-stranger-hamburg-historical-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="historical wall art" data-ebay-reference="harbour-lights-why-hamburg-s-harbour-makes-strange-lights-stranger-hamburg-historical-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Dramatic Historical Wall Art Poster – Classic Masterpiece Print"><img src="{{ '/assets/images/marketplace-covers/343a6e243d7046b63d79.jpg' | relative_url }}" alt="Listing image for Dramatic Historical Wall Art Poster – Classic Masterpiece Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=historical+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=harbour-lights-why-hamburg-s-harbour-makes-strange-lights-stranger-hamburg-historical-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="historical wall art" data-ebay-reference="harbour-lights-why-hamburg-s-harbour-makes-strange-lights-stranger-hamburg-historical-wall-art" target="_blank" rel="sponsored noopener noreferrer">Dramatic Historical Wall Art Poster – Classic Masterpiece Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=historical+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=harbour-lights-why-hamburg-s-harbour-makes-strange-lights-stranger-hamburg-historical-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="historical wall art" data-ebay-reference="harbour-lights-why-hamburg-s-harbour-makes-strange-lights-stranger-hamburg-historical-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for historical wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: historical wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=historical+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=harbour-lights-why-hamburg-s-harbour-makes-strange-lights-stranger-hamburg-historical-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="historical wall art" data-ebay-reference="harbour-lights-why-hamburg-s-harbour-makes-strange-lights-stranger-hamburg-historical-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=historical+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=harbour-lights-why-hamburg-s-harbour-makes-strange-lights-stranger-hamburg-historical-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="historical wall art" data-ebay-reference="harbour-lights-why-hamburg-s-harbour-makes-strange-lights-stranger-hamburg-historical-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Historical Islamic Mosque Wall Art With Frame"><img src="{{ '/assets/images/marketplace-covers/73f698bf00db2ef995cd.jpg' | relative_url }}" alt="Listing image for Historical Islamic Mosque Wall Art With Frame" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=historical+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=harbour-lights-why-hamburg-s-harbour-makes-strange-lights-stranger-hamburg-historical-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="historical wall art" data-ebay-reference="harbour-lights-why-hamburg-s-harbour-makes-strange-lights-stranger-hamburg-historical-wall-art" target="_blank" rel="sponsored noopener noreferrer">Historical Islamic Mosque Wall Art With Frame</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=historical+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=harbour-lights-why-hamburg-s-harbour-makes-strange-lights-stranger-hamburg-historical-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="historical wall art" data-ebay-reference="harbour-lights-why-hamburg-s-harbour-makes-strange-lights-stranger-hamburg-historical-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for historical wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: historical wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=historical+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=harbour-lights-why-hamburg-s-harbour-makes-strange-lights-stranger-hamburg-historical-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="historical wall art" data-ebay-reference="harbour-lights-why-hamburg-s-harbour-makes-strange-lights-stranger-hamburg-historical-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=historical+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=harbour-lights-why-hamburg-s-harbour-makes-strange-lights-stranger-hamburg-historical-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="historical wall art" data-ebay-reference="harbour-lights-why-hamburg-s-harbour-makes-strange-lights-stranger-hamburg-historical-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Korea Historical Vintage Map Wall Art Print Poster Picture Decor A4 A3 A5"><img src="{{ '/assets/images/marketplace-covers/4f4bb7056d358205d554.jpg' | relative_url }}" alt="Listing image for Korea Historical Vintage Map Wall Art Print Poster Picture Decor A4 A3 A5" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=historical+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=harbour-lights-why-hamburg-s-harbour-makes-strange-lights-stranger-hamburg-historical-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="historical wall art" data-ebay-reference="harbour-lights-why-hamburg-s-harbour-makes-strange-lights-stranger-hamburg-historical-wall-art" target="_blank" rel="sponsored noopener noreferrer">Korea Historical Vintage Map Wall Art Print Poster Picture Decor A4 A3 A5</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=historical+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=harbour-lights-why-hamburg-s-harbour-makes-strange-lights-stranger-hamburg-historical-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="historical wall art" data-ebay-reference="harbour-lights-why-hamburg-s-harbour-makes-strange-lights-stranger-hamburg-historical-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for historical wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: historical wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=historical+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=harbour-lights-why-hamburg-s-harbour-makes-strange-lights-stranger-hamburg-historical-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="historical wall art" data-ebay-reference="harbour-lights-why-hamburg-s-harbour-makes-strange-lights-stranger-hamburg-historical-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=historical+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=harbour-lights-why-hamburg-s-harbour-makes-strange-lights-stranger-hamburg-historical-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="historical wall art" data-ebay-reference="harbour-lights-why-hamburg-s-harbour-makes-strange-lights-stranger-hamburg-historical-wall-art" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+For readers, the lesson is simple but important: Hamburg’s UFO history is not weakened by noticing false impressions. It becomes clearer. The harbour helps explain why ordinary lights can feel uncanny, why sincere witnesses can be mistaken, and why the most credible cases are the ones that survive careful checks against the city’s own luminous landscape.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/hE4TY4HUynY" title="Mystery Glowing Objects Over Midwest: Alien Attack or SpaceX Satellite ? | WION Podcast" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=hE4TY4HUynY" target="_blank" rel="noopener noreferrer">Mystery Glowing Objects Over Midwest: Alien Attack or SpaceX Satellite ? | WION Podcast</a></p><p class="youtube-embed-meta">Channel: WION</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=hE4TY4HUynY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=hE4TY4HUynY">Open on YouTube</a></p></div></div></div><section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title"><div class="fr-section-shell"><div class="fr-section-header"><div class="fr-section-heading"><p class="fr-section-kicker">Amazon book picks</p><h3 class="fr-heading" id="further-reading-title">Further Reading</h3></div><p class="fr-intro">Books and field guides related to Why Hamburg&#x27;s Harbour Makes Strange Lights Stranger. Use these as the next step if you want deeper reading beyond the article.</p></div><div class="fr-books-grid"><article class="fr-book-card"><a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a><div class="fr-book-info"><h4 class="fr-book-title"><a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a></h4><p class="fr-book-author">By Carl Sagan</p><p class="fr-book-desc">Encourages careful interpretation of unusual observations.</p><div class="fr-book-actions"><a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon</a></div></div></article><article class="fr-book-card"><a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a><div class="fr-book-info"><h4 class="fr-book-title"><a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a></h4><p class="fr-book-author">By Joseph Allen Hynek</p><p class="fr-book-desc">Explains how environmental conditions affect reports.</p><div class="fr-book-actions"><a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon</a></div></div></article><article class="fr-book-card"><a class="fr-book-cover" href="https://www.amazon.com/s?k=Bad+Astronomy+by+Philip+C.+Plait&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Bad Astronomy on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=eInnwg77gbkC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Bad Astronomy" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a><div class="fr-book-info"><h4 class="fr-book-title"><a href="https://www.amazon.com/s?k=Bad+Astronomy+by+Philip+C.+Plait&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Bad Astronomy">Bad Astronomy</a></h4><p class="fr-book-author">By Philip C. Plait</p><p class="fr-book-desc">Helps identify common visual misinterpretations.</p><div class="fr-book-actions"><a href="https://www.amazon.com/s?k=Bad+Astronomy+by+Philip+C.+Plait&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon</a></div></div></article><article class="fr-book-card"><a class="fr-book-cover" href="https://www.amazon.com/s?k=Why+We+See+what+We+Do+by+Dale+Purves&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Why We See what We Do on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=DStpQgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Why We See what We Do" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a><div class="fr-book-info"><h4 class="fr-book-title"><a href="https://www.amazon.com/s?k=Why+We+See+what+We+Do+by+Dale+Purves&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Why We See what We Do">Why We See what We Do</a></h4><p class="fr-book-author">By Dale Purves, R. Beau Lotto</p><p class="fr-book-desc">Relevant to reflections, haze and visual ambiguity.</p><div class="fr-book-actions"><a href="https://www.amazon.com/s?k=Why+We+See+what+We+Do+by+Dale+Purves&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon</a></div></div></article></div><div class="fr-section-footer"><div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Bad+Astronomy&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Bad Astronomy</a></div><p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p></div></div></section><section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title"><div class="fr-section-shell"><div class="fr-section-header"><div class="fr-section-heading"><p class="fr-section-kicker">eBay marketplace picks</p><h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3></div><p class="fr-intro">Live-tested eBay searches with available results related to this page.</p><div class="fr-ebay-market-toolbar"><label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label><div class="fr-ebay-market-picker"><span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span><button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span><span data-ebay-trigger-market-label>USA</span></button><select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location"><option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option></select><div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button></div></div></div></div><div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1"><div class="fr-books-grid"><article class="fr-book-card"><a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=historical+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=harbour-lights-why-hamburg-s-harbour-makes-strange-lights-stranger-hamburg-historical-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="historical wall art" data-ebay-reference="harbour-lights-why-hamburg-s-harbour-makes-strange-lights-stranger-hamburg-historical-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for USA Historical Vintage Map Wall Art Print Poster Picture Decor A4 A3 A5"><img src="{{'/assets/images/marketplace-covers/e10777e075877fd043dc.jpg' | relative_url }}" alt="Listing image for USA Historical Vintage Map Wall Art Print Poster Picture Decor A4 A3 A5" loading="lazy" decoding="async" fetchpriority="low"></a><div class="fr-book-info"><p class="fr-book-kicker">Example eBay listing</p><h4 class="fr-book-title"><a href="https://www.ebay.co.uk/sch/i.html?_nkw=historical+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=harbour-lights-why-hamburg-s-harbour-makes-strange-lights-stranger-hamburg-historical-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="historical wall art" data-ebay-reference="harbour-lights-why-hamburg-s-harbour-makes-strange-lights-stranger-hamburg-historical-wall-art" target="_blank" rel="sponsored noopener noreferrer">USA Historical Vintage Map Wall Art Print Poster Picture Decor A4 A3 A5</a></h4><a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=historical+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=harbour-lights-why-hamburg-s-harbour-makes-strange-lights-stranger-hamburg-historical-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="historical wall art" data-ebay-reference="harbour-lights-why-hamburg-s-harbour-makes-strange-lights-stranger-hamburg-historical-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for historical wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: historical wall art</a><div class="fr-book-actions"><a href="https://www.ebay.co.uk/sch/i.html?_nkw=historical+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=harbour-lights-why-hamburg-s-harbour-makes-strange-lights-stranger-hamburg-historical-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="historical wall art" data-ebay-reference="harbour-lights-why-hamburg-s-harbour-makes-strange-lights-stranger-hamburg-historical-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span></a></div></div></article><article class="fr-book-card"><a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=historical+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=harbour-lights-why-hamburg-s-harbour-makes-strange-lights-stranger-hamburg-historical-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="historical wall art" data-ebay-reference="harbour-lights-why-hamburg-s-harbour-makes-strange-lights-stranger-hamburg-historical-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Dramatic Historical Wall Art Poster – Classic Masterpiece Print"><img src="{{'/assets/images/marketplace-covers/343a6e243d7046b63d79.jpg' | relative_url }}" alt="Listing image for Dramatic Historical Wall Art Poster – Classic Masterpiece Print" loading="lazy" decoding="async" fetchpriority="low"></a><div class="fr-book-info"><p class="fr-book-kicker">Example eBay listing</p><h4 class="fr-book-title"><a href="https://www.ebay.co.uk/sch/i.html?_nkw=historical+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=harbour-lights-why-hamburg-s-harbour-makes-strange-lights-stranger-hamburg-historical-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="historical wall art" data-ebay-reference="harbour-lights-why-hamburg-s-harbour-makes-strange-lights-stranger-hamburg-historical-wall-art" target="_blank" rel="sponsored noopener noreferrer">Dramatic Historical Wall Art Poster – Classic Masterpiece Print</a></h4><a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=historical+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=harbour-lights-why-hamburg-s-harbour-makes-strange-lights-stranger-hamburg-historical-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="historical wall art" data-ebay-reference="harbour-lights-why-hamburg-s-harbour-makes-strange-lights-stranger-hamburg-historical-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for historical wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: historical wall art</a><div class="fr-book-actions"><a href="https://www.ebay.co.uk/sch/i.html?_nkw=historical+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=harbour-lights-why-hamburg-s-harbour-makes-strange-lights-stranger-hamburg-historical-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="historical wall art" data-ebay-reference="harbour-lights-why-hamburg-s-harbour-makes-strange-lights-stranger-hamburg-historical-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span></a></div></div></article><article class="fr-book-card"><a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=historical+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=harbour-lights-why-hamburg-s-harbour-makes-strange-lights-stranger-hamburg-historical-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="historical wall art" data-ebay-reference="harbour-lights-why-hamburg-s-harbour-makes-strange-lights-stranger-hamburg-historical-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Historical Islamic Mosque Wall Art With Frame"><img src="{{'/assets/images/marketplace-covers/73f698bf00db2ef995cd.jpg' | relative_url }}" alt="Listing image for Historical Islamic Mosque Wall Art With Frame" loading="lazy" decoding="async" fetchpriority="low"></a><div class="fr-book-info"><p class="fr-book-kicker">Example eBay listing</p><h4 class="fr-book-title"><a href="https://www.ebay.co.uk/sch/i.html?_nkw=historical+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=harbour-lights-why-hamburg-s-harbour-makes-strange-lights-stranger-hamburg-historical-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="historical wall art" data-ebay-reference="harbour-lights-why-hamburg-s-harbour-makes-strange-lights-stranger-hamburg-historical-wall-art" target="_blank" rel="sponsored noopener noreferrer">Historical Islamic Mosque Wall Art With Frame</a></h4><a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=historical+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=harbour-lights-why-hamburg-s-harbour-makes-strange-lights-stranger-hamburg-historical-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="historical wall art" data-ebay-reference="harbour-lights-why-hamburg-s-harbour-makes-strange-lights-stranger-hamburg-historical-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for historical wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: historical wall art</a><div class="fr-book-actions"><a href="https://www.ebay.co.uk/sch/i.html?_nkw=historical+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=harbour-lights-why-hamburg-s-harbour-makes-strange-lights-stranger-hamburg-historical-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="historical wall art" data-ebay-reference="harbour-lights-why-hamburg-s-harbour-makes-strange-lights-stranger-hamburg-historical-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span></a></div></div></article><article class="fr-book-card"><a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=historical+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=harbour-lights-why-hamburg-s-harbour-makes-strange-lights-stranger-hamburg-historical-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="historical wall art" data-ebay-reference="harbour-lights-why-hamburg-s-harbour-makes-strange-lights-stranger-hamburg-historical-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Korea Historical Vintage Map Wall Art Print Poster Picture Decor A4 A3 A5"><img src="{{'/assets/images/marketplace-covers/4f4bb7056d358205d554.jpg' | relative_url }}" alt="Listing image for Korea Historical Vintage Map Wall Art Print Poster Picture Decor A4 A3 A5" loading="lazy" decoding="async" fetchpriority="low"></a><div class="fr-book-info"><p class="fr-book-kicker">Example eBay listing</p><h4 class="fr-book-title"><a href="https://www.ebay.co.uk/sch/i.html?_nkw=historical+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=harbour-lights-why-hamburg-s-harbour-makes-strange-lights-stranger-hamburg-historical-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="historical wall art" data-ebay-reference="harbour-lights-why-hamburg-s-harbour-makes-strange-lights-stranger-hamburg-historical-wall-art" target="_blank" rel="sponsored noopener noreferrer">Korea Historical Vintage Map Wall Art Print Poster Picture Decor A4 A3 A5</a></h4><a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=historical+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=harbour-lights-why-hamburg-s-harbour-makes-strange-lights-stranger-hamburg-historical-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="historical wall art" data-ebay-reference="harbour-lights-why-hamburg-s-harbour-makes-strange-lights-stranger-hamburg-historical-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for historical wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: historical wall art</a><div class="fr-book-actions"><a href="https://www.ebay.co.uk/sch/i.html?_nkw=historical+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=harbour-lights-why-hamburg-s-harbour-makes-strange-lights-stranger-hamburg-historical-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="historical wall art" data-ebay-reference="harbour-lights-why-hamburg-s-harbour-makes-strange-lights-stranger-hamburg-historical-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span></a></div></div></article></div><div class="fr-section-footer"><a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=historical+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=harbour-lights-why-hamburg-s-harbour-makes-strange-lights-stranger-hamburg-historical-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="historical wall art" data-ebay-reference="harbour-lights-why-hamburg-s-harbour-makes-strange-lights-stranger-hamburg-historical-wall-art" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span></a><p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p></div></div></div><script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
-  var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
-  var timezoneRules = [{"market": "EBAY_IE", "pattern": "^Europe/Dublin$"}, {"market": "EBAY_GB", "pattern": "^Europe/(London|Belfast)$"}, {"market": "EBAY_CA", "pattern": "^America/(Toronto|Vancouver|Edmonton|Winnipeg|Halifax|St_Johns|Regina|Saskatoon|Whitehorse|Dawson|Moncton|Glace_Bay|Goose_Bay|Iqaluit|Yellowknife|Inuvik|Rankin_Inlet|Resolute|Cambridge_Bay|Fort_Nelson|Creston|Dawson_Creek)$"}, {"market": "EBAY_US", "pattern": "^America/"}, {"market": "EBAY_DE", "pattern": "^Europe/Berlin$"}, {"market": "EBAY_FR", "pattern": "^Europe/Paris$"}, {"market": "EBAY_IT", "pattern": "^Europe/Rome$"}, {"market": "EBAY_ES", "pattern": "^Europe/Madrid$"}, {"market": "EBAY_AU", "pattern": "^Australia/"}, {"market": "EBAY_AU", "pattern": "^Pacific/(Auckland|Chatham)$"}];
+  var localeMarketMap = {"de":"EBAY_DE","de-at":"EBAY_AT","de-ch":"EBAY_CH","de-de":"EBAY_DE","en":"EBAY_US","en-au":"EBAY_AU","en-ca":"EBAY_CA","en-gb":"EBAY_GB","en-ie":"EBAY_IE","en-nz":"EBAY_AU","en-uk":"EBAY_GB","en-us":"EBAY_US","es":"EBAY_ES","es-es":"EBAY_ES","fr":"EBAY_FR","fr-be":"EBAY_BE","fr-ca":"EBAY_CA","fr-fr":"EBAY_FR","it":"EBAY_IT","it-it":"EBAY_IT","nl":"EBAY_NL","nl-be":"EBAY_BE","nl-nl":"EBAY_NL"};
+  var timezoneRules = [{"market":"EBAY_IE","pattern":"^Europe/Dublin$"}, {"market":"EBAY_GB","pattern":"^Europe/(London|Belfast)$"}, {"market":"EBAY_CA","pattern":"^America/(Toronto|Vancouver|Edmonton|Winnipeg|Halifax|St_Johns|Regina|Saskatoon|Whitehorse|Dawson|Moncton|Glace_Bay|Goose_Bay|Iqaluit|Yellowknife|Inuvik|Rankin_Inlet|Resolute|Cambridge_Bay|Fort_Nelson|Creston|Dawson_Creek)$"}, {"market":"EBAY_US","pattern":"^America/"}, {"market":"EBAY_DE","pattern":"^Europe/Berlin$"}, {"market":"EBAY_FR","pattern":"^Europe/Paris$"}, {"market":"EBAY_IT","pattern":"^Europe/Rome$"}, {"market":"EBAY_ES","pattern":"^Europe/Madrid$"}, {"market":"EBAY_AU","pattern":"^Australia/"}, {"market":"EBAY_AU","pattern":"^Pacific/(Auckland|Chatham)$"}];
   function normalize(value) {
-    return String(value || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
+    return String(value ||'').toLowerCase().replace(/_/g,'-').replace(/[^a-z0-9-]+/g,'');
   }
   function localeMatches() {
     var languages = [];
-    var exactMarket = '';
-    var languageMarket = '';
+    var exactMarket ='';
+    var languageMarket ='';
     try {
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -614,24 +411,24 @@ For readers, the lesson is simple but important: Hamburg’s UFO history is not 
   }
   function inferFromLocale() {
     var matches = localeMatches();
-    return matches.exact || matches.language || '';
+    return matches.exact || matches.language ||'';
   }
   function inferFromTimezone() {
-    var tz = '';
-    try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
-    if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    var tz ='';
+    try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone ||''); } catch (err) {}
+    if (!tz) return'';
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
       } catch (err) {}
     }
-    return '';
+    return'';
   }
   function inferMarket(available, options) {
     available = Array.isArray(available) ? available : [];
     options = options || {};
-    var storageKey = options.storageKey || 'phoenix-affiliate-market';
+    var storageKey = options.storageKey ||'phoenix-affiliate-market';
     try {
       var saved = window.localStorage && localStorage.getItem(storageKey);
       if (saved && available.indexOf(saved) >= 0) return saved;
@@ -642,7 +439,7 @@ For readers, the lesson is simple but important: Hamburg’s UFO history is not 
     if (localeMarkets.exact && available.indexOf(localeMarkets.exact) >= 0) return localeMarkets.exact;
     if (localeMarkets.language && available.indexOf(localeMarkets.language) >= 0) return localeMarkets.language;
     if (options.defaultMarket && available.indexOf(options.defaultMarket) >= 0) return options.defaultMarket;
-    return available[0] || '';
+    return available[0] ||'';
   }
   window.PhoenixAffiliateLocation = {
     normalize: normalize,
@@ -650,45 +447,43 @@ For readers, the lesson is simple but important: Hamburg’s UFO history is not 
     inferFromLocale: inferFromLocale,
     inferFromTimezone: inferFromTimezone
   };
-})();
-</script>
-  <script type="text/javascript">
+})();</script><script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
-  var markets = {"EBAY_AU": {"campaign_id": "5339151051", "domain_label": "eBay.com.au", "label": "Australia", "mkrid": "705-53470-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com.au/sch/i.html?_nkw={query}"}, "EBAY_CA": {"campaign_id": "5339151051", "domain_label": "eBay.ca", "label": "Canada", "mkrid": "706-53473-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ca/sch/i.html?_nkw={query}"}, "EBAY_GB": {"campaign_id": "5339151051", "domain_label": "eBay.co.uk", "label": "UK", "mkrid": "710-53481-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.co.uk/sch/i.html?_nkw={query}"}, "EBAY_IE": {"campaign_id": "5339151051", "domain_label": "eBay.ie", "label": "Ireland", "mkrid": "5282-53468-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ie/sch/i.html?_nkw={query}"}, "EBAY_US": {"campaign_id": "5339151051", "domain_label": "eBay.com", "label": "USA", "mkrid": "711-53200-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com/sch/i.html?_nkw={query}"}};
-  var defaultMarket = "EBAY_GB";
+  var markets = {"EBAY_AU": {"campaign_id":"5339151051","domain_label":"eBay.com.au","label":"Australia","mkrid":"705-53470-19255-0","tool_id":"10001","url_template":"https://www.ebay.com.au/sch/i.html?_nkw={query}"},"EBAY_CA": {"campaign_id":"5339151051","domain_label":"eBay.ca","label":"Canada","mkrid":"706-53473-19255-0","tool_id":"10001","url_template":"https://www.ebay.ca/sch/i.html?_nkw={query}"},"EBAY_GB": {"campaign_id":"5339151051","domain_label":"eBay.co.uk","label":"UK","mkrid":"710-53481-19255-0","tool_id":"10001","url_template":"https://www.ebay.co.uk/sch/i.html?_nkw={query}"},"EBAY_IE": {"campaign_id":"5339151051","domain_label":"eBay.ie","label":"Ireland","mkrid":"5282-53468-19255-0","tool_id":"10001","url_template":"https://www.ebay.ie/sch/i.html?_nkw={query}"},"EBAY_US": {"campaign_id":"5339151051","domain_label":"eBay.com","label":"USA","mkrid":"711-53200-19255-0","tool_id":"10001","url_template":"https://www.ebay.com/sch/i.html?_nkw={query}"}};
+  var defaultMarket ="EBAY_GB";
   function encodeQuery(value) {
-    return encodeURIComponent(String(value || '').replace(/\s+/g, ' ').trim()).replace(/%20/g, '+');
+    return encodeURIComponent(String(value ||'').replace(/\s+/g,'').trim()).replace(/%20/g,'+');
   }
   function buildUrl(query, reference, marketId) {
     var cfg = markets[marketId] || markets[defaultMarket];
-    if (!cfg) return '#';
-    var template = String(cfg.url_template || 'https://www.ebay.com/sch/i.html?_nkw={query}');
-    var url = template.replace('{query}', encodeQuery(query || '')).replace('{query_plain}', String(query || ''));
-    var joiner = url.indexOf('?') >= 0 ? '&' : '?';
+    if (!cfg) return'#';
+    var template = String(cfg.url_template ||'https://www.ebay.com/sch/i.html?_nkw={query}');
+    var url = template.replace('{query}', encodeQuery(query ||'')).replace('{query_plain}', String(query ||''));
+    var joiner = url.indexOf('?') >= 0 ?'&' :'?';
     var params = [];
     if (cfg.mkrid) params.push('mkrid=' + encodeURIComponent(cfg.mkrid));
     if (cfg.campaign_id) params.push('campid=' + encodeURIComponent(cfg.campaign_id));
     params.push('mkevt=1');
     params.push('mkcid=1');
-    params.push('toolid=' + encodeURIComponent(cfg.tool_id || '10001'));
+    params.push('toolid=' + encodeURIComponent(cfg.tool_id ||'10001'));
     if (reference) params.push('customid=' + encodeURIComponent(reference).slice(0, 256));
     return url + joiner + params.join('&');
   }
   function domainLabel(marketId) {
     var cfg = markets[marketId] || markets[defaultMarket] || {};
-    return cfg.domain_label || 'eBay';
+    return cfg.domain_label ||'eBay';
   }
   function flagClass(marketId) {
-    return 'fr-ebay-market-flag fr-ebay-market-flag--' + String(marketId || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
+    return'fr-ebay-market-flag fr-ebay-market-flag--' + String(marketId ||'').toLowerCase().replace(/_/g,'-').replace(/[^a-z0-9-]+/g,'');
   }
   function closeMenu(section) {
     var menu = section.querySelector('[data-ebay-market-menu]');
     var trigger = section.querySelector('[data-ebay-market-trigger]');
     var picker = section.querySelector('.fr-ebay-market-picker');
     if (menu) menu.hidden = true;
-    if (trigger) trigger.setAttribute('aria-expanded', 'false');
+    if (trigger) trigger.setAttribute('aria-expanded','false');
     if (picker) picker.classList.remove('fr-ebay-market-picker--open');
   }
   function availableMarkets(section) {
@@ -704,10 +499,10 @@ For readers, the lesson is simple but important: Hamburg’s UFO history is not 
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
-      var query = link.getAttribute('data-ebay-query') || '';
-      var reference = link.getAttribute('data-ebay-reference') || '';
+      var query = link.getAttribute('data-ebay-query') ||'';
+      var reference = link.getAttribute('data-ebay-reference') ||'';
       link.setAttribute('href', buildUrl(query, reference, marketId));
     });
     var select = section.querySelector('[data-ebay-market-select]');
@@ -727,11 +522,11 @@ For readers, the lesson is simple but important: Hamburg’s UFO history is not 
       label.textContent = domainLabel(marketId);
     });
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
-      button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
+      button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ?'true' :'false');
     });
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
       var active = button.getAttribute('data-ebay-market-button') === marketId;
-      button.setAttribute('aria-pressed', active ? 'true' : 'false');
+      button.setAttribute('aria-pressed', active ?'true' :'false');
     });
     section.setAttribute('data-ebay-selected-market', marketId);
     if (persist) {
@@ -740,16 +535,16 @@ For readers, the lesson is simple but important: Hamburg’s UFO history is not 
     closeMenu(section);
   }
   sections.forEach(function (section) {
-    if (section.getAttribute('data-ebay-localized-init') === '1') return;
-    section.setAttribute('data-ebay-localized-init', '1');
+    if (section.getAttribute('data-ebay-localized-init') ==='1') return;
+    section.setAttribute('data-ebay-localized-init','1');
     var available = availableMarkets(section);
     var marketId = defaultMarket;
     if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
       marketId = window.PhoenixAffiliateLocation.inferMarket(available, {
-        storageKey: 'phoenix-ebay-market',
+        storageKey:'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -763,9 +558,9 @@ For readers, the lesson is simple but important: Hamburg’s UFO history is not 
     if (trigger && menu) {
       trigger.addEventListener('click', function (event) {
         event.stopPropagation();
-        var expanded = trigger.getAttribute('aria-expanded') === 'true';
+        var expanded = trigger.getAttribute('aria-expanded') ==='true';
         menu.hidden = expanded;
-        trigger.setAttribute('aria-expanded', expanded ? 'false' : 'true');
+        trigger.setAttribute('aria-expanded', expanded ?'false' :'true');
         var picker = trigger.closest('.fr-ebay-market-picker');
         if (picker) picker.classList.toggle('fr-ebay-market-picker--open', !expanded);
       });
@@ -784,273 +579,268 @@ For readers, the lesson is simple but important: Hamburg’s UFO history is not 
     });
     applyMarket(section, marketId, false);
   });
-})();
-</script>
-</section>
+})();</script></section>
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: welt.de  
    Title: DIE WELTImmer mehr Deutsche glauben, Ufos zu sehen  
-   Link: <a href="https://www.welt.de/255086178" target="_blank" rel="noopener noreferrer nofollow">https://www.welt.de/255086178</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Insgesamt wurden 1.084 Sichtungen aus Deutschland, Österreich und der Schweiz gemeldet, verglichen mit dem üblichen Durchschnitt von 600...</p></details>
+   Link:<a href="https://www.welt.de/255086178" target="_blank" rel="noopener noreferrer nofollow">https://www.welt.de/255086178</a><details class="endnote-snippet"><summary>Source snippet</summary><p>Insgesamt wurden 1.084 Sichtungen aus Deutschland, Österreich und der Schweiz gemeldet, verglichen mit dem üblichen Durchschnitt von 600...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: welt.de  
-   Link: <a href="https://www.welt.de/article695becd2fb77630dac278675" target="_blank" rel="noopener noreferrer nofollow">https://www.welt.de/article695becd2fb77630dac278675</a>  
+   Link:<a href="https://www.welt.de/article695becd2fb77630dac278675" target="_blank" rel="noopener noreferrer nofollow">https://www.welt.de/article695becd2fb77630dac278675</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: hamburg-travel.com  
-   Link: <a href="https://www.hamburg-travel.com/booking/tickets/harbour-tour-in-the-evening/" target="_blank" rel="noopener noreferrer nofollow">https://www.hamburg-travel.com/booking/tickets/harbour-tour-in-the-evening/</a>  
+   Link:<a href="https://www.hamburg-travel.com/booking/tickets/harbour-tour-in-the-evening/" target="_blank" rel="noopener noreferrer nofollow">https://www.hamburg-travel.com/booking/tickets/harbour-tour-in-the-evening/</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: hamburg.com  
-   Link: <a href="https://www.hamburg.com/visitors/events/maritime/artistic-space-of-light-21450" target="_blank" rel="noopener noreferrer nofollow">https://www.hamburg.com/visitors/events/maritime/artistic-space-of-light-21450</a>  
+   Link:<a href="https://www.hamburg.com/visitors/events/maritime/artistic-space-of-light-21450" target="_blank" rel="noopener noreferrer nofollow">https://www.hamburg.com/visitors/events/maritime/artistic-space-of-light-21450</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: hamburg-travel.com  
-   Link: <a href="https://www.hamburg-travel.com/see-explore/events/blue-port-hamburg/" target="_blank" rel="noopener noreferrer nofollow">https://www.hamburg-travel.com/see-explore/events/blue-port-hamburg/</a>  
+   Link:<a href="https://www.hamburg-travel.com/see-explore/events/blue-port-hamburg/" target="_blank" rel="noopener noreferrer nofollow">https://www.hamburg-travel.com/see-explore/events/blue-port-hamburg/</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: hhla.de  
    Title: Hamburger Hafen und Logistik AGBlue-lit HHLA container opens Blue Port Hamburg  
-   Link: <a href="https://hhla.de/en/media/news/detail-view/blue-lit-hhla-container-opens-blue-port-hamburg" target="_blank" rel="noopener noreferrer nofollow">https://hhla.de/en/media/news/detail-view/blue-lit-hhla-container-opens-blue-port-hamburg</a>  
+   Link:<a href="https://hhla.de/en/media/news/detail-view/blue-lit-hhla-container-opens-blue-port-hamburg" target="_blank" rel="noopener noreferrer nofollow">https://hhla.de/en/media/news/detail-view/blue-lit-hhla-container-opens-blue-port-hamburg</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: hamburg-port-authority.de  
    Title: 1 HPA PIG 2022 1  
-   Link: <a href="https://www.hamburg-port-authority.de/fileadmin/user_upload/1_HPA_PIG_2022-1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.hamburg-port-authority.de/fileadmin/user_upload/1_HPA_PIG_2022-1.pdf</a>  
+   Link:<a href="https://www.hamburg-port-authority.de/fileadmin/user_upload/1_HPA_PIG_2022-1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.hamburg-port-authority.de/fileadmin/user_upload/1_HPA_PIG_2022-1.pdf</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/hamburg/comments/1mmuuky/was_k%C3%B6nnte_das_sein_hamburger_nachthimmel/?tl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/hamburg/comments/1mmuuky/was_k%C3%B6nnte_das_sein_hamburger_nachthimmel/?tl=en</a>  
+   Link:<a href="https://www.reddit.com/r/hamburg/comments/1mmuuky/was_k%C3%B6nnte_das_sein_hamburger_nachthimmel/?tl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/hamburg/comments/1mmuuky/was_k%C3%B6nnte_das_sein_hamburger_nachthimmel/?tl=en</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/1705.04968" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1705.04968</a>  
+   Link:<a href="https://arxiv.org/abs/1705.04968" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1705.04968</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2202.08258" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2202.08258</a>  
+   Link:<a href="https://arxiv.org/abs/2202.08258" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2202.08258</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: deutschland.de  
    Title: UFOs over Germany: An expert provides clarity  
-   Link: <a href="https://www.deutschland.de/en/topic/knowledge/ufos-over-germany-hansjuergen-koehler-and-cenap" target="_blank" rel="noopener noreferrer nofollow">https://www.deutschland.de/en/topic/knowledge/ufos-over-germany-hansjuergen-koehler-and-cenap</a>  
+   Link:<a href="https://www.deutschland.de/en/topic/knowledge/ufos-over-germany-hansjuergen-koehler-and-cenap" target="_blank" rel="noopener noreferrer nofollow">https://www.deutschland.de/en/topic/knowledge/ufos-over-germany-hansjuergen-koehler-and-cenap</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: hamburg-travel.com  
-   Link: <a href="https://www.hamburg-travel.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.hamburg-travel.com/</a>  
+   Link:<a href="https://www.hamburg-travel.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.hamburg-travel.com/</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/1pummyu/what_did_i_see_today/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1pummyu/what_did_i_see_today/</a>  
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/1pummyu/what_did_i_see_today/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1pummyu/what_did_i_see_today/</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/1hvxrr6/blinking_stationary_object_in_the_sky_over/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1hvxrr6/blinking_stationary_object_in_the_sky_over/</a>  
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/1hvxrr6/blinking_stationary_object_in_the_sky_over/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1hvxrr6/blinking_stationary_object_in_the_sky_over/</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/europe/comments/7y9mtp/light_pollution_in_europe_the_number_of_stars/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/europe/comments/7y9mtp/light_pollution_in_europe_the_number_of_stars/</a>  
+   Link:<a href="https://www.reddit.com/r/europe/comments/7y9mtp/light_pollution_in_europe_the_number_of_stars/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/europe/comments/7y9mtp/light_pollution_in_europe_the_number_of_stars/</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/germany/comments/1hnrmyh/why_is_hamburg_so_dark/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/germany/comments/1hnrmyh/why_is_hamburg_so_dark/</a>  
+   Link:<a href="https://www.reddit.com/r/germany/comments/1hnrmyh/why_is_hamburg_so_dark/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/germany/comments/1hnrmyh/why_is_hamburg_so_dark/</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/AskAGerman/comments/1l0xf8y/any_recommendations_for_stargazing_spots_in/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/AskAGerman/comments/1l0xf8y/any_recommendations_for_stargazing_spots_in/</a>  
+   Link:<a href="https://www.reddit.com/r/AskAGerman/comments/1l0xf8y/any_recommendations_for_stargazing_spots_in/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/AskAGerman/comments/1l0xf8y/any_recommendations_for_stargazing_spots_in/</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: reddit.com  
    Title: light pollution  
-   Link: <a href="https://www.reddit.com/r/interestingasfuck/comments/bg2nmy/light_pollution/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/interestingasfuck/comments/bg2nmy/light_pollution/</a>  
+   Link:<a href="https://www.reddit.com/r/interestingasfuck/comments/bg2nmy/light_pollution/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/interestingasfuck/comments/bg2nmy/light_pollution/</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/germany/comments/wtg3wj/just_saw_a_an_incredibly_big_light_beam_in_the/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/germany/comments/wtg3wj/just_saw_a_an_incredibly_big_light_beam_in_the/</a>  
+   Link:<a href="https://www.reddit.com/r/germany/comments/wtg3wj/just_saw_a_an_incredibly_big_light_beam_in_the/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/germany/comments/wtg3wj/just_saw_a_an_incredibly_big_light_beam_in_the/</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/telescopes/comments/1tc6i8t/light_pollution_why_it_matters_what_you_can_do/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/telescopes/comments/1tc6i8t/light_pollution_why_it_matters_what_you_can_do/</a>  
+   Link:<a href="https://www.reddit.com/r/telescopes/comments/1tc6i8t/light_pollution_why_it_matters_what_you_can_do/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/telescopes/comments/1tc6i8t/light_pollution_why_it_matters_what_you_can_do/</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: hamburg.com  
    Title: Blue Levitation  
-   Link: <a href="https://www.hamburg.com/visitors/events/maritime/blue-levitation-21436" target="_blank" rel="noopener noreferrer nofollow">https://www.hamburg.com/visitors/events/maritime/blue-levitation-21436</a>  
+   Link:<a href="https://www.hamburg.com/visitors/events/maritime/blue-levitation-21436" target="_blank" rel="noopener noreferrer nofollow">https://www.hamburg.com/visitors/events/maritime/blue-levitation-21436</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: hamburg.com  
-   Link: <a href="https://www.hamburg.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.hamburg.com/</a>  
+   Link:<a href="https://www.hamburg.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.hamburg.com/</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: artificial.io  
    Title: The foundations of modern specialty (re)insurance  
-   Link: <a href="https://artificial.io/" target="_blank" rel="noopener noreferrer nofollow">https://artificial.io/</a>  
+   Link:<a href="https://artificial.io/" target="_blank" rel="noopener noreferrer nofollow">https://artificial.io/</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: deutschland.de  
    Title: earth hour light pollution dark sky parks in germany  
-   Link: <a href="https://www.deutschland.de/en/topic/environment/earth-hour-light-pollution-dark-sky-parks-in-germany" target="_blank" rel="noopener noreferrer nofollow">https://www.deutschland.de/en/topic/environment/earth-hour-light-pollution-dark-sky-parks-in-germany</a>  
+   Link:<a href="https://www.deutschland.de/en/topic/environment/earth-hour-light-pollution-dark-sky-parks-in-germany" target="_blank" rel="noopener noreferrer nofollow">https://www.deutschland.de/en/topic/environment/earth-hour-light-pollution-dark-sky-parks-in-germany</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: nps.gov  
    Title: National Park Service Light Pollution  
-   Link: <a href="https://www.nps.gov/subjects/nightskies/lightpollution.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nps.gov/subjects/nightskies/lightpollution.htm</a>  
+   Link:<a href="https://www.nps.gov/subjects/nightskies/lightpollution.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nps.gov/subjects/nightskies/lightpollution.htm</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: anews.com.tr  
    Title: A News UFO reporting up in Germany as people misidentify planets  
-   Link: <a href="https://www.anews.com.tr/world/2025/08/12/ufo-reporting-up-in-germany-as-people-misidentify-planets" target="_blank" rel="noopener noreferrer nofollow">https://www.anews.com.tr/world/2025/08/12/ufo-reporting-up-in-germany-as-people-misidentify-planets</a>  
+   Link:<a href="https://www.anews.com.tr/world/2025/08/12/ufo-reporting-up-in-germany-as-people-misidentify-planets" target="_blank" rel="noopener noreferrer nofollow">https://www.anews.com.tr/world/2025/08/12/ufo-reporting-up-in-germany-as-people-misidentify-planets</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=agxwguKMsa0&amp;vl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=agxwguKMsa0&amp;vl=en</a>  
+   Link:<a href="https://www.youtube.com/watch?v=agxwguKMsa0&amp;vl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=agxwguKMsa0&amp;vl=en</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Hamburg" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Hamburg</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Hamburg" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Hamburg</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: Wikipedia  
    Title: Light pollution  
-   Link: <a href="https://en.wikipedia.org/wiki/Light_pollution" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Light_pollution</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Light_pollution" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Light_pollution</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Skyglow" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Skyglow</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Skyglow" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Skyglow</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: weather.metoffice.gov.uk  
-   Link: <a href="https://weather.metoffice.gov.uk/forecast/u1x0eu3p3" target="_blank" rel="noopener noreferrer nofollow">https://weather.metoffice.gov.uk/forecast/u1x0eu3p3</a>  
+   Link:<a href="https://weather.metoffice.gov.uk/forecast/u1x0eu3p3" target="_blank" rel="noopener noreferrer nofollow">https://weather.metoffice.gov.uk/forecast/u1x0eu3p3</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: pfannenberg.com  
    Title: Hamburg, Germany  
-   Link: <a href="https://www.pfannenberg.com/en-gb/solutions/industries/art-illumination/hamburg-germany-floating-crane/" target="_blank" rel="noopener noreferrer nofollow">https://www.pfannenberg.com/en-gb/solutions/industries/art-illumination/hamburg-germany-floating-crane/</a>  
+   Link:<a href="https://www.pfannenberg.com/en-gb/solutions/industries/art-illumination/hamburg-germany-floating-crane/" target="_blank" rel="noopener noreferrer nofollow">https://www.pfannenberg.com/en-gb/solutions/industries/art-illumination/hamburg-germany-floating-crane/</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: headout.com  
-   Link: <a href="https://www.headout.com/sightseeing-cruises/15-hour-grand-harbor-evening-lights-cruise-e-25167/" target="_blank" rel="noopener noreferrer nofollow">https://www.headout.com/sightseeing-cruises/15-hour-grand-harbor-evening-lights-cruise-e-25167/</a>  
+   Link:<a href="https://www.headout.com/sightseeing-cruises/15-hour-grand-harbor-evening-lights-cruise-e-25167/" target="_blank" rel="noopener noreferrer nofollow">https://www.headout.com/sightseeing-cruises/15-hour-grand-harbor-evening-lights-cruise-e-25167/</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: euroufo.net  
-   Link: <a href="https://www.euroufo.net/tag/germany/" target="_blank" rel="noopener noreferrer nofollow">https://www.euroufo.net/tag/germany/</a>  
+   Link:<a href="https://www.euroufo.net/tag/germany/" target="_blank" rel="noopener noreferrer nofollow">https://www.euroufo.net/tag/germany/</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: ncl.com  
-   Link: <a href="https://www.ncl.com/uk/en/shore-excursions/HAM_12/Hamburg-Night-Lights-Panoramic-Tour-Bavarian-Dinner" target="_blank" rel="noopener noreferrer nofollow">https://www.ncl.com/uk/en/shore-excursions/HAM_12/Hamburg-Night-Lights-Panoramic-Tour-Bavarian-Dinner</a>  
+   Link:<a href="https://www.ncl.com/uk/en/shore-excursions/HAM_12/Hamburg-Night-Lights-Panoramic-Tour-Bavarian-Dinner" target="_blank" rel="noopener noreferrer nofollow">https://www.ncl.com/uk/en/shore-excursions/HAM_12/Hamburg-Night-Lights-Panoramic-Tour-Bavarian-Dinner</a>  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: dictionary.cambridge.org  
-   Link: <a href="https://dictionary.cambridge.org/dictionary/english/artificial" target="_blank" rel="noopener noreferrer nofollow">https://dictionary.cambridge.org/dictionary/english/artificial</a>  
+   Link:<a href="https://dictionary.cambridge.org/dictionary/english/artificial" target="_blank" rel="noopener noreferrer nofollow">https://dictionary.cambridge.org/dictionary/english/artificial</a>  
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: miniatur-wunderland.com  
-   Link: <a href="https://www.miniatur-wunderland.com/discover-wunderland/worlds/central-germany/ufo" target="_blank" rel="noopener noreferrer nofollow">https://www.miniatur-wunderland.com/discover-wunderland/worlds/central-germany/ufo</a>  
+   Link:<a href="https://www.miniatur-wunderland.com/discover-wunderland/worlds/central-germany/ufo" target="_blank" rel="noopener noreferrer nofollow">https://www.miniatur-wunderland.com/discover-wunderland/worlds/central-germany/ufo</a>  
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: nightearth.com  
-   Link: <a href="https://www.nightearth.com/showitem.php?item=hamburg-germany&amp;lang=en" target="_blank" rel="noopener noreferrer nofollow">https://www.nightearth.com/showitem.php?item=hamburg-germany&amp;lang=en</a>  
+   Link:<a href="https://www.nightearth.com/showitem.php?item=hamburg-germany&amp;lang=en" target="_blank" rel="noopener noreferrer nofollow">https://www.nightearth.com/showitem.php?item=hamburg-germany&amp;lang=en</a>  
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/reel/DSVZmJPjYCr/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DSVZmJPjYCr/?hl=en</a>  
+   Link:<a href="https://www.instagram.com/reel/DSVZmJPjYCr/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DSVZmJPjYCr/?hl=en</a>  
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: aqi.in  
-   Link: <a href="https://www.aqi.in/weather/germany/hamburg/hamburg" target="_blank" rel="noopener noreferrer nofollow">https://www.aqi.in/weather/germany/hamburg/hamburg</a>  
+   Link:<a href="https://www.aqi.in/weather/germany/hamburg/hamburg" target="_blank" rel="noopener noreferrer nofollow">https://www.aqi.in/weather/germany/hamburg/hamburg</a>  
 
-41. <a id="endnote-41"></a>
+41.<a id="endnote-41"></a>
    Source: drhockphysics.sg  
    Title: Light Pollution  
-   Link: <a href="https://drhockphysics.sg/blog/light%20pollution.html" target="_blank" rel="noopener noreferrer nofollow">https://drhockphysics.sg/blog/light%20pollution.html</a>  
+   Link:<a href="https://drhockphysics.sg/blog/light%20pollution.html" target="_blank" rel="noopener noreferrer nofollow">https://drhockphysics.sg/blog/light%20pollution.html</a>  
 
-42. <a id="endnote-42"></a>
+42.<a id="endnote-42"></a>
    Source: airmine.ai  
-   Link: <a href="https://airmine.ai/air-quality/germany/hamburg/" target="_blank" rel="noopener noreferrer nofollow">https://airmine.ai/air-quality/germany/hamburg/</a>  
+   Link:<a href="https://airmine.ai/air-quality/germany/hamburg/" target="_blank" rel="noopener noreferrer nofollow">https://airmine.ai/air-quality/germany/hamburg/</a>  
 
-43. <a id="endnote-43"></a>
+43.<a id="endnote-43"></a>
    Source: en.wikivoyage.org  
-   Link: <a href="https://en.wikivoyage.org/wiki/Hamburg" target="_blank" rel="noopener noreferrer nofollow">https://en.wikivoyage.org/wiki/Hamburg</a>  
+   Link:<a href="https://en.wikivoyage.org/wiki/Hamburg" target="_blank" rel="noopener noreferrer nofollow">https://en.wikivoyage.org/wiki/Hamburg</a>  
 
-44. <a id="endnote-44"></a>
+44.<a id="endnote-44"></a>
    Source: education.nationalgeographic.org  
    Title: light pollution  
-   Link: <a href="https://education.nationalgeographic.org/resource/light-pollution/" target="_blank" rel="noopener noreferrer nofollow">https://education.nationalgeographic.org/resource/light-pollution/</a>  
+   Link:<a href="https://education.nationalgeographic.org/resource/light-pollution/" target="_blank" rel="noopener noreferrer nofollow">https://education.nationalgeographic.org/resource/light-pollution/</a>  
 
-45. <a id="endnote-45"></a>
+45.<a id="endnote-45"></a>
    Source: elibraryhh.overdrive.com  
-   Link: <a href="https://elibraryhh.overdrive.com/media/11673540" target="_blank" rel="noopener noreferrer nofollow">https://elibraryhh.overdrive.com/media/11673540</a>  
+   Link:<a href="https://elibraryhh.overdrive.com/media/11673540" target="_blank" rel="noopener noreferrer nofollow">https://elibraryhh.overdrive.com/media/11673540</a>  
 
-46. <a id="endnote-46"></a>
+46.<a id="endnote-46"></a>
    Source: hafenrundfahrt-hamburg.com  
-   Link: <a href="https://www.hafenrundfahrt-hamburg.com/evening-cruises/" target="_blank" rel="noopener noreferrer nofollow">https://www.hafenrundfahrt-hamburg.com/evening-cruises/</a>  
+   Link:<a href="https://www.hafenrundfahrt-hamburg.com/evening-cruises/" target="_blank" rel="noopener noreferrer nofollow">https://www.hafenrundfahrt-hamburg.com/evening-cruises/</a>  
 
-47. <a id="endnote-47"></a>
+47.<a id="endnote-47"></a>
    Source: hamburg-tourism.de  
-   Link: <a href="https://www.hamburg-tourism.de/sehen-erleben/veranstaltungen/blue-port-hamburg/" target="_blank" rel="noopener noreferrer nofollow">https://www.hamburg-tourism.de/sehen-erleben/veranstaltungen/blue-port-hamburg/</a>  
+   Link:<a href="https://www.hamburg-tourism.de/sehen-erleben/veranstaltungen/blue-port-hamburg/" target="_blank" rel="noopener noreferrer nofollow">https://www.hamburg-tourism.de/sehen-erleben/veranstaltungen/blue-port-hamburg/</a>  
 
-48. <a id="endnote-48"></a>
+48.<a id="endnote-48"></a>
    Source: accuweather.com  
-   Link: <a href="https://www.accuweather.com/en/de/hamburg/20095/weather-forecast/178556" target="_blank" rel="noopener noreferrer nofollow">https://www.accuweather.com/en/de/hamburg/20095/weather-forecast/178556</a>  
+   Link:<a href="https://www.accuweather.com/en/de/hamburg/20095/weather-forecast/178556" target="_blank" rel="noopener noreferrer nofollow">https://www.accuweather.com/en/de/hamburg/20095/weather-forecast/178556</a>  
 
-49. <a id="endnote-49"></a>
+49.<a id="endnote-49"></a>
    Source: ventusky.com  
-   Link: <a href="https://www.ventusky.com/hamburg" target="_blank" rel="noopener noreferrer nofollow">https://www.ventusky.com/hamburg</a>  
+   Link:<a href="https://www.ventusky.com/hamburg" target="_blank" rel="noopener noreferrer nofollow">https://www.ventusky.com/hamburg</a>  
 
-50. <a id="endnote-50"></a>
+50.<a id="endnote-50"></a>
    Source: en.wiktionary.org  
-   Link: <a href="https://en.wiktionary.org/wiki/artificial" target="_blank" rel="noopener noreferrer nofollow">https://en.wiktionary.org/wiki/artificial</a>  
+   Link:<a href="https://en.wiktionary.org/wiki/artificial" target="_blank" rel="noopener noreferrer nofollow">https://en.wiktionary.org/wiki/artificial</a>  
 
-51. <a id="endnote-51"></a>
+51.<a id="endnote-51"></a>
    Source: find-and-update.company-information.service.gov.uk  
    Title: company-information.service.gov.uk ARTIFICIA L AI LTD overview  
-   Link: <a href="https://find-and-update.company-information.service.gov.uk/company/13172725" target="_blank" rel="noopener noreferrer nofollow">https://find-and-update.company-information.service.gov.uk/company/13172725</a>  
+   Link:<a href="https://find-and-update.company-information.service.gov.uk/company/13172725" target="_blank" rel="noopener noreferrer nofollow">https://find-and-update.company-information.service.gov.uk/company/13172725</a>  
 
 ### Additional References
 
-52. <a id="endnote-52"></a>
+52.<a id="endnote-52"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=hE4TY4HUynY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=hE4TY4HUynY</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Floating city in the clouds: Fake or fata morgana?...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=hE4TY4HUynY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=hE4TY4HUynY</a><details class="endnote-snippet"><summary>Source snippet</summary><p>Floating city in the clouds: Fake or fata morgana?...</p></details>
 
-53. <a id="endnote-53"></a>
+53.<a id="endnote-53"></a>
    Source: youtube.com  
    Title: Curios Pilot: UAP Investigation Example  
-   Link: <a href="https://www.youtube.com/watch?v=CU1TRVk6yUc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=CU1TRVk6yUc</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Mystery Glowing Objects Over Midwest: Alien Attack or SpaceX Satellite? | WION Podcast...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=CU1TRVk6yUc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=CU1TRVk6yUc</a><details class="endnote-snippet"><summary>Source snippet</summary><p>Mystery Glowing Objects Over Midwest: Alien Attack or SpaceX Satellite? | WION Podcast...</p></details>
 
-54. <a id="endnote-54"></a>
+54.<a id="endnote-54"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/reel/DVqW6hXCD9z/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DVqW6hXCD9z/</a>  
+   Link:<a href="https://www.instagram.com/reel/DVqW6hXCD9z/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DVqW6hXCD9z/</a>  
 
-55. <a id="endnote-55"></a>
+55.<a id="endnote-55"></a>
    Source: meininger-hotels.com  
-   Link: <a href="https://www.meininger-hotels.com/blog/en/fun-facts-hamburg/" target="_blank" rel="noopener noreferrer nofollow">https://www.meininger-hotels.com/blog/en/fun-facts-hamburg/</a>  
+   Link:<a href="https://www.meininger-hotels.com/blog/en/fun-facts-hamburg/" target="_blank" rel="noopener noreferrer nofollow">https://www.meininger-hotels.com/blog/en/fun-facts-hamburg/</a>  
 
-56. <a id="endnote-56"></a>
+56.<a id="endnote-56"></a>
    Source: craiyon.com  
-   Link: <a href="https://www.craiyon.com/de/image/HxUSuiS1T6iudxefgrHfMA" target="_blank" rel="noopener noreferrer nofollow">https://www.craiyon.com/de/image/HxUSuiS1T6iudxefgrHfMA</a>  
+   Link:<a href="https://www.craiyon.com/de/image/HxUSuiS1T6iudxefgrHfMA" target="_blank" rel="noopener noreferrer nofollow">https://www.craiyon.com/de/image/HxUSuiS1T6iudxefgrHfMA</a>  
 
-57. <a id="endnote-57"></a>
+57.<a id="endnote-57"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/p/DStB7PhEpea/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DStB7PhEpea/</a>  
+   Link:<a href="https://www.instagram.com/p/DStB7PhEpea/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DStB7PhEpea/</a>  
 
-58. <a id="endnote-58"></a>
+58.<a id="endnote-58"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/reel/DYNDtfTvgPn/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DYNDtfTvgPn/</a>  
+   Link:<a href="https://www.instagram.com/reel/DYNDtfTvgPn/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DYNDtfTvgPn/</a>  
 
-59. <a id="endnote-59"></a>
+59.<a id="endnote-59"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/reel/DME7OtMIfe6/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DME7OtMIfe6/?hl=en</a>  
+   Link:<a href="https://www.instagram.com/reel/DME7OtMIfe6/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DME7OtMIfe6/?hl=en</a>  
 
-60. <a id="endnote-60"></a>
+60.<a id="endnote-60"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/HiddenFactsss/posts/a-triangle-shaped-ufo-was-reportedly-spotted-hovering-over-a-german-city-glowing/1600800472046586/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/HiddenFactsss/posts/a-triangle-shaped-ufo-was-reportedly-spotted-hovering-over-a-german-city-glowing/1600800472046586/</a>  
+   Link:<a href="https://www.facebook.com/HiddenFactsss/posts/a-triangle-shaped-ufo-was-reportedly-spotted-hovering-over-a-german-city-glowing/1600800472046586/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/HiddenFactsss/posts/a-triangle-shaped-ufo-was-reportedly-spotted-hovering-over-a-german-city-glowing/1600800472046586/</a>  
 
-61. <a id="endnote-61"></a>
+61.<a id="endnote-61"></a>
    Source: merriam-webster.com  
-   Link: <a href="https://www.merriam-webster.com/thesaurus/artificial" target="_blank" rel="noopener noreferrer nofollow">https://www.merriam-webster.com/thesaurus/artificial</a>  
+   Link:<a href="https://www.merriam-webster.com/thesaurus/artificial" target="_blank" rel="noopener noreferrer nofollow">https://www.merriam-webster.com/thesaurus/artificial</a>  

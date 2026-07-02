@@ -52,7 +52,7 @@ text_direction: ltr
 ui_strings:
   home: Home
   overview: Overview
-  overview_prefix: 'Overview:'
+  overview_prefix:'Overview:'
   contents: Contents
   close: Close
   open_contents: Open contents
@@ -200,13 +200,13 @@ ui_strings:
   search_this_page_empty_hint: Type to search this page.
   no_search_results: No pages match this search.
   no_search_this_page_results: No sections on this page match this search.
-  search_results_count_template: '{count} results'
+  search_results_count_template:'{count} results'
   search_kind_page_title: Page title
   search_kind_page_summary: Summary of page
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date: '2026-06-30 10:10:21'
+date:'2026-06-30 10:10:21'
 parent_title: Schleswig Holstein UFOs
 parent_permalink: /what-really-flew-over-schleswig-holstein/
 parent_nav_short_title: Schleswig Holstein UFOs
@@ -302,80 +302,55 @@ image: /assets/images/Schleswig-Holstein_76916e_lubeck_kucknitz_case_21197d-over
 
 ## Introduction
 
-The Lubeck-Kucknitz triangle report is a useful small case because it shows how a memorable sighting can remain interesting without becoming strong evidence. On 8 January 2024, at about 21:10, a 38-year-old witness in Lübeck-Kücknitz reported seeing three pale white luminous objects in the north-north-eastern sky. According to the published GEP summary, the objects first flew in a line, then formed a triangle, then returned to a line while apparently tracing an S-shaped curve. The report was submitted the next day through GEP’s case database. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ufo-forschung.de/ufo-meldungen/20-neue-ufo-meldungen-im-januar-2024" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufo-forschung.de">[UFO Forschung]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufo-forschung.de</span><span class="citation-popover-title">20 neue ufo meldungen im januar 2024</span><span class="citation-popover-snippet">20 neue ufo meldungen im januar 2024</span></span></span>
-
-
-<img src="{{ "/assets/images/Schleswig-Holstein_76916e_lubeck_kucknitz_case_21197d-overview.webp" | relative_url }}" alt="Overview image for Kucknitz" loading="eager" decoding="sync" fetchpriority="high">
-That is enough to make the case worth noting in [Schleswig-Holstein]({{ 'what-really-flew-over-schleswig-holstein/' | relative_url }})’s UFO record, but not enough to make it strong. The public evidence currently appears to rest on a short witness account, with no clear public video, triangulation, radar track, independent matching witnesses or final published identification. The case is therefore best treated as a weakly evidenced, not-finally-closed observation rather than as proof of an extraordinary craft.
+The Lubeck-Kucknitz triangle report is a useful small case because it shows how a memorable sighting can remain interesting without becoming strong evidence. On 8 January 2024, at about 21:10, a 38-year-old witness in Lübeck-Kücknitz reported seeing three pale white luminous objects in the north-north-eastern sky. According to the published GEP summary, the objects first flew in a line, then formed a triangle, then returned to a line while apparently tracing an S-shaped curve. The report was submitted the next day through GEP’s case database.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ufo-forschung.de/ufo-meldungen/20-neue-ufo-meldungen-im-januar-2024" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufo-forschung.de">[UFO Forschung]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufo-forschung.de</span><span class="citation-popover-title">20 neue ufo meldungen im januar 2024</span><span class="citation-popover-snippet">20 neue ufo meldungen im januar 2024</span></span></span><img src="{{"/assets/images/Schleswig-Holstein_76916e_lubeck_kucknitz_case_21197d-overview.webp" | relative_url }}" alt="Overview image for Kucknitz" loading="eager" decoding="sync" fetchpriority="high">
+That is enough to make the case worth noting in [Schleswig-Holstein]({{'what-really-flew-over-schleswig-holstein/' | relative_url }})’s UFO record, but not enough to make it strong. The public evidence currently appears to rest on a short witness account, with no clear public video, triangulation, radar track, independent matching witnesses or final published identification. The case is therefore best treated as a weakly evidenced, not-finally-closed observation rather than as proof of an extraordinary craft.
 
 ## What the witness described
 
-The core claim is simple: three pale white lights were seen from Lübeck-Kücknitz at night, towards the north-north-east. The distinctive feature is not just “three lights”, but the reported change in geometry: line, triangle, line again, with an S-shaped path. That kind of description is exactly the sort of detail that makes a sighting stick in memory. A rigid triangular craft would be one possible interpretation a witness might reach; a loose formation of separate lights would be another. The published account, however, describes “three objects” rather than a single solid body. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ufo-forschung.de/ufo-meldungen/20-neue-ufo-meldungen-im-januar-2024" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufo-forschung.de">[UFO Forschung]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufo-forschung.de</span><span class="citation-popover-title">20 neue ufo meldungen im januar 2024</span><span class="citation-popover-snippet">20 neue ufo meldungen im januar 2024</span></span></span>
+The core claim is simple: three pale white lights were seen from Lübeck-Kücknitz at night, towards the north-north-east. The distinctive feature is not just “three lights”, but the reported change in geometry: line, triangle, line again, with an S-shaped path. That kind of description is exactly the sort of detail that makes a sighting stick in memory. A rigid triangular craft would be one possible interpretation a witness might reach; a loose formation of separate lights would be another. The published account, however, describes “three objects” rather than a single solid body.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ufo-forschung.de/ufo-meldungen/20-neue-ufo-meldungen-im-januar-2024" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufo-forschung.de">[UFO Forschung]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufo-forschung.de</span><span class="citation-popover-title">20 neue ufo meldungen im januar 2024</span><span class="citation-popover-snippet">20 neue ufo meldungen im januar 2024</span></span></span>
 
-Kücknitz also matters as a location. It is in northern Lübeck, near the Trave and the port landscape. Lübeck’s own port authority describes the port as the south-westernmost Baltic Sea transhipment location, and places Seelandkai in Kücknitz on the northern bank of the Trave. That does not explain the sighting, but it reminds us that this is not an empty rural sky: the area sits near shipping, port lighting, road corridors, aircraft routes and the wider Baltic coastal environment. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.luebeck.de/de/rathaus/verwaltung/luebeck-port-authority/luebecker-haefen/index.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: luebeck.de">[Lübeck]</a><span class="citation-popover" role="note"><span class="citation-popover-source">luebeck.de</span><span class="citation-popover-title">Lübeck Lübecker Häfen</span><span class="citation-popover-snippet">Lübeck Lübecker Häfen</span></span></span>
+Kücknitz also matters as a location. It is in northern Lübeck, near the Trave and the port landscape. Lübeck’s own port authority describes the port as the south-westernmost Baltic Sea transhipment location, and places Seelandkai in Kücknitz on the northern bank of the Trave. That does not explain the sighting, but it reminds us that this is not an empty rural sky: the area sits near shipping, port lighting, road corridors, aircraft routes and the wider Baltic coastal environment.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.luebeck.de/de/rathaus/verwaltung/luebeck-port-authority/luebecker-haefen/index.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: luebeck.de">[Lübeck]</a><span class="citation-popover" role="note"><span class="citation-popover-source">luebeck.de</span><span class="citation-popover-title">Lübeck Lübecker Häfen</span><span class="citation-popover-snippet">Lübeck Lübecker Häfen</span></span></span>
 
-The GEP notice does not, in the publicly visible summary, give crucial details that would allow a firm reconstruction. We are not told the exact duration, angular size, elevation above the horizon, brightness compared with stars or [planets]({{ 'planets-9a1d7f/' | relative_url }}), whether the lights blinked, whether sound was heard, whether the witness used binoculars, or whether a phone camera recorded the event. Those missing details are not trivial. They are often the difference between a case that can be tested and a case that can only be described.
-
-
-<img src="{{ "/assets/images/Schleswig-Holstein_76916e_lubeck_kucknitz_case_21197d-Illustration-1-dark.svg" | relative_url }}" alt="Kucknitz illustration 1" data-theme-src-dark="{{ "/assets/images/Schleswig-Holstein_76916e_lubeck_kucknitz_case_21197d-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Schleswig-Holstein_76916e_lubeck_kucknitz_case_21197d-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+The GEP notice does not, in the publicly visible summary, give crucial details that would allow a firm reconstruction. We are not told the exact duration, angular size, elevation above the horizon, brightness compared with stars or [planets]({{'planets-9a1d7f/' | relative_url }}), whether the lights blinked, whether sound was heard, whether the witness used binoculars, or whether a phone camera recorded the event. Those missing details are not trivial. They are often the difference between a case that can be tested and a case that can only be described.<img src="{{"/assets/images/Schleswig-Holstein_76916e_lubeck_kucknitz_case_21197d-Illustration-1-dark.svg" | relative_url }}" alt="Kucknitz illustration 1" data-theme-src-dark="{{"/assets/images/Schleswig-Holstein_76916e_lubeck_kucknitz_case_21197d-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{"/assets/images/Schleswig-Holstein_76916e_lubeck_kucknitz_case_21197d-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why the triangle shape is tempting but fragile
 
-A triangle is one of the most persuasive shapes in UFO testimony because three points can instantly imply structure. Human perception tends to connect separated lights into a pattern, especially in a dark sky with few reference points. Three aircraft, [drones]({{ 'drones-315029/' | relative_url }}), satellites, birds catching light, lanterns, [balloons]({{ 'balloons-776206/' | relative_url }}), or reflections can appear as a triangle for a few seconds without sharing a physical frame. If the same points then appear to return to a line, that can mean coordinated motion, but it can also mean changing perspective, different speeds, or the observer’s changing angle of view.
+A triangle is one of the most persuasive shapes in UFO testimony because three points can instantly imply structure. Human perception tends to connect separated lights into a pattern, especially in a dark sky with few reference points. Three aircraft, [drones]({{'drones-315029/' | relative_url }}), satellites, birds catching light, lanterns, [balloons]({{'balloons-776206/' | relative_url }}), or reflections can appear as a triangle for a few seconds without sharing a physical frame. If the same points then appear to return to a line, that can mean coordinated motion, but it can also mean changing perspective, different speeds, or the observer’s changing angle of view.
 
-This is why the Lubeck-Kucknitz report is hard to close. If the lights really held fixed spacing while changing direction together, that would be more interesting than three unrelated points. If they were merely seen in a temporary triangular arrangement, the evidential value drops sharply. The public summary does not let readers tell which version is closer to the witness’s experience. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ufo-forschung.de/ufo-meldungen/20-neue-ufo-meldungen-im-januar-2024" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufo-forschung.de">[UFO Forschung]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufo-forschung.de</span><span class="citation-popover-title">20 neue ufo meldungen im januar 2024</span><span class="citation-popover-snippet">20 neue ufo meldungen im januar 2024</span></span></span>
+This is why the Lubeck-Kucknitz report is hard to close. If the lights really held fixed spacing while changing direction together, that would be more interesting than three unrelated points. If they were merely seen in a temporary triangular arrangement, the evidential value drops sharply. The public summary does not let readers tell which version is closer to the witness’s experience.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ufo-forschung.de/ufo-meldungen/20-neue-ufo-meldungen-im-januar-2024" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufo-forschung.de">[UFO Forschung]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufo-forschung.de</span><span class="citation-popover-title">20 neue ufo meldungen im januar 2024</span><span class="citation-popover-snippet">20 neue ufo meldungen im januar 2024</span></span></span>
 
-There is also a wider German context. GEP’s published dataset format includes dates, times, locations, report channels, free-text summaries, classifications and investigation results, with personal data removed for privacy. That makes the database useful for pattern work, but a short public entry is not the same thing as a full case file. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://zenodo.org/records/15882235" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: zenodo.org">[Zenodo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">zenodo.org</span><span class="citation-popover-snippet">Open source on zenodo.org.</span></span></span> The GEP-linked paper on UAP research in Germany notes that witness reports remain an important source because these are spontaneous events, but it also stresses that visual perception, memory and witness statements have significant limits. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ufo-forschung.de/ta-guenter/pdf/JAnom23-2_302_Ammon_etal.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufo-forschung.de">[UFO Forschung]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufo-forschung.de</span><span class="citation-popover-snippet">UFO Forschung</span></span></span>
+There is also a wider German context. GEP’s published dataset format includes dates, times, locations, report channels, free-text summaries, classifications and investigation results, with personal data removed for privacy. That makes the database useful for pattern work, but a short public entry is not the same thing as a full case file.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://zenodo.org/records/15882235" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: zenodo.org">[Zenodo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">zenodo.org</span><span class="citation-popover-snippet">Open source on zenodo.org.</span></span></span> The GEP-linked paper on UAP research in Germany notes that witness reports remain an important source because these are spontaneous events, but it also stresses that visual perception, memory and witness statements have significant limits.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ufo-forschung.de/ta-guenter/pdf/JAnom23-2_302_Ammon_etal.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufo-forschung.de">[UFO Forschung]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufo-forschung.de</span><span class="citation-popover-snippet">UFO Forschung</span></span></span>
 
-The result is a tension familiar across Schleswig-Holstein’s UFO history: the observation may have been sincere and unusual to the witness, yet the public record does not currently supply enough independent information to decide what the lights were.
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/qTiaxUhfmVY" title="U.S. Air Force veteran testifies at UFO hearing about &quot;triangle craft&quot; that flew near him" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=qTiaxUhfmVY" target="_blank" rel="noopener noreferrer">U.S. Air Force veteran testifies at UFO hearing about &quot;triangle craft&quot; that flew near him</a></p><p class="youtube-embed-meta">Channel: CBS News &middot; Views: 132.1K &middot; Uploaded: September 2025 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=qTiaxUhfmVY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=qTiaxUhfmVY">Open on YouTube</a></p></div></div></div>
+The result is a tension familiar across Schleswig-Holstein’s UFO history: the observation may have been sincere and unusual to the witness, yet the public record does not currently supply enough independent information to decide what the lights were.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/qTiaxUhfmVY" title="U.S. Air Force veteran testifies at UFO hearing about &quot;triangle craft&quot; that flew near him" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=qTiaxUhfmVY" target="_blank" rel="noopener noreferrer">U.S. Air Force veteran testifies at UFO hearing about &quot;triangle craft&quot; that flew near him</a></p><p class="youtube-embed-meta">Channel: CBS News &middot; Views: 132.1K &middot; Uploaded: September 2025 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=qTiaxUhfmVY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=qTiaxUhfmVY">Open on YouTube</a></p></div></div></div>
 
 ## Why shape-changing formations are difficult to test
 
 Shape-changing reports are difficult because the strongest claim is often relational rather than physical. The question is not only “what was each light?” but “were the lights moving as one object or as separate objects?” A single witness can describe that relation, but testing it usually requires timed imagery, a second viewing angle, or some independent track.
 
-Several ordinary mechanisms can create a line-to-triangle impression:
-
-
-<div class="content-enhancement content-enhancement--insight-grid" markdown="1">
+Several ordinary mechanisms can create a line-to-triangle impression:<div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * **Separate moving lights:** Aircraft, drones or satellites can briefly align, separate and re-align from the observer’s viewpoint.
 * **Perspective effects:** Lights at different distances can look like a flat formation because the night sky removes depth cues.
 * **Brightness changes:** A light that brightens or fades can make a pattern seem to change shape even if the object itself has not manoeuvred sharply.
-* **Short observation windows:** A few seconds of motion can be over-interpreted when there is no fixed background reference.
+* **Short observation windows:** A few seconds of motion can be over-interpreted when there is no fixed background reference.</div>
 
-</div>
+[Starlink]({{'starlink-175eb8/' | relative_url }}) is a particularly important modern caution, even though the public material does not prove it caused this specific sighting. Regional reporting has previously described Starlink “light-chain” displays over Lübeck and the Baltic, and German skywatching explainers note that newly launched Starlink satellites can appear like a string of evenly bright points moving together before they spread out into their final orbits.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ln-online.de/der-norden/elon-musks-starlink-satelliten-lichter-show-am-nacht-himmel-in-luebeck-LMRTCTUZUNHLVCWKNRWAUXTRQ4.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ln-online.de">[LN - Lübecker Nachrichten]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ln-online.de</span><span class="citation-popover-snippet">Open source on ln-online.de.</span></span></span> The Lubeck-Kucknitz report is not a classic long “pearl string” account because it involved only three lights and a triangle claim, but satellite formations are still part of the checklist for any pale, silent, night-time lights.
 
-[Starlink]({{ 'starlink-175eb8/' | relative_url }}) is a particularly important modern caution, even though the public material does not prove it caused this specific sighting. Regional reporting has previously described Starlink “light-chain” displays over Lübeck and the Baltic, and German skywatching explainers note that newly launched Starlink satellites can appear like a string of evenly bright points moving together before they spread out into their final orbits. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ln-online.de/der-norden/elon-musks-starlink-satelliten-lichter-show-am-nacht-himmel-in-luebeck-LMRTCTUZUNHLVCWKNRWAUXTRQ4.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ln-online.de">[LN - Lübecker Nachrichten]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ln-online.de</span><span class="citation-popover-snippet">Open source on ln-online.de.</span></span></span> The Lubeck-Kucknitz report is not a classic long “pearl string” account because it involved only three lights and a triangle claim, but satellite formations are still part of the checklist for any pale, silent, night-time lights.
-
-Drones are another possibility that cannot be ruled in or out from the public summary alone. Three small drones flying at night could form a triangle or S-curve, but proving that would require local corroboration, flight permissions, operator information, sound reports or video. Likewise, aircraft can look odd at night if their relative directions are misunderstood, especially when the observer lacks distance and altitude cues.
-
-
-<img src="{{ "/assets/images/Schleswig-Holstein_76916e_lubeck_kucknitz_case_21197d-Illustration-2-dark.svg" | relative_url }}" alt="Kucknitz illustration 2" data-theme-src-dark="{{ "/assets/images/Schleswig-Holstein_76916e_lubeck_kucknitz_case_21197d-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Schleswig-Holstein_76916e_lubeck_kucknitz_case_21197d-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+Drones are another possibility that cannot be ruled in or out from the public summary alone. Three small drones flying at night could form a triangle or S-curve, but proving that would require local corroboration, flight permissions, operator information, sound reports or video. Likewise, aircraft can look odd at night if their relative directions are misunderstood, especially when the observer lacks distance and altitude cues.<img src="{{"/assets/images/Schleswig-Holstein_76916e_lubeck_kucknitz_case_21197d-Illustration-2-dark.svg" | relative_url }}" alt="Kucknitz illustration 2" data-theme-src-dark="{{"/assets/images/Schleswig-Holstein_76916e_lubeck_kucknitz_case_21197d-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{"/assets/images/Schleswig-Holstein_76916e_lubeck_kucknitz_case_21197d-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What weakens the case
 
-The main weakness is not that the witness description is impossible. It is that the case, as publicly available, lacks the layers of verification that would make it stronger. The GEP notice gives a date, place, time and witness description, but not a public technical analysis or final classification. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ufo-forschung.de/ufo-meldungen/20-neue-ufo-meldungen-im-januar-2024" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufo-forschung.de">[UFO Forschung]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufo-forschung.de</span><span class="citation-popover-title">20 neue ufo meldungen im januar 2024</span><span class="citation-popover-snippet">20 neue ufo meldungen im januar 2024</span></span></span>
+The main weakness is not that the witness description is impossible. It is that the case, as publicly available, lacks the layers of verification that would make it stronger. The GEP notice gives a date, place, time and witness description, but not a public technical analysis or final classification.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ufo-forschung.de/ufo-meldungen/20-neue-ufo-meldungen-im-januar-2024" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufo-forschung.de">[UFO Forschung]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufo-forschung.de</span><span class="citation-popover-title">20 neue ufo meldungen im januar 2024</span><span class="citation-popover-snippet">20 neue ufo meldungen im januar 2024</span></span></span>
 
-For a reader assessing the case, the weak points are clear:
-
-
-<div class="content-enhancement content-enhancement--metric" markdown="1">
+For a reader assessing the case, the weak points are clear:<div class="content-enhancement content-enhancement--metric" markdown="1">
 
 * **Single public witness account:** No independent public witness set is attached to the summary.
 * **No public imagery:** The available notice does not mention a photo or video from the witness.
 * **No measurable geometry:** The description gives direction but not elevation, angular speed, angular separation or duration.
 * **No public cross-checks:** There is no visible match to flight tracking, satellite prediction, weather balloon data, drone activity, police logs or harbour observations.
-* **Ambiguous object count:** Three lights could suggest one triangular craft, but the summary describes three luminous objects.
+* **Ambiguous object count:** Three lights could suggest one triangular craft, but the summary describes three luminous objects.</div>
 
-</div>
+This is exactly the kind of case that can sit between “probably ordinary” and “not conclusively identified”. NASA’s independent UAP study made the same general point at a higher level: analysis is hampered when data lack calibration, multiple measurements, sensor metadata and baseline information, and future work needs multiple well-calibrated sensors.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">Open source on nasa.gov.</span></span></span> AARO’s public case examples show the same practical problem: even video from official or military sources can be resolved as balloons, birds or not anomalous in some cases, while other clips remain unresolved simply because the footage is insufficient.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">Official UAP Imagery</span><span class="citation-popover-snippet">Official UAP Imagery</span></span></span>
 
-This is exactly the kind of case that can sit between “probably ordinary” and “not conclusively identified”. NASA’s independent UAP study made the same general point at a higher level: analysis is hampered when data lack calibration, multiple measurements, sensor metadata and baseline information, and future work needs multiple well-calibrated sensors. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">Open source on nasa.gov.</span></span></span> AARO’s public case examples show the same practical problem: even video from official or military sources can be resolved as balloons, birds or not anomalous in some cases, while other clips remain unresolved simply because the footage is insufficient. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">Official UAP Imagery</span><span class="citation-popover-snippet">Official UAP Imagery</span></span></span>
-
-That matters because “unresolved” is not a synonym for “extraordinary”. In thin cases, it often means the available data are too limited to choose confidently between ordinary explanations.
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/aWbo0x1lJAk" title="The Belgium UFO That Defied Physics (S4) | The Proof Is Out There | History" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=aWbo0x1lJAk" target="_blank" rel="noopener noreferrer">The Belgium UFO That Defied Physics (S4) | The Proof Is Out There | History</a></p><p class="youtube-embed-meta">Channel: HISTORY &middot; Views: 73.5K &middot; Uploaded: November 2025 &middot; Length: 6 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=aWbo0x1lJAk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=aWbo0x1lJAk">Open on YouTube</a></p></div></div></div>
+That matters because “unresolved” is not a synonym for “extraordinary”. In thin cases, it often means the available data are too limited to choose confidently between ordinary explanations.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/aWbo0x1lJAk" title="The Belgium UFO That Defied Physics (S4) | The Proof Is Out There | History" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=aWbo0x1lJAk" target="_blank" rel="noopener noreferrer">The Belgium UFO That Defied Physics (S4) | The Proof Is Out There | History</a></p><p class="youtube-embed-meta">Channel: HISTORY &middot; Views: 73.5K &middot; Uploaded: November 2025 &middot; Length: 6 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=aWbo0x1lJAk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=aWbo0x1lJAk">Open on YouTube</a></p></div></div></div>
 
 ## What would strengthen the case
 
@@ -383,229 +358,41 @@ The Lubeck-Kucknitz report would become more valuable if it gained independent, 
 
 A stronger file would include the exact observation duration, the witness’s position, the elevation of the lights above the horizon, the apparent direction and speed, whether the lights blinked or held steady, whether the spacing changed smoothly or abruptly, and whether any sound was heard. A short phone video with original metadata would help, but only if it preserved the timestamp, location, zoom level and background reference points. A second witness from another part of Lübeck would be even more useful, because two viewing angles could show whether the lights were close objects, high-altitude aircraft, satellites or something else.
 
-The most decisive supporting evidence would be a match or non-match against known traffic and sky objects. That would include aircraft tracks, satellite passes, meteor records, local weather and cloud conditions, harbour or police reports, and any drone activity near the port or residential areas. This is where GEP-style casework matters: German UAP research has long relied on single-case investigation, standardised data collection and later classification rather than treating first reports as final answers. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ufo-forschung.de/ta-guenter/pdf/JAnom23-2_302_Ammon_etal.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufo-forschung.de">[UFO Forschung]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufo-forschung.de</span><span class="citation-popover-snippet">UFO Forschung</span></span></span>
+The most decisive supporting evidence would be a match or non-match against known traffic and sky objects. That would include aircraft tracks, satellite passes, meteor records, local weather and cloud conditions, harbour or police reports, and any drone activity near the port or residential areas. This is where GEP-style casework matters: German UAP research has long relied on single-case investigation, standardised data collection and later classification rather than treating first reports as final answers.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ufo-forschung.de/ta-guenter/pdf/JAnom23-2_302_Ammon_etal.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufo-forschung.de">[UFO Forschung]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufo-forschung.de</span><span class="citation-popover-snippet">UFO Forschung</span></span></span>
 
-If those checks produced a clear match, the case would become a useful example of misidentification. If they ruled out the likely candidates while adding independent witnesses and measurable movement, the case would become more interesting. At present, the public record does neither.
-
-
-<img src="{{ "/assets/images/Schleswig-Holstein_76916e_lubeck_kucknitz_case_21197d-Illustration-3-dark.svg" | relative_url }}" alt="Kucknitz illustration 3" data-theme-src-dark="{{ "/assets/images/Schleswig-Holstein_76916e_lubeck_kucknitz_case_21197d-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Schleswig-Holstein_76916e_lubeck_kucknitz_case_21197d-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+If those checks produced a clear match, the case would become a useful example of misidentification. If they ruled out the likely candidates while adding independent witnesses and measurable movement, the case would become more interesting. At present, the public record does neither.<img src="{{"/assets/images/Schleswig-Holstein_76916e_lubeck_kucknitz_case_21197d-Illustration-3-dark.svg" | relative_url }}" alt="Kucknitz illustration 3" data-theme-src-dark="{{"/assets/images/Schleswig-Holstein_76916e_lubeck_kucknitz_case_21197d-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{"/assets/images/Schleswig-Holstein_76916e_lubeck_kucknitz_case_21197d-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why this small case matters in Schleswig-Holstein
 
-The Lubeck-Kucknitz sighting is not one of Schleswig-Holstein’s strongest public UFO cases. Its value is different: it helps explain how modern UFO records are built. A short winter-night report from a port-side district can enter the state’s UFO history because it was reported, logged and preserved. But the same record also shows why caution is necessary. A good case is not just a striking shape; it is a chain of evidence that survives [checking]({{ 'checking/' | relative_url }}).
+The Lubeck-Kucknitz sighting is not one of Schleswig-Holstein’s strongest public UFO cases. Its value is different: it helps explain how modern UFO records are built. A short winter-night report from a port-side district can enter the state’s UFO history because it was reported, logged and preserved. But the same record also shows why caution is necessary. A good case is not just a striking shape; it is a chain of evidence that survives [checking]({{'checking/' | relative_url }}).
 
 That makes the case useful for readers trying to understand the state’s wider UFO pattern. Schleswig-Holstein has coastal horizons, port activity, ferry and aircraft routes, military and infrastructure sensitivities, satellites and drones. All of those can produce strange-looking lights. The Lubeck-Kucknitz report sits at the modest end of that spectrum: specific enough to be memorable, but too thin to carry a strong conclusion.
 
-The fairest assessment is therefore restrained. Something unusual was reported over Lübeck-Kücknitz on 8 January 2024. The public description is consistent with a witness seeing three pale lights behaving in a way they could not identify. It is not, on the available evidence, a strong demonstration of a structured triangular craft. Until stronger corroboration appears, the case remains a small, instructive example of the gap between compelling testimony and verifiable evidence.
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/0BPvWUKEM-U" title="Three Objects passed through the Night Sky in a Triangle Formation" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=0BPvWUKEM-U" target="_blank" rel="noopener noreferrer">Three Objects passed through the Night Sky in a Triangle Formation</a></p><p class="youtube-embed-meta">Channel: scannerguy1968</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=0BPvWUKEM-U" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=0BPvWUKEM-U">Open on YouTube</a></p></div></div></div>
-
-
-<section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What Makes the Lubeck Kucknitz Case Hard to Close?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
-        
-        <p class="fr-book-desc">Directly relevant to evaluating unresolved witness reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
-        
-        <p class="fr-book-desc">Supports critical evaluation of eyewitness evidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
-        
-        <p class="fr-book-desc">Provides comparison with stronger documented cases.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Identified+Flying+Objects+by+Dr.+Michael+P.+Masters&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Identified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ixOXDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Identified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Identified+Flying+Objects+by+Dr.+Michael+P.+Masters&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Identified Flying Objects">Identified Flying Objects</a>
-        </h4>
-        <p class="fr-book-author">By Dr. Michael P. Masters</p>
-        
-        <p class="fr-book-desc">Broadens understanding of contemporary UFO discussion.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Identified+Flying+Objects+by+Dr.+Michael+P.+Masters&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
-</section>
-
-<section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
-
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
-
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kucknitz-what-makes-the-lubeck-kucknitz-case-hard-to-close-schleswig-holstein-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="kucknitz-what-makes-the-lubeck-kucknitz-case-hard-to-close-schleswig-holstein-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Gulf Breeze UFO Model | UAP Model | UFO Toy | Flying Saucer Model | Geek Gift"><img src="{{ '/assets/images/marketplace-covers/d0cbf96926a44bce4722.jpg' | relative_url }}" alt="Listing image for Gulf Breeze UFO Model | UAP Model | UFO Toy | Flying Saucer Model | Geek Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kucknitz-what-makes-the-lubeck-kucknitz-case-hard-to-close-schleswig-holstein-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="kucknitz-what-makes-the-lubeck-kucknitz-case-hard-to-close-schleswig-holstein-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer">Gulf Breeze UFO Model | UAP Model | UFO Toy | Flying Saucer Model | Geek Gift</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kucknitz-what-makes-the-lubeck-kucknitz-case-hard-to-close-schleswig-holstein-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="kucknitz-what-makes-the-lubeck-kucknitz-case-hard-to-close-schleswig-holstein-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for flying saucer model">Search <span data-ebay-domain-label>eBay.co.uk</span>: flying saucer model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kucknitz-what-makes-the-lubeck-kucknitz-case-hard-to-close-schleswig-holstein-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="kucknitz-what-makes-the-lubeck-kucknitz-case-hard-to-close-schleswig-holstein-flying-saucer-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kucknitz-what-makes-the-lubeck-kucknitz-case-hard-to-close-schleswig-holstein-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="kucknitz-what-makes-the-lubeck-kucknitz-case-hard-to-close-schleswig-holstein-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Scratchbuilt UFO Flying Saucer Light Up Desktop Model !"><img src="{{ '/assets/images/marketplace-covers/3ef81f2f0d2a9cad1cde.jpg' | relative_url }}" alt="Listing image for Scratchbuilt UFO Flying Saucer Light Up Desktop Model !" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kucknitz-what-makes-the-lubeck-kucknitz-case-hard-to-close-schleswig-holstein-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="kucknitz-what-makes-the-lubeck-kucknitz-case-hard-to-close-schleswig-holstein-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer">Scratchbuilt UFO Flying Saucer Light Up Desktop Model !</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kucknitz-what-makes-the-lubeck-kucknitz-case-hard-to-close-schleswig-holstein-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="kucknitz-what-makes-the-lubeck-kucknitz-case-hard-to-close-schleswig-holstein-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for flying saucer model">Search <span data-ebay-domain-label>eBay.co.uk</span>: flying saucer model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kucknitz-what-makes-the-lubeck-kucknitz-case-hard-to-close-schleswig-holstein-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="kucknitz-what-makes-the-lubeck-kucknitz-case-hard-to-close-schleswig-holstein-flying-saucer-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kucknitz-what-makes-the-lubeck-kucknitz-case-hard-to-close-schleswig-holstein-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="kucknitz-what-makes-the-lubeck-kucknitz-case-hard-to-close-schleswig-holstein-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Scratchbuilt UFO Flying Saucer Shape Desktop Model !"><img src="{{ '/assets/images/marketplace-covers/8a4534533a90e386a891.jpg' | relative_url }}" alt="Listing image for Scratchbuilt UFO Flying Saucer Shape Desktop Model !" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kucknitz-what-makes-the-lubeck-kucknitz-case-hard-to-close-schleswig-holstein-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="kucknitz-what-makes-the-lubeck-kucknitz-case-hard-to-close-schleswig-holstein-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer">Scratchbuilt UFO Flying Saucer Shape Desktop Model !</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kucknitz-what-makes-the-lubeck-kucknitz-case-hard-to-close-schleswig-holstein-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="kucknitz-what-makes-the-lubeck-kucknitz-case-hard-to-close-schleswig-holstein-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for flying saucer model">Search <span data-ebay-domain-label>eBay.co.uk</span>: flying saucer model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kucknitz-what-makes-the-lubeck-kucknitz-case-hard-to-close-schleswig-holstein-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="kucknitz-what-makes-the-lubeck-kucknitz-case-hard-to-close-schleswig-holstein-flying-saucer-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kucknitz-what-makes-the-lubeck-kucknitz-case-hard-to-close-schleswig-holstein-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="kucknitz-what-makes-the-lubeck-kucknitz-case-hard-to-close-schleswig-holstein-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Unidentified Flying Object Alien Aliens Flying Saucer Ship 6&quot; - Pick Color"><img src="{{ '/assets/images/marketplace-covers/f43222bff5987d254054.jpg' | relative_url }}" alt="Listing image for UFO Unidentified Flying Object Alien Aliens Flying Saucer Ship 6&quot; - Pick Color" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kucknitz-what-makes-the-lubeck-kucknitz-case-hard-to-close-schleswig-holstein-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="kucknitz-what-makes-the-lubeck-kucknitz-case-hard-to-close-schleswig-holstein-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer">UFO Unidentified Flying Object Alien Aliens Flying Saucer Ship 6&quot; - Pick Color</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kucknitz-what-makes-the-lubeck-kucknitz-case-hard-to-close-schleswig-holstein-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="kucknitz-what-makes-the-lubeck-kucknitz-case-hard-to-close-schleswig-holstein-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for flying saucer model">Search <span data-ebay-domain-label>eBay.co.uk</span>: flying saucer model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kucknitz-what-makes-the-lubeck-kucknitz-case-hard-to-close-schleswig-holstein-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="kucknitz-what-makes-the-lubeck-kucknitz-case-hard-to-close-schleswig-holstein-flying-saucer-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kucknitz-what-makes-the-lubeck-kucknitz-case-hard-to-close-schleswig-holstein-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="kucknitz-what-makes-the-lubeck-kucknitz-case-hard-to-close-schleswig-holstein-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+The fairest assessment is therefore restrained. Something unusual was reported over Lübeck-Kücknitz on 8 January 2024. The public description is consistent with a witness seeing three pale lights behaving in a way they could not identify. It is not, on the available evidence, a strong demonstration of a structured triangular craft. Until stronger corroboration appears, the case remains a small, instructive example of the gap between compelling testimony and verifiable evidence.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/0BPvWUKEM-U" title="Three Objects passed through the Night Sky in a Triangle Formation" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=0BPvWUKEM-U" target="_blank" rel="noopener noreferrer">Three Objects passed through the Night Sky in a Triangle Formation</a></p><p class="youtube-embed-meta">Channel: scannerguy1968</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=0BPvWUKEM-U" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=0BPvWUKEM-U">Open on YouTube</a></p></div></div></div><section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title"><div class="fr-section-shell"><div class="fr-section-header"><div class="fr-section-heading"><p class="fr-section-kicker">Amazon book picks</p><h3 class="fr-heading" id="further-reading-title">Further Reading</h3></div><p class="fr-intro">Books and field guides related to What Makes the Lubeck Kucknitz Case Hard to Close?. Use these as the next step if you want deeper reading beyond the article.</p></div><div class="fr-books-grid"><article class="fr-book-card"><a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a><div class="fr-book-info"><h4 class="fr-book-title"><a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a></h4><p class="fr-book-author">By Joseph Allen Hynek</p><p class="fr-book-desc">Directly relevant to evaluating unresolved witness reports.</p><div class="fr-book-actions"><a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon</a></div></div></article><article class="fr-book-card"><a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a><div class="fr-book-info"><h4 class="fr-book-title"><a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a></h4><p class="fr-book-author">By Carl Sagan</p><p class="fr-book-desc">Supports critical evaluation of eyewitness evidence.</p><div class="fr-book-actions"><a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon</a></div></div></article><article class="fr-book-card"><a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a><div class="fr-book-info"><h4 class="fr-book-title"><a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a></h4><p class="fr-book-author">By Leslie Kean</p><p class="fr-book-desc">Provides comparison with stronger documented cases.</p><div class="fr-book-actions"><a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon</a></div></div></article><article class="fr-book-card"><a class="fr-book-cover" href="https://www.amazon.com/s?k=Identified+Flying+Objects+by+Dr.+Michael+P.+Masters&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Identified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ixOXDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Identified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a><div class="fr-book-info"><h4 class="fr-book-title"><a href="https://www.amazon.com/s?k=Identified+Flying+Objects+by+Dr.+Michael+P.+Masters&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Identified Flying Objects">Identified Flying Objects</a></h4><p class="fr-book-author">By Dr. Michael P. Masters</p><p class="fr-book-desc">Broadens understanding of contemporary UFO discussion.</p><div class="fr-book-actions"><a href="https://www.amazon.com/s?k=Identified+Flying+Objects+by+Dr.+Michael+P.+Masters&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon</a></div></div></article></div><div class="fr-section-footer"><div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div><p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p></div></div></section><section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title"><div class="fr-section-shell"><div class="fr-section-header"><div class="fr-section-heading"><p class="fr-section-kicker">eBay marketplace picks</p><h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3></div><p class="fr-intro">Live-tested eBay searches with available results related to this page.</p><div class="fr-ebay-market-toolbar"><label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label><div class="fr-ebay-market-picker"><span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span><button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span><span data-ebay-trigger-market-label>USA</span></button><select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location"><option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option></select><div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button></div></div></div></div><div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1"><div class="fr-books-grid"><article class="fr-book-card"><a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=SpaceX+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kucknitz-what-makes-the-lubeck-kucknitz-case-hard-to-close-schleswig-holstein-spacex-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="SpaceX poster" data-ebay-reference="kucknitz-what-makes-the-lubeck-kucknitz-case-hard-to-close-schleswig-holstein-spacex-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for SpaceX BFR Passing the Moon Framed Framed Wall Art Poster Canvas Print Picture"><img src="{{'/assets/images/marketplace-covers/6c61d89115438da0fbb1.jpg' | relative_url }}" alt="Listing image for SpaceX BFR Passing the Moon Framed Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a><div class="fr-book-info"><p class="fr-book-kicker">Example eBay listing</p><h4 class="fr-book-title"><a href="https://www.ebay.co.uk/sch/i.html?_nkw=SpaceX+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kucknitz-what-makes-the-lubeck-kucknitz-case-hard-to-close-schleswig-holstein-spacex-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="SpaceX poster" data-ebay-reference="kucknitz-what-makes-the-lubeck-kucknitz-case-hard-to-close-schleswig-holstein-spacex-poster" target="_blank" rel="sponsored noopener noreferrer">SpaceX BFR Passing the Moon Framed Framed Wall Art Poster Canvas Print Picture</a></h4><a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=SpaceX+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kucknitz-what-makes-the-lubeck-kucknitz-case-hard-to-close-schleswig-holstein-spacex-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="SpaceX poster" data-ebay-reference="kucknitz-what-makes-the-lubeck-kucknitz-case-hard-to-close-schleswig-holstein-spacex-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for SpaceX poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: SpaceX poster</a><div class="fr-book-actions"><a href="https://www.ebay.co.uk/sch/i.html?_nkw=SpaceX+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kucknitz-what-makes-the-lubeck-kucknitz-case-hard-to-close-schleswig-holstein-spacex-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="SpaceX poster" data-ebay-reference="kucknitz-what-makes-the-lubeck-kucknitz-case-hard-to-close-schleswig-holstein-spacex-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span></a></div></div></article><article class="fr-book-card"><a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=SpaceX+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kucknitz-what-makes-the-lubeck-kucknitz-case-hard-to-close-schleswig-holstein-spacex-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="SpaceX poster" data-ebay-reference="kucknitz-what-makes-the-lubeck-kucknitz-case-hard-to-close-schleswig-holstein-spacex-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for SpaceX Starship Orbital Launch Fram Framed Wall Art Poster Canvas Print Picture"><img src="{{'/assets/images/marketplace-covers/e7d6c6461aaf6d5d0f41.jpg' | relative_url }}" alt="Listing image for SpaceX Starship Orbital Launch Fram Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a><div class="fr-book-info"><p class="fr-book-kicker">Example eBay listing</p><h4 class="fr-book-title"><a href="https://www.ebay.co.uk/sch/i.html?_nkw=SpaceX+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kucknitz-what-makes-the-lubeck-kucknitz-case-hard-to-close-schleswig-holstein-spacex-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="SpaceX poster" data-ebay-reference="kucknitz-what-makes-the-lubeck-kucknitz-case-hard-to-close-schleswig-holstein-spacex-poster" target="_blank" rel="sponsored noopener noreferrer">SpaceX Starship Orbital Launch Fram Framed Wall Art Poster Canvas Print Picture</a></h4><a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=SpaceX+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kucknitz-what-makes-the-lubeck-kucknitz-case-hard-to-close-schleswig-holstein-spacex-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="SpaceX poster" data-ebay-reference="kucknitz-what-makes-the-lubeck-kucknitz-case-hard-to-close-schleswig-holstein-spacex-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for SpaceX poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: SpaceX poster</a><div class="fr-book-actions"><a href="https://www.ebay.co.uk/sch/i.html?_nkw=SpaceX+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kucknitz-what-makes-the-lubeck-kucknitz-case-hard-to-close-schleswig-holstein-spacex-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="SpaceX poster" data-ebay-reference="kucknitz-what-makes-the-lubeck-kucknitz-case-hard-to-close-schleswig-holstein-spacex-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span></a></div></div></article><article class="fr-book-card"><a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=SpaceX+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kucknitz-what-makes-the-lubeck-kucknitz-case-hard-to-close-schleswig-holstein-spacex-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="SpaceX poster" data-ebay-reference="kucknitz-what-makes-the-lubeck-kucknitz-case-hard-to-close-schleswig-holstein-spacex-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for SpaceX travel poster, Summit Olympus Mons Mars illustration art print"><img src="{{'/assets/images/marketplace-covers/acb361f1081fd5793db9.jpg' | relative_url }}" alt="Listing image for SpaceX travel poster, Summit Olympus Mons Mars illustration art print" loading="lazy" decoding="async" fetchpriority="low"></a><div class="fr-book-info"><p class="fr-book-kicker">Example eBay listing</p><h4 class="fr-book-title"><a href="https://www.ebay.co.uk/sch/i.html?_nkw=SpaceX+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kucknitz-what-makes-the-lubeck-kucknitz-case-hard-to-close-schleswig-holstein-spacex-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="SpaceX poster" data-ebay-reference="kucknitz-what-makes-the-lubeck-kucknitz-case-hard-to-close-schleswig-holstein-spacex-poster" target="_blank" rel="sponsored noopener noreferrer">SpaceX travel poster, Summit Olympus Mons Mars illustration art print</a></h4><a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=SpaceX+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kucknitz-what-makes-the-lubeck-kucknitz-case-hard-to-close-schleswig-holstein-spacex-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="SpaceX poster" data-ebay-reference="kucknitz-what-makes-the-lubeck-kucknitz-case-hard-to-close-schleswig-holstein-spacex-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for SpaceX poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: SpaceX poster</a><div class="fr-book-actions"><a href="https://www.ebay.co.uk/sch/i.html?_nkw=SpaceX+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kucknitz-what-makes-the-lubeck-kucknitz-case-hard-to-close-schleswig-holstein-spacex-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="SpaceX poster" data-ebay-reference="kucknitz-what-makes-the-lubeck-kucknitz-case-hard-to-close-schleswig-holstein-spacex-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span></a></div></div></article><article class="fr-book-card"><a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=SpaceX+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kucknitz-what-makes-the-lubeck-kucknitz-case-hard-to-close-schleswig-holstein-spacex-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="SpaceX poster" data-ebay-reference="kucknitz-what-makes-the-lubeck-kucknitz-case-hard-to-close-schleswig-holstein-spacex-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for SpaceX BFR in Flight Framed Art Pri Framed Wall Art Poster Canvas Print Picture"><img src="{{'/assets/images/marketplace-covers/ed6f1f4e6dac131c6420.jpg' | relative_url }}" alt="Listing image for SpaceX BFR in Flight Framed Art Pri Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a><div class="fr-book-info"><p class="fr-book-kicker">Example eBay listing</p><h4 class="fr-book-title"><a href="https://www.ebay.co.uk/sch/i.html?_nkw=SpaceX+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kucknitz-what-makes-the-lubeck-kucknitz-case-hard-to-close-schleswig-holstein-spacex-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="SpaceX poster" data-ebay-reference="kucknitz-what-makes-the-lubeck-kucknitz-case-hard-to-close-schleswig-holstein-spacex-poster" target="_blank" rel="sponsored noopener noreferrer">SpaceX BFR in Flight Framed Art Pri Framed Wall Art Poster Canvas Print Picture</a></h4><a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=SpaceX+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kucknitz-what-makes-the-lubeck-kucknitz-case-hard-to-close-schleswig-holstein-spacex-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="SpaceX poster" data-ebay-reference="kucknitz-what-makes-the-lubeck-kucknitz-case-hard-to-close-schleswig-holstein-spacex-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for SpaceX poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: SpaceX poster</a><div class="fr-book-actions"><a href="https://www.ebay.co.uk/sch/i.html?_nkw=SpaceX+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kucknitz-what-makes-the-lubeck-kucknitz-case-hard-to-close-schleswig-holstein-spacex-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="SpaceX poster" data-ebay-reference="kucknitz-what-makes-the-lubeck-kucknitz-case-hard-to-close-schleswig-holstein-spacex-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span></a></div></div></article></div><div class="fr-section-footer"><a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=SpaceX+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kucknitz-what-makes-the-lubeck-kucknitz-case-hard-to-close-schleswig-holstein-spacex-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="SpaceX poster" data-ebay-reference="kucknitz-what-makes-the-lubeck-kucknitz-case-hard-to-close-schleswig-holstein-spacex-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span></a><p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p></div></div></div><script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
-  var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
-  var timezoneRules = [{"market": "EBAY_IE", "pattern": "^Europe/Dublin$"}, {"market": "EBAY_GB", "pattern": "^Europe/(London|Belfast)$"}, {"market": "EBAY_CA", "pattern": "^America/(Toronto|Vancouver|Edmonton|Winnipeg|Halifax|St_Johns|Regina|Saskatoon|Whitehorse|Dawson|Moncton|Glace_Bay|Goose_Bay|Iqaluit|Yellowknife|Inuvik|Rankin_Inlet|Resolute|Cambridge_Bay|Fort_Nelson|Creston|Dawson_Creek)$"}, {"market": "EBAY_US", "pattern": "^America/"}, {"market": "EBAY_DE", "pattern": "^Europe/Berlin$"}, {"market": "EBAY_FR", "pattern": "^Europe/Paris$"}, {"market": "EBAY_IT", "pattern": "^Europe/Rome$"}, {"market": "EBAY_ES", "pattern": "^Europe/Madrid$"}, {"market": "EBAY_AU", "pattern": "^Australia/"}, {"market": "EBAY_AU", "pattern": "^Pacific/(Auckland|Chatham)$"}];
+  var localeMarketMap = {"de":"EBAY_DE","de-at":"EBAY_AT","de-ch":"EBAY_CH","de-de":"EBAY_DE","en":"EBAY_US","en-au":"EBAY_AU","en-ca":"EBAY_CA","en-gb":"EBAY_GB","en-ie":"EBAY_IE","en-nz":"EBAY_AU","en-uk":"EBAY_GB","en-us":"EBAY_US","es":"EBAY_ES","es-es":"EBAY_ES","fr":"EBAY_FR","fr-be":"EBAY_BE","fr-ca":"EBAY_CA","fr-fr":"EBAY_FR","it":"EBAY_IT","it-it":"EBAY_IT","nl":"EBAY_NL","nl-be":"EBAY_BE","nl-nl":"EBAY_NL"};
+  var timezoneRules = [{"market":"EBAY_IE","pattern":"^Europe/Dublin$"}, {"market":"EBAY_GB","pattern":"^Europe/(London|Belfast)$"}, {"market":"EBAY_CA","pattern":"^America/(Toronto|Vancouver|Edmonton|Winnipeg|Halifax|St_Johns|Regina|Saskatoon|Whitehorse|Dawson|Moncton|Glace_Bay|Goose_Bay|Iqaluit|Yellowknife|Inuvik|Rankin_Inlet|Resolute|Cambridge_Bay|Fort_Nelson|Creston|Dawson_Creek)$"}, {"market":"EBAY_US","pattern":"^America/"}, {"market":"EBAY_DE","pattern":"^Europe/Berlin$"}, {"market":"EBAY_FR","pattern":"^Europe/Paris$"}, {"market":"EBAY_IT","pattern":"^Europe/Rome$"}, {"market":"EBAY_ES","pattern":"^Europe/Madrid$"}, {"market":"EBAY_AU","pattern":"^Australia/"}, {"market":"EBAY_AU","pattern":"^Pacific/(Auckland|Chatham)$"}];
   function normalize(value) {
-    return String(value || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
+    return String(value ||'').toLowerCase().replace(/_/g,'-').replace(/[^a-z0-9-]+/g,'');
   }
   function localeMatches() {
     var languages = [];
-    var exactMarket = '';
-    var languageMarket = '';
+    var exactMarket ='';
+    var languageMarket ='';
     try {
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -619,24 +406,24 @@ The fairest assessment is therefore restrained. Something unusual was reported o
   }
   function inferFromLocale() {
     var matches = localeMatches();
-    return matches.exact || matches.language || '';
+    return matches.exact || matches.language ||'';
   }
   function inferFromTimezone() {
-    var tz = '';
-    try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
-    if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    var tz ='';
+    try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone ||''); } catch (err) {}
+    if (!tz) return'';
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
       } catch (err) {}
     }
-    return '';
+    return'';
   }
   function inferMarket(available, options) {
     available = Array.isArray(available) ? available : [];
     options = options || {};
-    var storageKey = options.storageKey || 'phoenix-affiliate-market';
+    var storageKey = options.storageKey ||'phoenix-affiliate-market';
     try {
       var saved = window.localStorage && localStorage.getItem(storageKey);
       if (saved && available.indexOf(saved) >= 0) return saved;
@@ -647,7 +434,7 @@ The fairest assessment is therefore restrained. Something unusual was reported o
     if (localeMarkets.exact && available.indexOf(localeMarkets.exact) >= 0) return localeMarkets.exact;
     if (localeMarkets.language && available.indexOf(localeMarkets.language) >= 0) return localeMarkets.language;
     if (options.defaultMarket && available.indexOf(options.defaultMarket) >= 0) return options.defaultMarket;
-    return available[0] || '';
+    return available[0] ||'';
   }
   window.PhoenixAffiliateLocation = {
     normalize: normalize,
@@ -655,45 +442,43 @@ The fairest assessment is therefore restrained. Something unusual was reported o
     inferFromLocale: inferFromLocale,
     inferFromTimezone: inferFromTimezone
   };
-})();
-</script>
-  <script type="text/javascript">
+})();</script><script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
-  var markets = {"EBAY_AU": {"campaign_id": "5339151051", "domain_label": "eBay.com.au", "label": "Australia", "mkrid": "705-53470-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com.au/sch/i.html?_nkw={query}"}, "EBAY_CA": {"campaign_id": "5339151051", "domain_label": "eBay.ca", "label": "Canada", "mkrid": "706-53473-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ca/sch/i.html?_nkw={query}"}, "EBAY_GB": {"campaign_id": "5339151051", "domain_label": "eBay.co.uk", "label": "UK", "mkrid": "710-53481-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.co.uk/sch/i.html?_nkw={query}"}, "EBAY_IE": {"campaign_id": "5339151051", "domain_label": "eBay.ie", "label": "Ireland", "mkrid": "5282-53468-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ie/sch/i.html?_nkw={query}"}, "EBAY_US": {"campaign_id": "5339151051", "domain_label": "eBay.com", "label": "USA", "mkrid": "711-53200-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com/sch/i.html?_nkw={query}"}};
-  var defaultMarket = "EBAY_GB";
+  var markets = {"EBAY_AU": {"campaign_id":"5339151051","domain_label":"eBay.com.au","label":"Australia","mkrid":"705-53470-19255-0","tool_id":"10001","url_template":"https://www.ebay.com.au/sch/i.html?_nkw={query}"},"EBAY_CA": {"campaign_id":"5339151051","domain_label":"eBay.ca","label":"Canada","mkrid":"706-53473-19255-0","tool_id":"10001","url_template":"https://www.ebay.ca/sch/i.html?_nkw={query}"},"EBAY_GB": {"campaign_id":"5339151051","domain_label":"eBay.co.uk","label":"UK","mkrid":"710-53481-19255-0","tool_id":"10001","url_template":"https://www.ebay.co.uk/sch/i.html?_nkw={query}"},"EBAY_IE": {"campaign_id":"5339151051","domain_label":"eBay.ie","label":"Ireland","mkrid":"5282-53468-19255-0","tool_id":"10001","url_template":"https://www.ebay.ie/sch/i.html?_nkw={query}"},"EBAY_US": {"campaign_id":"5339151051","domain_label":"eBay.com","label":"USA","mkrid":"711-53200-19255-0","tool_id":"10001","url_template":"https://www.ebay.com/sch/i.html?_nkw={query}"}};
+  var defaultMarket ="EBAY_GB";
   function encodeQuery(value) {
-    return encodeURIComponent(String(value || '').replace(/\s+/g, ' ').trim()).replace(/%20/g, '+');
+    return encodeURIComponent(String(value ||'').replace(/\s+/g,'').trim()).replace(/%20/g,'+');
   }
   function buildUrl(query, reference, marketId) {
     var cfg = markets[marketId] || markets[defaultMarket];
-    if (!cfg) return '#';
-    var template = String(cfg.url_template || 'https://www.ebay.com/sch/i.html?_nkw={query}');
-    var url = template.replace('{query}', encodeQuery(query || '')).replace('{query_plain}', String(query || ''));
-    var joiner = url.indexOf('?') >= 0 ? '&' : '?';
+    if (!cfg) return'#';
+    var template = String(cfg.url_template ||'https://www.ebay.com/sch/i.html?_nkw={query}');
+    var url = template.replace('{query}', encodeQuery(query ||'')).replace('{query_plain}', String(query ||''));
+    var joiner = url.indexOf('?') >= 0 ?'&' :'?';
     var params = [];
     if (cfg.mkrid) params.push('mkrid=' + encodeURIComponent(cfg.mkrid));
     if (cfg.campaign_id) params.push('campid=' + encodeURIComponent(cfg.campaign_id));
     params.push('mkevt=1');
     params.push('mkcid=1');
-    params.push('toolid=' + encodeURIComponent(cfg.tool_id || '10001'));
+    params.push('toolid=' + encodeURIComponent(cfg.tool_id ||'10001'));
     if (reference) params.push('customid=' + encodeURIComponent(reference).slice(0, 256));
     return url + joiner + params.join('&');
   }
   function domainLabel(marketId) {
     var cfg = markets[marketId] || markets[defaultMarket] || {};
-    return cfg.domain_label || 'eBay';
+    return cfg.domain_label ||'eBay';
   }
   function flagClass(marketId) {
-    return 'fr-ebay-market-flag fr-ebay-market-flag--' + String(marketId || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
+    return'fr-ebay-market-flag fr-ebay-market-flag--' + String(marketId ||'').toLowerCase().replace(/_/g,'-').replace(/[^a-z0-9-]+/g,'');
   }
   function closeMenu(section) {
     var menu = section.querySelector('[data-ebay-market-menu]');
     var trigger = section.querySelector('[data-ebay-market-trigger]');
     var picker = section.querySelector('.fr-ebay-market-picker');
     if (menu) menu.hidden = true;
-    if (trigger) trigger.setAttribute('aria-expanded', 'false');
+    if (trigger) trigger.setAttribute('aria-expanded','false');
     if (picker) picker.classList.remove('fr-ebay-market-picker--open');
   }
   function availableMarkets(section) {
@@ -709,10 +494,10 @@ The fairest assessment is therefore restrained. Something unusual was reported o
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
-      var query = link.getAttribute('data-ebay-query') || '';
-      var reference = link.getAttribute('data-ebay-reference') || '';
+      var query = link.getAttribute('data-ebay-query') ||'';
+      var reference = link.getAttribute('data-ebay-reference') ||'';
       link.setAttribute('href', buildUrl(query, reference, marketId));
     });
     var select = section.querySelector('[data-ebay-market-select]');
@@ -732,11 +517,11 @@ The fairest assessment is therefore restrained. Something unusual was reported o
       label.textContent = domainLabel(marketId);
     });
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
-      button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
+      button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ?'true' :'false');
     });
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
       var active = button.getAttribute('data-ebay-market-button') === marketId;
-      button.setAttribute('aria-pressed', active ? 'true' : 'false');
+      button.setAttribute('aria-pressed', active ?'true' :'false');
     });
     section.setAttribute('data-ebay-selected-market', marketId);
     if (persist) {
@@ -745,16 +530,16 @@ The fairest assessment is therefore restrained. Something unusual was reported o
     closeMenu(section);
   }
   sections.forEach(function (section) {
-    if (section.getAttribute('data-ebay-localized-init') === '1') return;
-    section.setAttribute('data-ebay-localized-init', '1');
+    if (section.getAttribute('data-ebay-localized-init') ==='1') return;
+    section.setAttribute('data-ebay-localized-init','1');
     var available = availableMarkets(section);
     var marketId = defaultMarket;
     if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
       marketId = window.PhoenixAffiliateLocation.inferMarket(available, {
-        storageKey: 'phoenix-ebay-market',
+        storageKey:'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -768,9 +553,9 @@ The fairest assessment is therefore restrained. Something unusual was reported o
     if (trigger && menu) {
       trigger.addEventListener('click', function (event) {
         event.stopPropagation();
-        var expanded = trigger.getAttribute('aria-expanded') === 'true';
+        var expanded = trigger.getAttribute('aria-expanded') ==='true';
         menu.hidden = expanded;
-        trigger.setAttribute('aria-expanded', expanded ? 'false' : 'true');
+        trigger.setAttribute('aria-expanded', expanded ?'false' :'true');
         var picker = trigger.closest('.fr-ebay-market-picker');
         if (picker) picker.classList.toggle('fr-ebay-market-picker--open', !expanded);
       });
@@ -789,178 +574,172 @@ The fairest assessment is therefore restrained. Something unusual was reported o
     });
     applyMarket(section, marketId, false);
   });
-})();
-</script>
-</section>
+})();</script></section>
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: ufo-forschung.de  
    Title: 20 neue ufo meldungen im januar 2024  
-   Link: <a href="https://www.ufo-forschung.de/ufo-meldungen/20-neue-ufo-meldungen-im-januar-2024" target="_blank" rel="noopener noreferrer nofollow">https://www.ufo-forschung.de/ufo-meldungen/20-neue-ufo-meldungen-im-januar-2024</a>  
+   Link:<a href="https://www.ufo-forschung.de/ufo-meldungen/20-neue-ufo-meldungen-im-januar-2024" target="_blank" rel="noopener noreferrer nofollow">https://www.ufo-forschung.de/ufo-meldungen/20-neue-ufo-meldungen-im-januar-2024</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: zenodo.org  
-   Link: <a href="https://zenodo.org/records/15882235" target="_blank" rel="noopener noreferrer nofollow">https://zenodo.org/records/15882235</a>  
+   Link:<a href="https://zenodo.org/records/15882235" target="_blank" rel="noopener noreferrer nofollow">https://zenodo.org/records/15882235</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: ufo-forschung.de  
    Title: UFO Forschung  
-   Link: <a href="https://www.ufo-forschung.de/ta-guenter/pdf/JAnom23-2_302_Ammon_etal.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ufo-forschung.de/ta-guenter/pdf/JAnom23-2_302_Ammon_etal.pdf</a>  
+   Link:<a href="https://www.ufo-forschung.de/ta-guenter/pdf/JAnom23-2_302_Ammon_etal.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ufo-forschung.de/ta-guenter/pdf/JAnom23-2_302_Ammon_etal.pdf</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: science.nasa.gov  
-   Link: <a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
+   Link:<a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: aaro.mil  
    Title: Official UAP Imagery  
-   Link: <a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
+   Link:<a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: trave.de  
-   Link: <a href="https://www.trave.de/luebeck" target="_blank" rel="noopener noreferrer nofollow">https://www.trave.de/luebeck</a>  
+   Link:<a href="https://www.trave.de/luebeck" target="_blank" rel="noopener noreferrer nofollow">https://www.trave.de/luebeck</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: trave.de  
-   Link: <a href="https://www.trave.de/quartiershaus" target="_blank" rel="noopener noreferrer nofollow">https://www.trave.de/quartiershaus</a>  
+   Link:<a href="https://www.trave.de/quartiershaus" target="_blank" rel="noopener noreferrer nofollow">https://www.trave.de/quartiershaus</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: zenodo.org  
-   Link: <a href="https://zenodo.org/records/10547073" target="_blank" rel="noopener noreferrer nofollow">https://zenodo.org/records/10547073</a>  
+   Link:<a href="https://zenodo.org/records/10547073" target="_blank" rel="noopener noreferrer nofollow">https://zenodo.org/records/10547073</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: zenodo.org  
-   Link: <a href="https://zenodo.org/records/10579210" target="_blank" rel="noopener noreferrer nofollow">https://zenodo.org/records/10579210</a>  
+   Link:<a href="https://zenodo.org/records/10579210" target="_blank" rel="noopener noreferrer nofollow">https://zenodo.org/records/10579210</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: zenodo.org  
-   Link: <a href="https://zenodo.org/records/13923653" target="_blank" rel="noopener noreferrer nofollow">https://zenodo.org/records/13923653</a>  
+   Link:<a href="https://zenodo.org/records/13923653" target="_blank" rel="noopener noreferrer nofollow">https://zenodo.org/records/13923653</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: science.nasa.gov  
-   Link: <a href="https://science.nasa.gov/uap/faqs/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/faqs/</a>  
+   Link:<a href="https://science.nasa.gov/uap/faqs/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/faqs/</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
+   Link:<a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: aaro.mil  
    Title: UNCLASSIFIED FY23 Consolidated Annual Report on UAP Oct 25 2023 1236  
-   Link: <a href="https://www.aaro.mil/Portals/136/PDFs/UNCLASSIFIED-FY23_Consolidated_Annual_Report_on_UAP-Oct_25_2023_1236.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/UNCLASSIFIED-FY23_Consolidated_Annual_Report_on_UAP-Oct_25_2023_1236.pdf</a>  
+   Link:<a href="https://www.aaro.mil/Portals/136/PDFs/UNCLASSIFIED-FY23_Consolidated_Annual_Report_on_UAP-Oct_25_2023_1236.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/UNCLASSIFIED-FY23_Consolidated_Annual_Report_on_UAP-Oct_25_2023_1236.pdf</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: code.schleswig-holstein.de  
    Title: de Blame  
-   Link: <a href="https://code.schleswig-holstein.de/opendata/dcat-catalog-check/-/blame/246ca9c819b297b15382cc78058611420b5ae085/tests/data/ufo-schema.json" target="_blank" rel="noopener noreferrer nofollow">https://code.schleswig-holstein.de/opendata/dcat-catalog-check/-/blame/246ca9c819b297b15382cc78058611420b5ae085/tests/data/ufo-schema.json</a>  
+   Link:<a href="https://code.schleswig-holstein.de/opendata/dcat-catalog-check/-/blame/246ca9c819b297b15382cc78058611420b5ae085/tests/data/ufo-schema.json" target="_blank" rel="noopener noreferrer nofollow">https://code.schleswig-holstein.de/opendata/dcat-catalog-check/-/blame/246ca9c819b297b15382cc78058611420b5ae085/tests/data/ufo-schema.json</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: luebeck.de  
    Title: Lübeck Lübecker Häfen  
-   Link: <a href="https://www.luebeck.de/de/rathaus/verwaltung/luebeck-port-authority/luebecker-haefen/index.html" target="_blank" rel="noopener noreferrer nofollow">https://www.luebeck.de/de/rathaus/verwaltung/luebeck-port-authority/luebecker-haefen/index.html</a>  
+   Link:<a href="https://www.luebeck.de/de/rathaus/verwaltung/luebeck-port-authority/luebecker-haefen/index.html" target="_blank" rel="noopener noreferrer nofollow">https://www.luebeck.de/de/rathaus/verwaltung/luebeck-port-authority/luebecker-haefen/index.html</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: ln-online.de  
-   Link: <a href="https://www.ln-online.de/der-norden/elon-musks-starlink-satelliten-lichter-show-am-nacht-himmel-in-luebeck-LMRTCTUZUNHLVCWKNRWAUXTRQ4.html" target="_blank" rel="noopener noreferrer nofollow">https://www.ln-online.de/der-norden/elon-musks-starlink-satelliten-lichter-show-am-nacht-himmel-in-luebeck-LMRTCTUZUNHLVCWKNRWAUXTRQ4.html</a>  
+   Link:<a href="https://www.ln-online.de/der-norden/elon-musks-starlink-satelliten-lichter-show-am-nacht-himmel-in-luebeck-LMRTCTUZUNHLVCWKNRWAUXTRQ4.html" target="_blank" rel="noopener noreferrer nofollow">https://www.ln-online.de/der-norden/elon-musks-starlink-satelliten-lichter-show-am-nacht-himmel-in-luebeck-LMRTCTUZUNHLVCWKNRWAUXTRQ4.html</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: heute-am-himmel.de  
-   Link: <a href="https://www.heute-am-himmel.de/satelliten/starlink" target="_blank" rel="noopener noreferrer nofollow">https://www.heute-am-himmel.de/satelliten/starlink</a>  
+   Link:<a href="https://www.heute-am-himmel.de/satelliten/starlink" target="_blank" rel="noopener noreferrer nofollow">https://www.heute-am-himmel.de/satelliten/starlink</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: explore.openaire.eu  
-   Link: <a href="https://explore.openaire.eu/search/result?pid=10.5281%2Fzenodo.10547073" target="_blank" rel="noopener noreferrer nofollow">https://explore.openaire.eu/search/result?pid=10.5281%2Fzenodo.10547073</a>  
+   Link:<a href="https://explore.openaire.eu/search/result?pid=10.5281%2Fzenodo.10547073" target="_blank" rel="noopener noreferrer nofollow">https://explore.openaire.eu/search/result?pid=10.5281%2Fzenodo.10547073</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: Wikipedia  
    Title: Lübecker Hafen  
-   Link: <a href="https://de.wikipedia.org/wiki/L%C3%BCbecker_Hafen" target="_blank" rel="noopener noreferrer nofollow">https://de.wikipedia.org/wiki/L%C3%BCbecker_Hafen</a>  
+   Link:<a href="https://de.wikipedia.org/wiki/L%C3%BCbecker_Hafen" target="_blank" rel="noopener noreferrer nofollow">https://de.wikipedia.org/wiki/L%C3%BCbecker_Hafen</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: lhg.com  
-   Link: <a href="https://www.lhg.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.lhg.com/</a>  
+   Link:<a href="https://www.lhg.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.lhg.com/</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: dvidshub.net  
-   Link: <a href="https://www.dvidshub.net/video/988675/pr-017-unresolved-uap-report-europe-2024" target="_blank" rel="noopener noreferrer nofollow">https://www.dvidshub.net/video/988675/pr-017-unresolved-uap-report-europe-2024</a>  
+   Link:<a href="https://www.dvidshub.net/video/988675/pr-017-unresolved-uap-report-europe-2024" target="_blank" rel="noopener noreferrer nofollow">https://www.dvidshub.net/video/988675/pr-017-unresolved-uap-report-europe-2024</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: anomalistik.de  
    Title: janom 23 2  
-   Link: <a href="https://www.anomalistik.de/en/janom/contents/janom-23-2" target="_blank" rel="noopener noreferrer nofollow">https://www.anomalistik.de/en/janom/contents/janom-23-2</a>  
+   Link:<a href="https://www.anomalistik.de/en/janom/contents/janom" target="_blank" rel="noopener noreferrer nofollow">https://www.anomalistik.de/en/janom/contents/janom</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: ln-online.de  
-   Link: <a href="https://www.ln-online.de/lokales/ostholstein/ufo-ueber-ostholstein-raetseln-ueber-flugobjekt-ueber-fehmarn-und-oldenburg-6UKZBTILGRC6HHLAHHZY7N72PU.html" target="_blank" rel="noopener noreferrer nofollow">https://www.ln-online.de/lokales/ostholstein/ufo-ueber-ostholstein-raetseln-ueber-flugobjekt-ueber-fehmarn-und-oldenburg-6UKZBTILGRC6HHLAHHZY7N72PU.html</a>  
+   Link:<a href="https://www.ln-online.de/lokales/ostholstein/ufo-ueber-ostholstein-raetseln-ueber-flugobjekt-ueber-fehmarn-und-oldenburg-6UKZBTILGRC6HHLAHHZY7N72PU.html" target="_blank" rel="noopener noreferrer nofollow">https://www.ln-online.de/lokales/ostholstein/ufo-ueber-ostholstein-raetseln-ueber-flugobjekt-ueber-fehmarn-und-oldenburg-6UKZBTILGRC6HHLAHHZY7N72PU.html</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: ln-online.de  
-   Link: <a href="https://www.ln-online.de/der-norden/himmelsphaenomen-ueber-luebeck-und-sh-seltsamer-lichtschweif-in-der-nacht-3FVQKJ7HKJDJFK25Z35GP2KBWA.html" target="_blank" rel="noopener noreferrer nofollow">https://www.ln-online.de/der-norden/himmelsphaenomen-ueber-luebeck-und-sh-seltsamer-lichtschweif-in-der-nacht-3FVQKJ7HKJDJFK25Z35GP2KBWA.html</a>  
+   Link:<a href="https://www.ln-online.de/der-norden/himmelsphaenomen-ueber-luebeck-und-sh-seltsamer-lichtschweif-in-der-nacht-3FVQKJ7HKJDJFK25Z35GP2KBWA.html" target="_blank" rel="noopener noreferrer nofollow">https://www.ln-online.de/der-norden/himmelsphaenomen-ueber-luebeck-und-sh-seltsamer-lichtschweif-in-der-nacht-3FVQKJ7HKJDJFK25Z35GP2KBWA.html</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: entdecke-deutschland.de  
    Title: Lübecker Bucht  
-   Link: <a href="https://entdecke-deutschland.de/en/bundeslaender/schleswig-holstein/luebeck-bay-east-sea-holiday-with-stars/" target="_blank" rel="noopener noreferrer nofollow">https://entdecke-deutschland.de/en/bundeslaender/schleswig-holstein/luebeck-bay-east-sea-holiday-with-stars/</a>  
+   Link:<a href="https://entdecke-deutschland.de/en/bundeslaender/schleswig-holstein/luebeck-bay-east-sea-holiday-with-stars/" target="_blank" rel="noopener noreferrer nofollow">https://entdecke-deutschland.de/en/bundeslaender/schleswig-holstein/luebeck-bay-east-sea-holiday-with-stars/</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: hanse.org  
-   Link: <a href="https://www.hanse.org/en/tourist/luebeck" target="_blank" rel="noopener noreferrer nofollow">https://www.hanse.org/en/tourist/luebeck</a>  
+   Link:<a href="https://www.hanse.org/en/tourist/luebeck" target="_blank" rel="noopener noreferrer nofollow">https://www.hanse.org/en/tourist/luebeck</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: luebeck.de  
-   Link: <a href="https://www.luebeck.de/" target="_blank" rel="noopener noreferrer nofollow">https://www.luebeck.de/</a>  
+   Link:<a href="https://www.luebeck.de/" target="_blank" rel="noopener noreferrer nofollow">https://www.luebeck.de/</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: boatview.io  
-   Link: <a href="https://www.boatview.io/de/poi/4092/trave-marina-schlutup" target="_blank" rel="noopener noreferrer nofollow">https://www.boatview.io/de/poi/4092/trave-marina-schlutup</a>  
+   Link:<a href="https://www.boatview.io/de/poi/4092/trave-marina-schlutup" target="_blank" rel="noopener noreferrer nofollow">https://www.boatview.io/de/poi/4092/trave-marina-schlutup</a>  
 
 ### Additional References
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=YhSLMzX3Mnw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=YhSLMzX3Mnw</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>U.S. Air Force veteran testifies at UFO hearing about &quot;triangle craft&quot; that flew near him...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=YhSLMzX3Mnw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=YhSLMzX3Mnw</a><details class="endnote-snippet"><summary>Source snippet</summary><p>U.S. Air Force veteran testifies at UFO hearing about &quot;triangle craft&quot; that flew near him...</p></details>
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=qTiaxUhfmVY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=qTiaxUhfmVY</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Belgium UFO That Defied Physics (S4) | The Proof Is Out There | History...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=qTiaxUhfmVY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=qTiaxUhfmVY</a><details class="endnote-snippet"><summary>Source snippet</summary><p>The Belgium UFO That Defied Physics (S4) | The Proof Is Out There | History...</p></details>
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: youtube.com  
    Title: The Belgium UFO That Defied Physics (S4) | The Proof Is Out There | History  
-   Link: <a href="https://www.youtube.com/watch?v=aWbo0x1lJAk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=aWbo0x1lJAk</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Black Triangle Mystery! | UFO Witness S2 E6 | Full Episode | Discovery Channel...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=aWbo0x1lJAk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=aWbo0x1lJAk</a><details class="endnote-snippet"><summary>Source snippet</summary><p>The Black Triangle Mystery! | UFO Witness S2 E6 | Full Episode | Discovery Channel...</p></details>
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: youtube.com  
    Title: Three Objects passed through the Night Sky in a Triangle Formation  
-   Link: <a href="https://www.youtube.com/watch?v=0BPvWUKEM-U" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=0BPvWUKEM-U</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>TRIANGULAR UFO Breakdown by Author David Marler + His HISTORY&#x27;S UNIDENTIFIED Appearance...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=0BPvWUKEM-U" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=0BPvWUKEM-U</a><details class="endnote-snippet"><summary>Source snippet</summary><p>TRIANGULAR UFO Breakdown by Author David Marler + His HISTORY&#x27;S UNIDENTIFIED Appearance...</p></details>
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: war.gov  
    Title: department of defense releases the annual report on unidentified anomalous phen  
-   Link: <a href="https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/</a>  
+   Link:<a href="https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/377074224_Concordant_Deviance_Commonalties_of_Unidentified_Anomalous_Phenomena_UAP_and_Psi_Phenomena" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/377074224_Concordant_Deviance_Commonalties_of_Unidentified_Anomalous_Phenomena_UAP_and_Psi_Phenomena</a>  
+   Link:<a href="https://www.researchgate.net/publication/377074224_Concordant_Deviance_Commonalties_of_Unidentified_Anomalous_Phenomena_UAP_and_Psi_Phenomena" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/377074224_Concordant_Deviance_Commonalties_of_Unidentified_Anomalous_Phenomena_UAP_and_Psi_Phenomena</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/380530617_UAP_Research_in_Germany_Single_Case_Studies_Data_Management_Understanding_of_Strangeness" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/380530617_UAP_Research_in_Germany_Single_Case_Studies_Data_Management_Understanding_of_Strangeness</a>  
+   Link:<a href="https://www.researchgate.net/publication/380530617_UAP_Research_in_Germany_Single_Case_Studies_Data_Management_Understanding_of_Strangeness" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/380530617_UAP_Research_in_Germany_Single_Case_Studies_Data_Management_Understanding_of_Strangeness</a>  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: aui.edu  
-   Link: <a href="https://aui.edu/aaro-releases-report-on-unidentified-anomalous-phenomena-uap/" target="_blank" rel="noopener noreferrer nofollow">https://aui.edu/aaro-releases-report-on-unidentified-anomalous-phenomena-uap/</a>  
+   Link:<a href="https://aui.edu/aaro-releases-report-on-unidentified-anomalous-phenomena-uap/" target="_blank" rel="noopener noreferrer nofollow">https://aui.edu/aaro-releases-report-on-unidentified-anomalous-phenomena-uap/</a>  
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: airbnb.com  
-   Link: <a href="https://www.airbnb.com/rooms/39933978" target="_blank" rel="noopener noreferrer nofollow">https://www.airbnb.com/rooms/39933978</a>  
+   Link:<a href="https://www.airbnb.com/rooms/39933978" target="_blank" rel="noopener noreferrer nofollow">https://www.airbnb.com/rooms/39933978</a>  
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: sh-tourismus.de  
-   Link: <a href="https://www.sh-tourismus.de/en/regions-and-cities/baltic-sea" target="_blank" rel="noopener noreferrer nofollow">https://www.sh-tourismus.de/en/regions-and-cities/baltic-sea</a>  
+   Link:<a href="https://www.sh-tourismus.de/en/regions-and-cities/baltic-sea" target="_blank" rel="noopener noreferrer nofollow">https://www.sh-tourismus.de/en/regions-and-cities/baltic-sea</a>  

@@ -62,7 +62,7 @@ text_direction: ltr
 ui_strings:
   home: Home
   overview: Overview
-  overview_prefix: 'Overview:'
+  overview_prefix:'Overview:'
   contents: Contents
   close: Close
   open_contents: Open contents
@@ -210,13 +210,13 @@ ui_strings:
   search_this_page_empty_hint: Type to search this page.
   no_search_results: No pages match this search.
   no_search_this_page_results: No sections on this page match this search.
-  search_results_count_template: '{count} results'
+  search_results_count_template:'{count} results'
   search_kind_page_title: Page title
   search_kind_page_summary: Summary of page
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date: '2026-06-30 07:43:23'
+date:'2026-06-30 07:43:23'
 sibling_links:
 - basename: Mecklenburg-Vorpomme_d975e6
   title: MV UFOs
@@ -357,38 +357,29 @@ image: /assets/images/Saxony_caf030-overview-social.jpg
 
 ## Introduction
 
-The clearest recent example is the November 2025 Vogtland incident near Schöneck. Several witnesses reported what looked like an unknown object or possible crash, police searched the area, and the case was later explained as aircraft contrails distorted by sunlight and viewing conditions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mdr.de/nachrichten/sachsen/chemnitz/vogtland/flugobjekt-unbekannt-absturz-suche-polizei-102.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mdr.de">[mdr.de]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mdr.de</span><span class="citation-popover-title">Ufo-Meldestelle liefert Lösung für Himmels-Rätsel im Vogtland &#124; mdr.de</span><span class="citation-popover-snippet">Ufo-Meldestelle liefert Lösung für Himmels-Rätsel im Vogtland &#124; mdr.de</span></span></span>
-
-
-<img src="{{ "/assets/images/Saxony_caf030-overview.webp" | relative_url }}" alt="Overview image for What Really Happened in Saxony&#x27;s UFO..." loading="eager" decoding="sync" fetchpriority="high">
+The clearest recent example is the November 2025 Vogtland incident near Schöneck. Several witnesses reported what looked like an unknown object or possible crash, police searched the area, and the case was later explained as aircraft contrails distorted by sunlight and viewing conditions.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mdr.de/nachrichten/sachsen/chemnitz/vogtland/flugobjekt-unbekannt-absturz-suche-polizei-102.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mdr.de">[mdr.de]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mdr.de</span><span class="citation-popover-title">Ufo-Meldestelle liefert Lösung für Himmels-Rätsel im Vogtland &#124; mdr.de</span><span class="citation-popover-snippet">Ufo-Meldestelle liefert Lösung für Himmels-Rätsel im Vogtland &#124; mdr.de</span></span></span><img src="{{"/assets/images/Saxony_caf030-overview.webp" | relative_url }}" alt="Overview image for What Really Happened in Saxony&#x27;s UFO..." loading="eager" decoding="sync" fetchpriority="high">
 ## What Saxony’s UFO record really looks like
 
-The best-supported picture is not of a hidden state-level UFO wave, but of scattered civilian reports filtered through German UFO databases, local press and occasional police involvement. The public GEP dataset, compiled by the Society for the Study of the UFO Phenomenon, contains fields such as case number, date, place, witness account, classification and investigation result for UFO and UAP reports from 1972 to 2023; personal witness data is removed for privacy. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://zenodo.org/records/10547073" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: zenodo.org">[Zenodo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">zenodo.org</span><span class="citation-popover-snippet">Open source on zenodo.org.</span></span></span> GEP describes itself as a civil, citizen-science organisation that receives sighting reports and has published questionnaires, annual reports and monthly summaries for witnesses and researchers. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ufo-forschung.de/downloads" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufo-forschung.de">[UFO Forschung]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufo-forschung.de</span><span class="citation-popover-title">UFO Forschung Downloads – Gesellschaft zur Erforschung des UFO-Phänomens e.V</span><span class="citation-popover-snippet">UFO Forschung Downloads – Gesellschaft zur Erforschung des UFO-Phänomens e.V</span></span></span>
+The best-supported picture is not of a hidden state-level UFO wave, but of scattered civilian reports filtered through German UFO databases, local press and occasional police involvement. The public GEP dataset, compiled by the Society for the Study of the UFO Phenomenon, contains fields such as case number, date, place, witness account, classification and investigation result for UFO and UAP reports from 1972 to 2023; personal witness data is removed for privacy.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://zenodo.org/records/10547073" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: zenodo.org">[Zenodo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">zenodo.org</span><span class="citation-popover-snippet">Open source on zenodo.org.</span></span></span> GEP describes itself as a civil, citizen-science organisation that receives sighting reports and has published questionnaires, annual reports and monthly summaries for witnesses and researchers.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ufo-forschung.de/downloads" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufo-forschung.de">[UFO Forschung]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufo-forschung.de</span><span class="citation-popover-title">UFO Forschung Downloads – Gesellschaft zur Erforschung des UFO-Phänomens e.V</span><span class="citation-popover-snippet">UFO Forschung Downloads – Gesellschaft zur Erforschung des UFO-Phänomens e.V</span></span></span>
 
-Within that dataset, Saxony appears as a place of ordinary but varied reports rather than a dominant hotspot. Examples include a Starlink-like “string” of lights at Dippoldiswalde-Reichstädt in December 2023, logged as SpaceX [Starlink satellites]({{ 'starlink-e69f9d/' | relative_url }}); a 2022 Stollberg video of a bright white light with incomplete information; and a 2019 Bad Schlema report of a bright point with “light spikes” around it, which the database marked as insufficient data. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://zenodo.org/records/10547073/files/UFO-UAP-Falldaten_GEP_1972-2023.csv?download=1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: zenodo.org">[Zenodo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">zenodo.org</span><span class="citation-popover-title">UFO UAP Falldaten GEP 1972 2023.csv</span><span class="citation-popover-snippet">UFO UAP Falldaten GEP 1972 2023.csv</span></span></span> That mix matters: some cases are identified with confidence, some are only tentatively explained, and some remain weak because the record does not contain enough detail.
+Within that dataset, Saxony appears as a place of ordinary but varied reports rather than a dominant hotspot. Examples include a Starlink-like “string” of lights at Dippoldiswalde-Reichstädt in December 2023, logged as SpaceX [Starlink satellites]({{'starlink-e69f9d/' | relative_url }}); a 2022 Stollberg video of a bright white light with incomplete information; and a 2019 Bad Schlema report of a bright point with “light spikes” around it, which the database marked as insufficient data.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://zenodo.org/records/10547073/files/UFO-UAP-Falldaten_GEP_1972-2023.csv?download=1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: zenodo.org">[Zenodo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">zenodo.org</span><span class="citation-popover-title">UFO UAP Falldaten GEP 1972 2023.csv</span><span class="citation-popover-snippet">UFO UAP Falldaten GEP 1972 2023.csv</span></span></span> That mix matters: some cases are identified with confidence, some are only tentatively explained, and some remain weak because the record does not contain enough detail.
 
-Saxony’s larger cities also recur. GEP-listed Dresden cases include a 2011 observation from Dresden-Briesnitz and a 2007 report of reddish balls over the Elbe, the latter identified as model hot-air balloons. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://zenodo.org/records/10547073/files/UFO-UAP-Falldaten_GEP_1972-2023.csv?download=1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: zenodo.org">[Zenodo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">zenodo.org</span><span class="citation-popover-title">UFO UAP Falldaten GEP 1972 2023.csv</span><span class="citation-popover-snippet">UFO UAP Falldaten GEP 1972 2023.csv</span></span></span> Leipzig cases include reports later attributed to drones, sky-beamers or lighting effects, aircraft contrails, helium balloons, satellite flares and, in one 2014 triangle-shaped formation case, no identification. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://zenodo.org/records/10547073/files/UFO-UAP-Falldaten_GEP_1972-2023.csv?download=1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: zenodo.org">[Zenodo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">zenodo.org</span><span class="citation-popover-title">UFO UAP Falldaten GEP 1972 2023.csv</span><span class="citation-popover-snippet">UFO UAP Falldaten GEP 1972 2023.csv</span></span></span> The most useful conclusion is therefore modest: Saxony has documented UFO reports, but the stronger public records mostly show a normal pattern of misidentified aerial and astronomical phenomena.
+Saxony’s larger cities also recur. GEP-listed Dresden cases include a 2011 observation from Dresden-Briesnitz and a 2007 report of reddish balls over the Elbe, the latter identified as model hot-air balloons.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://zenodo.org/records/10547073/files/UFO-UAP-Falldaten_GEP_1972-2023.csv?download=1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: zenodo.org">[Zenodo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">zenodo.org</span><span class="citation-popover-title">UFO UAP Falldaten GEP 1972 2023.csv</span><span class="citation-popover-snippet">UFO UAP Falldaten GEP 1972 2023.csv</span></span></span> Leipzig cases include reports later attributed to drones, sky-beamers or lighting effects, aircraft contrails, helium balloons, satellite flares and, in one 2014 triangle-shaped formation case, no identification.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://zenodo.org/records/10547073/files/UFO-UAP-Falldaten_GEP_1972-2023.csv?download=1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: zenodo.org">[Zenodo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">zenodo.org</span><span class="citation-popover-title">UFO UAP Falldaten GEP 1972 2023.csv</span><span class="citation-popover-snippet">UFO UAP Falldaten GEP 1972 2023.csv</span></span></span> The most useful conclusion is therefore modest: Saxony has documented UFO reports, but the stronger public records mostly show a normal pattern of misidentified aerial and astronomical phenomena.
 
 ## The Vogtland case shows how a dramatic sighting can shrink under investigation
 
-The Schöneck/Vogtland incident in November 2025 is the best recent Saxon case because it has the ingredients readers usually expect from a UFO story: multiple witnesses, photographs or video, a report of something falling with a bang, a police response, and later expert review. MDR Sachsen reported that the possible crash of an unknown flying object caused concern in the Schöneck area; a large search was launched and then stopped after nothing was found. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mdr.de/nachrichten/sachsen/chemnitz/vogtland/flugobjekt-unbekannt-absturz-suche-polizei-102.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mdr.de">[mdr.de]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mdr.de</span><span class="citation-popover-title">Ufo-Meldestelle liefert Lösung für Himmels-Rätsel im Vogtland &#124; mdr.de</span><span class="citation-popover-snippet">Ufo-Meldestelle liefert Lösung für Himmels-Rätsel im Vogtland &#124; mdr.de</span></span></span>
+The Schöneck/Vogtland incident in November 2025 is the best recent Saxon case because it has the ingredients readers usually expect from a UFO story: multiple witnesses, photographs or video, a report of something falling with a bang, a police response, and later expert review. MDR Sachsen reported that the possible crash of an unknown flying object caused concern in the Schöneck area; a large search was launched and then stopped after nothing was found.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mdr.de/nachrichten/sachsen/chemnitz/vogtland/flugobjekt-unbekannt-absturz-suche-polizei-102.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mdr.de">[mdr.de]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mdr.de</span><span class="citation-popover-title">Ufo-Meldestelle liefert Lösung für Himmels-Rätsel im Vogtland &#124; mdr.de</span><span class="citation-popover-snippet">Ufo-Meldestelle liefert Lösung für Himmels-Rätsel im Vogtland &#124; mdr.de</span></span></span>
 
-The important detail is not simply that the object was “debunked”. It is how the explanation was reached. Police reportedly checked with air traffic control, the German Weather Service, the Bundeswehr and the Space Situational Awareness Centre without getting a clear object report at first. Images were then sent to CENAP, the German UFO reporting centre, whose assessment was that two aircraft were flying above one another, their contrails became distorted, and low sunlight made the scene look as if something was burning or falling. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mdr.de/nachrichten/sachsen/chemnitz/vogtland/flugobjekt-unbekannt-absturz-suche-polizei-102.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mdr.de">[mdr.de]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mdr.de</span><span class="citation-popover-title">Ufo-Meldestelle liefert Lösung für Himmels-Rätsel im Vogtland &#124; mdr.de</span><span class="citation-popover-snippet">Ufo-Meldestelle liefert Lösung für Himmels-Rätsel im Vogtland &#124; mdr.de</span></span></span>
+The important detail is not simply that the object was “debunked”. It is how the explanation was reached. Police reportedly checked with air traffic control, the German Weather Service, the Bundeswehr and the Space Situational Awareness Centre without getting a clear object report at first. Images were then sent to CENAP, the German UFO reporting centre, whose assessment was that two aircraft were flying above one another, their contrails became distorted, and low sunlight made the scene look as if something was burning or falling.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mdr.de/nachrichten/sachsen/chemnitz/vogtland/flugobjekt-unbekannt-absturz-suche-polizei-102.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mdr.de">[mdr.de]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mdr.de</span><span class="citation-popover-title">Ufo-Meldestelle liefert Lösung für Himmels-Rätsel im Vogtland &#124; mdr.de</span><span class="citation-popover-snippet">Ufo-Meldestelle liefert Lösung für Himmels-Rätsel im Vogtland &#124; mdr.de</span></span></span>
 
-That sequence is a useful model for Saxony’s UFO history. The first report was not foolish: from the ground, an illuminated and broken contrail can look alarming. The police response was also not proof of an extraordinary craft; it was a public-safety reaction to a possible crash report. Later analysis weakened the original UFO interpretation because it found a plausible chain of ordinary causes: aircraft, contrails, wind distortion and lighting.
-
-
-<img src="{{ "/assets/images/Saxony_caf030-Illustration-1-dark.svg" | relative_url }}" alt="What Really Happened in Saxony&#x27;s UFO... illustration 1" data-theme-src-dark="{{ "/assets/images/Saxony_caf030-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Saxony_caf030-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+That sequence is a useful model for Saxony’s UFO history. The first report was not foolish: from the ground, an illuminated and broken contrail can look alarming. The police response was also not proof of an extraordinary craft; it was a public-safety reaction to a possible crash report. Later analysis weakened the original UFO interpretation because it found a plausible chain of ordinary causes: aircraft, contrails, wind distortion and lighting.<img src="{{"/assets/images/Saxony_caf030-Illustration-1-dark.svg" | relative_url }}" alt="What Really Happened in Saxony&#x27;s UFO... illustration 1" data-theme-src-dark="{{"/assets/images/Saxony_caf030-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{"/assets/images/Saxony_caf030-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Leipzig and Dresden: city sightings in busy skies
 
 Leipzig and Dresden are not just population centres; they are places where more people are looking up, filming with phones, and living under active aviation corridors. That makes them natural sources of UFO reports, but also natural places for misidentification.
 
-Leipzig is especially prone to ordinary aerial explanations because of the wider Leipzig/Halle aviation environment. DHL describes its Leipzig hub as operating 24 hours a day, 365 days a year, handling freight night after night. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dhl.com/de-en/microsites/express/hubs/hub-leipzig/discover.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dhl.com">[DHL]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dhl.com</span><span class="citation-popover-title">In Action 24/7, 365 Days a Year</span><span class="citation-popover-snippet">In Action 24/7, 365 Days a Year</span></span></span> Its aviation arm, European Air Transport Leipzig, says it has operated at Leipzig/Halle since 2008 and uses Airbus and Boeing aircraft from a major maintenance and cargo base. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dhl.com/de-en/microsites/express/hubs/hub-leipzig/discover/aviation.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dhl.com">[DHL]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dhl.com</span><span class="citation-popover-snippet">Open source on dhl.com.</span></span></span> A busy night-freight environment does not explain every sighting, but it changes the baseline: lights, engine noise, approach paths, contrails and low-angle aircraft can all become part of the local UFO ecology.
+Leipzig is especially prone to ordinary aerial explanations because of the wider Leipzig/Halle aviation environment. DHL describes its Leipzig hub as operating 24 hours a day, 365 days a year, handling freight night after night.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dhl.com/de-en/microsites/express/hubs/hub-leipzig/discover.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dhl.com">[DHL]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dhl.com</span><span class="citation-popover-title">In Action 24/7, 365 Days a Year</span><span class="citation-popover-snippet">In Action 24/7, 365 Days a Year</span></span></span> Its aviation arm, European Air Transport Leipzig, says it has operated at Leipzig/Halle since 2008 and uses Airbus and Boeing aircraft from a major maintenance and cargo base.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dhl.com/de-en/microsites/express/hubs/hub-leipzig/discover/aviation.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dhl.com">[DHL]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dhl.com</span><span class="citation-popover-snippet">Open source on dhl.com.</span></span></span> A busy night-freight environment does not explain every sighting, but it changes the baseline: lights, engine noise, approach paths, contrails and low-angle aircraft can all become part of the local UFO ecology.
 
-The GEP case list reflects that. A 2021 Leipzig observation of a large vertical object was logged as aircraft or contrail activity; a 2022 Leipzig-Lößnig report of a bluish vertical light was attributed to a lighting-effect device; other Leipzig reports were linked to helium balloons, satellite flares or sky lanterns. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://zenodo.org/records/10547073/files/UFO-UAP-Falldaten_GEP_1972-2023.csv?download=1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: zenodo.org">[Zenodo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">zenodo.org</span><span class="citation-popover-title">UFO UAP Falldaten GEP 1972 2023.csv</span><span class="citation-popover-snippet">UFO UAP Falldaten GEP 1972 2023.csv</span></span></span> Yet the same list also includes reports with insufficient data or no identification, such as a 2014 triangle of three bright points over Leipzig. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://zenodo.org/records/10547073/files/UFO-UAP-Falldaten_GEP_1972-2023.csv?download=1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: zenodo.org">[Zenodo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">zenodo.org</span><span class="citation-popover-title">UFO UAP Falldaten GEP 1972 2023.csv</span><span class="citation-popover-snippet">UFO UAP Falldaten GEP 1972 2023.csv</span></span></span> That difference matters: “unidentified” in such a database usually means the available evidence did not settle the case, not that the case points to an exotic craft.
-
-Dresden’s public examples are similar. The 2007 report of 15 to 20 reddish spheres over the Elbe was identified as model hot-air balloons, while a 2016 Dresden airport-related photograph and other Dresden entries show how later image review can become more important than the original impression. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://zenodo.org/records/10547073/files/UFO-UAP-Falldaten_GEP_1972-2023.csv?download=1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: zenodo.org">[Zenodo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">zenodo.org</span><span class="citation-popover-title">UFO UAP Falldaten GEP 1972 2023.csv</span><span class="citation-popover-snippet">UFO UAP Falldaten GEP 1972 2023.csv</span></span></span> For city cases, the strongest evidence is rarely a single eyewitness description; it is the combination of time, direction, duration, image metadata, known aircraft or satellite passes, weather, and whether independent witnesses agree on the same details.
-
+The GEP case list reflects that. A 2021 Leipzig observation of a large vertical object was logged as aircraft or contrail activity; a 2022 Leipzig-Lößnig report of a bluish vertical light was attributed to a lighting-effect device; other Leipzig reports were linked to helium balloons, satellite flares or sky lanterns.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://zenodo.org/records/10547073/files/UFO-UAP-Falldaten_GEP_1972-2023.csv?download=1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: zenodo.org">[Zenodo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">zenodo.org</span><span class="citation-popover-title">UFO UAP Falldaten GEP 1972 2023.csv</span><span class="citation-popover-snippet">UFO UAP Falldaten GEP 1972 2023.csv</span></span></span> Yet the same list also includes reports with insufficient data or no identification, such as a 2014 triangle of three bright points over Leipzig.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://zenodo.org/records/10547073/files/UFO-UAP-Falldaten_GEP_1972-2023.csv?download=1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: zenodo.org">[Zenodo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">zenodo.org</span><span class="citation-popover-title">UFO UAP Falldaten GEP 1972 2023.csv</span><span class="citation-popover-snippet">UFO UAP Falldaten GEP 1972 2023.csv</span></span></span> That difference matters: “unidentified” in such a database usually means the available evidence did not settle the case, not that the case points to an exotic craft.
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Rj4ypTSgEXw" title="Saxony - Airfield Großenhain" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Rj4ypTSgEXw" target="_blank" rel="noopener noreferrer">Saxony - Airfield Großenhain</a></p><p class="youtube-embed-meta">Channel: Lars Hoffmann</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Rj4ypTSgEXw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Rj4ypTSgEXw">Open on YouTube</a></p></div></div></div>
 
@@ -396,71 +387,55 @@ Dresden’s public examples are similar. The 2007 report of 15 to 20 reddish sph
 
 Rural areas can make UFO sightings feel more convincing because there are fewer obvious city lights and fewer visible human-made distractions. Saxony’s Erzgebirge and smaller towns do appear in the record, but the same explanatory pattern holds.
 
-The GEP dataset includes Saxon cases from Bad Schlema, Zwönitz, Wolkenstein-Falkenbach, Stollberg and Chemnitz, among others. Several are marked as insufficiently documented or remain without a firm public identification, while others are linked to satellites, possible planets, aircraft, or birds. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://zenodo.org/records/10547073/files/UFO-UAP-Falldaten_GEP_1972-2023.csv?download=1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: zenodo.org">[Zenodo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">zenodo.org</span><span class="citation-popover-title">UFO UAP Falldaten GEP 1972 2023.csv</span><span class="citation-popover-snippet">UFO UAP Falldaten GEP 1972 2023.csv</span></span></span> A 2015 Chemnitz report described a grey-black, smooth, zeppelin-like object moving slowly and straight; another 2015 Görlitz report described a brief, silent cylinder-like object and was given a favoured explanation involving a bird. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://zenodo.org/records/10547073/files/UFO-UAP-Falldaten_GEP_1972-2023.csv?download=1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: zenodo.org">[Zenodo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">zenodo.org</span><span class="citation-popover-title">UFO UAP Falldaten GEP 1972 2023.csv</span><span class="citation-popover-snippet">UFO UAP Falldaten GEP 1972 2023.csv</span></span></span>
+The GEP dataset includes Saxon cases from Bad Schlema, Zwönitz, Wolkenstein-Falkenbach, Stollberg and Chemnitz, among others. Several are marked as insufficiently documented or remain without a firm public identification, while others are linked to satellites, possible planets, aircraft, or birds.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://zenodo.org/records/10547073/files/UFO-UAP-Falldaten_GEP_1972-2023.csv?download=1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: zenodo.org">[Zenodo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">zenodo.org</span><span class="citation-popover-title">UFO UAP Falldaten GEP 1972 2023.csv</span><span class="citation-popover-snippet">UFO UAP Falldaten GEP 1972 2023.csv</span></span></span> A 2015 Chemnitz report described a grey-black, smooth, zeppelin-like object moving slowly and straight; another 2015 Görlitz report described a brief, silent cylinder-like object and was given a favoured explanation involving a bird.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://zenodo.org/records/10547073/files/UFO-UAP-Falldaten_GEP_1972-2023.csv?download=1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: zenodo.org">[Zenodo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">zenodo.org</span><span class="citation-popover-title">UFO UAP Falldaten GEP 1972 2023.csv</span><span class="citation-popover-snippet">UFO UAP Falldaten GEP 1972 2023.csv</span></span></span>
 
 That does not mean every rural case is trivial. It means rural cases often lack the data needed to settle them. A single witness may have no reliable distance estimate. A light near the horizon can look low and close when it is actually far away. A bright planet seen through moving air can appear to pulse, change colour or drift. A slow balloon can look powered if there is no nearby reference point. The same problems appear worldwide, but Saxony’s records show them in local form.
 
 ## Why the old East German setting matters
 
-Saxony’s UFO history cannot be understood without the former [East German]({{ 'east-german/' | relative_url }}) context, even though many of the best-known Stasi-linked UFO files concern neighbouring regions rather than Saxony itself. MDR’s historical reporting states that neither West German nor East German official bodies systematically catalogued or investigated UFO sightings, and that the DDR treated alien-visitor stories as irrational Western “technical religion” or capitalist manipulation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mdr.de/geschichte/ddr/alltag/erziehung-bildung/ufo-sichtung-halle-stasi-thueringen-100.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mdr.de">[mdr.de]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mdr.de</span><span class="citation-popover-title">UF O-Sichtungen in der DDR &#124; mdr.de</span><span class="citation-popover-snippet">UF O-Sichtungen in der DDR &#124; mdr.de</span></span></span>
+Saxony’s UFO history cannot be understood without the former [East German]({{'east-german/' | relative_url }}) context, even though many of the best-known Stasi-linked UFO files concern neighbouring regions rather than Saxony itself. MDR’s historical reporting states that neither West German nor East German official bodies systematically catalogued or investigated UFO sightings, and that the DDR treated alien-visitor stories as irrational Western “technical religion” or capitalist manipulation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mdr.de/geschichte/ddr/alltag/erziehung-bildung/ufo-sichtung-halle-stasi-thueringen-100.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mdr.de">[mdr.de]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mdr.de</span><span class="citation-popover-title">UF O-Sichtungen in der DDR &#124; mdr.de</span><span class="citation-popover-snippet">UF O-Sichtungen in der DDR &#124; mdr.de</span></span></span>
 
-That official culture helps explain why Saxony does not have the same kind of public UFO archive that readers might expect from the United States. MDR notes that individual reports of unknown flying objects do appear in Ministry for State Security files, especially in border and military contexts, but these were not part of an open UFO research programme. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mdr.de/geschichte/ddr/alltag/erziehung-bildung/ufo-sichtung-halle-stasi-thueringen-100.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mdr.de">[mdr.de]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mdr.de</span><span class="citation-popover-title">UF O-Sichtungen in der DDR &#124; mdr.de</span><span class="citation-popover-snippet">UF O-Sichtungen in der DDR &#124; mdr.de</span></span></span> The state interest was security: border violations, aircraft, balloons, possible escape attempts, and anything that might cross or threaten controlled airspace.
+That official culture helps explain why Saxony does not have the same kind of public UFO archive that readers might expect from the United States. MDR notes that individual reports of unknown flying objects do appear in Ministry for State Security files, especially in border and military contexts, but these were not part of an open UFO research programme.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mdr.de/geschichte/ddr/alltag/erziehung-bildung/ufo-sichtung-halle-stasi-thueringen-100.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mdr.de">[mdr.de]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mdr.de</span><span class="citation-popover-title">UF O-Sichtungen in der DDR &#124; mdr.de</span><span class="citation-popover-snippet">UF O-Sichtungen in der DDR &#124; mdr.de</span></span></span> The state interest was security: border violations, aircraft, balloons, possible escape attempts, and anything that might cross or threaten controlled airspace.
 
-This background is useful when reading Saxon cases from before 1990. A lack of open records does not prove there were no sightings; it also does not prove a cover-up. It more likely reflects the DDR’s political and administrative treatment of the topic. Reports that looked like airspace incidents could matter to authorities, while “flying saucer” stories were culturally discouraged or framed as Western nonsense.
-
-
-<img src="{{ "/assets/images/Saxony_caf030-Illustration-2-dark.svg" | relative_url }}" alt="What Really Happened in Saxony&#x27;s UFO... illustration 2" data-theme-src-dark="{{ "/assets/images/Saxony_caf030-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Saxony_caf030-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+This background is useful when reading Saxon cases from before 1990. A lack of open records does not prove there were no sightings; it also does not prove a cover-up. It more likely reflects the DDR’s political and administrative treatment of the topic. Reports that looked like airspace incidents could matter to authorities, while “flying saucer” stories were culturally discouraged or framed as Western nonsense.<img src="{{"/assets/images/Saxony_caf030-Illustration-2-dark.svg" | relative_url }}" alt="What Really Happened in Saxony&#x27;s UFO... illustration 2" data-theme-src-dark="{{"/assets/images/Saxony_caf030-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{"/assets/images/Saxony_caf030-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Military and aviation settings: why Saxony invites mistaken certainty
 
-Saxony has several aviation and military-history anchors that can feed UFO interpretation without requiring anything exotic. Großenhain, north of Dresden, is a good example. MDR describes the Großenhain airfield as a military restricted zone for nearly 90 years, used across the imperial, Nazi and DDR periods, with Soviet military infrastructure later becoming a subject of local historical interest. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mdr.de/geschichte/mitteldeutschland/orte/flugplatz-grossenhain-atomaffen-ddr-sowjetarmee-sperrzone-100.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mdr.de">[mdr.de]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mdr.de</span><span class="citation-popover-title">Atomare Waffen in Sachsen? Flugplatz Großenhain und</span><span class="citation-popover-snippet">Atomare Waffen in Sachsen? Flugplatz Großenhain und</span></span></span> Such places naturally attract rumours because they combine secrecy, aircraft, restricted access and Cold War memory.
+Saxony has several aviation and military-history anchors that can feed UFO interpretation without requiring anything exotic. Großenhain, north of Dresden, is a good example. MDR describes the Großenhain airfield as a military restricted zone for nearly 90 years, used across the imperial, Nazi and DDR periods, with Soviet military infrastructure later becoming a subject of local historical interest.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mdr.de/geschichte/mitteldeutschland/orte/flugplatz-grossenhain-atomaffen-ddr-sowjetarmee-sperrzone-100.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mdr.de">[mdr.de]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mdr.de</span><span class="citation-popover-title">Atomare Waffen in Sachsen? Flugplatz Großenhain und</span><span class="citation-popover-snippet">Atomare Waffen in Sachsen? Flugplatz Großenhain und</span></span></span> Such places naturally attract rumours because they combine secrecy, aircraft, restricted access and Cold War memory.
 
 That does not mean Großenhain is a UFO site in the evidential sense. It means it belongs to the landscape that shapes how people interpret lights and aircraft. A region with old Soviet bases, active airports, cargo flights, small airfields and military memories gives witnesses many reasons to ask whether something unusual might be experimental, secret, foreign or dangerous. Often, however, the strongest later explanations are mundane: aircraft lights, contrails, helicopters, balloons, drones, satellites or celestial objects.
 
-The modern UAP vocabulary also changes expectations. Würzburg University’s IFEX describes UAP as unusual observations, usually in the sky, whose cause is initially unclear, and notes that most such observations can be traced to known objects or natural phenomena such as birds, aircraft, satellites, drones, atmospheric effects or perception errors. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.uni-wuerzburg.de/ifex/forschung-projekte/uap-seti-forschung/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uni-wuerzburg.de">[University of Würzburg]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uni-wuerzburg.de</span><span class="citation-popover-title">University of Würzburg UAP &amp; SETI Forschung</span><span class="citation-popover-snippet">University of Würzburg UAP &amp; SETI Forschung</span></span></span> That is a useful standard for Saxony: take reports seriously as observations, but do not treat “unidentified at first” as evidence of extraordinary origin.
+The modern UAP vocabulary also changes expectations. Würzburg University’s IFEX describes UAP as unusual observations, usually in the sky, whose cause is initially unclear, and notes that most such observations can be traced to known objects or natural phenomena such as birds, aircraft, satellites, drones, atmospheric effects or perception errors.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.uni-wuerzburg.de/ifex/forschung-projekte/uap-seti-forschung/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uni-wuerzburg.de">[University of Würzburg]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uni-wuerzburg.de</span><span class="citation-popover-title">University of Würzburg UAP &amp; SETI Forschung</span><span class="citation-popover-snippet">University of Würzburg UAP &amp; SETI Forschung</span></span></span> That is a useful standard for Saxony: take reports seriously as observations, but do not treat “unidentified at first” as evidence of extraordinary origin.
 
 ## The main recurring explanations in Saxony
 
 Across the public Saxon record, several explanations appear again and again.
 
-**Satellites and Starlink.** Starlink “trains” are a major modern source of UFO reports because they can look like a row of lights moving together. In the Saxon GEP examples, the December 2023 Dippoldiswalde-Reichstädt report was identified as SpaceX Starlink satellites. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://zenodo.org/records/10547073/files/UFO-UAP-Falldaten_GEP_1972-2023.csv?download=1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: zenodo.org">[Zenodo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">zenodo.org</span><span class="citation-popover-title">UFO UAP Falldaten GEP 1972 2023.csv</span><span class="citation-popover-snippet">UFO UAP Falldaten GEP 1972 2023.csv</span></span></span> Wider German reporting also shows Starlink as a frequent source of recent UFO reports, with CENAP linking many sightings to satellite chains, bright planets and similar causes. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.hessenschau.de/panorama/wegen-starlink-und-drohnen-rekordzahl-an-ufo-sichtungen-in-deutschland-eingeschickt-v1%2Cufo-sichtungen-100.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hessenschau.de">[hessenschau.de]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hessenschau.de</span><span class="citation-popover-title">Rekordzahl an Ufo-Sichtungen in Deutschland eingeschickt</span><span class="citation-popover-snippet">Rekordzahl an Ufo-Sichtungen in Deutschland eingeschickt</span></span></span>
+**Satellites and Starlink.** Starlink “trains” are a major modern source of UFO reports because they can look like a row of lights moving together. In the Saxon GEP examples, the December 2023 Dippoldiswalde-Reichstädt report was identified as SpaceX Starlink satellites.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://zenodo.org/records/10547073/files/UFO-UAP-Falldaten_GEP_1972-2023.csv?download=1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: zenodo.org">[Zenodo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">zenodo.org</span><span class="citation-popover-title">UFO UAP Falldaten GEP 1972 2023.csv</span><span class="citation-popover-snippet">UFO UAP Falldaten GEP 1972 2023.csv</span></span></span> Wider German reporting also shows Starlink as a frequent source of recent UFO reports, with CENAP linking many sightings to satellite chains, bright planets and similar causes.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.hessenschau.de/panorama/wegen-starlink-und-drohnen-rekordzahl-an-ufo-sichtungen-in-deutschland-eingeschickt-v1%2Cufo-sichtungen-100.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hessenschau.de">[hessenschau.de]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hessenschau.de</span><span class="citation-popover-title">Rekordzahl an Ufo-Sichtungen in Deutschland eingeschickt</span><span class="citation-popover-snippet">Rekordzahl an Ufo-Sichtungen in Deutschland eingeschickt</span></span></span>
 
-**Balloons, sky lanterns and model hot-air balloons.** Leipzig and Dresden cases show this pattern clearly. Reddish balls over the Elbe were identified as model hot-air balloons; Leipzig reports include helium balloons and sky lanterns among the listed explanations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://zenodo.org/records/10547073/files/UFO-UAP-Falldaten_GEP_1972-2023.csv?download=1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: zenodo.org">[Zenodo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">zenodo.org</span><span class="citation-popover-title">UFO UAP Falldaten GEP 1972 2023.csv</span><span class="citation-popover-snippet">UFO UAP Falldaten GEP 1972 2023.csv</span></span></span> These objects can move silently, appear in groups, change brightness, and vanish as fuel burns out or distance increases.
+**Balloons, sky lanterns and model hot-air balloons.** Leipzig and Dresden cases show this pattern clearly. Reddish balls over the Elbe were identified as model hot-air balloons; Leipzig reports include helium balloons and sky lanterns among the listed explanations.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://zenodo.org/records/10547073/files/UFO-UAP-Falldaten_GEP_1972-2023.csv?download=1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: zenodo.org">[Zenodo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">zenodo.org</span><span class="citation-popover-title">UFO UAP Falldaten GEP 1972 2023.csv</span><span class="citation-popover-snippet">UFO UAP Falldaten GEP 1972 2023.csv</span></span></span> These objects can move silently, appear in groups, change brightness, and vanish as fuel burns out or distance increases.
 
-**Aircraft, contrails and cargo traffic.** The [Vogtland case]({{ 'vogtland-case/' | relative_url }}) is the strongest recent example of contrails mimicking a falling or burning object. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mdr.de/nachrichten/sachsen/chemnitz/vogtland/flugobjekt-unbekannt-absturz-suche-polizei-102.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mdr.de">[mdr.de]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mdr.de</span><span class="citation-popover-title">Ufo-Meldestelle liefert Lösung für Himmels-Rätsel im Vogtland &#124; mdr.de</span><span class="citation-popover-snippet">Ufo-Meldestelle liefert Lösung für Himmels-Rätsel im Vogtland &#124; mdr.de</span></span></span> Leipzig’s night-freight environment makes aircraft-related explanations especially important in that part of Saxony, because repeated night movements can produce lights and sounds that seem strange to witnesses who do not know the flight paths. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dhl.com/de-en/microsites/express/hubs/hub-leipzig/discover.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dhl.com">[DHL]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dhl.com</span><span class="citation-popover-title">In Action 24/7, 365 Days a Year</span><span class="citation-popover-snippet">In Action 24/7, 365 Days a Year</span></span></span>
+**Aircraft, contrails and cargo traffic.** The [Vogtland case]({{'vogtland-case/' | relative_url }}) is the strongest recent example of contrails mimicking a falling or burning object.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mdr.de/nachrichten/sachsen/chemnitz/vogtland/flugobjekt-unbekannt-absturz-suche-polizei-102.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mdr.de">[mdr.de]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mdr.de</span><span class="citation-popover-title">Ufo-Meldestelle liefert Lösung für Himmels-Rätsel im Vogtland &#124; mdr.de</span><span class="citation-popover-snippet">Ufo-Meldestelle liefert Lösung für Himmels-Rätsel im Vogtland &#124; mdr.de</span></span></span> Leipzig’s night-freight environment makes aircraft-related explanations especially important in that part of Saxony, because repeated night movements can produce lights and sounds that seem strange to witnesses who do not know the flight paths.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dhl.com/de-en/microsites/express/hubs/hub-leipzig/discover.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dhl.com">[DHL]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dhl.com</span><span class="citation-popover-title">In Action 24/7, 365 Days a Year</span><span class="citation-popover-snippet">In Action 24/7, 365 Days a Year</span></span></span>
 
-**Planets, stars and the Moon.** Several German UFO organisations repeatedly cite bright planets and stars as common sources of reports. IFEX lists known astronomical objects among the most common explanations for unusual observations, and GEP examples from Saxony and nearby states include Venus, Jupiter, Sirius and the Moon in resolved cases. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.uni-wuerzburg.de/ifex/forschung-projekte/uap-seti-forschung/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uni-wuerzburg.de">[University of Würzburg]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uni-wuerzburg.de</span><span class="citation-popover-title">University of Würzburg UAP &amp; SETI Forschung</span><span class="citation-popover-snippet">University of Würzburg UAP &amp; SETI Forschung</span></span></span>
-
-**Camera artefacts and small nearby objects.** Modern sightings often arise only after a photo or video is reviewed. GEP’s dataset includes cases where reflections, insects, birds, particles or lens effects are identified. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://zenodo.org/records/10547073/files/UFO-UAP-Falldaten_GEP_1972-2023.csv?download=1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: zenodo.org">[Zenodo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">zenodo.org</span><span class="citation-popover-title">UFO UAP Falldaten GEP 1972 2023.csv</span><span class="citation-popover-snippet">UFO UAP Falldaten GEP 1972 2023.csv</span></span></span> This is especially important for phone footage, where zoom, autofocus, compression and rolling shutter can make ordinary objects look structured or mechanical.
-
+**Planets, stars and the Moon.** Several German UFO organisations repeatedly cite bright planets and stars as common sources of reports. IFEX lists known astronomical objects among the most common explanations for unusual observations, and GEP examples from Saxony and nearby states include Venus, Jupiter, Sirius and the Moon in resolved cases.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.uni-wuerzburg.de/ifex/forschung-projekte/uap-seti-forschung/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uni-wuerzburg.de">[University of Würzburg]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uni-wuerzburg.de</span><span class="citation-popover-title">University of Würzburg UAP &amp; SETI Forschung</span><span class="citation-popover-snippet">University of Würzburg UAP &amp; SETI Forschung</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/vGB_43nau1M" title="► UFO Doku Classics - Besucher aus dem Weltall - Das UFO Phänomen - Teil 1 - DokuPeter" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=vGB_43nau1M" target="_blank" rel="noopener noreferrer">► UFO Doku Classics - Besucher aus dem Weltall - Das UFO Phänomen - Teil 1 - DokuPeter</a></p><p class="youtube-embed-meta">Channel: DokuPeter</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=vGB_43nau1M" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=vGB_43nau1M">Open on YouTube</a></p></div></div></div>
 
 ## Are there unresolved Saxony cases?
 
-Yes, but “[unresolved]({{ 'unresolved/' | relative_url }})” needs careful handling. Saxony has reports in public databases that are not identified, have insufficient data, or are marked without a conclusive explanation. The Leipzig 2014 triangle of bright points is listed as “no identification”; the Bad Schlema 2019 bright-point case is marked as insufficient data; and other Saxon entries in the GEP data have blank or incomplete public results. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://zenodo.org/records/10547073/files/UFO-UAP-Falldaten_GEP_1972-2023.csv?download=1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: zenodo.org">[Zenodo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">zenodo.org</span><span class="citation-popover-title">UFO UAP Falldaten GEP 1972 2023.csv</span><span class="citation-popover-snippet">UFO UAP Falldaten GEP 1972 2023.csv</span></span></span>
+Yes, but “[unresolved]({{'unresolved/' | relative_url }})” needs careful handling. Saxony has reports in public databases that are not identified, have insufficient data, or are marked without a conclusive explanation. The Leipzig 2014 triangle of bright points is listed as “no identification”; the Bad Schlema 2019 bright-point case is marked as insufficient data; and other Saxon entries in the GEP data have blank or incomplete public results.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://zenodo.org/records/10547073/files/UFO-UAP-Falldaten_GEP_1972-2023.csv?download=1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: zenodo.org">[Zenodo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">zenodo.org</span><span class="citation-popover-title">UFO UAP Falldaten GEP 1972 2023.csv</span><span class="citation-popover-snippet">UFO UAP Falldaten GEP 1972 2023.csv</span></span></span>
 
 Those cases are worth preserving, but they are not strong evidence of alien craft or secret technology. The reason is simple: most unresolved entries lack the kind of independent, measurable evidence that would let investigators rule out ordinary causes. A good unresolved case would need precise time, duration, direction, elevation, weather, camera originals, metadata, multiple independent witnesses, aircraft and satellite checks, and ideally radar or sensor correlation. Most local reports do not have that full package.
 
-The fairest conclusion is that Saxony contains unresolved reports, but the public evidence is generally thin. Later reporting has tended to weaken dramatic claims when enough data became available, as with the Vogtland contrail case. Where the data stays sparse, the right category is not “solved” or “extraordinary”, but “not enough information”.
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/zUF1ZzMj-Qg" title="Fakt oder Verschwörung: Was sind UFOs wirklich? | ZDFinfo Doku" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=zUF1ZzMj-Qg" target="_blank" rel="noopener noreferrer">Fakt oder Verschwörung: Was sind UFOs wirklich? | ZDFinfo Doku</a></p><p class="youtube-embed-meta">Channel: ZDFinfo Dokus &amp; Reportagen</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=zUF1ZzMj-Qg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=zUF1ZzMj-Qg">Open on YouTube</a></p></div></div></div>
+The fairest conclusion is that Saxony contains unresolved reports, but the public evidence is generally thin. Later reporting has tended to weaken dramatic claims when enough data became available, as with the Vogtland contrail case. Where the data stays sparse, the right category is not “solved” or “extraordinary”, but “not enough information”.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Q_M0lajcNs8" title="Sachsen - Flugplatz Großenhain" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Q_M0lajcNs8" target="_blank" rel="noopener noreferrer">Sachsen - Flugplatz Großenhain</a></p><p class="youtube-embed-meta">Channel: Lars Hoffmann</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Q_M0lajcNs8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Q_M0lajcNs8">Open on YouTube</a></p></div></div></div>
 
 ## How to read a Saxony UFO story without being misled
 
-A useful Saxony UFO page should not ask only, “Was it alien?” The better questions are more practical:
-
-
-<div class="content-enhancement content-enhancement--step-flow" markdown="1">
+A useful Saxony UFO page should not ask only, “Was it alien?” The better questions are more practical:<div class="content-enhancement content-enhancement--step-flow" markdown="1">
 
 1. **Was there a precise time and place?** Without them, aircraft, satellite and astronomical checks become weak.
 2. **Was the object seen directly, or only noticed later in a photograph?** Later photo discoveries are more vulnerable to insects, reflections and camera effects.
 3. **Did witnesses agree on shape, direction, speed and duration?** Multiple witnesses help only when their accounts are specific and consistent.
-4. **Were ordinary sources checked first?** Starlink, aircraft, Venus, Jupiter, drones, balloons, lanterns, meteors and sky-beamers should be tested before exotic claims.
-
-</div>
-
-<img src="{{ "/assets/images/Saxony_caf030-Illustration-3-dark.svg" | relative_url }}" alt="What Really Happened in Saxony&#x27;s UFO... illustration 3" data-theme-src-dark="{{ "/assets/images/Saxony_caf030-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Saxony_caf030-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+4. **Were ordinary sources checked first?** Starlink, aircraft, Venus, Jupiter, drones, balloons, lanterns, meteors and sky-beamers should be tested before exotic claims.</div><img src="{{"/assets/images/Saxony_caf030-Illustration-3-dark.svg" | relative_url }}" alt="What Really Happened in Saxony&#x27;s UFO... illustration 3" data-theme-src-dark="{{"/assets/images/Saxony_caf030-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{"/assets/images/Saxony_caf030-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 5. **Did later investigation strengthen or weaken the claim?** In Saxony’s best recent case, later investigation strongly weakened the UFO interpretation. [mdr.de](https://www.mdr.de/nachrichten/sachsen/chemnitz/vogtland/flugobjekt-unbekannt-absturz-suche-polizei-102.html)
 
 This approach keeps the subject open without making it credulous. It also respects witnesses. People can accurately report that they saw something strange while still being mistaken about distance, size, speed or cause. Saxony’s record is full of that tension: sincere reports, striking impressions, and ordinary explanations that only become obvious after comparison with external data.
@@ -469,213 +444,32 @@ This approach keeps the subject open without making it credulous. It also respec
 
 Saxony’s UFO history is a grounded, state-level story of scattered sightings rather than a dramatic catalogue of landmark mysteries. The most visible recent incident, the 2025 Vogtland report near Schöneck, became a textbook example of how a suspected crash can be explained by aircraft contrails, sunlight and perspective after police and UFO investigators review the evidence. [mdr.de](https://www.mdr.de/nachrichten/sachsen/chemnitz/vogtland/flugobjekt-unbekannt-absturz-suche-polizei-102.html) The longer database record from Dresden, Leipzig, the Erzgebirge and smaller towns shows the same broad pattern: many reports are identified as satellites, balloons, aircraft, planets, lighting effects or camera artefacts; a smaller number remain unresolved mainly because the evidence is incomplete. [Zenodo+2Zenodo](https://zenodo.org/records/10547073/files/UFO-UAP-Falldaten_GEP_1972-2023.csv?download=1)
 
-The result is not a disappointing UFO history. It is a useful one. Saxony shows how local geography, Cold War memory, active aviation, night freight, modern satellites and phone cameras all shape what people think they see in the sky. The strongest lesson is not that every case is solved, but that the label “UFO” is only the start of an investigation, not its conclusion.
-
-<section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What Really Happened in Saxony&#x27;s UFO Stories?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
-        
-        <p class="fr-book-desc">Ideal framework for evaluating Saxony cases.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Wonders+in+the+Sky+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Wonders in the Sky on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XINLC2ubHqwC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Wonders in the Sky" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Wonders+in+the+Sky+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Wonders in the Sky">Wonders in the Sky</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee, Chris Aubeck</p>
-        
-        <p class="fr-book-desc">Adds historical comparison for German reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Wonders+in+the+Sky+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
-        
-        <p class="fr-book-desc">Provides context for credible and disputed reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
-        
-        <p class="fr-book-desc">Supports evidence-based interpretation of sightings.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Wonders+in+the+Sky&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Wonders in the Sky</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
-</section>
-
-<section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
-
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
-
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+tin+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-saxonys-ufo-what-really-happened-in-saxony-s-ufo-stories-saxony-ufo-tin-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO tin sign" data-ebay-reference="what-really-happened-in-saxonys-ufo-what-really-happened-in-saxony-s-ufo-stories-saxony-ufo-tin-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Flying Saucers Tin Sign 30cm X 20cm Retro Style"><img src="{{ '/assets/images/marketplace-covers/9eb183499e616d1d237a.jpg' | relative_url }}" alt="Listing image for UFO Flying Saucers Tin Sign 30cm X 20cm Retro Style" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+tin+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-saxonys-ufo-what-really-happened-in-saxony-s-ufo-stories-saxony-ufo-tin-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO tin sign" data-ebay-reference="what-really-happened-in-saxonys-ufo-what-really-happened-in-saxony-s-ufo-stories-saxony-ufo-tin-sign" target="_blank" rel="sponsored noopener noreferrer">UFO Flying Saucers Tin Sign 30cm X 20cm Retro Style</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+tin+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-saxonys-ufo-what-really-happened-in-saxony-s-ufo-stories-saxony-ufo-tin-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO tin sign" data-ebay-reference="what-really-happened-in-saxonys-ufo-what-really-happened-in-saxony-s-ufo-stories-saxony-ufo-tin-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO tin sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO tin sign</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+tin+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-saxonys-ufo-what-really-happened-in-saxony-s-ufo-stories-saxony-ufo-tin-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO tin sign" data-ebay-reference="what-really-happened-in-saxonys-ufo-what-really-happened-in-saxony-s-ufo-stories-saxony-ufo-tin-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+tin+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-saxonys-ufo-what-really-happened-in-saxony-s-ufo-stories-saxony-ufo-tin-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO tin sign" data-ebay-reference="what-really-happened-in-saxonys-ufo-what-really-happened-in-saxony-s-ufo-stories-saxony-ufo-tin-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Flying Saucers Tin Sign 20cm X 30cm Retro Style"><img src="{{ '/assets/images/marketplace-covers/0766f5870481e1cb1479.jpg' | relative_url }}" alt="Listing image for UFO Flying Saucers Tin Sign 20cm X 30cm Retro Style" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+tin+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-saxonys-ufo-what-really-happened-in-saxony-s-ufo-stories-saxony-ufo-tin-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO tin sign" data-ebay-reference="what-really-happened-in-saxonys-ufo-what-really-happened-in-saxony-s-ufo-stories-saxony-ufo-tin-sign" target="_blank" rel="sponsored noopener noreferrer">UFO Flying Saucers Tin Sign 20cm X 30cm Retro Style</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+tin+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-saxonys-ufo-what-really-happened-in-saxony-s-ufo-stories-saxony-ufo-tin-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO tin sign" data-ebay-reference="what-really-happened-in-saxonys-ufo-what-really-happened-in-saxony-s-ufo-stories-saxony-ufo-tin-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO tin sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO tin sign</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+tin+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-saxonys-ufo-what-really-happened-in-saxony-s-ufo-stories-saxony-ufo-tin-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO tin sign" data-ebay-reference="what-really-happened-in-saxonys-ufo-what-really-happened-in-saxony-s-ufo-stories-saxony-ufo-tin-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+tin+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-saxonys-ufo-what-really-happened-in-saxony-s-ufo-stories-saxony-ufo-tin-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO tin sign" data-ebay-reference="what-really-happened-in-saxonys-ufo-what-really-happened-in-saxony-s-ufo-stories-saxony-ufo-tin-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Danger Radiation – Alien/UFO Area 51 Warning Tin Metal Sign – Garage Man Cave Ar"><img src="{{ '/assets/images/marketplace-covers/5d94b10d5d0f4c4b9720.jpg' | relative_url }}" alt="Listing image for Danger Radiation – Alien/UFO Area 51 Warning Tin Metal Sign – Garage Man Cave Ar" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+tin+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-saxonys-ufo-what-really-happened-in-saxony-s-ufo-stories-saxony-ufo-tin-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO tin sign" data-ebay-reference="what-really-happened-in-saxonys-ufo-what-really-happened-in-saxony-s-ufo-stories-saxony-ufo-tin-sign" target="_blank" rel="sponsored noopener noreferrer">Danger Radiation – Alien/UFO Area 51 Warning Tin Metal Sign – Garage Man Cave Ar</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+tin+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-saxonys-ufo-what-really-happened-in-saxony-s-ufo-stories-saxony-ufo-tin-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO tin sign" data-ebay-reference="what-really-happened-in-saxonys-ufo-what-really-happened-in-saxony-s-ufo-stories-saxony-ufo-tin-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO tin sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO tin sign</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+tin+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-saxonys-ufo-what-really-happened-in-saxony-s-ufo-stories-saxony-ufo-tin-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO tin sign" data-ebay-reference="what-really-happened-in-saxonys-ufo-what-really-happened-in-saxony-s-ufo-stories-saxony-ufo-tin-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+tin+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-saxonys-ufo-what-really-happened-in-saxony-s-ufo-stories-saxony-ufo-tin-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO tin sign" data-ebay-reference="what-really-happened-in-saxonys-ufo-what-really-happened-in-saxony-s-ufo-stories-saxony-ufo-tin-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage Area 51 Alien Metal Sign Retro UFO Tin Wall Art Home Bar Cafe Decor"><img src="{{ '/assets/images/marketplace-covers/6db7b2cc3951e1518785.jpg' | relative_url }}" alt="Listing image for Vintage Area 51 Alien Metal Sign Retro UFO Tin Wall Art Home Bar Cafe Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+tin+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-saxonys-ufo-what-really-happened-in-saxony-s-ufo-stories-saxony-ufo-tin-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO tin sign" data-ebay-reference="what-really-happened-in-saxonys-ufo-what-really-happened-in-saxony-s-ufo-stories-saxony-ufo-tin-sign" target="_blank" rel="sponsored noopener noreferrer">Vintage Area 51 Alien Metal Sign Retro UFO Tin Wall Art Home Bar Cafe Decor</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+tin+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-saxonys-ufo-what-really-happened-in-saxony-s-ufo-stories-saxony-ufo-tin-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO tin sign" data-ebay-reference="what-really-happened-in-saxonys-ufo-what-really-happened-in-saxony-s-ufo-stories-saxony-ufo-tin-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO tin sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO tin sign</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+tin+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-saxonys-ufo-what-really-happened-in-saxony-s-ufo-stories-saxony-ufo-tin-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO tin sign" data-ebay-reference="what-really-happened-in-saxonys-ufo-what-really-happened-in-saxony-s-ufo-stories-saxony-ufo-tin-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+tin+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-saxonys-ufo-what-really-happened-in-saxony-s-ufo-stories-saxony-ufo-tin-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO tin sign" data-ebay-reference="what-really-happened-in-saxonys-ufo-what-really-happened-in-saxony-s-ufo-stories-saxony-ufo-tin-sign" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+The result is not a disappointing UFO history. It is a useful one. Saxony shows how local geography, Cold War memory, active aviation, night freight, modern satellites and phone cameras all shape what people think they see in the sky. The strongest lesson is not that every case is solved, but that the label “UFO” is only the start of an investigation, not its conclusion.<section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title"><div class="fr-section-shell"><div class="fr-section-header"><div class="fr-section-heading"><p class="fr-section-kicker">Amazon book picks</p><h3 class="fr-heading" id="further-reading-title">Further Reading</h3></div><p class="fr-intro">Books and field guides related to What Really Happened in Saxony&#x27;s UFO Stories?. Use these as the next step if you want deeper reading beyond the article.</p></div><div class="fr-books-grid"><article class="fr-book-card"><a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a><div class="fr-book-info"><h4 class="fr-book-title"><a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a></h4><p class="fr-book-author">By Joseph Allen Hynek</p><p class="fr-book-desc">Ideal framework for evaluating Saxony cases.</p><div class="fr-book-actions"><a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon</a></div></div></article><article class="fr-book-card"><a class="fr-book-cover" href="https://www.amazon.com/s?k=Wonders+in+the+Sky+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Wonders in the Sky on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XINLC2ubHqwC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Wonders in the Sky" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a><div class="fr-book-info"><h4 class="fr-book-title"><a href="https://www.amazon.com/s?k=Wonders+in+the+Sky+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Wonders in the Sky">Wonders in the Sky</a></h4><p class="fr-book-author">By Jacques Vallee, Chris Aubeck</p><p class="fr-book-desc">Adds historical comparison for German reports.</p><div class="fr-book-actions"><a href="https://www.amazon.com/s?k=Wonders+in+the+Sky+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon</a></div></div></article><article class="fr-book-card"><a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a><div class="fr-book-info"><h4 class="fr-book-title"><a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a></h4><p class="fr-book-author">By Leslie Kean</p><p class="fr-book-desc">Provides context for credible and disputed reports.</p><div class="fr-book-actions"><a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon</a></div></div></article><article class="fr-book-card"><a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a><div class="fr-book-info"><h4 class="fr-book-title"><a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a></h4><p class="fr-book-author">By Carl Sagan</p><p class="fr-book-desc">Supports evidence-based interpretation of sightings.</p><div class="fr-book-actions"><a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon</a></div></div></article></div><div class="fr-section-footer"><div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Wonders+in+the+Sky&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Wonders in the Sky</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div><p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p></div></div></section><section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title"><div class="fr-section-shell"><div class="fr-section-header"><div class="fr-section-heading"><p class="fr-section-kicker">eBay marketplace picks</p><h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3></div><p class="fr-intro">Live-tested eBay searches with available results related to this page.</p><div class="fr-ebay-market-toolbar"><label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label><div class="fr-ebay-market-picker"><span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span><button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span><span data-ebay-trigger-market-label>USA</span></button><select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location"><option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option></select><div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button></div></div></div></div><div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1"><div class="fr-books-grid"><article class="fr-book-card"><a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+tin+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-saxonys-ufo-what-really-happened-in-saxony-s-ufo-stories-saxony-ufo-tin-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO tin sign" data-ebay-reference="what-really-happened-in-saxonys-ufo-what-really-happened-in-saxony-s-ufo-stories-saxony-ufo-tin-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage Area 51 Alien Metal Sign Retro UFO Tin Wall Art Home Bar Cafe Decor"><img src="{{'/assets/images/marketplace-covers/6db7b2cc3951e1518785.jpg' | relative_url }}" alt="Listing image for Vintage Area 51 Alien Metal Sign Retro UFO Tin Wall Art Home Bar Cafe Decor" loading="lazy" decoding="async" fetchpriority="low"></a><div class="fr-book-info"><p class="fr-book-kicker">Example eBay listing</p><h4 class="fr-book-title"><a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+tin+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-saxonys-ufo-what-really-happened-in-saxony-s-ufo-stories-saxony-ufo-tin-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO tin sign" data-ebay-reference="what-really-happened-in-saxonys-ufo-what-really-happened-in-saxony-s-ufo-stories-saxony-ufo-tin-sign" target="_blank" rel="sponsored noopener noreferrer">Vintage Area 51 Alien Metal Sign Retro UFO Tin Wall Art Home Bar Cafe Decor</a></h4><a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+tin+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-saxonys-ufo-what-really-happened-in-saxony-s-ufo-stories-saxony-ufo-tin-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO tin sign" data-ebay-reference="what-really-happened-in-saxonys-ufo-what-really-happened-in-saxony-s-ufo-stories-saxony-ufo-tin-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO tin sign">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO tin sign</a><div class="fr-book-actions"><a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+tin+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-saxonys-ufo-what-really-happened-in-saxony-s-ufo-stories-saxony-ufo-tin-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO tin sign" data-ebay-reference="what-really-happened-in-saxonys-ufo-what-really-happened-in-saxony-s-ufo-stories-saxony-ufo-tin-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span></a></div></div></article><article class="fr-book-card"><a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+tin+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-saxonys-ufo-what-really-happened-in-saxony-s-ufo-stories-saxony-ufo-tin-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO tin sign" data-ebay-reference="what-really-happened-in-saxonys-ufo-what-really-happened-in-saxony-s-ufo-stories-saxony-ufo-tin-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Flying Saucers Tin Sign 30cm X 20cm Retro Style"><img src="{{'/assets/images/marketplace-covers/9eb183499e616d1d237a.jpg' | relative_url }}" alt="Listing image for UFO Flying Saucers Tin Sign 30cm X 20cm Retro Style" loading="lazy" decoding="async" fetchpriority="low"></a><div class="fr-book-info"><p class="fr-book-kicker">Example eBay listing</p><h4 class="fr-book-title"><a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+tin+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-saxonys-ufo-what-really-happened-in-saxony-s-ufo-stories-saxony-ufo-tin-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO tin sign" data-ebay-reference="what-really-happened-in-saxonys-ufo-what-really-happened-in-saxony-s-ufo-stories-saxony-ufo-tin-sign" target="_blank" rel="sponsored noopener noreferrer">UFO Flying Saucers Tin Sign 30cm X 20cm Retro Style</a></h4><a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+tin+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-saxonys-ufo-what-really-happened-in-saxony-s-ufo-stories-saxony-ufo-tin-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO tin sign" data-ebay-reference="what-really-happened-in-saxonys-ufo-what-really-happened-in-saxony-s-ufo-stories-saxony-ufo-tin-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO tin sign">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO tin sign</a><div class="fr-book-actions"><a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+tin+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-saxonys-ufo-what-really-happened-in-saxony-s-ufo-stories-saxony-ufo-tin-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO tin sign" data-ebay-reference="what-really-happened-in-saxonys-ufo-what-really-happened-in-saxony-s-ufo-stories-saxony-ufo-tin-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span></a></div></div></article><article class="fr-book-card"><a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+tin+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-saxonys-ufo-what-really-happened-in-saxony-s-ufo-stories-saxony-ufo-tin-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO tin sign" data-ebay-reference="what-really-happened-in-saxonys-ufo-what-really-happened-in-saxony-s-ufo-stories-saxony-ufo-tin-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Aliens Area Explore The Galaxy Tin Sign 20cm X 30cm Retro Style"><img src="{{'/assets/images/marketplace-covers/b6b9bdd489ae3c0b815e.jpg' | relative_url }}" alt="Listing image for Aliens Area Explore The Galaxy Tin Sign 20cm X 30cm Retro Style" loading="lazy" decoding="async" fetchpriority="low"></a><div class="fr-book-info"><p class="fr-book-kicker">Example eBay listing</p><h4 class="fr-book-title"><a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+tin+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-saxonys-ufo-what-really-happened-in-saxony-s-ufo-stories-saxony-ufo-tin-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO tin sign" data-ebay-reference="what-really-happened-in-saxonys-ufo-what-really-happened-in-saxony-s-ufo-stories-saxony-ufo-tin-sign" target="_blank" rel="sponsored noopener noreferrer">Aliens Area Explore The Galaxy Tin Sign 20cm X 30cm Retro Style</a></h4><a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+tin+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-saxonys-ufo-what-really-happened-in-saxony-s-ufo-stories-saxony-ufo-tin-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO tin sign" data-ebay-reference="what-really-happened-in-saxonys-ufo-what-really-happened-in-saxony-s-ufo-stories-saxony-ufo-tin-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO tin sign">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO tin sign</a><div class="fr-book-actions"><a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+tin+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-saxonys-ufo-what-really-happened-in-saxony-s-ufo-stories-saxony-ufo-tin-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO tin sign" data-ebay-reference="what-really-happened-in-saxonys-ufo-what-really-happened-in-saxony-s-ufo-stories-saxony-ufo-tin-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span></a></div></div></article><article class="fr-book-card"><a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+tin+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-saxonys-ufo-what-really-happened-in-saxony-s-ufo-stories-saxony-ufo-tin-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO tin sign" data-ebay-reference="what-really-happened-in-saxonys-ufo-what-really-happened-in-saxony-s-ufo-stories-saxony-ufo-tin-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Flying Saucers Tin Sign 20cm X 30cm Retro Style"><img src="{{'/assets/images/marketplace-covers/0766f5870481e1cb1479.jpg' | relative_url }}" alt="Listing image for UFO Flying Saucers Tin Sign 20cm X 30cm Retro Style" loading="lazy" decoding="async" fetchpriority="low"></a><div class="fr-book-info"><p class="fr-book-kicker">Example eBay listing</p><h4 class="fr-book-title"><a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+tin+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-saxonys-ufo-what-really-happened-in-saxony-s-ufo-stories-saxony-ufo-tin-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO tin sign" data-ebay-reference="what-really-happened-in-saxonys-ufo-what-really-happened-in-saxony-s-ufo-stories-saxony-ufo-tin-sign" target="_blank" rel="sponsored noopener noreferrer">UFO Flying Saucers Tin Sign 20cm X 30cm Retro Style</a></h4><a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+tin+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-saxonys-ufo-what-really-happened-in-saxony-s-ufo-stories-saxony-ufo-tin-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO tin sign" data-ebay-reference="what-really-happened-in-saxonys-ufo-what-really-happened-in-saxony-s-ufo-stories-saxony-ufo-tin-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO tin sign">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO tin sign</a><div class="fr-book-actions"><a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+tin+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-saxonys-ufo-what-really-happened-in-saxony-s-ufo-stories-saxony-ufo-tin-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO tin sign" data-ebay-reference="what-really-happened-in-saxonys-ufo-what-really-happened-in-saxony-s-ufo-stories-saxony-ufo-tin-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span></a></div></div></article></div><div class="fr-section-footer"><a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+tin+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-saxonys-ufo-what-really-happened-in-saxony-s-ufo-stories-saxony-ufo-tin-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO tin sign" data-ebay-reference="what-really-happened-in-saxonys-ufo-what-really-happened-in-saxony-s-ufo-stories-saxony-ufo-tin-sign" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span></a><p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p></div></div></div><script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
-  var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
-  var timezoneRules = [{"market": "EBAY_IE", "pattern": "^Europe/Dublin$"}, {"market": "EBAY_GB", "pattern": "^Europe/(London|Belfast)$"}, {"market": "EBAY_CA", "pattern": "^America/(Toronto|Vancouver|Edmonton|Winnipeg|Halifax|St_Johns|Regina|Saskatoon|Whitehorse|Dawson|Moncton|Glace_Bay|Goose_Bay|Iqaluit|Yellowknife|Inuvik|Rankin_Inlet|Resolute|Cambridge_Bay|Fort_Nelson|Creston|Dawson_Creek)$"}, {"market": "EBAY_US", "pattern": "^America/"}, {"market": "EBAY_DE", "pattern": "^Europe/Berlin$"}, {"market": "EBAY_FR", "pattern": "^Europe/Paris$"}, {"market": "EBAY_IT", "pattern": "^Europe/Rome$"}, {"market": "EBAY_ES", "pattern": "^Europe/Madrid$"}, {"market": "EBAY_AU", "pattern": "^Australia/"}, {"market": "EBAY_AU", "pattern": "^Pacific/(Auckland|Chatham)$"}];
+  var localeMarketMap = {"de":"EBAY_DE","de-at":"EBAY_AT","de-ch":"EBAY_CH","de-de":"EBAY_DE","en":"EBAY_US","en-au":"EBAY_AU","en-ca":"EBAY_CA","en-gb":"EBAY_GB","en-ie":"EBAY_IE","en-nz":"EBAY_AU","en-uk":"EBAY_GB","en-us":"EBAY_US","es":"EBAY_ES","es-es":"EBAY_ES","fr":"EBAY_FR","fr-be":"EBAY_BE","fr-ca":"EBAY_CA","fr-fr":"EBAY_FR","it":"EBAY_IT","it-it":"EBAY_IT","nl":"EBAY_NL","nl-be":"EBAY_BE","nl-nl":"EBAY_NL"};
+  var timezoneRules = [{"market":"EBAY_IE","pattern":"^Europe/Dublin$"}, {"market":"EBAY_GB","pattern":"^Europe/(London|Belfast)$"}, {"market":"EBAY_CA","pattern":"^America/(Toronto|Vancouver|Edmonton|Winnipeg|Halifax|St_Johns|Regina|Saskatoon|Whitehorse|Dawson|Moncton|Glace_Bay|Goose_Bay|Iqaluit|Yellowknife|Inuvik|Rankin_Inlet|Resolute|Cambridge_Bay|Fort_Nelson|Creston|Dawson_Creek)$"}, {"market":"EBAY_US","pattern":"^America/"}, {"market":"EBAY_DE","pattern":"^Europe/Berlin$"}, {"market":"EBAY_FR","pattern":"^Europe/Paris$"}, {"market":"EBAY_IT","pattern":"^Europe/Rome$"}, {"market":"EBAY_ES","pattern":"^Europe/Madrid$"}, {"market":"EBAY_AU","pattern":"^Australia/"}, {"market":"EBAY_AU","pattern":"^Pacific/(Auckland|Chatham)$"}];
   function normalize(value) {
-    return String(value || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
+    return String(value ||'').toLowerCase().replace(/_/g,'-').replace(/[^a-z0-9-]+/g,'');
   }
   function localeMatches() {
     var languages = [];
-    var exactMarket = '';
-    var languageMarket = '';
+    var exactMarket ='';
+    var languageMarket ='';
     try {
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -689,24 +483,24 @@ The result is not a disappointing UFO history. It is a useful one. Saxony shows 
   }
   function inferFromLocale() {
     var matches = localeMatches();
-    return matches.exact || matches.language || '';
+    return matches.exact || matches.language ||'';
   }
   function inferFromTimezone() {
-    var tz = '';
-    try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
-    if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    var tz ='';
+    try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone ||''); } catch (err) {}
+    if (!tz) return'';
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
       } catch (err) {}
     }
-    return '';
+    return'';
   }
   function inferMarket(available, options) {
     available = Array.isArray(available) ? available : [];
     options = options || {};
-    var storageKey = options.storageKey || 'phoenix-affiliate-market';
+    var storageKey = options.storageKey ||'phoenix-affiliate-market';
     try {
       var saved = window.localStorage && localStorage.getItem(storageKey);
       if (saved && available.indexOf(saved) >= 0) return saved;
@@ -717,7 +511,7 @@ The result is not a disappointing UFO history. It is a useful one. Saxony shows 
     if (localeMarkets.exact && available.indexOf(localeMarkets.exact) >= 0) return localeMarkets.exact;
     if (localeMarkets.language && available.indexOf(localeMarkets.language) >= 0) return localeMarkets.language;
     if (options.defaultMarket && available.indexOf(options.defaultMarket) >= 0) return options.defaultMarket;
-    return available[0] || '';
+    return available[0] ||'';
   }
   window.PhoenixAffiliateLocation = {
     normalize: normalize,
@@ -725,45 +519,43 @@ The result is not a disappointing UFO history. It is a useful one. Saxony shows 
     inferFromLocale: inferFromLocale,
     inferFromTimezone: inferFromTimezone
   };
-})();
-</script>
-  <script type="text/javascript">
+})();</script><script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
-  var markets = {"EBAY_AU": {"campaign_id": "5339151051", "domain_label": "eBay.com.au", "label": "Australia", "mkrid": "705-53470-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com.au/sch/i.html?_nkw={query}"}, "EBAY_CA": {"campaign_id": "5339151051", "domain_label": "eBay.ca", "label": "Canada", "mkrid": "706-53473-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ca/sch/i.html?_nkw={query}"}, "EBAY_GB": {"campaign_id": "5339151051", "domain_label": "eBay.co.uk", "label": "UK", "mkrid": "710-53481-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.co.uk/sch/i.html?_nkw={query}"}, "EBAY_IE": {"campaign_id": "5339151051", "domain_label": "eBay.ie", "label": "Ireland", "mkrid": "5282-53468-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ie/sch/i.html?_nkw={query}"}, "EBAY_US": {"campaign_id": "5339151051", "domain_label": "eBay.com", "label": "USA", "mkrid": "711-53200-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com/sch/i.html?_nkw={query}"}};
-  var defaultMarket = "EBAY_GB";
+  var markets = {"EBAY_AU": {"campaign_id":"5339151051","domain_label":"eBay.com.au","label":"Australia","mkrid":"705-53470-19255-0","tool_id":"10001","url_template":"https://www.ebay.com.au/sch/i.html?_nkw={query}"},"EBAY_CA": {"campaign_id":"5339151051","domain_label":"eBay.ca","label":"Canada","mkrid":"706-53473-19255-0","tool_id":"10001","url_template":"https://www.ebay.ca/sch/i.html?_nkw={query}"},"EBAY_GB": {"campaign_id":"5339151051","domain_label":"eBay.co.uk","label":"UK","mkrid":"710-53481-19255-0","tool_id":"10001","url_template":"https://www.ebay.co.uk/sch/i.html?_nkw={query}"},"EBAY_IE": {"campaign_id":"5339151051","domain_label":"eBay.ie","label":"Ireland","mkrid":"5282-53468-19255-0","tool_id":"10001","url_template":"https://www.ebay.ie/sch/i.html?_nkw={query}"},"EBAY_US": {"campaign_id":"5339151051","domain_label":"eBay.com","label":"USA","mkrid":"711-53200-19255-0","tool_id":"10001","url_template":"https://www.ebay.com/sch/i.html?_nkw={query}"}};
+  var defaultMarket ="EBAY_GB";
   function encodeQuery(value) {
-    return encodeURIComponent(String(value || '').replace(/\s+/g, ' ').trim()).replace(/%20/g, '+');
+    return encodeURIComponent(String(value ||'').replace(/\s+/g,'').trim()).replace(/%20/g,'+');
   }
   function buildUrl(query, reference, marketId) {
     var cfg = markets[marketId] || markets[defaultMarket];
-    if (!cfg) return '#';
-    var template = String(cfg.url_template || 'https://www.ebay.com/sch/i.html?_nkw={query}');
-    var url = template.replace('{query}', encodeQuery(query || '')).replace('{query_plain}', String(query || ''));
-    var joiner = url.indexOf('?') >= 0 ? '&' : '?';
+    if (!cfg) return'#';
+    var template = String(cfg.url_template ||'https://www.ebay.com/sch/i.html?_nkw={query}');
+    var url = template.replace('{query}', encodeQuery(query ||'')).replace('{query_plain}', String(query ||''));
+    var joiner = url.indexOf('?') >= 0 ?'&' :'?';
     var params = [];
     if (cfg.mkrid) params.push('mkrid=' + encodeURIComponent(cfg.mkrid));
     if (cfg.campaign_id) params.push('campid=' + encodeURIComponent(cfg.campaign_id));
     params.push('mkevt=1');
     params.push('mkcid=1');
-    params.push('toolid=' + encodeURIComponent(cfg.tool_id || '10001'));
+    params.push('toolid=' + encodeURIComponent(cfg.tool_id ||'10001'));
     if (reference) params.push('customid=' + encodeURIComponent(reference).slice(0, 256));
     return url + joiner + params.join('&');
   }
   function domainLabel(marketId) {
     var cfg = markets[marketId] || markets[defaultMarket] || {};
-    return cfg.domain_label || 'eBay';
+    return cfg.domain_label ||'eBay';
   }
   function flagClass(marketId) {
-    return 'fr-ebay-market-flag fr-ebay-market-flag--' + String(marketId || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
+    return'fr-ebay-market-flag fr-ebay-market-flag--' + String(marketId ||'').toLowerCase().replace(/_/g,'-').replace(/[^a-z0-9-]+/g,'');
   }
   function closeMenu(section) {
     var menu = section.querySelector('[data-ebay-market-menu]');
     var trigger = section.querySelector('[data-ebay-market-trigger]');
     var picker = section.querySelector('.fr-ebay-market-picker');
     if (menu) menu.hidden = true;
-    if (trigger) trigger.setAttribute('aria-expanded', 'false');
+    if (trigger) trigger.setAttribute('aria-expanded','false');
     if (picker) picker.classList.remove('fr-ebay-market-picker--open');
   }
   function availableMarkets(section) {
@@ -779,10 +571,10 @@ The result is not a disappointing UFO history. It is a useful one. Saxony shows 
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
-      var query = link.getAttribute('data-ebay-query') || '';
-      var reference = link.getAttribute('data-ebay-reference') || '';
+      var query = link.getAttribute('data-ebay-query') ||'';
+      var reference = link.getAttribute('data-ebay-reference') ||'';
       link.setAttribute('href', buildUrl(query, reference, marketId));
     });
     var select = section.querySelector('[data-ebay-market-select]');
@@ -802,11 +594,11 @@ The result is not a disappointing UFO history. It is a useful one. Saxony shows 
       label.textContent = domainLabel(marketId);
     });
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
-      button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
+      button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ?'true' :'false');
     });
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
       var active = button.getAttribute('data-ebay-market-button') === marketId;
-      button.setAttribute('aria-pressed', active ? 'true' : 'false');
+      button.setAttribute('aria-pressed', active ?'true' :'false');
     });
     section.setAttribute('data-ebay-selected-market', marketId);
     if (persist) {
@@ -815,16 +607,16 @@ The result is not a disappointing UFO history. It is a useful one. Saxony shows 
     closeMenu(section);
   }
   sections.forEach(function (section) {
-    if (section.getAttribute('data-ebay-localized-init') === '1') return;
-    section.setAttribute('data-ebay-localized-init', '1');
+    if (section.getAttribute('data-ebay-localized-init') ==='1') return;
+    section.setAttribute('data-ebay-localized-init','1');
     var available = availableMarkets(section);
     var marketId = defaultMarket;
     if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
       marketId = window.PhoenixAffiliateLocation.inferMarket(available, {
-        storageKey: 'phoenix-ebay-market',
+        storageKey:'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -838,9 +630,9 @@ The result is not a disappointing UFO history. It is a useful one. Saxony shows 
     if (trigger && menu) {
       trigger.addEventListener('click', function (event) {
         event.stopPropagation();
-        var expanded = trigger.getAttribute('aria-expanded') === 'true';
+        var expanded = trigger.getAttribute('aria-expanded') ==='true';
         menu.hidden = expanded;
-        trigger.setAttribute('aria-expanded', expanded ? 'false' : 'true');
+        trigger.setAttribute('aria-expanded', expanded ?'false' :'true');
         var picker = trigger.closest('.fr-ebay-market-picker');
         if (picker) picker.classList.toggle('fr-ebay-market-picker--open', !expanded);
       });
@@ -859,166 +651,159 @@ The result is not a disappointing UFO history. It is a useful one. Saxony shows 
     });
     applyMarket(section, marketId, false);
   });
-})();
-</script>
-</section>
+})();</script></section>
 
 ## Endnotes
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: zenodo.org  
-   Link: <a href="https://zenodo.org/records/10547073" target="_blank" rel="noopener noreferrer nofollow">https://zenodo.org/records/10547073</a>  
+   Link:<a href="https://zenodo.org/records/10547073" target="_blank" rel="noopener noreferrer nofollow">https://zenodo.org/records/10547073</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: ufo-forschung.de  
    Title: UFO Forschung Downloads – Gesellschaft zur Erforschung des UFO-Phänomens e.V  
-   Link: <a href="https://www.ufo-forschung.de/downloads" target="_blank" rel="noopener noreferrer nofollow">https://www.ufo-forschung.de/downloads</a>  
+   Link:<a href="https://www.ufo-forschung.de/downloads" target="_blank" rel="noopener noreferrer nofollow">https://www.ufo-forschung.de/downloads</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: zenodo.org  
    Title: UFO UAP Falldaten GEP 1972 2023.csv  
-   Link: <a href="https://zenodo.org/records/10547073/files/UFO-UAP-Falldaten_GEP_1972-2023.csv?download=1" target="_blank" rel="noopener noreferrer nofollow">https://zenodo.org/records/10547073/files/UFO-UAP-Falldaten_GEP_1972-2023.csv?download=1</a>  
+   Link:<a href="https://zenodo.org/records/10547073/files/UFO-UAP-Falldaten_GEP_1972-2023.csv?download=1" target="_blank" rel="noopener noreferrer nofollow">https://zenodo.org/records/10547073/files/UFO-UAP-Falldaten_GEP_1972-2023.csv?download=1</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: dhl.com  
    Title: In Action 24/7, 365 Days a Year  
-   Link: <a href="https://www.dhl.com/de-en/microsites/express/hubs/hub-leipzig/discover.html" target="_blank" rel="noopener noreferrer nofollow">https://www.dhl.com/de-en/microsites/express/hubs/hub-leipzig/discover.html</a>  
+   Link:<a href="https://www.dhl.com/de-en/microsites/express/hubs/hub-leipzig/discover.html" target="_blank" rel="noopener noreferrer nofollow">https://www.dhl.com/de-en/microsites/express/hubs/hub-leipzig/discover.html</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: dhl.com  
-   Link: <a href="https://www.dhl.com/de-en/microsites/express/hubs/hub-leipzig/discover/aviation.html" target="_blank" rel="noopener noreferrer nofollow">https://www.dhl.com/de-en/microsites/express/hubs/hub-leipzig/discover/aviation.html</a>  
+   Link:<a href="https://www.dhl.com/de-en/microsites/express/hubs/hub-leipzig/discover/aviation.html" target="_blank" rel="noopener noreferrer nofollow">https://www.dhl.com/de-en/microsites/express/hubs/hub-leipzig/discover/aviation.html</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: mdr.de  
    Title: UF O-Sichtungen in der DDR | mdr.de  
-   Link: <a href="https://www.mdr.de/geschichte/ddr/alltag/erziehung-bildung/ufo-sichtung-halle-stasi-thueringen-100.html" target="_blank" rel="noopener noreferrer nofollow">https://www.mdr.de/geschichte/ddr/alltag/erziehung-bildung/ufo-sichtung-halle-stasi-thueringen-100.html</a>  
+   Link:<a href="https://www.mdr.de/geschichte/ddr/alltag/erziehung-bildung/ufo-sichtung-halle-stasi-thueringen-100.html" target="_blank" rel="noopener noreferrer nofollow">https://www.mdr.de/geschichte/ddr/alltag/erziehung-bildung/ufo-sichtung-halle-stasi-thueringen-100.html</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: mdr.de  
    Title: Atomare Waffen in Sachsen? Flugplatz Großenhain und  
-   Link: <a href="https://www.mdr.de/geschichte/mitteldeutschland/orte/flugplatz-grossenhain-atomaffen-ddr-sowjetarmee-sperrzone-100.html" target="_blank" rel="noopener noreferrer nofollow">https://www.mdr.de/geschichte/mitteldeutschland/orte/flugplatz-grossenhain-atomaffen-ddr-sowjetarmee-sperrzone-100.html</a>  
+   Link:<a href="https://www.mdr.de/geschichte/mitteldeutschland/orte/flugplatz-grossenhain-atomaffen-ddr-sowjetarmee-sperrzone-100.html" target="_blank" rel="noopener noreferrer nofollow">https://www.mdr.de/geschichte/mitteldeutschland/orte/flugplatz-grossenhain-atomaffen-ddr-sowjetarmee-sperrzone-100.html</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: hessenschau.de  
    Title: Rekordzahl an Ufo-Sichtungen in Deutschland eingeschickt  
-   Link: <a href="https://www.hessenschau.de/panorama/wegen-starlink-und-drohnen-rekordzahl-an-ufo-sichtungen-in-deutschland-eingeschickt-v1%2Cufo-sichtungen-100.html" target="_blank" rel="noopener noreferrer nofollow">https://www.hessenschau.de/panorama/wegen-starlink-und-drohnen-rekordzahl-an-ufo-sichtungen-in-deutschland-eingeschickt-v1%2Cufo-sichtungen-100.html</a>  
+   Link:<a href="https://www.hessenschau.de/panorama/wegen-starlink-und-drohnen-rekordzahl-an-ufo-sichtungen-in-deutschland-eingeschickt-v1%2Cufo-sichtungen-100.html" target="_blank" rel="noopener noreferrer nofollow">https://www.hessenschau.de/panorama/wegen-starlink-und-drohnen-rekordzahl-an-ufo-sichtungen-in-deutschland-eingeschickt-v1%2Cufo-sichtungen-100.html</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: landesvermessung.sachsen.de  
    Title: de Slider Historische Luftbilder  
-   Link: <a href="https://www.landesvermessung.sachsen.de/slider-historische-luftbilder-6020.html" target="_blank" rel="noopener noreferrer nofollow">https://www.landesvermessung.sachsen.de/slider-historische-luftbilder-6020.html</a>  
+   Link:<a href="https://www.landesvermessung.sachsen.de/slider-historische-luftbilder-6020.html" target="_blank" rel="noopener noreferrer nofollow">https://www.landesvermessung.sachsen.de/slider-historische-luftbilder-6020.html</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: medienservice.sachsen.de  
    Title: de Spionagekrimi um geheime Luftbilder  
-   Link: <a href="https://www.medienservice.sachsen.de/medien/news/1085728" target="_blank" rel="noopener noreferrer nofollow">https://www.medienservice.sachsen.de/medien/news/1085728</a>  
+   Link:<a href="https://www.medienservice.sachsen.de/medien/news/1085728" target="_blank" rel="noopener noreferrer nofollow">https://www.medienservice.sachsen.de/medien/news/1085728</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: ufo-forschung.de  
-   Link: <a href="https://www.ufo-forschung.de/gep-in-den-medien/ufo-alarm-ueber-dem-erzgebirge" target="_blank" rel="noopener noreferrer nofollow">https://www.ufo-forschung.de/gep-in-den-medien/ufo-alarm-ueber-dem-erzgebirge</a>  
+   Link:<a href="https://www.ufo-forschung.de/gep-in-den-medien/ufo-alarm-ueber-dem-erzgebirge" target="_blank" rel="noopener noreferrer nofollow">https://www.ufo-forschung.de/gep-in-den-medien/ufo-alarm-ueber-dem-erzgebirge</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: ufo-forschung.de  
-   Link: <a href="https://www.ufo-forschung.de/" target="_blank" rel="noopener noreferrer nofollow">https://www.ufo-forschung.de/</a>  
+   Link:<a href="https://www.ufo-forschung.de/" target="_blank" rel="noopener noreferrer nofollow">https://www.ufo-forschung.de/</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: ufo-forschung.de  
-   Link: <a href="https://www.ufo-forschung.de/tag/dresden" target="_blank" rel="noopener noreferrer nofollow">https://www.ufo-forschung.de/tag/dresden</a>  
+   Link:<a href="https://www.ufo-forschung.de/tag/dresden" target="_blank" rel="noopener noreferrer nofollow">https://www.ufo-forschung.de/tag/dresden</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: ufo-forschung.de  
-   Link: <a href="https://www.ufo-forschung.de/statistik" target="_blank" rel="noopener noreferrer nofollow">https://www.ufo-forschung.de/statistik</a>  
+   Link:<a href="https://www.ufo-forschung.de/statistik" target="_blank" rel="noopener noreferrer nofollow">https://www.ufo-forschung.de/statistik</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: ufo-forschung.de  
-   Link: <a href="https://www.ufo-forschung.de/mitgliedschaft" target="_blank" rel="noopener noreferrer nofollow">https://www.ufo-forschung.de/mitgliedschaft</a>  
+   Link:<a href="https://www.ufo-forschung.de/mitgliedschaft" target="_blank" rel="noopener noreferrer nofollow">https://www.ufo-forschung.de/mitgliedschaft</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: ufo-forschung.de  
-   Link: <a href="https://www.ufo-forschung.de/ufo-meldungen/dresden-objekt-ueber-dem-horizont" target="_blank" rel="noopener noreferrer nofollow">https://www.ufo-forschung.de/ufo-meldungen/dresden-objekt-ueber-dem-horizont</a>  
+   Link:<a href="https://www.ufo-forschung.de/ufo-meldungen/dresden-objekt-ueber-dem-horizont" target="_blank" rel="noopener noreferrer nofollow">https://www.ufo-forschung.de/ufo-meldungen/dresden-objekt-ueber-dem-horizont</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: mdr.de  
    Title: ufo sichtungen rekord fliegende untertassen in deutschland 100  
-   Link: <a href="https://www.mdr.de/wissen/astronomie-raumfahrt/ufo-sichtungen-rekord-fliegende-untertassen-in-deutschland-100.html" target="_blank" rel="noopener noreferrer nofollow">https://www.mdr.de/wissen/astronomie-raumfahrt/ufo-sichtungen-rekord-fliegende-untertassen-in-deutschland-100.html</a>  
+   Link:<a href="https://www.mdr.de/wissen/astronomie-raumfahrt/ufo-sichtungen-rekord-fliegende-untertassen-in-deutschland-100.html" target="_blank" rel="noopener noreferrer nofollow">https://www.mdr.de/wissen/astronomie-raumfahrt/ufo-sichtungen-rekord-fliegende-untertassen-in-deutschland-100.html</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: hessenschau.de  
-   Link: <a href="https://www.hessenschau.de/panorama/deutsche-ufo-meldestelle-verzeichnet-neuen-rekord-von-sichtungen-v1%2Cufo-meldestelle-104.html" target="_blank" rel="noopener noreferrer nofollow">https://www.hessenschau.de/panorama/deutsche-ufo-meldestelle-verzeichnet-neuen-rekord-von-sichtungen-v1%2Cufo-meldestelle-104.html</a>  
+   Link:<a href="https://www.hessenschau.de/panorama/deutsche-ufo-meldestelle-verzeichnet-neuen-rekord-von-sichtungen-v1%2Cufo-meldestelle-104.html" target="_blank" rel="noopener noreferrer nofollow">https://www.hessenschau.de/panorama/deutsche-ufo-meldestelle-verzeichnet-neuen-rekord-von-sichtungen-v1%2Cufo-meldestelle-104.html</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: dhl.com  
-   Link: <a href="https://www.dhl.com/de-en/microsites/express/hubs/hub-leipzig/insights/blog/what-you-did-not-know-about-the-airfreight-hub-in-leipzig.html" target="_blank" rel="noopener noreferrer nofollow">https://www.dhl.com/de-en/microsites/express/hubs/hub-leipzig/insights/blog/what-you-did-not-know-about-the-airfreight-hub-in-leipzig.html</a>  
+   Link:<a href="https://www.dhl.com/de-en/microsites/express/hubs/hub-leipzig/insights/blog/what-you-did-not-know-about-the-airfreight-hub-in-leipzig.html" target="_blank" rel="noopener noreferrer nofollow">https://www.dhl.com/de-en/microsites/express/hubs/hub-leipzig/insights/blog/what-you-did-not-know-about-the-airfreight-hub-in-leipzig.html</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: uni-wuerzburg.de  
    Title: University of Würzburg UAP & SETI Forschung  
-   Link: <a href="https://www.uni-wuerzburg.de/ifex/forschung-projekte/uap-seti-forschung/" target="_blank" rel="noopener noreferrer nofollow">https://www.uni-wuerzburg.de/ifex/forschung-projekte/uap-seti-forschung/</a>  
+   Link:<a href="https://www.uni-wuerzburg.de/ifex/forschung-projekte/uap-seti-forschung/" target="_blank" rel="noopener noreferrer nofollow">https://www.uni-wuerzburg.de/ifex/forschung-projekte/uap-seti-forschung/</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: explore.openaire.eu  
-   Link: <a href="https://explore.openaire.eu/search/result?pid=10.5281%2Fzenodo.10547073" target="_blank" rel="noopener noreferrer nofollow">https://explore.openaire.eu/search/result?pid=10.5281%2Fzenodo.10547073</a>  
+   Link:<a href="https://explore.openaire.eu/search/result?pid=10.5281%2Fzenodo.10547073" target="_blank" rel="noopener noreferrer nofollow">https://explore.openaire.eu/search/result?pid=10.5281%2Fzenodo.10547073</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=Rj4ypTSgEXw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Rj4ypTSgEXw</a>  
+   Link:<a href="https://www.youtube.com/watch?v=Rj4ypTSgEXw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Rj4ypTSgEXw</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=Q_M0lajcNs8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Q_M0lajcNs8</a>  
+   Link:<a href="https://www.youtube.com/watch?v=Q_M0lajcNs8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Q_M0lajcNs8</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: sachsenschiene.net  
-   Link: <a href="https://www.sachsenschiene.net/bunker/flp/flp_02.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.sachsenschiene.net/bunker/flp/flp_02.htm</a>  
+   Link:<a href="https://www.sachsenschiene.net/bunker/flp/flp_02.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.sachsenschiene.net/bunker/flp/flp_02.htm</a>  
 
 ### Additional References
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: youtube.com  
    Title: UFO Doku Classics  
-   Link: <a href="http://www.youtube.com/watch?v=vGB_43nau1M" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=vGB_43nau1M</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO UAP investigation Germany GEP German UFOs David Grusch Claims Government Found &#x27;Nonhuman Biologics&#x27; On Crashed UFOs Newsweek...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=vGB_43nau1M" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=vGB_43nau1M</a><details class="endnote-snippet"><summary>Source snippet</summary><p>UFO UAP investigation Germany GEP German UFOs David Grusch Claims Government Found &#x27;Nonhuman Biologics&#x27; On Crashed UFOs Newsweek...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: youtube.com  
    Title: Government Breaks Silence: Strange Encounters | UFO's Investigating the Unknown  
-   Link: <a href="http://www.youtube.com/watch?v=hXO_RwR1UA8" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=hXO_RwR1UA8</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Doku Classics - Besucher aus dem Weltall - Das UFO Phänomen - Teil 1...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=hXO_RwR1UA8" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=hXO_RwR1UA8</a><details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Doku Classics - Besucher aus dem Weltall - Das UFO Phänomen - Teil 1...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: youtube.com  
    Title: Die geheimen UFO Akten  
-   Link: <a href="http://www.youtube.com/watch?v=b4DeaPjWgN8" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=b4DeaPjWgN8</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Government Breaks Silence: Strange Encounters | UFO&#x27;s Investigating the Unknown...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=b4DeaPjWgN8" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=b4DeaPjWgN8</a><details class="endnote-snippet"><summary>Source snippet</summary><p>Government Breaks Silence: Strange Encounters | UFO&#x27;s Investigating the Unknown...</p></details>
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: youtube.com  
    Title: Fakt oder Verschwörung: Was sind UFOs wirklich? | ZDFinfo Doku  
-   Link: <a href="http://www.youtube.com/watch?v=zUF1ZzMj-Qg" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=zUF1ZzMj-Qg</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs: Investigating the Unknown | The Global Threat...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=zUF1ZzMj-Qg" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=zUF1ZzMj-Qg</a><details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs: Investigating the Unknown | The Global Threat...</p></details>
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: youtube.com  
    Title: UFOs: Investigating the Unknown | The Global Threat  
-   Link: <a href="http://www.youtube.com/watch?v=gQcMa9kPfR4" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=gQcMa9kPfR4</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Die geheimen UFO Akten - Besuch aus dem All | Dokumentation...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=gQcMa9kPfR4" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=gQcMa9kPfR4</a><details class="endnote-snippet"><summary>Source snippet</summary><p>Die geheimen UFO Akten - Besuch aus dem All | Dokumentation...</p></details>
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: ourairports.com  
-   Link: <a href="https://ourairports.com/countries/DE/SN/airports.html" target="_blank" rel="noopener noreferrer nofollow">https://ourairports.com/countries/DE/SN/airports.html</a>  
+   Link:<a href="https://ourairports.com/countries/DE/SN/airports.html" target="_blank" rel="noopener noreferrer nofollow">https://ourairports.com/countries/DE/SN/airports.html</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/MDRSachsenAnhalt/videos/also-doch-kein-ufo-/338536881972750/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/MDRSachsenAnhalt/videos/also-doch-kein-ufo-/338536881972750/</a>  
+   Link:<a href="https://www.facebook.com/MDRSachsenAnhalt/videos/also-doch-kein-ufo-/338536881972750/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/MDRSachsenAnhalt/videos/also-doch-kein-ufo-/338536881972750/</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: fragdenstaat.de  
-   Link: <a href="https://fragdenstaat.de/anfrage/anfrage-zu-spacex-starlink-gateways-in-sachsen/" target="_blank" rel="noopener noreferrer nofollow">https://fragdenstaat.de/anfrage/anfrage-zu-spacex-starlink-gateways-in-sachsen/</a>  
+   Link:<a href="https://fragdenstaat.de/anfrage/anfrage-zu-spacex-starlink-gateways-in-sachsen/" target="_blank" rel="noopener noreferrer nofollow">https://fragdenstaat.de/anfrage/anfrage-zu-spacex-starlink-gateways-in-sachsen/</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/DHLexpress/posts/this-is-where-we-connect-the-world-%EF%B8%8F-welcome-to-european-air-transport-leipzig-t/1247129474121222/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/DHLexpress/posts/this-is-where-we-connect-the-world-%EF%B8%8F-welcome-to-european-air-transport-leipzig-t/1247129474121222/</a>  
+   Link:<a href="https://www.facebook.com/DHLexpress/posts/this-is-where-we-connect-the-world-%EF%B8%8F-welcome-to-european-air-transport-leipzig-t/1247129474121222/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/DHLexpress/posts/this-is-where-we-connect-the-world-%EF%B8%8F-welcome-to-european-air-transport-leipzig-t/1247129474121222/</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/UFOForschung/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/UFOForschung/</a>  
+   Link:<a href="https://www.facebook.com/UFOForschung/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/UFOForschung/</a>  

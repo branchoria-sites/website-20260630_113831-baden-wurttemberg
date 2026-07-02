@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-30T11:33:37",
+  "generated_at": "2026-07-02T13:45:35",
   "passed": true,
   "baseline": {
-    "article_pages": 219,
-    "amazon_specific_pages": 203,
+    "article_pages": 224,
+    "amazon_specific_pages": 208,
     "amazon_fallback_pages": 0,
-    "ebay_specific_pages": 203,
+    "ebay_specific_pages": 208,
     "ebay_fallback_pages": 0,
     "pages": {
       "Baden-Wurttemberg_dc11f2": {
@@ -1280,6 +1280,12 @@
         "ebay_specific": true,
         "ebay_fallback": false
       },
+      "Thuringia_f28d08_case_strength_rating_2b1cae": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
       "Thuringia_f28d08_fehrenbach_photo_hoa_868d68": {
         "amazon_specific": true,
         "amazon_fallback": false,
@@ -1304,7 +1310,19 @@
         "ebay_specific": false,
         "ebay_fallback": false
       },
+      "Thuringia_f28d08_media_priming_fcffa0": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
       "Thuringia_f28d08_neuenhof_stasi_sight_73f5c9": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Thuringia_f28d08_ronneburg_lesser_rep_0a9ae2": {
         "amazon_specific": true,
         "amazon_fallback": false,
         "ebay_specific": true,
@@ -1317,6 +1335,18 @@
         "ebay_fallback": false
       },
       "Thuringia_f28d08_stasi_files_ufo_repo_08b8af": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Thuringia_f28d08_thin_reporting_recor_e168d2": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Thuringia_f28d08_witness_to_case_file_2b6e1e": {
         "amazon_specific": true,
         "amazon_fallback": false,
         "ebay_specific": true,
@@ -2677,6 +2707,6 @@
       }
     }
   },
-  "shared_pages_compared": 219,
+  "shared_pages_compared": 224,
   "regressions": []
 }

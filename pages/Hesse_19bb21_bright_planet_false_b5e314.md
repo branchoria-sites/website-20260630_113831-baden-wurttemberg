@@ -52,7 +52,7 @@ text_direction: ltr
 ui_strings:
   home: Home
   overview: Overview
-  overview_prefix: 'Overview:'
+  overview_prefix:'Overview:'
   contents: Contents
   close: Close
   open_contents: Open contents
@@ -200,13 +200,13 @@ ui_strings:
   search_this_page_empty_hint: Type to search this page.
   no_search_results: No pages match this search.
   no_search_this_page_results: No sections on this page match this search.
-  search_results_count_template: '{count} results'
+  search_results_count_template:'{count} results'
   search_kind_page_title: Page title
   search_kind_page_summary: Summary of page
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date: '2026-06-30 02:44:15'
+date:'2026-06-30 02:44:15'
 parent_title: Hesse UFOs
 parent_permalink: /why-hesses-ufo-stories-usually-come/
 parent_nav_short_title: Hesse UFOs
@@ -302,314 +302,107 @@ image: /assets/images/Hesse_19bb21_bright_planet_false_b5e314-overview-social.jp
 
 ## Introduction
 
-Venus, Jupiter and Sirius are among the least exotic but most persistent causes of UFO reports in [Hesse]({{ 'why-hesses-ufo-stories-usually-come/' | relative_url }}). They matter because Hesse is home to CENAP, the long-running private UFO reporting centre in Lützelbach in the Odenwald, and its recent case summaries show a repeated pattern: many sincere witnesses are not inventing what they saw, but are misreading a bright, low, unfamiliar point of light in the sky. In 2023, CENAP-linked reporting counted 164 Venus reports, 83 Jupiter reports and 31 Sirius reports among 807 total sightings, putting these ordinary celestial objects near the top of the year’s “UFO” explanations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.merkur.de/wissen/jupiter-starlink-astronomie-ufo-meldestelle-807-meldungen-himmel-objekte-stern-planet-venus-zr-92756211.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: merkur.de">[Merkur]</a><span class="citation-popover" role="note"><span class="citation-popover-source">merkur.de</span><span class="citation-popover-snippet">807 Ufo-Meldungen im vergangenen Jahr16 Jan 2024 — Insgesamt wurde 164 Mal der Planet Venus gemeldet, 83 Mal der Jupiter und 31 Mal...</span></span></span>
-
-
-<img src="{{ "/assets/images/Hesse_19bb21_bright_planet_false_b5e314-overview.webp" | relative_url }}" alt="Overview image for Bright Planets" loading="eager" decoding="sync" fetchpriority="high">
-The lesson for Hesse’s UFO history is simple but important. A light can be genuinely startling, photographed, reported by several people and still be a planet or bright star. Low altitude above the horizon, twilight, haze, car travel, poor distance cues and the brain’s tendency to see motion in isolated lights can turn familiar astronomy into a convincing false alarm. That is why bright planets remain central to modern sighting work, even in an era when Starlink satellites, drones and phone-camera artefacts receive more public attention. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.hessenschau.de/panorama/wegen-starlink-und-drohnen-rekordzahl-an-ufo-sichtungen-in-deutschland-eingeschickt-v1%2Cufo-sichtungen-100.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hessenschau.de">[hessenschau.de]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hessenschau.de</span><span class="citation-popover-title">Rekordzahl an Ufo-Sichtungen in Deutschland eingeschickt</span><span class="citation-popover-snippet">January 10, 2025 — 10 Jan 2025 — Im vergangenen Jahr sorgten nach Angaben des CENAP-Leiters die auffällige Konstellation leuchtstarker Pl...</span><span class="citation-popover-meta">Published: January 10, 2025</span></span></span>
+Venus, Jupiter and Sirius are among the least exotic but most persistent causes of UFO reports in [Hesse]({{'why-hesses-ufo-stories-usually-come/' | relative_url }}). They matter because Hesse is home to CENAP, the long-running private UFO reporting centre in Lützelbach in the Odenwald, and its recent case summaries show a repeated pattern: many sincere witnesses are not inventing what they saw, but are misreading a bright, low, unfamiliar point of light in the sky. In 2023, CENAP-linked reporting counted 164 Venus reports, 83 Jupiter reports and 31 Sirius reports among 807 total sightings, putting these ordinary celestial objects near the top of the year’s “UFO” explanations.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.merkur.de/wissen/jupiter-starlink-astronomie-ufo-meldestelle-807-meldungen-himmel-objekte-stern-planet-venus-zr-92756211.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: merkur.de">[Merkur]</a><span class="citation-popover" role="note"><span class="citation-popover-source">merkur.de</span><span class="citation-popover-snippet">807 Ufo-Meldungen im vergangenen Jahr16 Jan 2024 — Insgesamt wurde 164 Mal der Planet Venus gemeldet, 83 Mal der Jupiter und 31 Mal...</span></span></span><img src="{{"/assets/images/Hesse_19bb21_bright_planet_false_b5e314-overview.webp" | relative_url }}" alt="Overview image for Bright Planets" loading="eager" decoding="sync" fetchpriority="high">
+The lesson for Hesse’s UFO history is simple but important. A light can be genuinely startling, photographed, reported by several people and still be a planet or bright star. Low altitude above the horizon, twilight, haze, car travel, poor distance cues and the brain’s tendency to see motion in isolated lights can turn familiar astronomy into a convincing false alarm. That is why bright planets remain central to modern sighting work, even in an era when Starlink satellites, drones and phone-camera artefacts receive more public attention.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.hessenschau.de/panorama/wegen-starlink-und-drohnen-rekordzahl-an-ufo-sichtungen-in-deutschland-eingeschickt-v1%2Cufo-sichtungen-100.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hessenschau.de">[hessenschau.de]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hessenschau.de</span><span class="citation-popover-title">Rekordzahl an Ufo-Sichtungen in Deutschland eingeschickt</span><span class="citation-popover-snippet">January 10, 2025 — 10 Jan 2025 — Im vergangenen Jahr sorgten nach Angaben des CENAP-Leiters die auffällige Konstellation leuchtstarker Pl...</span><span class="citation-popover-meta">Published: January 10, 2025</span></span></span>
 
 ## Why Venus still causes UFO reports in Hesse
 
-Venus is the classic false alarm because it can look too bright to be a normal star and too steady to be an aircraft. NASA describes Venus as the third-brightest object in the sky after the Sun and Moon, and its Night Sky Network guidance notes that bright, low Venus has often been reported as a UFO. The same guidance names Sirius and Jupiter as other frequent sources of mistaken UFO reports, especially when bright planets appear near the horizon in a way that looks like a formation of “strange lights”. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/venus/venus-facts/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science Venus: Facts</span><span class="citation-popover-snippet">Science Venus: Facts</span></span></span>
+Venus is the classic false alarm because it can look too bright to be a normal star and too steady to be an aircraft. NASA describes Venus as the third-brightest object in the sky after the Sun and Moon, and its Night Sky Network guidance notes that bright, low Venus has often been reported as a UFO. The same guidance names Sirius and Jupiter as other frequent sources of mistaken UFO reports, especially when bright planets appear near the horizon in a way that looks like a formation of “strange lights”.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/venus/venus-facts/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science Venus: Facts</span><span class="citation-popover-snippet">Science Venus: Facts</span></span></span>
 
-That general astronomy point has a direct Hesse connection because CENAP’s public case pattern repeatedly includes these exact objects. Hessischer Rundfunk reported that CENAP, based in southern Hesse, received 1,084 UFO reports in 2024 from Germany, Austria and Switzerland, with many sightings linked to Starlink satellites but also to conspicuous arrangements of Venus, Jupiter and bright stars such as Sirius. The same report said CENAP’s usual annual level had been about 600 to 800 reports, showing how a busier sky and easier phone reporting can increase the number of “UFO” alarms without increasing the number of strong mystery cases. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.hessenschau.de/panorama/wegen-starlink-und-drohnen-rekordzahl-an-ufo-sichtungen-in-deutschland-eingeschickt-v1%2Cufo-sichtungen-100.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hessenschau.de">[hessenschau.de]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hessenschau.de</span><span class="citation-popover-title">Rekordzahl an Ufo-Sichtungen in Deutschland eingeschickt</span><span class="citation-popover-snippet">January 10, 2025 — 10 Jan 2025 — Im vergangenen Jahr sorgten nach Angaben des CENAP-Leiters die auffällige Konstellation leuchtstarker Pl...</span><span class="citation-popover-meta">Published: January 10, 2025</span></span></span>
+That general astronomy point has a direct Hesse connection because CENAP’s public case pattern repeatedly includes these exact objects. Hessischer Rundfunk reported that CENAP, based in southern Hesse, received 1,084 UFO reports in 2024 from Germany, Austria and Switzerland, with many sightings linked to Starlink satellites but also to conspicuous arrangements of Venus, Jupiter and bright stars such as Sirius. The same report said CENAP’s usual annual level had been about 600 to 800 reports, showing how a busier sky and easier phone reporting can increase the number of “UFO” alarms without increasing the number of strong mystery cases.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.hessenschau.de/panorama/wegen-starlink-und-drohnen-rekordzahl-an-ufo-sichtungen-in-deutschland-eingeschickt-v1%2Cufo-sichtungen-100.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hessenschau.de">[hessenschau.de]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hessenschau.de</span><span class="citation-popover-title">Rekordzahl an Ufo-Sichtungen in Deutschland eingeschickt</span><span class="citation-popover-snippet">January 10, 2025 — 10 Jan 2025 — Im vergangenen Jahr sorgten nach Angaben des CENAP-Leiters die auffällige Konstellation leuchtstarker Pl...</span><span class="citation-popover-meta">Published: January 10, 2025</span></span></span>
 
-The 2023 figures show why planets deserve their own page rather than being treated as a minor footnote. According to CENAP data reported by Merkur and HNA, Starlink generated 176 reports in 2023, but Venus alone generated 164, Jupiter 83 and Sirius 31. Taken together, Venus, Jupiter and Sirius accounted for roughly 278 reports, more than Starlink for that year. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.merkur.de/wissen/jupiter-starlink-astronomie-ufo-meldestelle-807-meldungen-himmel-objekte-stern-planet-venus-zr-92756211.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: merkur.de">[Merkur]</a><span class="citation-popover" role="note"><span class="citation-popover-source">merkur.de</span><span class="citation-popover-snippet">807 Ufo-Meldungen im vergangenen Jahr16 Jan 2024 — Insgesamt wurde 164 Mal der Planet Venus gemeldet, 83 Mal der Jupiter und 31 Mal...</span></span></span>
+The 2023 figures show why planets deserve their own page rather than being treated as a minor footnote. According to CENAP data reported by Merkur and HNA, Starlink generated 176 reports in 2023, but Venus alone generated 164, Jupiter 83 and Sirius 31. Taken together, Venus, Jupiter and Sirius accounted for roughly 278 reports, more than Starlink for that year.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.merkur.de/wissen/jupiter-starlink-astronomie-ufo-meldestelle-807-meldungen-himmel-objekte-stern-planet-venus-zr-92756211.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: merkur.de">[Merkur]</a><span class="citation-popover" role="note"><span class="citation-popover-source">merkur.de</span><span class="citation-popover-snippet">807 Ufo-Meldungen im vergangenen Jahr16 Jan 2024 — Insgesamt wurde 164 Mal der Planet Venus gemeldet, 83 Mal der Jupiter und 31 Mal...</span></span></span>
 
-For a witness in Hesse, the setting can make this even more persuasive. Much of the state combines urban light pollution, airport traffic, hills, forests and villages with partial horizons. A bright planet seen through gaps in trees, over the Taunus, beyond the Odenwald, above the Rhine-Main skyline or from a moving car can feel local and low, even though it is astronomically distant. The witness is often describing a real light accurately; the mistake lies in judging its distance, size and movement.
-
-
-<img src="{{ "/assets/images/Hesse_19bb21_bright_planet_false_b5e314-Illustration-1-dark.svg" | relative_url }}" alt="Bright Planets illustration 1" data-theme-src-dark="{{ "/assets/images/Hesse_19bb21_bright_planet_false_b5e314-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Hesse_19bb21_bright_planet_false_b5e314-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+For a witness in Hesse, the setting can make this even more persuasive. Much of the state combines urban light pollution, airport traffic, hills, forests and villages with partial horizons. A bright planet seen through gaps in trees, over the Taunus, beyond the Odenwald, above the Rhine-Main skyline or from a moving car can feel local and low, even though it is astronomically distant. The witness is often describing a real light accurately; the mistake lies in judging its distance, size and movement.<img src="{{"/assets/images/Hesse_19bb21_bright_planet_false_b5e314-Illustration-1-dark.svg" | relative_url }}" alt="Bright Planets illustration 1" data-theme-src-dark="{{"/assets/images/Hesse_19bb21_bright_planet_false_b5e314-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{"/assets/images/Hesse_19bb21_bright_planet_false_b5e314-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What bright planets look like near the horizon
 
-A bright planet near the horizon does not behave in the way many people expect a planet to behave. Instead of looking like a calm textbook dot high in the sky, it can appear large, glaring, coloured, flickering or oddly placed. The lower it is, the more atmosphere its light passes through, which can make it shimmer or change colour. Sirius is especially well known for attracting attention because it can appear to flash or sparkle strongly when low, while Jupiter and Venus can look unnaturally bright in twilight. CENAP’s 2023 summary specifically noted that Venus was conspicuous in the evening sky and later very bright in the morning sky, while Jupiter was again prominent in the evening later in the year. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.merkur.de/wissen/jupiter-starlink-astronomie-ufo-meldestelle-807-meldungen-himmel-objekte-stern-planet-venus-zr-92756211.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: merkur.de">[Merkur]</a><span class="citation-popover" role="note"><span class="citation-popover-source">merkur.de</span><span class="citation-popover-snippet">807 Ufo-Meldungen im vergangenen Jahr16 Jan 2024 — Insgesamt wurde 164 Mal der Planet Venus gemeldet, 83 Mal der Jupiter und 31 Mal...</span></span></span>
+A bright planet near the horizon does not behave in the way many people expect a planet to behave. Instead of looking like a calm textbook dot high in the sky, it can appear large, glaring, coloured, flickering or oddly placed. The lower it is, the more atmosphere its light passes through, which can make it shimmer or change colour. Sirius is especially well known for attracting attention because it can appear to flash or sparkle strongly when low, while Jupiter and Venus can look unnaturally bright in twilight. CENAP’s 2023 summary specifically noted that Venus was conspicuous in the evening sky and later very bright in the morning sky, while Jupiter was again prominent in the evening later in the year.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.merkur.de/wissen/jupiter-starlink-astronomie-ufo-meldestelle-807-meldungen-himmel-objekte-stern-planet-venus-zr-92756211.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: merkur.de">[Merkur]</a><span class="citation-popover" role="note"><span class="citation-popover-source">merkur.de</span><span class="citation-popover-snippet">807 Ufo-Meldungen im vergangenen Jahr16 Jan 2024 — Insgesamt wurde 164 Mal der Planet Venus gemeldet, 83 Mal der Jupiter und 31 Mal...</span></span></span>
 
-This is where many sincere Hesse reports begin. A person sees a bright object shortly after sunset or before dawn, when the rest of the sky is not fully dark. Because only the brightest objects survive the twilight glow, the scene can feel abnormal: one or two “lights” remain visible when ordinary stars have faded. In August 2025, CENAP reported a surge of enquiries about two unusual morning lights that some observers described as “drone twins” or “headlights in the sky”. ZDF reported CENAP’s explanation: the objects were Jupiter and Venus appearing close together from Earth, bright enough to remain visible in morning twilight. The report said many of the enquiries came from Hesse, Rhineland-Palatinate and Baden-Württemberg. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.zdfheute.de/panorama/lichter-himmel-ufo-jupiter-venus-100.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: zdfheute.de">[ZDFheute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">zdfheute.de</span><span class="citation-popover-title">Ungewöhnliche Lichter am Himmel sind keine Ufos</span><span class="citation-popover-snippet">Ungewöhnliche Lichter am Himmel sind keine Ufos</span></span></span>
+This is where many sincere Hesse reports begin. A person sees a bright object shortly after sunset or before dawn, when the rest of the sky is not fully dark. Because only the brightest objects survive the twilight glow, the scene can feel abnormal: one or two “lights” remain visible when ordinary stars have faded. In August 2025, CENAP reported a surge of enquiries about two unusual morning lights that some observers described as “drone twins” or “headlights in the sky”. ZDF reported CENAP’s explanation: the objects were Jupiter and Venus appearing close together from Earth, bright enough to remain visible in morning twilight. The report said many of the enquiries came from Hesse, Rhineland-Palatinate and Baden-Württemberg.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.zdfheute.de/panorama/lichter-himmel-ufo-jupiter-venus-100.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: zdfheute.de">[ZDFheute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">zdfheute.de</span><span class="citation-popover-title">Ungewöhnliche Lichter am Himmel sind keine Ufos</span><span class="citation-popover-snippet">Ungewöhnliche Lichter am Himmel sind keine Ufos</span></span></span>
 
-The same event illustrates a recurring problem in UFO interpretation. A conjunction, where two planets appear close together in the sky, can look more artificial than a single light. Two bright points may suggest a craft, a pair of drones, lights on a structure, or a distant vehicle, especially when the observer lacks a clear horizon reference. Spektrum also covered the August 2025 Jupiter-Venus pairing, noting that the two planets were visible close together in the eastern morning sky and that the unfamiliar sight had already triggered UFO reports to CENAP. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.spektrum.de/news/morgenhimmel-jupiter-und-venus-loesen-ufo-meldungen-aus/2282273" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: spektrum.de">[Spektrum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">spektrum.de</span><span class="citation-popover-title">Morgenhimmel: Jupiter und Venus lösen UFO-Meldungen</span><span class="citation-popover-snippet">Morgenhimmel: Jupiter und Venus lösen UFO-Meldungen</span></span></span>
+The same event illustrates a recurring problem in UFO interpretation. A conjunction, where two planets appear close together in the sky, can look more artificial than a single light. Two bright points may suggest a craft, a pair of drones, lights on a structure, or a distant vehicle, especially when the observer lacks a clear horizon reference. Spektrum also covered the August 2025 Jupiter-Venus pairing, noting that the two planets were visible close together in the eastern morning sky and that the unfamiliar sight had already triggered UFO reports to CENAP.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.spektrum.de/news/morgenhimmel-jupiter-und-venus-loesen-ufo-meldungen-aus/2282273" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: spektrum.de">[Spektrum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">spektrum.de</span><span class="citation-popover-title">Morgenhimmel: Jupiter und Venus lösen UFO-Meldungen</span><span class="citation-popover-snippet">Morgenhimmel: Jupiter und Venus lösen UFO-Meldungen</span></span></span>
 
-For Hesse’s UFO record, these cases are useful because they are not vague dismissals. They show a repeatable mechanism: a known sky event, a burst of reports, similar witness descriptions, and a quick astronomical explanation. That is very different from simply saying “people saw a star”. The false alarm has a shape, a time window and a reason.
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/P-ymwG9mDhE" title="Jupiter and Venus &#x27;could be mistaken for UFOs&#x27;" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=P-ymwG9mDhE" target="_blank" rel="noopener noreferrer">Jupiter and Venus &#x27;could be mistaken for UFOs&#x27;</a></p><p class="youtube-embed-meta">Channel: The Telegraph &middot; Views: 22.9K &middot; Uploaded: March 2012 &middot; Length: 1 minute 57 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=P-ymwG9mDhE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=P-ymwG9mDhE">Open on YouTube</a></p></div></div></div>
+For Hesse’s UFO record, these cases are useful because they are not vague dismissals. They show a repeatable mechanism: a known sky event, a burst of reports, similar witness descriptions, and a quick astronomical explanation. That is very different from simply saying “people saw a star”. The false alarm has a shape, a time window and a reason.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/P-ymwG9mDhE" title="Jupiter and Venus &#x27;could be mistaken for UFOs&#x27;" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=P-ymwG9mDhE" target="_blank" rel="noopener noreferrer">Jupiter and Venus &#x27;could be mistaken for UFOs&#x27;</a></p><p class="youtube-embed-meta">Channel: The Telegraph &middot; Views: 22.9K &middot; Uploaded: March 2012 &middot; Length: 1 minute 57 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=P-ymwG9mDhE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=P-ymwG9mDhE">Open on YouTube</a></p></div></div></div>
 
 ## Why stationary lights can seem to move
 
 One of the most common objections to a planet explanation is also one of the most understandable: “It moved.” A witness may watch Venus, Jupiter or Sirius and honestly perceive drifting, hovering, pulsing, dipping or following movement. Some of this can come from real observer movement. If someone is in a car, walking along a street, looking through branches, or comparing the light with passing clouds, the point of light can seem to shift against the local foreground.
 
-There is also a recognised visual illusion at work. The autokinetic effect occurs when a stationary point of light in a dark or featureless setting appears to move because the eye and brain lack stable reference points. Aviation safety source SKYbrary describes it as a phenomenon in which a small stationary light in darkness appears to move, because motion perception depends on external references and those references may be missing in a dark sky. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://skybrary.aero/articles/autokinetic-effect" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skybrary.aero">[Skybrary]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skybrary.aero</span><span class="citation-popover-snippet">Open source on skybrary.aero.</span></span></span>
+There is also a recognised visual illusion at work. The autokinetic effect occurs when a stationary point of light in a dark or featureless setting appears to move because the eye and brain lack stable reference points. Aviation safety source SKYbrary describes it as a phenomenon in which a small stationary light in darkness appears to move, because motion perception depends on external references and those references may be missing in a dark sky.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://skybrary.aero/articles/autokinetic-effect" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skybrary.aero">[Skybrary]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skybrary.aero</span><span class="citation-popover-snippet">Open source on skybrary.aero.</span></span></span>
 
 This matters for UFO reports because a bright planet can provide exactly the wrong kind of visual target: a single intense point against a dark or twilight background. If the viewer stares at it, the light may appear to wobble or drift. If there is haze, thin cloud, a window reflection or slight hand movement while filming, the impression can become stronger. The witness is not necessarily lying or exaggerating; the visual system is doing what it does under poor reference conditions.
 
 The effect is especially relevant in rural or edge-of-town parts of Hesse. A person standing in a dark garden, on a village road, near fields, or on a wooded slope may have fewer fixed visual cues than someone in a well-lit square. A very bright light just above the horizon can therefore feel like it is hovering over a nearby hill or moving slowly above a roofline. The more attention the witness gives it, the more meaningful the apparent motion may seem.
 
-Phone videos can then add a second layer of confusion. Autofocus hunting, digital zoom, hand tremor, lens flare and low-light noise can make a point source bloom, pulse or jump. CENAP-linked reporting has repeatedly noted that many submitted photos and videos contain ordinary causes such as lens reflections or blurred nearby insects and birds, alongside satellites, aircraft, balloons, drones, meteors and planets. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.handelsblatt.com/dpa/erscheinungen-am-himmel-rekordzahl-von-ufo-sichtungen-bei-meldestelle-eingegangen/30161262.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: handelsblatt.com">[Handelsblatt]</a><span class="citation-popover" role="note"><span class="citation-popover-source">handelsblatt.com</span><span class="citation-popover-title">Rekordzahl von UFO-Sichtungen bei Meldestelle</span><span class="citation-popover-snippet">Rekordzahl von UFO-Sichtungen bei Meldestelle</span></span></span>
-
-
-<img src="{{ "/assets/images/Hesse_19bb21_bright_planet_false_b5e314-Illustration-2-dark.svg" | relative_url }}" alt="Bright Planets illustration 2" data-theme-src-dark="{{ "/assets/images/Hesse_19bb21_bright_planet_false_b5e314-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Hesse_19bb21_bright_planet_false_b5e314-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+Phone videos can then add a second layer of confusion. Autofocus hunting, digital zoom, hand tremor, lens flare and low-light noise can make a point source bloom, pulse or jump. CENAP-linked reporting has repeatedly noted that many submitted photos and videos contain ordinary causes such as lens reflections or blurred nearby insects and birds, alongside satellites, aircraft, balloons, drones, meteors and planets.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.handelsblatt.com/dpa/erscheinungen-am-himmel-rekordzahl-von-ufo-sichtungen-bei-meldestelle-eingegangen/30161262.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: handelsblatt.com">[Handelsblatt]</a><span class="citation-popover" role="note"><span class="citation-popover-source">handelsblatt.com</span><span class="citation-popover-title">Rekordzahl von UFO-Sichtungen bei Meldestelle</span><span class="citation-popover-snippet">Rekordzahl von UFO-Sichtungen bei Meldestelle</span></span></span><img src="{{"/assets/images/Hesse_19bb21_bright_planet_false_b5e314-Illustration-2-dark.svg" | relative_url }}" alt="Bright Planets illustration 2" data-theme-src-dark="{{"/assets/images/Hesse_19bb21_bright_planet_false_b5e314-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{"/assets/images/Hesse_19bb21_bright_planet_false_b5e314-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How sky charts resolve many reports
 
 The strongest planet explanations are not guesses. They are checks against time, location and direction. A report that says “a bright light was low in the west at 19:10 from near Darmstadt” can be compared with a sky chart for that location and moment. If Venus was low in the west, extremely bright, and setting at the same time, the case becomes much less mysterious. If Jupiter was in the right part of the sky, or Sirius was low and scintillating, the same logic applies.
 
-This is why the best first questions in a Hesse bright-light report are practical rather than dramatic:
-
-
-<div class="content-enhancement content-enhancement--insight-grid" markdown="1">
+This is why the best first questions in a Hesse bright-light report are practical rather than dramatic:<div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * What exact date and time was it seen?
 * Where was the observer standing?
 * Which direction was the light?
 * Was it rising, setting, or staying in roughly the same place?
 * Were there buildings, hills, clouds, trees or a car window in the line of sight?
-* Did the witness check a sky-chart app before or after reporting it?
+* Did the witness check a sky-chart app before or after reporting it?</div>
 
-</div>
+NASA’s Night Sky Network gives the same broad identification advice for public observers: record the time, direction and appearance, then compare the sighting with common astronomical and human-made sources. It specifically warns that Venus, Sirius, Jupiter and Mercury are often mistaken for UFOs, and that bright objects near the horizon can look like strange formations.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nightsky.jpl.nasa.gov/news/39/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nightsky.jpl.nasa.gov">[Night Sky Network]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nightsky.jpl.nasa.gov</span><span class="citation-popover-snippet">Night Sky NetworkIdentifying UFOs and UAPs1 Dec 2013 — Venus shining bright and low has been reported many times as a UFO. Do you think y...</span></span></span>
 
-NASA’s Night Sky Network gives the same broad identification advice for public observers: record the time, direction and appearance, then compare the sighting with common astronomical and human-made sources. It specifically warns that Venus, Sirius, Jupiter and Mercury are often mistaken for UFOs, and that bright objects near the horizon can look like strange formations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nightsky.jpl.nasa.gov/news/39/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nightsky.jpl.nasa.gov">[Night Sky Network]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nightsky.jpl.nasa.gov</span><span class="citation-popover-snippet">Night Sky NetworkIdentifying UFOs and UAPs1 Dec 2013 — Venus shining bright and low has been reported many times as a UFO. Do you think y...</span></span></span>
+CENAP’s role in Hesse is important here because it functions as a long-term sorting point for exactly these reports. Hessischer Rundfunk described CENAP as a private organisation in Lützelbach that receives sighting details and compares them with known explanations such as astronomical objects, satellite and International Space Station passes, rocket debris, aircraft and helicopters.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.hessenschau.de/panorama/wegen-starlink-und-drohnen-rekordzahl-an-ufo-sichtungen-in-deutschland-eingeschickt-v1%2Cufo-sichtungen-100.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hessenschau.de">[hessenschau.de]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hessenschau.de</span><span class="citation-popover-title">Rekordzahl an Ufo-Sichtungen in Deutschland eingeschickt</span><span class="citation-popover-snippet">January 10, 2025 — 10 Jan 2025 — Im vergangenen Jahr sorgten nach Angaben des CENAP-Leiters die auffällige Konstellation leuchtstarker Pl...</span><span class="citation-popover-meta">Published: January 10, 2025</span></span></span>
 
-CENAP’s role in Hesse is important here because it functions as a long-term sorting point for exactly these reports. Hessischer Rundfunk described CENAP as a private organisation in Lützelbach that receives sighting details and compares them with known explanations such as astronomical objects, satellite and International Space Station passes, rocket debris, aircraft and helicopters. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.hessenschau.de/panorama/wegen-starlink-und-drohnen-rekordzahl-an-ufo-sichtungen-in-deutschland-eingeschickt-v1%2Cufo-sichtungen-100.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hessenschau.de">[hessenschau.de]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hessenschau.de</span><span class="citation-popover-title">Rekordzahl an Ufo-Sichtungen in Deutschland eingeschickt</span><span class="citation-popover-snippet">January 10, 2025 — 10 Jan 2025 — Im vergangenen Jahr sorgten nach Angaben des CENAP-Leiters die auffällige Konstellation leuchtstarker Pl...</span><span class="citation-popover-meta">Published: January 10, 2025</span></span></span>
-
-A sky chart does not prove that every report is Venus. It narrows the claim. If the alleged object was far from any bright planet or star, moved rapidly across a large part of the sky, changed direction independently, appeared on radar, or was observed by trained witnesses with good reference points, a planet explanation may weaken. But many classic false alarms never reach that stage. Once the time, direction and altitude are checked, the “unknown craft” becomes a known celestial object.
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Ov3fYgGwy60" title="Venus -the Morning Star and Evening Star" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Ov3fYgGwy60" target="_blank" rel="noopener noreferrer">Venus -the Morning Star and Evening Star</a></p><p class="youtube-embed-meta">Channel: Explaining Science &middot; Views: 20.1K &middot; Uploaded: November 2020 &middot; Length: 14 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Ov3fYgGwy60" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Ov3fYgGwy60">Open on YouTube</a></p></div></div></div>
+A sky chart does not prove that every report is Venus. It narrows the claim. If the alleged object was far from any bright planet or star, moved rapidly across a large part of the sky, changed direction independently, appeared on radar, or was observed by trained witnesses with good reference points, a planet explanation may weaken. But many classic false alarms never reach that stage. Once the time, direction and altitude are checked, the “unknown craft” becomes a known celestial object.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Ov3fYgGwy60" title="Venus -the Morning Star and Evening Star" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Ov3fYgGwy60" target="_blank" rel="noopener noreferrer">Venus -the Morning Star and Evening Star</a></p><p class="youtube-embed-meta">Channel: Explaining Science &middot; Views: 20.1K &middot; Uploaded: November 2020 &middot; Length: 14 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Ov3fYgGwy60" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Ov3fYgGwy60">Open on YouTube</a></p></div></div></div>
 
 ## What makes Hesse’s planet false alarms historically useful
 
 Bright-planet reports may sound mundane, but they are valuable in a state-level UFO history because they show how a modern sighting pipeline works. Hesse does not need a single spectacular unsolved incident for its UFO record to matter. Its importance comes partly from repeated, documented sorting: reports arrive, natural and technical causes are tested, and the public sees how quickly mystery can shrink when basic context is added.
 
-The 2023 and 2024 reporting also shows that false alarms evolve with the sky culture of the moment. Starlink dominated many public discussions after 2019, and Hessischer Rundfunk reported it as a major driver of 2024’s record sightings. Yet the older explanations did not disappear. Venus, Jupiter and Sirius continued to generate reports alongside newer causes such as drones, satellite chains, LED balloons and event lighting. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.hessenschau.de/panorama/wegen-starlink-und-drohnen-rekordzahl-an-ufo-sichtungen-in-deutschland-eingeschickt-v1%2Cufo-sichtungen-100.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hessenschau.de">[hessenschau.de]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hessenschau.de</span><span class="citation-popover-title">Rekordzahl an Ufo-Sichtungen in Deutschland eingeschickt</span><span class="citation-popover-snippet">January 10, 2025 — 10 Jan 2025 — Im vergangenen Jahr sorgten nach Angaben des CENAP-Leiters die auffällige Konstellation leuchtstarker Pl...</span><span class="citation-popover-meta">Published: January 10, 2025</span></span></span>
+The 2023 and 2024 reporting also shows that false alarms evolve with the sky culture of the moment. Starlink dominated many public discussions after 2019, and Hessischer Rundfunk reported it as a major driver of 2024’s record sightings. Yet the older explanations did not disappear. Venus, Jupiter and Sirius continued to generate reports alongside newer causes such as drones, satellite chains, LED balloons and event lighting.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.hessenschau.de/panorama/wegen-starlink-und-drohnen-rekordzahl-an-ufo-sichtungen-in-deutschland-eingeschickt-v1%2Cufo-sichtungen-100.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hessenschau.de">[hessenschau.de]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hessenschau.de</span><span class="citation-popover-title">Rekordzahl an Ufo-Sichtungen in Deutschland eingeschickt</span><span class="citation-popover-snippet">January 10, 2025 — 10 Jan 2025 — Im vergangenen Jahr sorgten nach Angaben des CENAP-Leiters die auffällige Konstellation leuchtstarker Pl...</span><span class="citation-popover-meta">Published: January 10, 2025</span></span></span>
 
 That continuity is the point. Hesse’s “classic false alarms” are not relics from the flying-saucer era. They remain active because the conditions that produce them are still common: people look up unexpectedly, the sky is partly obscured, bright objects appear in twilight, and a phone camera turns a small light into a dramatic blob. A modern witness may be more likely to think “drone” than “flying saucer”, but the underlying misidentification can be the same.
 
-The August 2025 Jupiter-Venus reports are a good example of this modernised language. Observers reportedly used descriptions such as drone-like twins and sky headlights, not old-fashioned saucers. CENAP’s explanation was nevertheless astronomical: two bright planets, close together, visible in the morning sky. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.zdfheute.de/panorama/lichter-himmel-ufo-jupiter-venus-100.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: zdfheute.de">[ZDFheute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">zdfheute.de</span><span class="citation-popover-title">Ungewöhnliche Lichter am Himmel sind keine Ufos</span><span class="citation-popover-snippet">Ungewöhnliche Lichter am Himmel sind keine Ufos</span></span></span>
-
-
-<img src="{{ "/assets/images/Hesse_19bb21_bright_planet_false_b5e314-Illustration-3-dark.svg" | relative_url }}" alt="Bright Planets illustration 3" data-theme-src-dark="{{ "/assets/images/Hesse_19bb21_bright_planet_false_b5e314-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Hesse_19bb21_bright_planet_false_b5e314-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+The August 2025 Jupiter-Venus reports are a good example of this modernised language. Observers reportedly used descriptions such as drone-like twins and sky headlights, not old-fashioned saucers. CENAP’s explanation was nevertheless astronomical: two bright planets, close together, visible in the morning sky.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.zdfheute.de/panorama/lichter-himmel-ufo-jupiter-venus-100.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: zdfheute.de">[ZDFheute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">zdfheute.de</span><span class="citation-popover-title">Ungewöhnliche Lichter am Himmel sind keine Ufos</span><span class="citation-popover-snippet">Ungewöhnliche Lichter am Himmel sind keine Ufos</span></span></span><img src="{{"/assets/images/Hesse_19bb21_bright_planet_false_b5e314-Illustration-3-dark.svg" | relative_url }}" alt="Bright Planets illustration 3" data-theme-src-dark="{{"/assets/images/Hesse_19bb21_bright_planet_false_b5e314-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{"/assets/images/Hesse_19bb21_bright_planet_false_b5e314-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How to read a Hesse bright-light case fairly
 
 A fair reading of a Hesse bright-light report avoids two mistakes. The first is to treat every witness as gullible. The second is to treat every vivid description as evidence of an extraordinary object. Planet false alarms sit between those extremes. They are often sincere, memorable and emotionally convincing, but they are also among the easiest UFO reports to test.
 
-A strong planet explanation usually has several features. The sighting occurred near dawn or dusk. The object was very bright, steady or slowly changing. It stayed in one part of the sky for minutes. It was seen low over a horizon, hill, skyline or tree line. The reported direction matches Venus, Jupiter or Sirius for that time and place. Other witnesses in nearby regions reported the same thing. CENAP’s 2025 Jupiter-Venus warning fits that pattern closely: a short-lived burst of public concern, repeated similar descriptions, and a simple planetary cause. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.zdfheute.de/panorama/lichter-himmel-ufo-jupiter-venus-100.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: zdfheute.de">[ZDFheute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">zdfheute.de</span><span class="citation-popover-title">Ungewöhnliche Lichter am Himmel sind keine Ufos</span><span class="citation-popover-snippet">Ungewöhnliche Lichter am Himmel sind keine Ufos</span></span></span>
+A strong planet explanation usually has several features. The sighting occurred near dawn or dusk. The object was very bright, steady or slowly changing. It stayed in one part of the sky for minutes. It was seen low over a horizon, hill, skyline or tree line. The reported direction matches Venus, Jupiter or Sirius for that time and place. Other witnesses in nearby regions reported the same thing. CENAP’s 2025 Jupiter-Venus warning fits that pattern closely: a short-lived burst of public concern, repeated similar descriptions, and a simple planetary cause.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.zdfheute.de/panorama/lichter-himmel-ufo-jupiter-venus-100.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: zdfheute.de">[ZDFheute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">zdfheute.de</span><span class="citation-popover-title">Ungewöhnliche Lichter am Himmel sind keine Ufos</span><span class="citation-popover-snippet">Ungewöhnliche Lichter am Himmel sind keine Ufos</span></span></span>
 
 A weaker planet explanation would be one where the direction is unknown, the time is approximate, the witness changed position, or the report arrived days later without a clear image. In those cases, “probably Venus” may be plausible but not proven. Evidence-led UFO writing should preserve that distinction. Some reports are identified; some are probably explained; some remain too poorly documented to classify.
 
-For Hesse, the broader conclusion is not that bright planets make UFO study pointless. It is that they set a baseline. Before a report can become a serious anomaly, it must survive the ordinary sky: Venus near the horizon, Jupiter in twilight, Sirius flashing low, satellites crossing, aircraft approaching Frankfurt, drones nearby, meteors burning up, and camera artefacts in low light. Many reports do not survive that first pass, and that is precisely why the pass matters.
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/c28UtMQnA6o" title="Bright Object Seen in SOHO LASCO C3! Is it a UFO or just Venus?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=c28UtMQnA6o" target="_blank" rel="noopener noreferrer">Bright Object Seen in SOHO LASCO C3! Is it a UFO or just Venus?</a></p><p class="youtube-embed-meta">Channel: thesuntoday &middot; Views: 2.3K &middot; Uploaded: July 2011 &middot; Length: 21 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=c28UtMQnA6o" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=c28UtMQnA6o">Open on YouTube</a></p></div></div></div>
+For Hesse, the broader conclusion is not that bright planets make UFO study pointless. It is that they set a baseline. Before a report can become a serious anomaly, it must survive the ordinary sky: Venus near the horizon, Jupiter in twilight, Sirius flashing low, satellites crossing, aircraft approaching Frankfurt, drones nearby, meteors burning up, and camera artefacts in low light. Many reports do not survive that first pass, and that is precisely why the pass matters.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/c28UtMQnA6o" title="Bright Object Seen in SOHO LASCO C3! Is it a UFO or just Venus?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=c28UtMQnA6o" target="_blank" rel="noopener noreferrer">Bright Object Seen in SOHO LASCO C3! Is it a UFO or just Venus?</a></p><p class="youtube-embed-meta">Channel: thesuntoday &middot; Views: 2.3K &middot; Uploaded: July 2011 &middot; Length: 21 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=c28UtMQnA6o" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=c28UtMQnA6o">Open on YouTube</a></p></div></div></div>
 
 ## The lasting lesson of the “Venus UFO”
 
 Venus still gets reported as a UFO because it appears in the exact visual niche where human judgement is weakest: bright, low, isolated, sometimes seen through haze or twilight, and difficult to judge for distance. Jupiter and Sirius add their own variants, especially when they are unusually prominent or appear close to another bright object. Hesse’s CENAP-linked record gives this old explanation a local importance because the state is not just a place where such reports occur; it is also where many of them are collected, compared and publicly explained.
 
-The result is a quieter but more useful kind of UFO history. Instead of treating every light as a mystery or every explanation as a dismissal, the Hesse pattern shows how identification works in practice. A witness sees something strange. The report is checked against the sky. Sometimes the answer is a satellite, aircraft, balloon, meteor or camera artefact. Very often, especially in the classic false-alarm category, it is simply Venus, Jupiter or Sirius doing what bright objects have always done: standing out in the sky strongly enough to feel unfamiliar.
-
-<section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Venus Still Gets Reported as a UFO. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
-        
-        <p class="fr-book-desc">Discusses careful investigation and the need to separate ordinary sightings from unexplained cases.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open NightWatch on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=BaMBgoKPmjAC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for NightWatch" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="NightWatch">NightWatch</a>
-        </h4>
-        <p class="fr-book-author">By Terence Dickinson</p>
-        
-        <p class="fr-book-desc">Explains bright planets, stars and sky identification that commonly lead to UFO misidentifications.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Turn+Left+at+Orion+by+Guy+Consolmagno&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Turn Left at Orion on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=h3712RgWkOYC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Turn Left at Orion" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Turn+Left+at+Orion+by+Guy+Consolmagno&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Turn Left at Orion">Turn Left at Orion</a>
-        </h4>
-        <p class="fr-book-author">By Guy Consolmagno, Dan M. Davis</p>
-        
-        <p class="fr-book-desc">Helps readers recognize planets and other common night-sky objects.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Turn+Left+at+Orion+by+Guy+Consolmagno&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Bad+Astronomy+by+Philip+C.+Plait&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Bad Astronomy on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=eInnwg77gbkC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Bad Astronomy" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Bad+Astronomy+by+Philip+C.+Plait&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Bad Astronomy">Bad Astronomy</a>
-        </h4>
-        <p class="fr-book-author">By Philip C. Plait</p>
-        
-        <p class="fr-book-desc">Explains common misconceptions about astronomy and celestial objects.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Bad+Astronomy+by+Philip+C.+Plait&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=NightWatch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">NightWatch</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Turn+Left+at+Orion&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Turn Left at Orion</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
-</section>
-
-<section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
-
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
-
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+tin+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bright-planets-why-venus-still-gets-reported-as-a-ufo-hesse-ufo-tin-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO tin sign" data-ebay-reference="bright-planets-why-venus-still-gets-reported-as-a-ufo-hesse-ufo-tin-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Flying Saucers Tin Sign 20cm X 30cm Retro Style"><img src="{{ '/assets/images/marketplace-covers/0766f5870481e1cb1479.jpg' | relative_url }}" alt="Listing image for UFO Flying Saucers Tin Sign 20cm X 30cm Retro Style" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+tin+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bright-planets-why-venus-still-gets-reported-as-a-ufo-hesse-ufo-tin-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO tin sign" data-ebay-reference="bright-planets-why-venus-still-gets-reported-as-a-ufo-hesse-ufo-tin-sign" target="_blank" rel="sponsored noopener noreferrer">UFO Flying Saucers Tin Sign 20cm X 30cm Retro Style</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+tin+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bright-planets-why-venus-still-gets-reported-as-a-ufo-hesse-ufo-tin-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO tin sign" data-ebay-reference="bright-planets-why-venus-still-gets-reported-as-a-ufo-hesse-ufo-tin-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO tin sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO tin sign</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+tin+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bright-planets-why-venus-still-gets-reported-as-a-ufo-hesse-ufo-tin-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO tin sign" data-ebay-reference="bright-planets-why-venus-still-gets-reported-as-a-ufo-hesse-ufo-tin-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+tin+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bright-planets-why-venus-still-gets-reported-as-a-ufo-hesse-ufo-tin-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO tin sign" data-ebay-reference="bright-planets-why-venus-still-gets-reported-as-a-ufo-hesse-ufo-tin-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Flying Saucers Tin Sign 30cm X 20cm Retro Style"><img src="{{ '/assets/images/marketplace-covers/9eb183499e616d1d237a.jpg' | relative_url }}" alt="Listing image for UFO Flying Saucers Tin Sign 30cm X 20cm Retro Style" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+tin+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bright-planets-why-venus-still-gets-reported-as-a-ufo-hesse-ufo-tin-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO tin sign" data-ebay-reference="bright-planets-why-venus-still-gets-reported-as-a-ufo-hesse-ufo-tin-sign" target="_blank" rel="sponsored noopener noreferrer">UFO Flying Saucers Tin Sign 30cm X 20cm Retro Style</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+tin+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bright-planets-why-venus-still-gets-reported-as-a-ufo-hesse-ufo-tin-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO tin sign" data-ebay-reference="bright-planets-why-venus-still-gets-reported-as-a-ufo-hesse-ufo-tin-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO tin sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO tin sign</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+tin+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bright-planets-why-venus-still-gets-reported-as-a-ufo-hesse-ufo-tin-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO tin sign" data-ebay-reference="bright-planets-why-venus-still-gets-reported-as-a-ufo-hesse-ufo-tin-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+tin+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bright-planets-why-venus-still-gets-reported-as-a-ufo-hesse-ufo-tin-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO tin sign" data-ebay-reference="bright-planets-why-venus-still-gets-reported-as-a-ufo-hesse-ufo-tin-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Aliens Area Explore The Galaxy Tin Sign 20cm X 30cm Retro Style"><img src="{{ '/assets/images/marketplace-covers/b6b9bdd489ae3c0b815e.jpg' | relative_url }}" alt="Listing image for Aliens Area Explore The Galaxy Tin Sign 20cm X 30cm Retro Style" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+tin+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bright-planets-why-venus-still-gets-reported-as-a-ufo-hesse-ufo-tin-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO tin sign" data-ebay-reference="bright-planets-why-venus-still-gets-reported-as-a-ufo-hesse-ufo-tin-sign" target="_blank" rel="sponsored noopener noreferrer">Aliens Area Explore The Galaxy Tin Sign 20cm X 30cm Retro Style</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+tin+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bright-planets-why-venus-still-gets-reported-as-a-ufo-hesse-ufo-tin-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO tin sign" data-ebay-reference="bright-planets-why-venus-still-gets-reported-as-a-ufo-hesse-ufo-tin-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO tin sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO tin sign</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+tin+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bright-planets-why-venus-still-gets-reported-as-a-ufo-hesse-ufo-tin-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO tin sign" data-ebay-reference="bright-planets-why-venus-still-gets-reported-as-a-ufo-hesse-ufo-tin-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+tin+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bright-planets-why-venus-still-gets-reported-as-a-ufo-hesse-ufo-tin-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO tin sign" data-ebay-reference="bright-planets-why-venus-still-gets-reported-as-a-ufo-hesse-ufo-tin-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage Area 51 Alien Metal Sign Retro UFO Tin Wall Art Home Bar Cafe Decor"><img src="{{ '/assets/images/marketplace-covers/6db7b2cc3951e1518785.jpg' | relative_url }}" alt="Listing image for Vintage Area 51 Alien Metal Sign Retro UFO Tin Wall Art Home Bar Cafe Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+tin+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bright-planets-why-venus-still-gets-reported-as-a-ufo-hesse-ufo-tin-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO tin sign" data-ebay-reference="bright-planets-why-venus-still-gets-reported-as-a-ufo-hesse-ufo-tin-sign" target="_blank" rel="sponsored noopener noreferrer">Vintage Area 51 Alien Metal Sign Retro UFO Tin Wall Art Home Bar Cafe Decor</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+tin+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bright-planets-why-venus-still-gets-reported-as-a-ufo-hesse-ufo-tin-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO tin sign" data-ebay-reference="bright-planets-why-venus-still-gets-reported-as-a-ufo-hesse-ufo-tin-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO tin sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO tin sign</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+tin+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bright-planets-why-venus-still-gets-reported-as-a-ufo-hesse-ufo-tin-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO tin sign" data-ebay-reference="bright-planets-why-venus-still-gets-reported-as-a-ufo-hesse-ufo-tin-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+tin+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bright-planets-why-venus-still-gets-reported-as-a-ufo-hesse-ufo-tin-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO tin sign" data-ebay-reference="bright-planets-why-venus-still-gets-reported-as-a-ufo-hesse-ufo-tin-sign" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+The result is a quieter but more useful kind of UFO history. Instead of treating every light as a mystery or every explanation as a dismissal, the Hesse pattern shows how identification works in practice. A witness sees something strange. The report is checked against the sky. Sometimes the answer is a satellite, aircraft, balloon, meteor or camera artefact. Very often, especially in the classic false-alarm category, it is simply Venus, Jupiter or Sirius doing what bright objects have always done: standing out in the sky strongly enough to feel unfamiliar.<section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title"><div class="fr-section-shell"><div class="fr-section-header"><div class="fr-section-heading"><p class="fr-section-kicker">Amazon book picks</p><h3 class="fr-heading" id="further-reading-title">Further Reading</h3></div><p class="fr-intro">Books and field guides related to Why Venus Still Gets Reported as a UFO. Use these as the next step if you want deeper reading beyond the article.</p></div><div class="fr-books-grid"><article class="fr-book-card"><a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a><div class="fr-book-info"><h4 class="fr-book-title"><a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a></h4><p class="fr-book-author">By Joseph Allen Hynek</p><p class="fr-book-desc">Discusses careful investigation and the need to separate ordinary sightings from unexplained cases.</p><div class="fr-book-actions"><a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon</a></div></div></article><article class="fr-book-card"><a class="fr-book-cover" href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open NightWatch on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=BaMBgoKPmjAC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for NightWatch" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a><div class="fr-book-info"><h4 class="fr-book-title"><a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="NightWatch">NightWatch</a></h4><p class="fr-book-author">By Terence Dickinson</p><p class="fr-book-desc">Explains bright planets, stars and sky identification that commonly lead to UFO misidentifications.</p><div class="fr-book-actions"><a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon</a></div></div></article><article class="fr-book-card"><a class="fr-book-cover" href="https://www.amazon.com/s?k=Turn+Left+at+Orion+by+Guy+Consolmagno&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Turn Left at Orion on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=h3712RgWkOYC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Turn Left at Orion" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a><div class="fr-book-info"><h4 class="fr-book-title"><a href="https://www.amazon.com/s?k=Turn+Left+at+Orion+by+Guy+Consolmagno&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Turn Left at Orion">Turn Left at Orion</a></h4><p class="fr-book-author">By Guy Consolmagno, Dan M. Davis</p><p class="fr-book-desc">Helps readers recognize planets and other common night-sky objects.</p><div class="fr-book-actions"><a href="https://www.amazon.com/s?k=Turn+Left+at+Orion+by+Guy+Consolmagno&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon</a></div></div></article><article class="fr-book-card"><a class="fr-book-cover" href="https://www.amazon.com/s?k=Bad+Astronomy+by+Philip+C.+Plait&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Bad Astronomy on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=eInnwg77gbkC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Bad Astronomy" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a><div class="fr-book-info"><h4 class="fr-book-title"><a href="https://www.amazon.com/s?k=Bad+Astronomy+by+Philip+C.+Plait&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Bad Astronomy">Bad Astronomy</a></h4><p class="fr-book-author">By Philip C. Plait</p><p class="fr-book-desc">Explains common misconceptions about astronomy and celestial objects.</p><div class="fr-book-actions"><a href="https://www.amazon.com/s?k=Bad+Astronomy+by+Philip+C.+Plait&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon</a></div></div></article></div><div class="fr-section-footer"><div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=NightWatch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">NightWatch</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Turn+Left+at+Orion&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Turn Left at Orion</a></div><p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p></div></div></section><section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title"><div class="fr-section-shell"><div class="fr-section-header"><div class="fr-section-heading"><p class="fr-section-kicker">eBay marketplace picks</p><h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3></div><p class="fr-intro">Live-tested eBay searches with available results related to this page.</p><div class="fr-ebay-market-toolbar"><label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label><div class="fr-ebay-market-picker"><span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span><button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span><span data-ebay-trigger-market-label>USA</span></button><select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location"><option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option></select><div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button></div></div></div></div><div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1"><div class="fr-books-grid"><article class="fr-book-card"><a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bright-planets-why-venus-still-gets-reported-as-a-ufo-hesse-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="bright-planets-why-venus-still-gets-reported-as-a-ufo-hesse-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster"><img src="{{'/assets/images/marketplace-covers/1c88b7bbf9dcca7c2052.jpg' | relative_url }}" alt="Listing image for Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a><div class="fr-book-info"><p class="fr-book-kicker">Example eBay listing</p><h4 class="fr-book-title"><a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bright-planets-why-venus-still-gets-reported-as-a-ufo-hesse-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="bright-planets-why-venus-still-gets-reported-as-a-ufo-hesse-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer">Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster</a></h4><a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bright-planets-why-venus-still-gets-reported-as-a-ufo-hesse-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="bright-planets-why-venus-still-gets-reported-as-a-ufo-hesse-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a><div class="fr-book-actions"><a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bright-planets-why-venus-still-gets-reported-as-a-ufo-hesse-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="bright-planets-why-venus-still-gets-reported-as-a-ufo-hesse-ufo-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span></a></div></div></article><article class="fr-book-card"><a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bright-planets-why-venus-still-gets-reported-as-a-ufo-hesse-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="bright-planets-why-venus-still-gets-reported-as-a-ufo-hesse-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT"><img src="{{'/assets/images/marketplace-covers/3a6f7ab8ea3027df881c.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT" loading="lazy" decoding="async" fetchpriority="low"></a><div class="fr-book-info"><p class="fr-book-kicker">Example eBay listing</p><h4 class="fr-book-title"><a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bright-planets-why-venus-still-gets-reported-as-a-ufo-hesse-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="bright-planets-why-venus-still-gets-reported-as-a-ufo-hesse-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT</a></h4><a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bright-planets-why-venus-still-gets-reported-as-a-ufo-hesse-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="bright-planets-why-venus-still-gets-reported-as-a-ufo-hesse-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a><div class="fr-book-actions"><a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bright-planets-why-venus-still-gets-reported-as-a-ufo-hesse-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="bright-planets-why-venus-still-gets-reported-as-a-ufo-hesse-ufo-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span></a></div></div></article><article class="fr-book-card"><a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bright-planets-why-venus-still-gets-reported-as-a-ufo-hesse-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="bright-planets-why-venus-still-gets-reported-as-a-ufo-hesse-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed"><img src="{{'/assets/images/marketplace-covers/e8cb9b044fa1eba2419a.jpg' | relative_url }}" alt="Listing image for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed" loading="lazy" decoding="async" fetchpriority="low"></a><div class="fr-book-info"><p class="fr-book-kicker">Example eBay listing</p><h4 class="fr-book-title"><a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bright-planets-why-venus-still-gets-reported-as-a-ufo-hesse-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="bright-planets-why-venus-still-gets-reported-as-a-ufo-hesse-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer">The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed</a></h4><a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bright-planets-why-venus-still-gets-reported-as-a-ufo-hesse-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="bright-planets-why-venus-still-gets-reported-as-a-ufo-hesse-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a><div class="fr-book-actions"><a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bright-planets-why-venus-still-gets-reported-as-a-ufo-hesse-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="bright-planets-why-venus-still-gets-reported-as-a-ufo-hesse-ufo-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span></a></div></div></article><article class="fr-book-card"><a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bright-planets-why-venus-still-gets-reported-as-a-ufo-hesse-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="bright-planets-why-venus-still-gets-reported-as-a-ufo-hesse-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="{{'/assets/images/marketplace-covers/969b2fe86c86a33a042a.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a><div class="fr-book-info"><p class="fr-book-kicker">Example eBay listing</p><h4 class="fr-book-title"><a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bright-planets-why-venus-still-gets-reported-as-a-ufo-hesse-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="bright-planets-why-venus-still-gets-reported-as-a-ufo-hesse-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a></h4><a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bright-planets-why-venus-still-gets-reported-as-a-ufo-hesse-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="bright-planets-why-venus-still-gets-reported-as-a-ufo-hesse-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a><div class="fr-book-actions"><a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bright-planets-why-venus-still-gets-reported-as-a-ufo-hesse-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="bright-planets-why-venus-still-gets-reported-as-a-ufo-hesse-ufo-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span></a></div></div></article></div><div class="fr-section-footer"><a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bright-planets-why-venus-still-gets-reported-as-a-ufo-hesse-ufo-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print" data-ebay-reference="bright-planets-why-venus-still-gets-reported-as-a-ufo-hesse-ufo-art-print" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span></a><p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p></div></div></div><script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
-  var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
-  var timezoneRules = [{"market": "EBAY_IE", "pattern": "^Europe/Dublin$"}, {"market": "EBAY_GB", "pattern": "^Europe/(London|Belfast)$"}, {"market": "EBAY_CA", "pattern": "^America/(Toronto|Vancouver|Edmonton|Winnipeg|Halifax|St_Johns|Regina|Saskatoon|Whitehorse|Dawson|Moncton|Glace_Bay|Goose_Bay|Iqaluit|Yellowknife|Inuvik|Rankin_Inlet|Resolute|Cambridge_Bay|Fort_Nelson|Creston|Dawson_Creek)$"}, {"market": "EBAY_US", "pattern": "^America/"}, {"market": "EBAY_DE", "pattern": "^Europe/Berlin$"}, {"market": "EBAY_FR", "pattern": "^Europe/Paris$"}, {"market": "EBAY_IT", "pattern": "^Europe/Rome$"}, {"market": "EBAY_ES", "pattern": "^Europe/Madrid$"}, {"market": "EBAY_AU", "pattern": "^Australia/"}, {"market": "EBAY_AU", "pattern": "^Pacific/(Auckland|Chatham)$"}];
+  var localeMarketMap = {"de":"EBAY_DE","de-at":"EBAY_AT","de-ch":"EBAY_CH","de-de":"EBAY_DE","en":"EBAY_US","en-au":"EBAY_AU","en-ca":"EBAY_CA","en-gb":"EBAY_GB","en-ie":"EBAY_IE","en-nz":"EBAY_AU","en-uk":"EBAY_GB","en-us":"EBAY_US","es":"EBAY_ES","es-es":"EBAY_ES","fr":"EBAY_FR","fr-be":"EBAY_BE","fr-ca":"EBAY_CA","fr-fr":"EBAY_FR","it":"EBAY_IT","it-it":"EBAY_IT","nl":"EBAY_NL","nl-be":"EBAY_BE","nl-nl":"EBAY_NL"};
+  var timezoneRules = [{"market":"EBAY_IE","pattern":"^Europe/Dublin$"}, {"market":"EBAY_GB","pattern":"^Europe/(London|Belfast)$"}, {"market":"EBAY_CA","pattern":"^America/(Toronto|Vancouver|Edmonton|Winnipeg|Halifax|St_Johns|Regina|Saskatoon|Whitehorse|Dawson|Moncton|Glace_Bay|Goose_Bay|Iqaluit|Yellowknife|Inuvik|Rankin_Inlet|Resolute|Cambridge_Bay|Fort_Nelson|Creston|Dawson_Creek)$"}, {"market":"EBAY_US","pattern":"^America/"}, {"market":"EBAY_DE","pattern":"^Europe/Berlin$"}, {"market":"EBAY_FR","pattern":"^Europe/Paris$"}, {"market":"EBAY_IT","pattern":"^Europe/Rome$"}, {"market":"EBAY_ES","pattern":"^Europe/Madrid$"}, {"market":"EBAY_AU","pattern":"^Australia/"}, {"market":"EBAY_AU","pattern":"^Pacific/(Auckland|Chatham)$"}];
   function normalize(value) {
-    return String(value || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
+    return String(value ||'').toLowerCase().replace(/_/g,'-').replace(/[^a-z0-9-]+/g,'');
   }
   function localeMatches() {
     var languages = [];
-    var exactMarket = '';
-    var languageMarket = '';
+    var exactMarket ='';
+    var languageMarket ='';
     try {
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -623,24 +416,24 @@ The result is a quieter but more useful kind of UFO history. Instead of treating
   }
   function inferFromLocale() {
     var matches = localeMatches();
-    return matches.exact || matches.language || '';
+    return matches.exact || matches.language ||'';
   }
   function inferFromTimezone() {
-    var tz = '';
-    try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
-    if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    var tz ='';
+    try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone ||''); } catch (err) {}
+    if (!tz) return'';
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
       } catch (err) {}
     }
-    return '';
+    return'';
   }
   function inferMarket(available, options) {
     available = Array.isArray(available) ? available : [];
     options = options || {};
-    var storageKey = options.storageKey || 'phoenix-affiliate-market';
+    var storageKey = options.storageKey ||'phoenix-affiliate-market';
     try {
       var saved = window.localStorage && localStorage.getItem(storageKey);
       if (saved && available.indexOf(saved) >= 0) return saved;
@@ -651,7 +444,7 @@ The result is a quieter but more useful kind of UFO history. Instead of treating
     if (localeMarkets.exact && available.indexOf(localeMarkets.exact) >= 0) return localeMarkets.exact;
     if (localeMarkets.language && available.indexOf(localeMarkets.language) >= 0) return localeMarkets.language;
     if (options.defaultMarket && available.indexOf(options.defaultMarket) >= 0) return options.defaultMarket;
-    return available[0] || '';
+    return available[0] ||'';
   }
   window.PhoenixAffiliateLocation = {
     normalize: normalize,
@@ -659,45 +452,43 @@ The result is a quieter but more useful kind of UFO history. Instead of treating
     inferFromLocale: inferFromLocale,
     inferFromTimezone: inferFromTimezone
   };
-})();
-</script>
-  <script type="text/javascript">
+})();</script><script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
-  var markets = {"EBAY_AU": {"campaign_id": "5339151051", "domain_label": "eBay.com.au", "label": "Australia", "mkrid": "705-53470-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com.au/sch/i.html?_nkw={query}"}, "EBAY_CA": {"campaign_id": "5339151051", "domain_label": "eBay.ca", "label": "Canada", "mkrid": "706-53473-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ca/sch/i.html?_nkw={query}"}, "EBAY_GB": {"campaign_id": "5339151051", "domain_label": "eBay.co.uk", "label": "UK", "mkrid": "710-53481-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.co.uk/sch/i.html?_nkw={query}"}, "EBAY_IE": {"campaign_id": "5339151051", "domain_label": "eBay.ie", "label": "Ireland", "mkrid": "5282-53468-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ie/sch/i.html?_nkw={query}"}, "EBAY_US": {"campaign_id": "5339151051", "domain_label": "eBay.com", "label": "USA", "mkrid": "711-53200-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com/sch/i.html?_nkw={query}"}};
-  var defaultMarket = "EBAY_GB";
+  var markets = {"EBAY_AU": {"campaign_id":"5339151051","domain_label":"eBay.com.au","label":"Australia","mkrid":"705-53470-19255-0","tool_id":"10001","url_template":"https://www.ebay.com.au/sch/i.html?_nkw={query}"},"EBAY_CA": {"campaign_id":"5339151051","domain_label":"eBay.ca","label":"Canada","mkrid":"706-53473-19255-0","tool_id":"10001","url_template":"https://www.ebay.ca/sch/i.html?_nkw={query}"},"EBAY_GB": {"campaign_id":"5339151051","domain_label":"eBay.co.uk","label":"UK","mkrid":"710-53481-19255-0","tool_id":"10001","url_template":"https://www.ebay.co.uk/sch/i.html?_nkw={query}"},"EBAY_IE": {"campaign_id":"5339151051","domain_label":"eBay.ie","label":"Ireland","mkrid":"5282-53468-19255-0","tool_id":"10001","url_template":"https://www.ebay.ie/sch/i.html?_nkw={query}"},"EBAY_US": {"campaign_id":"5339151051","domain_label":"eBay.com","label":"USA","mkrid":"711-53200-19255-0","tool_id":"10001","url_template":"https://www.ebay.com/sch/i.html?_nkw={query}"}};
+  var defaultMarket ="EBAY_GB";
   function encodeQuery(value) {
-    return encodeURIComponent(String(value || '').replace(/\s+/g, ' ').trim()).replace(/%20/g, '+');
+    return encodeURIComponent(String(value ||'').replace(/\s+/g,'').trim()).replace(/%20/g,'+');
   }
   function buildUrl(query, reference, marketId) {
     var cfg = markets[marketId] || markets[defaultMarket];
-    if (!cfg) return '#';
-    var template = String(cfg.url_template || 'https://www.ebay.com/sch/i.html?_nkw={query}');
-    var url = template.replace('{query}', encodeQuery(query || '')).replace('{query_plain}', String(query || ''));
-    var joiner = url.indexOf('?') >= 0 ? '&' : '?';
+    if (!cfg) return'#';
+    var template = String(cfg.url_template ||'https://www.ebay.com/sch/i.html?_nkw={query}');
+    var url = template.replace('{query}', encodeQuery(query ||'')).replace('{query_plain}', String(query ||''));
+    var joiner = url.indexOf('?') >= 0 ?'&' :'?';
     var params = [];
     if (cfg.mkrid) params.push('mkrid=' + encodeURIComponent(cfg.mkrid));
     if (cfg.campaign_id) params.push('campid=' + encodeURIComponent(cfg.campaign_id));
     params.push('mkevt=1');
     params.push('mkcid=1');
-    params.push('toolid=' + encodeURIComponent(cfg.tool_id || '10001'));
+    params.push('toolid=' + encodeURIComponent(cfg.tool_id ||'10001'));
     if (reference) params.push('customid=' + encodeURIComponent(reference).slice(0, 256));
     return url + joiner + params.join('&');
   }
   function domainLabel(marketId) {
     var cfg = markets[marketId] || markets[defaultMarket] || {};
-    return cfg.domain_label || 'eBay';
+    return cfg.domain_label ||'eBay';
   }
   function flagClass(marketId) {
-    return 'fr-ebay-market-flag fr-ebay-market-flag--' + String(marketId || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
+    return'fr-ebay-market-flag fr-ebay-market-flag--' + String(marketId ||'').toLowerCase().replace(/_/g,'-').replace(/[^a-z0-9-]+/g,'');
   }
   function closeMenu(section) {
     var menu = section.querySelector('[data-ebay-market-menu]');
     var trigger = section.querySelector('[data-ebay-market-trigger]');
     var picker = section.querySelector('.fr-ebay-market-picker');
     if (menu) menu.hidden = true;
-    if (trigger) trigger.setAttribute('aria-expanded', 'false');
+    if (trigger) trigger.setAttribute('aria-expanded','false');
     if (picker) picker.classList.remove('fr-ebay-market-picker--open');
   }
   function availableMarkets(section) {
@@ -713,10 +504,10 @@ The result is a quieter but more useful kind of UFO history. Instead of treating
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
-      var query = link.getAttribute('data-ebay-query') || '';
-      var reference = link.getAttribute('data-ebay-reference') || '';
+      var query = link.getAttribute('data-ebay-query') ||'';
+      var reference = link.getAttribute('data-ebay-reference') ||'';
       link.setAttribute('href', buildUrl(query, reference, marketId));
     });
     var select = section.querySelector('[data-ebay-market-select]');
@@ -736,11 +527,11 @@ The result is a quieter but more useful kind of UFO history. Instead of treating
       label.textContent = domainLabel(marketId);
     });
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
-      button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
+      button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ?'true' :'false');
     });
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
       var active = button.getAttribute('data-ebay-market-button') === marketId;
-      button.setAttribute('aria-pressed', active ? 'true' : 'false');
+      button.setAttribute('aria-pressed', active ?'true' :'false');
     });
     section.setAttribute('data-ebay-selected-market', marketId);
     if (persist) {
@@ -749,16 +540,16 @@ The result is a quieter but more useful kind of UFO history. Instead of treating
     closeMenu(section);
   }
   sections.forEach(function (section) {
-    if (section.getAttribute('data-ebay-localized-init') === '1') return;
-    section.setAttribute('data-ebay-localized-init', '1');
+    if (section.getAttribute('data-ebay-localized-init') ==='1') return;
+    section.setAttribute('data-ebay-localized-init','1');
     var available = availableMarkets(section);
     var marketId = defaultMarket;
     if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
       marketId = window.PhoenixAffiliateLocation.inferMarket(available, {
-        storageKey: 'phoenix-ebay-market',
+        storageKey:'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -772,9 +563,9 @@ The result is a quieter but more useful kind of UFO history. Instead of treating
     if (trigger && menu) {
       trigger.addEventListener('click', function (event) {
         event.stopPropagation();
-        var expanded = trigger.getAttribute('aria-expanded') === 'true';
+        var expanded = trigger.getAttribute('aria-expanded') ==='true';
         menu.hidden = expanded;
-        trigger.setAttribute('aria-expanded', expanded ? 'false' : 'true');
+        trigger.setAttribute('aria-expanded', expanded ?'false' :'true');
         var picker = trigger.closest('.fr-ebay-market-picker');
         if (picker) picker.classList.toggle('fr-ebay-market-picker--open', !expanded);
       });
@@ -793,138 +584,128 @@ The result is a quieter but more useful kind of UFO history. Instead of treating
     });
     applyMarket(section, marketId, false);
   });
-})();
-</script>
-</section>
+})();</script></section>
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: merkur.de  
-   Link: <a href="https://www.merkur.de/wissen/jupiter-starlink-astronomie-ufo-meldestelle-807-meldungen-himmel-objekte-stern-planet-venus-zr-92756211.html" target="_blank" rel="noopener noreferrer nofollow">https://www.merkur.de/wissen/jupiter-starlink-astronomie-ufo-meldestelle-807-meldungen-himmel-objekte-stern-planet-venus-zr-92756211.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>807 Ufo-Meldungen im vergangenen Jahr16 Jan 2024 — Insgesamt wurde 164 Mal der Planet Venus gemeldet, 83 Mal der Jupiter und 31 Mal...</p></details>
+   Link:<a href="https://www.merkur.de/wissen/jupiter-starlink-astronomie-ufo-meldestelle-807-meldungen-himmel-objekte-stern-planet-venus-zr-92756211.html" target="_blank" rel="noopener noreferrer nofollow">https://www.merkur.de/wissen/jupiter-starlink-astronomie-ufo-meldestelle-807-meldungen-himmel-objekte-stern-planet-venus-zr-92756211.html</a><details class="endnote-snippet"><summary>Source snippet</summary><p>807 Ufo-Meldungen im vergangenen Jahr16 Jan 2024 — Insgesamt wurde 164 Mal der Planet Venus gemeldet, 83 Mal der Jupiter und 31 Mal...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: hessenschau.de  
    Title: Rekordzahl an Ufo-Sichtungen in Deutschland eingeschickt  
-   Link: <a href="https://www.hessenschau.de/panorama/wegen-starlink-und-drohnen-rekordzahl-an-ufo-sichtungen-in-deutschland-eingeschickt-v1%2Cufo-sichtungen-100.html" target="_blank" rel="noopener noreferrer nofollow">https://www.hessenschau.de/panorama/wegen-starlink-und-drohnen-rekordzahl-an-ufo-sichtungen-in-deutschland-eingeschickt-v1%2Cufo-sichtungen-100.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>January 10, 2025 — 10 Jan 2025 — Im vergangenen Jahr sorgten nach Angaben des CENAP-Leiters die auffällige Konstellation leuchtstarker Pl...</p></details>
+   Link:<a href="https://www.hessenschau.de/panorama/wegen-starlink-und-drohnen-rekordzahl-an-ufo-sichtungen-in-deutschland-eingeschickt-v1%2Cufo-sichtungen-100.html" target="_blank" rel="noopener noreferrer nofollow">https://www.hessenschau.de/panorama/wegen-starlink-und-drohnen-rekordzahl-an-ufo-sichtungen-in-deutschland-eingeschickt-v1%2Cufo-sichtungen-100.html</a><details class="endnote-snippet"><summary>Source snippet</summary><p>January 10, 2025 — 10 Jan 2025 — Im vergangenen Jahr sorgten nach Angaben des CENAP-Leiters die auffällige Konstellation leuchtstarker Pl...</p></details>
    Published: January 10, 2025  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: nightsky.jpl.nasa.gov  
-   Link: <a href="https://nightsky.jpl.nasa.gov/news/39/" target="_blank" rel="noopener noreferrer nofollow">https://nightsky.jpl.nasa.gov/news/39/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Night Sky NetworkIdentifying UFOs and UAPs1 Dec 2013 — Venus shining bright and low has been reported many times as a UFO. Do you think y...</p></details>
+   Link:<a href="https://nightsky.jpl.nasa.gov/news/39/" target="_blank" rel="noopener noreferrer nofollow">https://nightsky.jpl.nasa.gov/news/39/</a><details class="endnote-snippet"><summary>Source snippet</summary><p>Night Sky NetworkIdentifying UFOs and UAPs1 Dec 2013 — Venus shining bright and low has been reported many times as a UFO. Do you think y...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: science.nasa.gov  
    Title: Science Venus: Facts  
-   Link: <a href="https://science.nasa.gov/venus/venus-facts/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/venus/venus-facts/</a>  
+   Link:<a href="https://science.nasa.gov/venus/venus-facts/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/venus/venus-facts/</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: hna.de  
-   Link: <a href="https://www.hna.de/wissen/sterne-planeten-astronomie-ufo-meldestelle-rekordjahr-807-vermeintliche-ufos-92756281.html" target="_blank" rel="noopener noreferrer nofollow">https://www.hna.de/wissen/sterne-planeten-astronomie-ufo-meldestelle-rekordjahr-807-vermeintliche-ufos-92756281.html</a>  
+   Link:<a href="https://www.hna.de/wissen/sterne-planeten-astronomie-ufo-meldestelle-rekordjahr-807-vermeintliche-ufos-92756281.html" target="_blank" rel="noopener noreferrer nofollow">https://www.hna.de/wissen/sterne-planeten-astronomie-ufo-meldestelle-rekordjahr-807-vermeintliche-ufos-92756281.html</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: zdfheute.de  
    Title: Ungewöhnliche Lichter am Himmel sind keine Ufos  
-   Link: <a href="https://www.zdfheute.de/panorama/lichter-himmel-ufo-jupiter-venus-100.html" target="_blank" rel="noopener noreferrer nofollow">https://www.zdfheute.de/panorama/lichter-himmel-ufo-jupiter-venus-100.html</a>  
+   Link:<a href="https://www.zdfheute.de/panorama/lichter-himmel-ufo-jupiter-venus-100.html" target="_blank" rel="noopener noreferrer nofollow">https://www.zdfheute.de/panorama/lichter-himmel-ufo-jupiter-venus-100.html</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: spektrum.de  
    Title: Morgenhimmel: Jupiter und Venus lösen UFO-Meldungen  
-   Link: <a href="https://www.spektrum.de/news/morgenhimmel-jupiter-und-venus-loesen-ufo-meldungen-aus/2282273" target="_blank" rel="noopener noreferrer nofollow">https://www.spektrum.de/news/morgenhimmel-jupiter-und-venus-loesen-ufo-meldungen-aus/2282273</a>  
+   Link:<a href="https://www.spektrum.de/news/morgenhimmel-jupiter-und-venus-loesen-ufo-meldungen-aus/2282273" target="_blank" rel="noopener noreferrer nofollow">https://www.spektrum.de/news/morgenhimmel-jupiter-und-venus-loesen-ufo-meldungen-aus/2282273</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: skybrary.aero  
-   Link: <a href="https://skybrary.aero/articles/autokinetic-effect" target="_blank" rel="noopener noreferrer nofollow">https://skybrary.aero/articles/autokinetic-effect</a>  
+   Link:<a href="https://skybrary.aero/articles/autokinetic-effect" target="_blank" rel="noopener noreferrer nofollow">https://skybrary.aero/articles/autokinetic-effect</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: handelsblatt.com  
    Title: Rekordzahl von UFO-Sichtungen bei Meldestelle  
-   Link: <a href="https://www.handelsblatt.com/dpa/erscheinungen-am-himmel-rekordzahl-von-ufo-sichtungen-bei-meldestelle-eingegangen/30161262.html" target="_blank" rel="noopener noreferrer nofollow">https://www.handelsblatt.com/dpa/erscheinungen-am-himmel-rekordzahl-von-ufo-sichtungen-bei-meldestelle-eingegangen/30161262.html</a>  
+   Link:<a href="https://www.handelsblatt.com/dpa/erscheinungen-am-himmel-rekordzahl-von-ufo-sichtungen-bei-meldestelle-eingegangen/30161262.html" target="_blank" rel="noopener noreferrer nofollow">https://www.handelsblatt.com/dpa/erscheinungen-am-himmel-rekordzahl-von-ufo-sichtungen-bei-meldestelle-eingegangen/30161262.html</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: zdfheute.de  
    Title: ufo sichtungen rekord cenap forschungsgruppe 100  
-   Link: <a href="https://www.zdfheute.de/panorama/ufo-sichtungen-rekord-cenap-forschungsgruppe-100.html" target="_blank" rel="noopener noreferrer nofollow">https://www.zdfheute.de/panorama/ufo-sichtungen-rekord-cenap-forschungsgruppe-100.html</a>  
+   Link:<a href="https://www.zdfheute.de/panorama/ufo-sichtungen-rekord-cenap-forschungsgruppe-100.html" target="_blank" rel="noopener noreferrer nofollow">https://www.zdfheute.de/panorama/ufo-sichtungen-rekord-cenap-forschungsgruppe-100.html</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: hessenschau.de  
-   Link: <a href="https://www.hessenschau.de/panorama/deutsche-ufo-meldestelle-verzeichnet-neuen-rekord-von-sichtungen-v1%2Cufo-meldestelle-104.html" target="_blank" rel="noopener noreferrer nofollow">https://www.hessenschau.de/panorama/deutsche-ufo-meldestelle-verzeichnet-neuen-rekord-von-sichtungen-v1%2Cufo-meldestelle-104.html</a>  
+   Link:<a href="https://www.hessenschau.de/panorama/deutsche-ufo-meldestelle-verzeichnet-neuen-rekord-von-sichtungen-v1%2Cufo-meldestelle-104.html" target="_blank" rel="noopener noreferrer nofollow">https://www.hessenschau.de/panorama/deutsche-ufo-meldestelle-verzeichnet-neuen-rekord-von-sichtungen-v1%2Cufo-meldestelle-104.html</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: space.com  
-   Link: <a href="https://www.space.com/stargazing/astrophotography/closer-every-day-a-spectacular-30-day-collage-of-the-venus-jupiter-conjunction-photo" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/stargazing/astrophotography/closer-every-day-a-spectacular-30-day-collage-of-the-venus-jupiter-conjunction-photo</a>  
+   Link:<a href="https://www.space.com/stargazing/astrophotography/closer-every-day-a-spectacular-30-day-collage-of-the-venus-jupiter-conjunction-photo" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/stargazing/astrophotography/closer-every-day-a-spectacular-30-day-collage-of-the-venus-jupiter-conjunction-photo</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: space.com  
    Title: venus reaches solar conjunction jan 2026  
-   Link: <a href="https://www.space.com/stargazing/venus-reaches-solar-conjunction-jan-2026" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/stargazing/venus-reaches-solar-conjunction-jan-2026</a>  
+   Link:<a href="https://www.space.com/stargazing/venus-reaches-solar-conjunction-jan-2026" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/stargazing/venus-reaches-solar-conjunction-jan-2026</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: astronomy.com  
    Title: the sky today monday june 1 2026  
-   Link: <a href="https://www.astronomy.com/observing/the-sky-today-monday-june-1-2026/" target="_blank" rel="noopener noreferrer nofollow">https://www.astronomy.com/observing/the-sky-today-monday-june-1-2026/</a>  
+   Link:<a href="https://www.astronomy.com/observing/the-sky-today-monday-june-1-2026/" target="_blank" rel="noopener noreferrer nofollow">https://www.astronomy.com/observing/the-sky-today-monday-june-1-2026/</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: Wikipedia  
    Title: Autokinetic effect  
-   Link: <a href="https://en.wikipedia.org/wiki/Autokinetic_effect" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Autokinetic_effect</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Autokinetic_effect" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Autokinetic_effect</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: stern.de  
    Title: himmelsphaenomene ufo meldestelle verzeichnet rekordzahl 37012656  
-   Link: <a href="https://www.stern.de/panorama/weltgeschehen/himmelsphaenomene--ufo-meldestelle-verzeichnet-rekordzahl-37012656.html" target="_blank" rel="noopener noreferrer nofollow">https://www.stern.de/panorama/weltgeschehen/himmelsphaenomene--ufo-meldestelle-verzeichnet-rekordzahl-37012656.html</a>  
+   Link:<a href="https://www.stern.de/panorama/weltgeschehen/himmelsphaenomene--ufo-meldestelle-verzeichnet-rekordzahl-37012656.html" target="_blank" rel="noopener noreferrer nofollow">https://www.stern.de/panorama/weltgeschehen/himmelsphaenomene--ufo-meldestelle-verzeichnet-rekordzahl-37012656.html</a>  
 
 ### Additional References
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: youtube.com  
    Title: It's Logical Podcast Episode 9: Unidentified Aerial Phenomenon  
-   Link: <a href="https://www.youtube.com/watch?v=myEKdyPgIyY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=myEKdyPgIyY</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>This video is highly relevant as it features Werner Walter, the co-founder of Germany&#x27;s Hesse-adjacent UFO research network CENAP, explic...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=myEKdyPgIyY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=myEKdyPgIyY</a><details class="endnote-snippet"><summary>Source snippet</summary><p>This video is highly relevant as it features Werner Walter, the co-founder of Germany&#x27;s Hesse-adjacent UFO research network CENAP, explic...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: youtube.com  
    Title: Have you ever seen a UFO?  
-   Link: <a href="https://www.youtube.com/watch?v=57jRz1LB6nc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=57jRz1LB6nc</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Bright Object Seen in SOHO LASCO C3! Is it a UFO or just Venus?...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=57jRz1LB6nc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=57jRz1LB6nc</a><details class="endnote-snippet"><summary>Source snippet</summary><p>Bright Object Seen in SOHO LASCO C3! Is it a UFO or just Venus?...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: youtube.com  
    Title: Venus -the Morning Star and Evening Star  
-   Link: <a href="https://www.youtube.com/watch?v=Ov3fYgGwy60" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Ov3fYgGwy60</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>It&#x27;s Logical Podcast Episode 9: Unidentified Aerial Phenomenon - Documentary Podcast...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=Ov3fYgGwy60" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Ov3fYgGwy60</a><details class="endnote-snippet"><summary>Source snippet</summary><p>It&#x27;s Logical Podcast Episode 9: Unidentified Aerial Phenomenon - Documentary Podcast...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: youtube.com  
    Title: Bright Object Seen in SOHO LASCO C3! Is it a UFO or just Venus?  
-   Link: <a href="https://www.youtube.com/watch?v=c28UtMQnA6o" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=c28UtMQnA6o</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Venus -the Morning Star and Evening Star...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=c28UtMQnA6o" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=c28UtMQnA6o</a><details class="endnote-snippet"><summary>Source snippet</summary><p>Venus -the Morning Star and Evening Star...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: youtube.com  
-   Title: Jupiter and Venus 'could be mistaken for UFOs'  
-   Link: <a href="https://www.youtube.com/watch?v=P-ymwG9mDhE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=P-ymwG9mDhE</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Have you ever seen a UFO? - Werner Walter | Frank Elstner People...</p></details>
+   Title: Jupiter and Venus'could be mistaken for UFOs'  
+   Link:<a href="https://www.youtube.com/watch?v=P-ymwG9mDhE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=P-ymwG9mDhE</a><details class="endnote-snippet"><summary>Source snippet</summary><p>Have you ever seen a UFO? - Werner Walter | Frank Elstner People...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: encyclopedia.com  
-   Link: <a href="https://www.encyclopedia.com/social-sciences/applied-and-social-sciences-magazines/autokinetic-effect" target="_blank" rel="noopener noreferrer nofollow">https://www.encyclopedia.com/social-sciences/applied-and-social-sciences-magazines/autokinetic-effect</a>  
+   Link:<a href="https://www.encyclopedia.com/social-sciences/applied-and-social-sciences-magazines/autokinetic-effect" target="_blank" rel="noopener noreferrer nofollow">https://www.encyclopedia.com/social-sciences/applied-and-social-sciences-magazines/autokinetic-effect</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/livescience/posts/bizarre-patterns-on-venus-have-scientists-puzzledimage-credit-nasajplread-more-b/1363043899018980/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/livescience/posts/bizarre-patterns-on-venus-have-scientists-puzzledimage-credit-nasajplread-more-b/1363043899018980/</a>  
+   Link:<a href="https://www.facebook.com/livescience/posts/bizarre-patterns-on-venus-have-scientists-puzzledimage-credit-nasajplread-more-b/1363043899018980/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/livescience/posts/bizarre-patterns-on-venus-have-scientists-puzzledimage-credit-nasajplread-more-b/1363043899018980/</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: medium.com  
-   Link: <a href="https://medium.com/%40ElminsterAumar/gemini-2-5-pro-doesnt-believe-flying-saucers-exist-465a0ee0ce7b" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40ElminsterAumar/gemini-2-5-pro-doesnt-believe-flying-saucers-exist-465a0ee0ce7b</a>  
+   Link:<a href="https://medium.com/%40ElminsterAumar/gemini-2-5-pro-doesnt-believe-flying-saucers-exist-465a0ee0ce7b" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40ElminsterAumar/gemini-2-5-pro-doesnt-believe-flying-saucers-exist-465a0ee0ce7b</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/NOVApbs/posts/heres-what-you-might-actually-be-seeing-if-you-spot-a-ufo-in-the-night-sky/1452995006874879/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NOVApbs/posts/heres-what-you-might-actually-be-seeing-if-you-spot-a-ufo-in-the-night-sky/1452995006874879/</a>  
+   Link:<a href="https://www.facebook.com/NOVApbs/posts/heres-what-you-might-actually-be-seeing-if-you-spot-a-ufo-in-the-night-sky/1452995006874879/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NOVApbs/posts/heres-what-you-might-actually-be-seeing-if-you-spot-a-ufo-in-the-night-sky/1452995006874879/</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/1415647195367168/posts/2281407075457838/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/1415647195367168/posts/2281407075457838/</a>  
+   Link:<a href="https://www.facebook.com/groups/1415647195367168/posts/2281407075457838/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/1415647195367168/posts/2281407075457838/</a>  

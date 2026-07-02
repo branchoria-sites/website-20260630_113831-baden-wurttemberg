@@ -52,7 +52,7 @@ text_direction: ltr
 ui_strings:
   home: Home
   overview: Overview
-  overview_prefix: 'Overview:'
+  overview_prefix:'Overview:'
   contents: Contents
   close: Close
   open_contents: Open contents
@@ -200,13 +200,13 @@ ui_strings:
   search_this_page_empty_hint: Type to search this page.
   no_search_results: No pages match this search.
   no_search_this_page_results: No sections on this page match this search.
-  search_results_count_template: '{count} results'
+  search_results_count_template:'{count} results'
   search_kind_page_title: Page title
   search_kind_page_summary: Summary of page
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date: '2026-06-29 22:45:58'
+date:'2026-06-29 22:45:58'
 parent_title: Bavaria UFOs
 parent_permalink: /what-really-happened-over-bavarias-skies/
 parent_nav_short_title: Bavaria UFOs
@@ -302,82 +302,59 @@ image: /assets/images/Bavaria_3c0123_pilot_witnesses_035958-overview-social.jpg
 
 ## Introduction
 
-Pilot UAP reports from [Bavaria]({{ 'what-really-happened-over-bavarias-skies/' | relative_url }}) are more valuable than ordinary “I saw a light” stories, but they are not automatically decisive. A trained flight crew can usually describe altitude, bearing, weather, aircraft lights, relative motion and cockpit context better than a casual observer. That makes pilot testimony especially useful for triage. It does not, by itself, prove that an object was extraordinary. The Bavarian evidence points to a careful middle position: pilot reports deserve serious recording, especially because Würzburg now hosts a dedicated reporting route for pilots, but credibility rises sharply only when the account is matched with flight tracks, radar, weather, astronomy, photographs, video and independent witnesses. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.uni-wuerzburg.de/en/ifex/research-projects/uap-reporting-center-for-pilots/uap-reporting-form-for-pilots/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uni-wuerzburg.de">[University of Würzburg]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uni-wuerzburg.de</span><span class="citation-popover-title">University of Würzburg UAP Reporting Form for Pilots</span><span class="citation-popover-snippet">University of Würzburg UAP Reporting Form for Pilots</span></span></span>
-
-
-<img src="{{ "/assets/images/Bavaria_3c0123_pilot_witnesses_035958-overview.webp" | relative_url }}" alt="Overview image for Pilot Witnesses" loading="eager" decoding="sync" fetchpriority="high">
-This matters for Bavaria because the state has become a practical test case for a more professional German approach to UAP reporting. The University of Würzburg’s Interdisciplinary Research Center for Extraterrestrial Studies, or IFEX, says its pilot form is intended to collect and evaluate sightings systematically, while the German Federal Aviation Office has supported the approach by directing relevant UAP reports towards the IFEX form rather than the normal aviation occurrence portal. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.uni-wuerzburg.de/en/ifex/research-projects/uap-reporting-center-for-pilots/uap-reporting-form-for-pilots/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uni-wuerzburg.de">[University of Würzburg]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uni-wuerzburg.de</span><span class="citation-popover-title">University of Würzburg UAP Reporting Form for Pilots</span><span class="citation-popover-snippet">University of Würzburg UAP Reporting Form for Pilots</span></span></span>
+Pilot UAP reports from [Bavaria]({{'what-really-happened-over-bavarias-skies/' | relative_url }}) are more valuable than ordinary “I saw a light” stories, but they are not automatically decisive. A trained flight crew can usually describe altitude, bearing, weather, aircraft lights, relative motion and cockpit context better than a casual observer. That makes pilot testimony especially useful for triage. It does not, by itself, prove that an object was extraordinary. The Bavarian evidence points to a careful middle position: pilot reports deserve serious recording, especially because Würzburg now hosts a dedicated reporting route for pilots, but credibility rises sharply only when the account is matched with flight tracks, radar, weather, astronomy, photographs, video and independent witnesses.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.uni-wuerzburg.de/en/ifex/research-projects/uap-reporting-center-for-pilots/uap-reporting-form-for-pilots/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uni-wuerzburg.de">[University of Würzburg]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uni-wuerzburg.de</span><span class="citation-popover-title">University of Würzburg UAP Reporting Form for Pilots</span><span class="citation-popover-snippet">University of Würzburg UAP Reporting Form for Pilots</span></span></span><img src="{{"/assets/images/Bavaria_3c0123_pilot_witnesses_035958-overview.webp" | relative_url }}" alt="Overview image for Pilot Witnesses" loading="eager" decoding="sync" fetchpriority="high">
+This matters for Bavaria because the state has become a practical test case for a more professional German approach to UAP reporting. The University of Würzburg’s Interdisciplinary Research Center for Extraterrestrial Studies, or IFEX, says its pilot form is intended to collect and evaluate sightings systematically, while the German Federal Aviation Office has supported the approach by directing relevant UAP reports towards the IFEX form rather than the normal aviation occurrence portal.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.uni-wuerzburg.de/en/ifex/research-projects/uap-reporting-center-for-pilots/uap-reporting-form-for-pilots/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uni-wuerzburg.de">[University of Würzburg]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uni-wuerzburg.de</span><span class="citation-popover-title">University of Würzburg UAP Reporting Form for Pilots</span><span class="citation-popover-snippet">University of Würzburg UAP Reporting Form for Pilots</span></span></span>
 
 ## What pilots can report well
 
-Pilots are not just “better witnesses” in a vague sense. Their value lies in the specific things they are trained to notice under pressure. A commercial pilot is used to scanning the sky, identifying aircraft navigation lights, comparing apparent motion against cockpit instruments, thinking in altitude and heading, and communicating observations in operational language. That is why the Würzburg pilot form asks for practical aviation details: date and time in UTC, location, flight number or registration, airline, duration, altitude, number of observers, a free-text report and whether image or video files exist. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.uni-wuerzburg.de/en/ifex/research-projects/uap-reporting-center-for-pilots/uap-reporting-form-for-pilots/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uni-wuerzburg.de">[University of Würzburg]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uni-wuerzburg.de</span><span class="citation-popover-title">University of Würzburg UAP Reporting Form for Pilots</span><span class="citation-popover-snippet">University of Würzburg UAP Reporting Form for Pilots</span></span></span>
+Pilots are not just “better witnesses” in a vague sense. Their value lies in the specific things they are trained to notice under pressure. A commercial pilot is used to scanning the sky, identifying aircraft navigation lights, comparing apparent motion against cockpit instruments, thinking in altitude and heading, and communicating observations in operational language. That is why the Würzburg pilot form asks for practical aviation details: date and time in UTC, location, flight number or registration, airline, duration, altitude, number of observers, a free-text report and whether image or video files exist.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.uni-wuerzburg.de/en/ifex/research-projects/uap-reporting-center-for-pilots/uap-reporting-form-for-pilots/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uni-wuerzburg.de">[University of Würzburg]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uni-wuerzburg.de</span><span class="citation-popover-title">University of Würzburg UAP Reporting Form for Pilots</span><span class="citation-popover-snippet">University of Würzburg UAP Reporting Form for Pilots</span></span></span>
 
 Those fields show what makes pilot reports useful. A sighting from a passenger window may say “a bright object passed us”. A pilot report can potentially say where the aircraft was, how high it was, how long the observation lasted, whether the object appeared above or below the aircraft, whether there were multiple crew witnesses, and whether the timing can be checked against air-traffic, satellite or weather data. That does not solve the case, but it turns a story into something investigators can test.
 
-The Würzburg initiative also recognises a social problem: pilots may hesitate to report unusual sightings because of stigma. IFEX explicitly presents its reporting platform as a professional, scientifically grounded route that encourages pilots to submit observations without hesitation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.uni-wuerzburg.de/en/ifex/research-projects/uap-reporting-center-for-pilots/uap-reporting-form-for-pilots/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uni-wuerzburg.de">[University of Würzburg]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uni-wuerzburg.de</span><span class="citation-popover-title">University of Würzburg UAP Reporting Form for Pilots</span><span class="citation-popover-snippet">University of Würzburg UAP Reporting Form for Pilots</span></span></span> In Bavarian UAP history, this is important because silence itself can distort the record. If pilots only speak informally, years later, or through UFO media rather than a structured channel, investigators lose the timing, technical context and raw files that would have made the report stronger.
+The Würzburg initiative also recognises a social problem: pilots may hesitate to report unusual sightings because of stigma. IFEX explicitly presents its reporting platform as a professional, scientifically grounded route that encourages pilots to submit observations without hesitation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.uni-wuerzburg.de/en/ifex/research-projects/uap-reporting-center-for-pilots/uap-reporting-form-for-pilots/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uni-wuerzburg.de">[University of Würzburg]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uni-wuerzburg.de</span><span class="citation-popover-title">University of Würzburg UAP Reporting Form for Pilots</span><span class="citation-popover-snippet">University of Würzburg UAP Reporting Form for Pilots</span></span></span> In Bavarian UAP history, this is important because silence itself can distort the record. If pilots only speak informally, years later, or through UFO media rather than a structured channel, investigators lose the timing, technical context and raw files that would have made the report stronger.
 
-A strong pilot report, therefore, is not strong because the pilot is beyond error. It is strong because the witness may be able to supply more checkable information than most observers. The best Bavarian pilot cases are the ones where the witness statement is treated as the start of an investigation, not as the conclusion.
-
-
-<img src="{{ "/assets/images/Bavaria_3c0123_pilot_witnesses_035958-Illustration-1-dark.svg" | relative_url }}" alt="Pilot Witnesses illustration 1" data-theme-src-dark="{{ "/assets/images/Bavaria_3c0123_pilot_witnesses_035958-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Bavaria_3c0123_pilot_witnesses_035958-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+A strong pilot report, therefore, is not strong because the pilot is beyond error. It is strong because the witness may be able to supply more checkable information than most observers. The best Bavarian pilot cases are the ones where the witness statement is treated as the start of an investigation, not as the conclusion.<img src="{{"/assets/images/Bavaria_3c0123_pilot_witnesses_035958-Illustration-1-dark.svg" | relative_url }}" alt="Pilot Witnesses illustration 1" data-theme-src-dark="{{"/assets/images/Bavaria_3c0123_pilot_witnesses_035958-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{"/assets/images/Bavaria_3c0123_pilot_witnesses_035958-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Where witness memory still fails
 
 The phrase “trained observer” is often used too loosely in UFO debates. Pilots are trained to fly aircraft safely, identify traffic, use instruments and manage cockpit tasks. They are not immune to visual illusion, surprise, fatigue, expectation or memory distortion. This distinction matters because many UAP reports involve lights seen at night, against a dark sky, at unknown distance. In those conditions, even experienced crews can misjudge range, speed and size.
 
-NASA’s Aviation Safety Reporting System gives a useful aviation example: the parallax effect can make a distant fixed object, such as a planet or star, appear close and in motion as the observer’s aircraft moves. NASA notes that Venus has been mistaken for aircraft position lights by pilots and even by tower controllers. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://asrs.arc.nasa.gov/publications/callback/cb_246.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: asrs.arc.nasa.gov">[asrs.arc.nasa.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">asrs.arc.nasa.gov</span><span class="citation-popover-title">CALLBAC K 246</span><span class="citation-popover-snippet">CALLBAC K 246</span></span></span> That does not mean every Bavarian pilot report is Venus. It means that aviation experience does not remove the basic geometry problem: without reliable distance, a small nearby object, a distant aircraft, a planet, a satellite or a balloon can all be misread.
+NASA’s Aviation Safety Reporting System gives a useful aviation example: the parallax effect can make a distant fixed object, such as a planet or star, appear close and in motion as the observer’s aircraft moves. NASA notes that Venus has been mistaken for aircraft position lights by pilots and even by tower controllers.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://asrs.arc.nasa.gov/publications/callback/cb_246.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: asrs.arc.nasa.gov">[asrs.arc.nasa.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">asrs.arc.nasa.gov</span><span class="citation-popover-title">CALLBAC K 246</span><span class="citation-popover-snippet">CALLBAC K 246</span></span></span> That does not mean every Bavarian pilot report is Venus. It means that aviation experience does not remove the basic geometry problem: without reliable distance, a small nearby object, a distant aircraft, a planet, a satellite or a balloon can all be misread.
 
-Night flying adds another difficulty. NASA’s safety bulletin describes cases where crews perceived traffic conflicts that later proved to be visual illusions involving aircraft lights, stars and poor external references. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://asrs.arc.nasa.gov/publications/callback/cb_246.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: asrs.arc.nasa.gov">[asrs.arc.nasa.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">asrs.arc.nasa.gov</span><span class="citation-popover-title">CALLBAC K 246</span><span class="citation-popover-snippet">CALLBAC K 246</span></span></span> In UAP language, this is the central credibility trap. A pilot may accurately report what the object looked like from the cockpit, while still being wrong about what the object was, how far away it was, or whether it accelerated.
-
-Memory is also weakest where UAP reports are often most dramatic. A crew may observe something surprising, then later reconstruct exact timing, movement and distance from a stressful or ambiguous episode. IFEX’s decision to use a short initial form, followed by more detailed direct communication, is sensible because it captures the basic report quickly while leaving room for later technical review. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.uni-wuerzburg.de/en/ifex/research-projects/uap-reporting-center-for-pilots/uap-reporting-form-for-pilots/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uni-wuerzburg.de">[University of Würzburg]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uni-wuerzburg.de</span><span class="citation-popover-title">University of Würzburg UAP Reporting Form for Pilots</span><span class="citation-popover-snippet">University of Würzburg UAP Reporting Form for Pilots</span></span></span> The earlier the account is recorded, the less it depends on retelling, media interest or group discussion.
-
+Night flying adds another difficulty. NASA’s safety bulletin describes cases where crews perceived traffic conflicts that later proved to be visual illusions involving aircraft lights, stars and poor external references.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://asrs.arc.nasa.gov/publications/callback/cb_246.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: asrs.arc.nasa.gov">[asrs.arc.nasa.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">asrs.arc.nasa.gov</span><span class="citation-popover-title">CALLBAC K 246</span><span class="citation-popover-snippet">CALLBAC K 246</span></span></span> In UAP language, this is the central credibility trap. A pilot may accurately report what the object looked like from the cockpit, while still being wrong about what the object was, how far away it was, or whether it accelerated.
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/lTGJt7Gho0w" title="Inside the Data: What 1,000+ Pilot Reports Reveal About UAP | iConnections Webinar with Ryan Graves" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=lTGJt7Gho0w" target="_blank" rel="noopener noreferrer">Inside the Data: What 1,000+ Pilot Reports Reveal About UAP | iConnections Webinar with Ryan Graves</a></p><p class="youtube-embed-meta">Channel: iConnections &middot; Views: 287 &middot; Uploaded: April 2026 &middot; Length: 45 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=lTGJt7Gho0w" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=lTGJt7Gho0w">Open on YouTube</a></p></div></div></div>
 
 ## The Munich-area pilot case shows both promise and caution
 
-A recent case often discussed in Bavarian UAP circles concerns a reported pilot sighting east of Munich in summer 2024. German UFO-focused coverage says the case was presented at a Würzburg UAP conference and involved pilots who reportedly photographed and filmed a bright object or cluster of lights near their aircraft. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.grewi.de/piloten-dokumentieren-ufo-sichtung-im-juli-2024-oestlich-von-muenchen/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: grewi.de">[GreWi]</a><span class="citation-popover" role="note"><span class="citation-popover-source">grewi.de</span><span class="citation-popover-title">piloten dokumentieren ufo sichtung im juli 2024 oestlich von muenchen</span><span class="citation-popover-snippet">piloten dokumentieren ufo sichtung im juli 2024 oestlich von muenchen</span></span></span> The claim is interesting because it contains several features investigators like: aviation witnesses, a time-and-place context, reported images or video, and an attempt to compare the event with flight-tracking data.
+A recent case often discussed in Bavarian UAP circles concerns a reported pilot sighting east of Munich in summer 2024. German UFO-focused coverage says the case was presented at a Würzburg UAP conference and involved pilots who reportedly photographed and filmed a bright object or cluster of lights near their aircraft.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.grewi.de/piloten-dokumentieren-ufo-sichtung-im-juli-2024-oestlich-von-muenchen/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: grewi.de">[GreWi]</a><span class="citation-popover" role="note"><span class="citation-popover-source">grewi.de</span><span class="citation-popover-title">piloten dokumentieren ufo sichtung im juli 2024 oestlich von muenchen</span><span class="citation-popover-snippet">piloten dokumentieren ufo sichtung im juli 2024 oestlich von muenchen</span></span></span> The claim is interesting because it contains several features investigators like: aviation witnesses, a time-and-place context, reported images or video, and an attempt to compare the event with flight-tracking data.
 
-It should still be handled cautiously. Much of the accessible public discussion is filtered through UFO media and social platforms rather than a fully published technical case file. The available summaries describe an object that appeared bright, seemed initially stationary, later moved past the aircraft, and was judged by the pilots not to match ordinary aircraft lighting. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UFOs/comments/1o0h06x/pilots_document_uap_sighting_in_july_2024_east_of/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">Open source on reddit.com.</span><span class="citation-popover-meta">Published: july 2024</span></span></span> Those details make the case worth examining, but they do not yet establish distance, size, speed or origin.
+It should still be handled cautiously. Much of the accessible public discussion is filtered through UFO media and social platforms rather than a fully published technical case file. The available summaries describe an object that appeared bright, seemed initially stationary, later moved past the aircraft, and was judged by the pilots not to match ordinary aircraft lighting.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UFOs/comments/1o0h06x/pilots_document_uap_sighting_in_july_2024_east_of/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">Open source on reddit.com.</span><span class="citation-popover-meta">Published: july 2024</span></span></span> Those details make the case worth examining, but they do not yet establish distance, size, speed or origin.
 
 This is exactly the kind of case where pilot credibility helps and does not help. It helps because a flight crew can distinguish many routine aviation cues that a casual witness might miss. It does not help enough if the public record lacks raw imagery, precise aircraft position, camera metadata, independent radar returns, weather conditions, astronomical checks and a transparent reconstruction of the geometry. Flight-tracking websites can rule out some registered aircraft, but they cannot automatically rule out every balloon, satellite, military movement, untracked object, optical reflection or sensor artefact.
 
-For a Bavarian webpage, the Munich-area case is best treated as a live example of the new evidence standard rather than a solved mystery. It is more substantial than a vague local rumour, but it remains weaker than a case with open, independently reviewable sensor data.
-
-
-<img src="{{ "/assets/images/Bavaria_3c0123_pilot_witnesses_035958-Illustration-2-dark.svg" | relative_url }}" alt="Pilot Witnesses illustration 2" data-theme-src-dark="{{ "/assets/images/Bavaria_3c0123_pilot_witnesses_035958-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Bavaria_3c0123_pilot_witnesses_035958-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+For a Bavarian webpage, the Munich-area case is best treated as a live example of the new evidence standard rather than a solved mystery. It is more substantial than a vague local rumour, but it remains weaker than a case with open, independently reviewable sensor data.<img src="{{"/assets/images/Bavaria_3c0123_pilot_witnesses_035958-Illustration-2-dark.svg" | relative_url }}" alt="Pilot Witnesses illustration 2" data-theme-src-dark="{{"/assets/images/Bavaria_3c0123_pilot_witnesses_035958-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{"/assets/images/Bavaria_3c0123_pilot_witnesses_035958-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Corroboration with tracks and weather
 
 The most useful question is not “Was the witness credible?” but “What can be checked?” A pilot report becomes stronger when several independent layers point in the same direction. The first layer is the aircraft’s own flight path: position, altitude, heading and time. The second is external traffic data, including air-traffic control information and public ADS-B flight tracking where available. The third is weather: cloud layers, visibility, wind, storms, temperature inversions and ice-crystal conditions can all affect what a crew sees. The fourth is astronomy and space activity, including planets, meteors, satellite passes and re-entering debris.
 
-That layered approach fits the direction of modern UAP research. The 2024 ODNI and US Department of Defense UAP report described a continuing effort to improve UAP reporting and analysis, while also making clear that many cases remain constrained by limited sensor data. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dni.gov/index.php/newsroom/reports-publications/reports-publications-2024/4020-uap-2024" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dni.gov">[Director of National Intelligence]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dni.gov</span><span class="citation-popover-title">4020 uap 2024</span><span class="citation-popover-snippet">4020 uap 2024</span></span></span> AARO’s public case pages are also a warning against overreading unusual video: some military sensor cases in Europe remained unresolved, while others were later assessed as balloons or non-anomalous objects. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[aaro.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">Official UAP Imagery</span><span class="citation-popover-snippet">Official UAP Imagery</span></span></span> The lesson for Bavaria is straightforward: even official or aviation-linked cases can move from “unidentified” to ordinary once better data are available.
+That layered approach fits the direction of modern UAP research. The 2024 ODNI and US Department of Defense UAP report described a continuing effort to improve UAP reporting and analysis, while also making clear that many cases remain constrained by limited sensor data.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dni.gov/index.php/newsroom/reports-publications/reports-publications-2024/4020-uap-2024" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dni.gov">[Director of National Intelligence]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dni.gov</span><span class="citation-popover-title">4020 uap 2024</span><span class="citation-popover-snippet">4020 uap 2024</span></span></span> AARO’s public case pages are also a warning against overreading unusual video: some military sensor cases in Europe remained unresolved, while others were later assessed as balloons or non-anomalous objects.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[aaro.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">Official UAP Imagery</span><span class="citation-popover-snippet">Official UAP Imagery</span></span></span> The lesson for Bavaria is straightforward: even official or aviation-linked cases can move from “unidentified” to ordinary once better data are available.
 
-The same standard should apply to Bavarian pilot reports. A credible crew statement should trigger checks such as:
-
-
-<div class="content-enhancement content-enhancement--metric" markdown="1">
+The same standard should apply to Bavarian pilot reports. A credible crew statement should trigger checks such as:<div class="content-enhancement content-enhancement--metric" markdown="1">
 
 * whether another aircraft or controller saw the same object;
 * whether radar or ADS-B data show a plausible source;
 * whether satellite passes, Starlink trains, planets or meteors matched the direction and timing;
 * whether weather could have produced reflections, halos, mirage-like effects or cloud illumination;
 * whether cockpit window reflections, camera rolling shutter, focus problems or compression artefacts affected any video;
-* whether the reported motion remains anomalous after the aircraft’s own movement is modelled.
+* whether the reported motion remains anomalous after the aircraft’s own movement is modelled.</div>
 
-</div>
-
-This is not debunking by default. It is what gives a case a chance to survive ordinary explanations.
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/xFndGbYrmJQ" title="IFEX SETI and UAP Conf. - D. Buettner: The UAPs that Pilots, Passengers and Other Cameras “Capture”" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=xFndGbYrmJQ" target="_blank" rel="noopener noreferrer">IFEX SETI and UAP Conf. - D. Buettner: The UAPs that Pilots, Passengers and Other Cameras “Capture”</a></p><p class="youtube-embed-meta">Channel: Professorship for Space Technology Uni Würzburg</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=xFndGbYrmJQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=xFndGbYrmJQ">Open on YouTube</a></p></div></div></div>
+This is not debunking by default. It is what gives a case a chance to survive ordinary explanations.<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/xFndGbYrmJQ" title="IFEX SETI and UAP Conf. - D. Buettner: The UAPs that Pilots, Passengers and Other Cameras “Capture”" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=xFndGbYrmJQ" target="_blank" rel="noopener noreferrer">IFEX SETI and UAP Conf. - D. Buettner: The UAPs that Pilots, Passengers and Other Cameras “Capture”</a></p><p class="youtube-embed-meta">Channel: Professorship for Space Technology Uni Würzburg</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=xFndGbYrmJQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=xFndGbYrmJQ">Open on YouTube</a></p></div></div></div>
 
 ## Why Bavaria’s reporting route matters
 
-Bavaria’s most important contribution to pilot UAP credibility may be institutional rather than dramatic. IFEX’s pilot reporting platform turns scattered cockpit stories into a format that can be analysed. The form’s required flight number or registration is particularly important because it links a sighting to a reconstructable aviation event, not just a personal memory. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.uni-wuerzburg.de/en/ifex/research-projects/uap-reporting-center-for-pilots/uap-reporting-form-for-pilots/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uni-wuerzburg.de">[University of Würzburg]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uni-wuerzburg.de</span><span class="citation-popover-title">University of Würzburg UAP Reporting Form for Pilots</span><span class="citation-popover-snippet">University of Würzburg UAP Reporting Form for Pilots</span></span></span>
+Bavaria’s most important contribution to pilot UAP credibility may be institutional rather than dramatic. IFEX’s pilot reporting platform turns scattered cockpit stories into a format that can be analysed. The form’s required flight number or registration is particularly important because it links a sighting to a reconstructable aviation event, not just a personal memory.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.uni-wuerzburg.de/en/ifex/research-projects/uap-reporting-center-for-pilots/uap-reporting-form-for-pilots/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uni-wuerzburg.de">[University of Würzburg]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uni-wuerzburg.de</span><span class="citation-popover-title">University of Würzburg UAP Reporting Form for Pilots</span><span class="citation-popover-snippet">University of Würzburg UAP Reporting Form for Pilots</span></span></span>
 
-The cooperation with the German Federal Aviation Office is also significant because it gives pilots a route that is adjacent to aviation safety culture without forcing every unusual sighting into a conventional incident category. The LBA’s occurrence-reporting page indicates that UAP reports should use the IFEX form rather than the normal aviation reporting portal. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lba.de/DE/Luftfahrtunternehmen/Ereignismeldungen/Allgemeines/Allgemeines.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lba.de">[lba.de]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lba.de</span><span class="citation-popover-snippet">Open source on lba.de.</span></span></span> That separation is useful. It avoids treating every odd light as an immediate safety incident, but it also avoids leaving pilots with nowhere serious to report.
-
-This is a cultural change as much as a technical one. If pilots believe a UAP report could damage their reputation, they may delay, anonymise or avoid reporting. If they believe the report will be treated as data, they are more likely to provide the time, place and supporting files while the evidence is still fresh. IFEX states that its goal is to collect reliable data and build a sound basis for scientific evaluation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.uni-wuerzburg.de/en/ifex/research-projects/uap-reporting-center-for-pilots/uap-reporting-form-for-pilots/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uni-wuerzburg.de">[University of Würzburg]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uni-wuerzburg.de</span><span class="citation-popover-title">University of Würzburg UAP Reporting Form for Pilots</span><span class="citation-popover-snippet">University of Würzburg UAP Reporting Form for Pilots</span></span></span> For Bavaria, that means future pilot cases may be easier to assess than older reports preserved only in press clippings, personal recollections or UFO databases.
-
+The cooperation with the German Federal Aviation Office is also significant because it gives pilots a route that is adjacent to aviation safety culture without forcing every unusual sighting into a conventional incident category. The LBA’s occurrence-reporting page indicates that UAP reports should use the IFEX form rather than the normal aviation reporting portal.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lba.de/DE/Luftfahrtunternehmen/Ereignismeldungen/Allgemeines/Allgemeines.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lba.de">[lba.de]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lba.de</span><span class="citation-popover-snippet">Open source on lba.de.</span></span></span> That separation is useful. It avoids treating every odd light as an immediate safety incident, but it also avoids leaving pilots with nowhere serious to report.
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/TbvLKBcQn-A" title="C. Peters: UAP and the Politics of Secrecy and Disclosure: A Conceptual Provocation" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=TbvLKBcQn-A" target="_blank" rel="noopener noreferrer">C. Peters: UAP and the Politics of Secrecy and Disclosure: A Conceptual Provocation</a></p><p class="youtube-embed-meta">Channel: Professorship for Space Technology Uni Würzburg</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=TbvLKBcQn-A" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=TbvLKBcQn-A">Open on YouTube</a></p></div></div></div>
 
@@ -387,227 +364,43 @@ A pilot witness should change how a Bavarian UAP report is ranked, but only in a
 
 **A strong pilot case** has a prompt report, named or verifiable flight context, multiple crew witnesses, consistent accounts, external tracking or radar, weather and astronomy checks, and original image or video files with metadata. If the object remains unexplained after those checks, “unresolved” means something.
 
-**A moderate pilot case** has credible witnesses and some checkable details, but lacks one or more decisive layers. The Munich-area report appears to sit in this middle category in the public record: interesting, aviation-linked and worth following, but not yet publicly documented enough to carry a stronger conclusion. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.grewi.de/piloten-dokumentieren-ufo-sichtung-im-juli-2024-oestlich-von-muenchen/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: grewi.de">[GreWi]</a><span class="citation-popover" role="note"><span class="citation-popover-source">grewi.de</span><span class="citation-popover-title">piloten dokumentieren ufo sichtung im juli 2024 oestlich von muenchen</span><span class="citation-popover-snippet">piloten dokumentieren ufo sichtung im juli 2024 oestlich von muenchen</span></span></span>
+**A moderate pilot case** has credible witnesses and some checkable details, but lacks one or more decisive layers. The Munich-area report appears to sit in this middle category in the public record: interesting, aviation-linked and worth following, but not yet publicly documented enough to carry a stronger conclusion.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.grewi.de/piloten-dokumentieren-ufo-sichtung-im-juli-2024-oestlich-von-muenchen/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: grewi.de">[GreWi]</a><span class="citation-popover" role="note"><span class="citation-popover-source">grewi.de</span><span class="citation-popover-title">piloten dokumentieren ufo sichtung im juli 2024 oestlich von muenchen</span><span class="citation-popover-snippet">piloten dokumentieren ufo sichtung im juli 2024 oestlich von muenchen</span></span></span>
 
 **A weak pilot case** relies mainly on retrospective memory, anonymous retelling, cropped video, missing time data, no flight reconstruction, or claims that outrun the evidence. It may still be sincere. It may even describe a real unusual event. But it cannot bear the weight often placed on it in UFO discussion.
 
-This ranking is fairer to pilots than treating them as either perfect witnesses or unreliable witnesses. A pilot can be honest, competent and mistaken. A pilot can also provide the exact details that allow a genuinely puzzling case to remain puzzling after serious checks.
-
-
-<img src="{{ "/assets/images/Bavaria_3c0123_pilot_witnesses_035958-Illustration-3-dark.svg" | relative_url }}" alt="Pilot Witnesses illustration 3" data-theme-src-dark="{{ "/assets/images/Bavaria_3c0123_pilot_witnesses_035958-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Bavaria_3c0123_pilot_witnesses_035958-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+This ranking is fairer to pilots than treating them as either perfect witnesses or unreliable witnesses. A pilot can be honest, competent and mistaken. A pilot can also provide the exact details that allow a genuinely puzzling case to remain puzzling after serious checks.<img src="{{"/assets/images/Bavaria_3c0123_pilot_witnesses_035958-Illustration-3-dark.svg" | relative_url }}" alt="Pilot Witnesses illustration 3" data-theme-src-dark="{{"/assets/images/Bavaria_3c0123_pilot_witnesses_035958-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{"/assets/images/Bavaria_3c0123_pilot_witnesses_035958-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The practical answer for readers
 
 Pilot UAP reports are more reliable than many casual sightings in one narrow but important sense: they often contain better observational discipline and better opportunities for verification. They are not more reliable in the sense of being self-proving. A pilot’s experience raises the starting value of the report, but corroboration decides how far the case can go.
 
-For Bavaria, the most important development is the move from storytelling to structured evidence. Würzburg’s IFEX form, supported by the LBA’s referral route, gives pilots a lower-stigma way to report unusual observations with the aviation details investigators need. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.uni-wuerzburg.de/en/ifex/news/single-english/page-1/?cHash=55f7fa062e321bcd6b6cd76554a45c06&amp;tx_news_pi1%5Bnews%5D=231720" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uni-wuerzburg.de">[University of Würzburg]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uni-wuerzburg.de</span><span class="citation-popover-snippet">Open source on uni-wuerzburg.de.</span></span></span> That makes future Bavarian UAP reports potentially more useful than many older sightings, provided the resulting cases are analysed transparently and not promoted beyond the data.
+For Bavaria, the most important development is the move from storytelling to structured evidence. Würzburg’s IFEX form, supported by the LBA’s referral route, gives pilots a lower-stigma way to report unusual observations with the aviation details investigators need.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.uni-wuerzburg.de/en/ifex/news/single-english/page-1/?cHash=55f7fa062e321bcd6b6cd76554a45c06&amp;tx_news_pi1%5Bnews%5D=231720" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uni-wuerzburg.de">[University of Würzburg]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uni-wuerzburg.de</span><span class="citation-popover-snippet">Open source on uni-wuerzburg.de.</span></span></span> That makes future Bavarian UAP reports potentially more useful than many older sightings, provided the resulting cases are analysed transparently and not promoted beyond the data.
 
-The balanced conclusion is simple: trained pilots make a report worth taking seriously, not worth believing uncritically. The best Bavarian pilot cases will be those where cockpit testimony is only the first layer, and where tracks, weather, instruments and original media either support the story or quietly explain it.
-
-<section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Are Pilot UAP Reports More Reliable?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
-        
-        <p class="fr-book-desc">Explains witness evaluation and evidence quality.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
-        
-        <p class="fr-book-desc">Features pilot testimony and corroborated aviation cases.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_L47DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
-        </h4>
-        <p class="fr-book-author">By Edward J. Ruppelt</p>
-        
-        <p class="fr-book-desc">Discusses assessment of pilot and military reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Stick+and+Rudder+by+Wolfgang+Langewiesche&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Stick and Rudder on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Stick+and+Rudder+by+Wolfgang+Langewiesche&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Stick and Rudder">Stick and Rudder</a>
-        </h4>
-        <p class="fr-book-author">By Wolfgang Langewiesche, Leighton Holden Collins</p>
-        
-        <p class="fr-book-desc">Helps readers understand pilot observation and flight perception.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Stick+and+Rudder+by+Wolfgang+Langewiesche&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
-</section>
-
-<section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
-
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
-
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pilot-witnesses-are-pilot-uap-reports-more-reliable-bavaria-space-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space poster" data-ebay-reference="pilot-witnesses-are-pilot-uap-reports-more-reliable-bavaria-space-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Nasa Retro Vintage Style Sci-fi Space Travel Planets Posters - A4/A3/A2/A1"><img src="{{ '/assets/images/marketplace-covers/194d56f7ceba0d65ea54.jpg' | relative_url }}" alt="Listing image for Nasa Retro Vintage Style Sci-fi Space Travel Planets Posters - A4/A3/A2/A1" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=space+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pilot-witnesses-are-pilot-uap-reports-more-reliable-bavaria-space-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space poster" data-ebay-reference="pilot-witnesses-are-pilot-uap-reports-more-reliable-bavaria-space-poster" target="_blank" rel="sponsored noopener noreferrer">Nasa Retro Vintage Style Sci-fi Space Travel Planets Posters - A4/A3/A2/A1</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pilot-witnesses-are-pilot-uap-reports-more-reliable-bavaria-space-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space poster" data-ebay-reference="pilot-witnesses-are-pilot-uap-reports-more-reliable-bavaria-space-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for space poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: space poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=space+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pilot-witnesses-are-pilot-uap-reports-more-reliable-bavaria-space-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space poster" data-ebay-reference="pilot-witnesses-are-pilot-uap-reports-more-reliable-bavaria-space-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pilot-witnesses-are-pilot-uap-reports-more-reliable-bavaria-space-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space poster" data-ebay-reference="pilot-witnesses-are-pilot-uap-reports-more-reliable-bavaria-space-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Earthrise Apollo 11 Moon Poster | NASA Space Print Wall Art Print Gift Decor"><img src="{{ '/assets/images/marketplace-covers/44f55c98489085bcc0fc.jpg' | relative_url }}" alt="Listing image for Earthrise Apollo 11 Moon Poster | NASA Space Print Wall Art Print Gift Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=space+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pilot-witnesses-are-pilot-uap-reports-more-reliable-bavaria-space-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space poster" data-ebay-reference="pilot-witnesses-are-pilot-uap-reports-more-reliable-bavaria-space-poster" target="_blank" rel="sponsored noopener noreferrer">Earthrise Apollo 11 Moon Poster | NASA Space Print Wall Art Print Gift Decor</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pilot-witnesses-are-pilot-uap-reports-more-reliable-bavaria-space-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space poster" data-ebay-reference="pilot-witnesses-are-pilot-uap-reports-more-reliable-bavaria-space-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for space poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: space poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=space+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pilot-witnesses-are-pilot-uap-reports-more-reliable-bavaria-space-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space poster" data-ebay-reference="pilot-witnesses-are-pilot-uap-reports-more-reliable-bavaria-space-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pilot-witnesses-are-pilot-uap-reports-more-reliable-bavaria-space-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space poster" data-ebay-reference="pilot-witnesses-are-pilot-uap-reports-more-reliable-bavaria-space-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Home Wall Art Print - Vintage Space Poster - SOLAR SYSTEM PLANETS-A4,A3,A2,A1,A0"><img src="{{ '/assets/images/marketplace-covers/cf4bc993d604ad7867e5.jpg' | relative_url }}" alt="Listing image for Home Wall Art Print - Vintage Space Poster - SOLAR SYSTEM PLANETS-A4,A3,A2,A1,A0" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=space+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pilot-witnesses-are-pilot-uap-reports-more-reliable-bavaria-space-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space poster" data-ebay-reference="pilot-witnesses-are-pilot-uap-reports-more-reliable-bavaria-space-poster" target="_blank" rel="sponsored noopener noreferrer">Home Wall Art Print - Vintage Space Poster - SOLAR SYSTEM PLANETS-A4,A3,A2,A1,A0</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pilot-witnesses-are-pilot-uap-reports-more-reliable-bavaria-space-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space poster" data-ebay-reference="pilot-witnesses-are-pilot-uap-reports-more-reliable-bavaria-space-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for space poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: space poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=space+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pilot-witnesses-are-pilot-uap-reports-more-reliable-bavaria-space-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space poster" data-ebay-reference="pilot-witnesses-are-pilot-uap-reports-more-reliable-bavaria-space-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pilot-witnesses-are-pilot-uap-reports-more-reliable-bavaria-space-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space poster" data-ebay-reference="pilot-witnesses-are-pilot-uap-reports-more-reliable-bavaria-space-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Space CSM-TEC Apollo 11 Star Chart Map Galaxy Canvas Wall Art Print Poster"><img src="{{ '/assets/images/marketplace-covers/9ee10cc73ecd30aa2ef5.jpg' | relative_url }}" alt="Listing image for Space CSM-TEC Apollo 11 Star Chart Map Galaxy Canvas Wall Art Print Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=space+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pilot-witnesses-are-pilot-uap-reports-more-reliable-bavaria-space-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space poster" data-ebay-reference="pilot-witnesses-are-pilot-uap-reports-more-reliable-bavaria-space-poster" target="_blank" rel="sponsored noopener noreferrer">Space CSM-TEC Apollo 11 Star Chart Map Galaxy Canvas Wall Art Print Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pilot-witnesses-are-pilot-uap-reports-more-reliable-bavaria-space-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space poster" data-ebay-reference="pilot-witnesses-are-pilot-uap-reports-more-reliable-bavaria-space-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for space poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: space poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=space+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pilot-witnesses-are-pilot-uap-reports-more-reliable-bavaria-space-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space poster" data-ebay-reference="pilot-witnesses-are-pilot-uap-reports-more-reliable-bavaria-space-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pilot-witnesses-are-pilot-uap-reports-more-reliable-bavaria-space-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space poster" data-ebay-reference="pilot-witnesses-are-pilot-uap-reports-more-reliable-bavaria-space-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+The balanced conclusion is simple: trained pilots make a report worth taking seriously, not worth believing uncritically. The best Bavarian pilot cases will be those where cockpit testimony is only the first layer, and where tracks, weather, instruments and original media either support the story or quietly explain it.<section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title"><div class="fr-section-shell"><div class="fr-section-header"><div class="fr-section-heading"><p class="fr-section-kicker">Amazon book picks</p><h3 class="fr-heading" id="further-reading-title">Further Reading</h3></div><p class="fr-intro">Books and field guides related to Are Pilot UAP Reports More Reliable?. Use these as the next step if you want deeper reading beyond the article.</p></div><div class="fr-books-grid"><article class="fr-book-card"><a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a><div class="fr-book-info"><h4 class="fr-book-title"><a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a></h4><p class="fr-book-author">By Joseph Allen Hynek</p><p class="fr-book-desc">Explains witness evaluation and evidence quality.</p><div class="fr-book-actions"><a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon</a></div></div></article><article class="fr-book-card"><a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a><div class="fr-book-info"><h4 class="fr-book-title"><a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a></h4><p class="fr-book-author">By Leslie Kean</p><p class="fr-book-desc">Features pilot testimony and corroborated aviation cases.</p><div class="fr-book-actions"><a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon</a></div></div></article><article class="fr-book-card"><a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_L47DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a><div class="fr-book-info"><h4 class="fr-book-title"><a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a></h4><p class="fr-book-author">By Edward J. Ruppelt</p><p class="fr-book-desc">Discusses assessment of pilot and military reports.</p><div class="fr-book-actions"><a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon</a></div></div></article><article class="fr-book-card"><a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Stick+and+Rudder+by+Wolfgang+Langewiesche&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Stick and Rudder on Amazon"><span class="fr-book-cover-fallback">Book</span></a><div class="fr-book-info"><h4 class="fr-book-title"><a href="https://www.amazon.com/s?k=Stick+and+Rudder+by+Wolfgang+Langewiesche&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Stick and Rudder">Stick and Rudder</a></h4><p class="fr-book-author">By Wolfgang Langewiesche, Leighton Holden Collins</p><p class="fr-book-desc">Helps readers understand pilot observation and flight perception.</p><div class="fr-book-actions"><a href="https://www.amazon.com/s?k=Stick+and+Rudder+by+Wolfgang+Langewiesche&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon</a></div></div></article></div><div class="fr-section-footer"><div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a></div><p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p></div></div></section><section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title"><div class="fr-section-shell"><div class="fr-section-header"><div class="fr-section-heading"><p class="fr-section-kicker">eBay marketplace picks</p><h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3></div><p class="fr-intro">Live-tested eBay searches with available results related to this page.</p><div class="fr-ebay-market-toolbar"><label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label><div class="fr-ebay-market-picker"><span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span><button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span><span data-ebay-trigger-market-label>USA</span></button><select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location"><option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option></select><div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button></div></div></div></div><div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1"><div class="fr-books-grid"><article class="fr-book-card"><a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pilot-witnesses-are-pilot-uap-reports-more-reliable-bavaria-space-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space poster" data-ebay-reference="pilot-witnesses-are-pilot-uap-reports-more-reliable-bavaria-space-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Nasa Retro Vintage Style Sci-fi Space Travel Planets Posters - A4/A3/A2/A1"><img src="{{'/assets/images/marketplace-covers/194d56f7ceba0d65ea54.jpg' | relative_url }}" alt="Listing image for Nasa Retro Vintage Style Sci-fi Space Travel Planets Posters - A4/A3/A2/A1" loading="lazy" decoding="async" fetchpriority="low"></a><div class="fr-book-info"><p class="fr-book-kicker">Example eBay listing</p><h4 class="fr-book-title"><a href="https://www.ebay.co.uk/sch/i.html?_nkw=space+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pilot-witnesses-are-pilot-uap-reports-more-reliable-bavaria-space-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space poster" data-ebay-reference="pilot-witnesses-are-pilot-uap-reports-more-reliable-bavaria-space-poster" target="_blank" rel="sponsored noopener noreferrer">Nasa Retro Vintage Style Sci-fi Space Travel Planets Posters - A4/A3/A2/A1</a></h4><a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pilot-witnesses-are-pilot-uap-reports-more-reliable-bavaria-space-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space poster" data-ebay-reference="pilot-witnesses-are-pilot-uap-reports-more-reliable-bavaria-space-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for space poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: space poster</a><div class="fr-book-actions"><a href="https://www.ebay.co.uk/sch/i.html?_nkw=space+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pilot-witnesses-are-pilot-uap-reports-more-reliable-bavaria-space-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space poster" data-ebay-reference="pilot-witnesses-are-pilot-uap-reports-more-reliable-bavaria-space-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span></a></div></div></article><article class="fr-book-card"><a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pilot-witnesses-are-pilot-uap-reports-more-reliable-bavaria-space-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space poster" data-ebay-reference="pilot-witnesses-are-pilot-uap-reports-more-reliable-bavaria-space-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Earthrise Apollo 11 Moon Poster | NASA Space Print Wall Art Print Gift Decor"><img src="{{'/assets/images/marketplace-covers/44f55c98489085bcc0fc.jpg' | relative_url }}" alt="Listing image for Earthrise Apollo 11 Moon Poster | NASA Space Print Wall Art Print Gift Decor" loading="lazy" decoding="async" fetchpriority="low"></a><div class="fr-book-info"><p class="fr-book-kicker">Example eBay listing</p><h4 class="fr-book-title"><a href="https://www.ebay.co.uk/sch/i.html?_nkw=space+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pilot-witnesses-are-pilot-uap-reports-more-reliable-bavaria-space-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space poster" data-ebay-reference="pilot-witnesses-are-pilot-uap-reports-more-reliable-bavaria-space-poster" target="_blank" rel="sponsored noopener noreferrer">Earthrise Apollo 11 Moon Poster | NASA Space Print Wall Art Print Gift Decor</a></h4><a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pilot-witnesses-are-pilot-uap-reports-more-reliable-bavaria-space-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space poster" data-ebay-reference="pilot-witnesses-are-pilot-uap-reports-more-reliable-bavaria-space-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for space poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: space poster</a><div class="fr-book-actions"><a href="https://www.ebay.co.uk/sch/i.html?_nkw=space+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pilot-witnesses-are-pilot-uap-reports-more-reliable-bavaria-space-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space poster" data-ebay-reference="pilot-witnesses-are-pilot-uap-reports-more-reliable-bavaria-space-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span></a></div></div></article><article class="fr-book-card"><a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pilot-witnesses-are-pilot-uap-reports-more-reliable-bavaria-space-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space poster" data-ebay-reference="pilot-witnesses-are-pilot-uap-reports-more-reliable-bavaria-space-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Home Wall Art Print - Vintage Space Poster - SOLAR SYSTEM PLANETS-A4,A3,A2,A1,A0"><img src="{{'/assets/images/marketplace-covers/cf4bc993d604ad7867e5.jpg' | relative_url }}" alt="Listing image for Home Wall Art Print - Vintage Space Poster - SOLAR SYSTEM PLANETS-A4,A3,A2,A1,A0" loading="lazy" decoding="async" fetchpriority="low"></a><div class="fr-book-info"><p class="fr-book-kicker">Example eBay listing</p><h4 class="fr-book-title"><a href="https://www.ebay.co.uk/sch/i.html?_nkw=space+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pilot-witnesses-are-pilot-uap-reports-more-reliable-bavaria-space-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space poster" data-ebay-reference="pilot-witnesses-are-pilot-uap-reports-more-reliable-bavaria-space-poster" target="_blank" rel="sponsored noopener noreferrer">Home Wall Art Print - Vintage Space Poster - SOLAR SYSTEM PLANETS-A4,A3,A2,A1,A0</a></h4><a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pilot-witnesses-are-pilot-uap-reports-more-reliable-bavaria-space-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space poster" data-ebay-reference="pilot-witnesses-are-pilot-uap-reports-more-reliable-bavaria-space-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for space poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: space poster</a><div class="fr-book-actions"><a href="https://www.ebay.co.uk/sch/i.html?_nkw=space+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pilot-witnesses-are-pilot-uap-reports-more-reliable-bavaria-space-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space poster" data-ebay-reference="pilot-witnesses-are-pilot-uap-reports-more-reliable-bavaria-space-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span></a></div></div></article><article class="fr-book-card"><a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pilot-witnesses-are-pilot-uap-reports-more-reliable-bavaria-space-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space poster" data-ebay-reference="pilot-witnesses-are-pilot-uap-reports-more-reliable-bavaria-space-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Space CSM-TEC Apollo 11 Star Chart Map Galaxy Canvas Wall Art Print Poster"><img src="{{'/assets/images/marketplace-covers/9ee10cc73ecd30aa2ef5.jpg' | relative_url }}" alt="Listing image for Space CSM-TEC Apollo 11 Star Chart Map Galaxy Canvas Wall Art Print Poster" loading="lazy" decoding="async" fetchpriority="low"></a><div class="fr-book-info"><p class="fr-book-kicker">Example eBay listing</p><h4 class="fr-book-title"><a href="https://www.ebay.co.uk/sch/i.html?_nkw=space+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pilot-witnesses-are-pilot-uap-reports-more-reliable-bavaria-space-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space poster" data-ebay-reference="pilot-witnesses-are-pilot-uap-reports-more-reliable-bavaria-space-poster" target="_blank" rel="sponsored noopener noreferrer">Space CSM-TEC Apollo 11 Star Chart Map Galaxy Canvas Wall Art Print Poster</a></h4><a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pilot-witnesses-are-pilot-uap-reports-more-reliable-bavaria-space-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space poster" data-ebay-reference="pilot-witnesses-are-pilot-uap-reports-more-reliable-bavaria-space-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for space poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: space poster</a><div class="fr-book-actions"><a href="https://www.ebay.co.uk/sch/i.html?_nkw=space+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pilot-witnesses-are-pilot-uap-reports-more-reliable-bavaria-space-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space poster" data-ebay-reference="pilot-witnesses-are-pilot-uap-reports-more-reliable-bavaria-space-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span></a></div></div></article></div><div class="fr-section-footer"><a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pilot-witnesses-are-pilot-uap-reports-more-reliable-bavaria-space-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space poster" data-ebay-reference="pilot-witnesses-are-pilot-uap-reports-more-reliable-bavaria-space-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span></a><p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p></div></div></div><script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
-  var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
-  var timezoneRules = [{"market": "EBAY_IE", "pattern": "^Europe/Dublin$"}, {"market": "EBAY_GB", "pattern": "^Europe/(London|Belfast)$"}, {"market": "EBAY_CA", "pattern": "^America/(Toronto|Vancouver|Edmonton|Winnipeg|Halifax|St_Johns|Regina|Saskatoon|Whitehorse|Dawson|Moncton|Glace_Bay|Goose_Bay|Iqaluit|Yellowknife|Inuvik|Rankin_Inlet|Resolute|Cambridge_Bay|Fort_Nelson|Creston|Dawson_Creek)$"}, {"market": "EBAY_US", "pattern": "^America/"}, {"market": "EBAY_DE", "pattern": "^Europe/Berlin$"}, {"market": "EBAY_FR", "pattern": "^Europe/Paris$"}, {"market": "EBAY_IT", "pattern": "^Europe/Rome$"}, {"market": "EBAY_ES", "pattern": "^Europe/Madrid$"}, {"market": "EBAY_AU", "pattern": "^Australia/"}, {"market": "EBAY_AU", "pattern": "^Pacific/(Auckland|Chatham)$"}];
+  var localeMarketMap = {"de":"EBAY_DE","de-at":"EBAY_AT","de-ch":"EBAY_CH","de-de":"EBAY_DE","en":"EBAY_US","en-au":"EBAY_AU","en-ca":"EBAY_CA","en-gb":"EBAY_GB","en-ie":"EBAY_IE","en-nz":"EBAY_AU","en-uk":"EBAY_GB","en-us":"EBAY_US","es":"EBAY_ES","es-es":"EBAY_ES","fr":"EBAY_FR","fr-be":"EBAY_BE","fr-ca":"EBAY_CA","fr-fr":"EBAY_FR","it":"EBAY_IT","it-it":"EBAY_IT","nl":"EBAY_NL","nl-be":"EBAY_BE","nl-nl":"EBAY_NL"};
+  var timezoneRules = [{"market":"EBAY_IE","pattern":"^Europe/Dublin$"}, {"market":"EBAY_GB","pattern":"^Europe/(London|Belfast)$"}, {"market":"EBAY_CA","pattern":"^America/(Toronto|Vancouver|Edmonton|Winnipeg|Halifax|St_Johns|Regina|Saskatoon|Whitehorse|Dawson|Moncton|Glace_Bay|Goose_Bay|Iqaluit|Yellowknife|Inuvik|Rankin_Inlet|Resolute|Cambridge_Bay|Fort_Nelson|Creston|Dawson_Creek)$"}, {"market":"EBAY_US","pattern":"^America/"}, {"market":"EBAY_DE","pattern":"^Europe/Berlin$"}, {"market":"EBAY_FR","pattern":"^Europe/Paris$"}, {"market":"EBAY_IT","pattern":"^Europe/Rome$"}, {"market":"EBAY_ES","pattern":"^Europe/Madrid$"}, {"market":"EBAY_AU","pattern":"^Australia/"}, {"market":"EBAY_AU","pattern":"^Pacific/(Auckland|Chatham)$"}];
   function normalize(value) {
-    return String(value || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
+    return String(value ||'').toLowerCase().replace(/_/g,'-').replace(/[^a-z0-9-]+/g,'');
   }
   function localeMatches() {
     var languages = [];
-    var exactMarket = '';
-    var languageMarket = '';
+    var exactMarket ='';
+    var languageMarket ='';
     try {
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -621,24 +414,24 @@ The balanced conclusion is simple: trained pilots make a report worth taking ser
   }
   function inferFromLocale() {
     var matches = localeMatches();
-    return matches.exact || matches.language || '';
+    return matches.exact || matches.language ||'';
   }
   function inferFromTimezone() {
-    var tz = '';
-    try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
-    if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    var tz ='';
+    try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone ||''); } catch (err) {}
+    if (!tz) return'';
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
       } catch (err) {}
     }
-    return '';
+    return'';
   }
   function inferMarket(available, options) {
     available = Array.isArray(available) ? available : [];
     options = options || {};
-    var storageKey = options.storageKey || 'phoenix-affiliate-market';
+    var storageKey = options.storageKey ||'phoenix-affiliate-market';
     try {
       var saved = window.localStorage && localStorage.getItem(storageKey);
       if (saved && available.indexOf(saved) >= 0) return saved;
@@ -649,7 +442,7 @@ The balanced conclusion is simple: trained pilots make a report worth taking ser
     if (localeMarkets.exact && available.indexOf(localeMarkets.exact) >= 0) return localeMarkets.exact;
     if (localeMarkets.language && available.indexOf(localeMarkets.language) >= 0) return localeMarkets.language;
     if (options.defaultMarket && available.indexOf(options.defaultMarket) >= 0) return options.defaultMarket;
-    return available[0] || '';
+    return available[0] ||'';
   }
   window.PhoenixAffiliateLocation = {
     normalize: normalize,
@@ -657,45 +450,43 @@ The balanced conclusion is simple: trained pilots make a report worth taking ser
     inferFromLocale: inferFromLocale,
     inferFromTimezone: inferFromTimezone
   };
-})();
-</script>
-  <script type="text/javascript">
+})();</script><script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
-  var markets = {"EBAY_AU": {"campaign_id": "5339151051", "domain_label": "eBay.com.au", "label": "Australia", "mkrid": "705-53470-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com.au/sch/i.html?_nkw={query}"}, "EBAY_CA": {"campaign_id": "5339151051", "domain_label": "eBay.ca", "label": "Canada", "mkrid": "706-53473-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ca/sch/i.html?_nkw={query}"}, "EBAY_GB": {"campaign_id": "5339151051", "domain_label": "eBay.co.uk", "label": "UK", "mkrid": "710-53481-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.co.uk/sch/i.html?_nkw={query}"}, "EBAY_IE": {"campaign_id": "5339151051", "domain_label": "eBay.ie", "label": "Ireland", "mkrid": "5282-53468-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ie/sch/i.html?_nkw={query}"}, "EBAY_US": {"campaign_id": "5339151051", "domain_label": "eBay.com", "label": "USA", "mkrid": "711-53200-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com/sch/i.html?_nkw={query}"}};
-  var defaultMarket = "EBAY_GB";
+  var markets = {"EBAY_AU": {"campaign_id":"5339151051","domain_label":"eBay.com.au","label":"Australia","mkrid":"705-53470-19255-0","tool_id":"10001","url_template":"https://www.ebay.com.au/sch/i.html?_nkw={query}"},"EBAY_CA": {"campaign_id":"5339151051","domain_label":"eBay.ca","label":"Canada","mkrid":"706-53473-19255-0","tool_id":"10001","url_template":"https://www.ebay.ca/sch/i.html?_nkw={query}"},"EBAY_GB": {"campaign_id":"5339151051","domain_label":"eBay.co.uk","label":"UK","mkrid":"710-53481-19255-0","tool_id":"10001","url_template":"https://www.ebay.co.uk/sch/i.html?_nkw={query}"},"EBAY_IE": {"campaign_id":"5339151051","domain_label":"eBay.ie","label":"Ireland","mkrid":"5282-53468-19255-0","tool_id":"10001","url_template":"https://www.ebay.ie/sch/i.html?_nkw={query}"},"EBAY_US": {"campaign_id":"5339151051","domain_label":"eBay.com","label":"USA","mkrid":"711-53200-19255-0","tool_id":"10001","url_template":"https://www.ebay.com/sch/i.html?_nkw={query}"}};
+  var defaultMarket ="EBAY_GB";
   function encodeQuery(value) {
-    return encodeURIComponent(String(value || '').replace(/\s+/g, ' ').trim()).replace(/%20/g, '+');
+    return encodeURIComponent(String(value ||'').replace(/\s+/g,'').trim()).replace(/%20/g,'+');
   }
   function buildUrl(query, reference, marketId) {
     var cfg = markets[marketId] || markets[defaultMarket];
-    if (!cfg) return '#';
-    var template = String(cfg.url_template || 'https://www.ebay.com/sch/i.html?_nkw={query}');
-    var url = template.replace('{query}', encodeQuery(query || '')).replace('{query_plain}', String(query || ''));
-    var joiner = url.indexOf('?') >= 0 ? '&' : '?';
+    if (!cfg) return'#';
+    var template = String(cfg.url_template ||'https://www.ebay.com/sch/i.html?_nkw={query}');
+    var url = template.replace('{query}', encodeQuery(query ||'')).replace('{query_plain}', String(query ||''));
+    var joiner = url.indexOf('?') >= 0 ?'&' :'?';
     var params = [];
     if (cfg.mkrid) params.push('mkrid=' + encodeURIComponent(cfg.mkrid));
     if (cfg.campaign_id) params.push('campid=' + encodeURIComponent(cfg.campaign_id));
     params.push('mkevt=1');
     params.push('mkcid=1');
-    params.push('toolid=' + encodeURIComponent(cfg.tool_id || '10001'));
+    params.push('toolid=' + encodeURIComponent(cfg.tool_id ||'10001'));
     if (reference) params.push('customid=' + encodeURIComponent(reference).slice(0, 256));
     return url + joiner + params.join('&');
   }
   function domainLabel(marketId) {
     var cfg = markets[marketId] || markets[defaultMarket] || {};
-    return cfg.domain_label || 'eBay';
+    return cfg.domain_label ||'eBay';
   }
   function flagClass(marketId) {
-    return 'fr-ebay-market-flag fr-ebay-market-flag--' + String(marketId || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
+    return'fr-ebay-market-flag fr-ebay-market-flag--' + String(marketId ||'').toLowerCase().replace(/_/g,'-').replace(/[^a-z0-9-]+/g,'');
   }
   function closeMenu(section) {
     var menu = section.querySelector('[data-ebay-market-menu]');
     var trigger = section.querySelector('[data-ebay-market-trigger]');
     var picker = section.querySelector('.fr-ebay-market-picker');
     if (menu) menu.hidden = true;
-    if (trigger) trigger.setAttribute('aria-expanded', 'false');
+    if (trigger) trigger.setAttribute('aria-expanded','false');
     if (picker) picker.classList.remove('fr-ebay-market-picker--open');
   }
   function availableMarkets(section) {
@@ -711,10 +502,10 @@ The balanced conclusion is simple: trained pilots make a report worth taking ser
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
-      var query = link.getAttribute('data-ebay-query') || '';
-      var reference = link.getAttribute('data-ebay-reference') || '';
+      var query = link.getAttribute('data-ebay-query') ||'';
+      var reference = link.getAttribute('data-ebay-reference') ||'';
       link.setAttribute('href', buildUrl(query, reference, marketId));
     });
     var select = section.querySelector('[data-ebay-market-select]');
@@ -734,11 +525,11 @@ The balanced conclusion is simple: trained pilots make a report worth taking ser
       label.textContent = domainLabel(marketId);
     });
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
-      button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
+      button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ?'true' :'false');
     });
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
       var active = button.getAttribute('data-ebay-market-button') === marketId;
-      button.setAttribute('aria-pressed', active ? 'true' : 'false');
+      button.setAttribute('aria-pressed', active ?'true' :'false');
     });
     section.setAttribute('data-ebay-selected-market', marketId);
     if (persist) {
@@ -747,16 +538,16 @@ The balanced conclusion is simple: trained pilots make a report worth taking ser
     closeMenu(section);
   }
   sections.forEach(function (section) {
-    if (section.getAttribute('data-ebay-localized-init') === '1') return;
-    section.setAttribute('data-ebay-localized-init', '1');
+    if (section.getAttribute('data-ebay-localized-init') ==='1') return;
+    section.setAttribute('data-ebay-localized-init','1');
     var available = availableMarkets(section);
     var marketId = defaultMarket;
     if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
       marketId = window.PhoenixAffiliateLocation.inferMarket(available, {
-        storageKey: 'phoenix-ebay-market',
+        storageKey:'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -770,9 +561,9 @@ The balanced conclusion is simple: trained pilots make a report worth taking ser
     if (trigger && menu) {
       trigger.addEventListener('click', function (event) {
         event.stopPropagation();
-        var expanded = trigger.getAttribute('aria-expanded') === 'true';
+        var expanded = trigger.getAttribute('aria-expanded') ==='true';
         menu.hidden = expanded;
-        trigger.setAttribute('aria-expanded', expanded ? 'false' : 'true');
+        trigger.setAttribute('aria-expanded', expanded ?'false' :'true');
         var picker = trigger.closest('.fr-ebay-market-picker');
         if (picker) picker.classList.toggle('fr-ebay-market-picker--open', !expanded);
       });
@@ -791,225 +582,219 @@ The balanced conclusion is simple: trained pilots make a report worth taking ser
     });
     applyMarket(section, marketId, false);
   });
-})();
-</script>
-</section>
+})();</script></section>
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: lba.de  
-   Link: <a href="https://www.lba.de/DE/Luftfahrtunternehmen/Ereignismeldungen/Allgemeines/Allgemeines.html" target="_blank" rel="noopener noreferrer nofollow">https://www.lba.de/DE/Luftfahrtunternehmen/Ereignismeldungen/Allgemeines/Allgemeines.html</a>  
+   Link:<a href="https://www.lba.de/DE/Luftfahrtunternehmen/Ereignismeldungen/Allgemeines/Allgemeines.html" target="_blank" rel="noopener noreferrer nofollow">https://www.lba.de/DE/Luftfahrtunternehmen/Ereignismeldungen/Allgemeines/Allgemeines.html</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: asrs.arc.nasa.gov  
    Title: CALLBAC K 246  
-   Link: <a href="https://asrs.arc.nasa.gov/publications/callback/cb_246.htm" target="_blank" rel="noopener noreferrer nofollow">https://asrs.arc.nasa.gov/publications/callback/cb_246.htm</a>  
+   Link:<a href="https://asrs.arc.nasa.gov/publications/callback/cb_246.htm" target="_blank" rel="noopener noreferrer nofollow">https://asrs.arc.nasa.gov/publications/callback/cb_246.htm</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: grewi.de  
    Title: piloten dokumentieren ufo sichtung im juli 2024 oestlich von muenchen  
-   Link: <a href="https://www.grewi.de/piloten-dokumentieren-ufo-sichtung-im-juli-2024-oestlich-von-muenchen/" target="_blank" rel="noopener noreferrer nofollow">https://www.grewi.de/piloten-dokumentieren-ufo-sichtung-im-juli-2024-oestlich-von-muenchen/</a>  
+   Link:<a href="https://www.grewi.de/piloten-dokumentieren-ufo-sichtung-im-juli-2024-oestlich-von-muenchen/" target="_blank" rel="noopener noreferrer nofollow">https://www.grewi.de/piloten-dokumentieren-ufo-sichtung-im-juli-2024-oestlich-von-muenchen/</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/1o0h06x/pilots_document_uap_sighting_in_july_2024_east_of/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1o0h06x/pilots_document_uap_sighting_in_july_2024_east_of/</a>  
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/1o0h06x/pilots_document_uap_sighting_in_july_2024_east_of/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1o0h06x/pilots_document_uap_sighting_in_july_2024_east_of/</a>  
    Published: july 2024  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: aaro.mil  
    Title: Official UAP Imagery  
-   Link: <a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
+   Link:<a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: reddit.com  
    Title: r/UFOs on Reddit: German University of Würzburg links to interesting  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/1mdgkgi/german_university_of_w%C3%BCrzburg_links_to/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1mdgkgi/german_university_of_w%C3%BCrzburg_links_to/</a>  
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/1mdgkgi/german_university_of_w%C3%BCrzburg_links_to/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1mdgkgi/german_university_of_w%C3%BCrzburg_links_to/</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: focus.de  
    Title: Uni Würzburg und Luftfahrt-Bundesamt kooperieren bei UFO  
-   Link: <a href="https://www.focus.de/wissen/uni-wuerzburg-und-luftfahrt-bundesamt-kooperieren-bei-ufo-meldestelle-fuer-piloten_c5229adc-5058-4813-8b65-a664da5b9b6b.html" target="_blank" rel="noopener noreferrer nofollow">https://www.focus.de/wissen/uni-wuerzburg-und-luftfahrt-bundesamt-kooperieren-bei-ufo-meldestelle-fuer-piloten_c5229adc-5058-4813-8b65-a664da5b9b6b.html</a>  
+   Link:<a href="https://www.focus.de/wissen/uni-wuerzburg-und-luftfahrt-bundesamt-kooperieren-bei-ufo-meldestelle-fuer-piloten_c5229adc-5058-4813-8b65-a664da5b9b6b.html" target="_blank" rel="noopener noreferrer nofollow">https://www.focus.de/wissen/uni-wuerzburg-und-luftfahrt-bundesamt-kooperieren-bei-ufo-meldestelle-fuer-piloten_c5229adc-5058-4813-8b65-a664da5b9b6b.html</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: reddit.com  
    Title: Uap-Meldungen: Universität Würzburg Und Luftfahrt-Bundesamt  
-   Link: <a href="https://www.reddit.com/r/UfoUapNews/comments/1lzkjau/uapmeldungen_universit%C3%A4t_w%C3%BCrzburg_und/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UfoUapNews/comments/1lzkjau/uapmeldungen_universit%C3%A4t_w%C3%BCrzburg_und/</a>  
+   Link:<a href="https://www.reddit.com/r/UfoUapNews/comments/1lzkjau/uapmeldungen_universit%C3%A4t_w%C3%BCrzburg_und/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UfoUapNews/comments/1lzkjau/uapmeldungen_universit%C3%A4t_w%C3%BCrzburg_und/</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: reddit.com  
    Title: N E Michigan  
-   Link: <a href="https://reddit.com/r/UFOs/s/LIRkVRSe70" target="_blank" rel="noopener noreferrer nofollow">https://reddit.com/r/UFOs/s/LIRkVRSe70</a>  
+   Link:<a href="https://reddit.com/r/UFOs/s/LIRkVRSe70" target="_blank" rel="noopener noreferrer nofollow">https://reddit.com/r/UFOs/s/LIRkVRSe70</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/skeptic/comments/1go55x2/lets_discuss_the_idea_of_pilots_as_trained/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/skeptic/comments/1go55x2/lets_discuss_the_idea_of_pilots_as_trained/</a>  
+   Link:<a href="https://www.reddit.com/r/skeptic/comments/1go55x2/lets_discuss_the_idea_of_pilots_as_trained/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/skeptic/comments/1go55x2/lets_discuss_the_idea_of_pilots_as_trained/</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/1u12dfm/denmark_1958_big_black_spaceship_with_horseshoe/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1u12dfm/denmark_1958_big_black_spaceship_with_horseshoe/</a>  
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/1u12dfm/denmark_1958_big_black_spaceship_with_horseshoe/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1u12dfm/denmark_1958_big_black_spaceship_with_horseshoe/</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: asrs.arc.nasa.gov  
-   Link: <a href="https://asrs.arc.nasa.gov/publications/research.html" target="_blank" rel="noopener noreferrer nofollow">https://asrs.arc.nasa.gov/publications/research.html</a>  
+   Link:<a href="https://asrs.arc.nasa.gov/publications/research.html" target="_blank" rel="noopener noreferrer nofollow">https://asrs.arc.nasa.gov/publications/research.html</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: asrs.arc.nasa.gov  
    Title: cb 205  
-   Link: <a href="https://asrs.arc.nasa.gov/docs/cb/cb_205.pdf" target="_blank" rel="noopener noreferrer nofollow">https://asrs.arc.nasa.gov/docs/cb/cb_205.pdf</a>  
+   Link:<a href="https://asrs.arc.nasa.gov/docs/cb/cb_205.pdf" target="_blank" rel="noopener noreferrer nofollow">https://asrs.arc.nasa.gov/docs/cb/cb_205.pdf</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: ntrs.nasa.gov  
-   Link: <a href="https://ntrs.nasa.gov/api/citations/19840018611/downloads/19840018611.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ntrs.nasa.gov/api/citations/19840018611/downloads/19840018611.pdf</a>  
+   Link:<a href="https://ntrs.nasa.gov/api/citations/19840018611/downloads/19840018611.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ntrs.nasa.gov/api/citations/19840018611/downloads/19840018611.pdf</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: asrs.arc.nasa.gov  
    Title: dl10 distract  
-   Link: <a href="https://asrs.arc.nasa.gov/publications/directline/dl10_distract.htm" target="_blank" rel="noopener noreferrer nofollow">https://asrs.arc.nasa.gov/publications/directline/dl10_distract.htm</a>  
+   Link:<a href="https://asrs.arc.nasa.gov/publications/directline/dl10_distract.htm" target="_blank" rel="noopener noreferrer nofollow">https://asrs.arc.nasa.gov/publications/directline/dl10_distract.htm</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: lba.de  
    Title: Luftfahrt Bundesamt  
-   Link: <a href="https://www.lba.de/EN/Home/home_node.html" target="_blank" rel="noopener noreferrer nofollow">https://www.lba.de/EN/Home/home_node.html</a>  
+   Link:<a href="https://www.lba.de/EN/Home/home_node.html" target="_blank" rel="noopener noreferrer nofollow">https://www.lba.de/EN/Home/home_node.html</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: lba.de  
    Title: Occurrence Reporting  
-   Link: <a href="https://www.lba.de/EN/Operations/OccurrencesReporting/OccurrenceReporting_node.html" target="_blank" rel="noopener noreferrer nofollow">https://www.lba.de/EN/Operations/OccurrencesReporting/OccurrenceReporting_node.html</a>  
+   Link:<a href="https://www.lba.de/EN/Operations/OccurrencesReporting/OccurrenceReporting_node.html" target="_blank" rel="noopener noreferrer nofollow">https://www.lba.de/EN/Operations/OccurrencesReporting/OccurrenceReporting_node.html</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: media.defense.gov  
    Title: DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024  
-   Link: <a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
+   Link:<a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: aph.gov.au  
    Title: Preliminary Assessment UAP 20210625  
-   Link: <a href="https://www.aph.gov.au/-/media/Estimates/fadt/supp2122/add_info/Preliminary-Assessment-UAP-20210625.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aph.gov.au/-/media/Estimates/fadt/supp2122/add_info/Preliminary-Assessment-UAP-20210625.pdf</a>  
+   Link:<a href="https://www.aph.gov.au/-/media/Estimates/fadt/supp2122/add_info/Preliminary-Assessment-UAP-20210625.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aph.gov.au/-/media/Estimates/fadt/supp2122/add_info/Preliminary-Assessment-UAP-20210625.pdf</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/Submit-A-Report/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Submit-A-Report/</a>  
+   Link:<a href="https://www.aaro.mil/Submit-A-Report/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Submit-A-Report/</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: aaro.mil  
    Title: Next UAP Report Documents  
-   Link: <a href="https://www.aaro.mil/Next-AARO-Home-redesign/Next-Parent/Next-UAP-Report-Documents/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Next-AARO-Home-redesign/Next-Parent/Next-UAP-Report-Documents/</a>  
+   Link:<a href="https://www.aaro.mil/Next-AARO-Home-redesign/Next-Parent/Next-UAP-Report-Documents/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Next-AARO-Home-redesign/Next-Parent/Next-UAP-Report-Documents/</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: uni-wuerzburg.de  
    Title: University of Würzburg UAP Reporting Form for Pilots  
-   Link: <a href="https://www.uni-wuerzburg.de/en/ifex/research-projects/uap-reporting-center-for-pilots/uap-reporting-form-for-pilots/" target="_blank" rel="noopener noreferrer nofollow">https://www.uni-wuerzburg.de/en/ifex/research-projects/uap-reporting-center-for-pilots/uap-reporting-form-for-pilots/</a>  
+   Link:<a href="https://www.uni-wuerzburg.de/en/ifex/research-projects/uap-reporting-center-for-pilots/uap-reporting-form-for-pilots/" target="_blank" rel="noopener noreferrer nofollow">https://www.uni-wuerzburg.de/en/ifex/research-projects/uap-reporting-center-for-pilots/uap-reporting-form-for-pilots/</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: uni-wuerzburg.de  
-   Link: <a href="https://www.uni-wuerzburg.de/en/ifex/news/single-english/page-1/?cHash=55f7fa062e321bcd6b6cd76554a45c06&amp;tx_news_pi1%5Bnews%5D=231720" target="_blank" rel="noopener noreferrer nofollow">https://www.uni-wuerzburg.de/en/ifex/news/single-english/page-1/?cHash=55f7fa062e321bcd6b6cd76554a45c06&amp;tx_news_pi1%5Bnews%5D=231720</a>  
+   Link:<a href="https://www.uni-wuerzburg.de/en/ifex/news/single-english/page-1/?cHash=55f7fa062e321bcd6b6cd76554a45c06&amp;tx_news_pi1%5Bnews%5D=231720" target="_blank" rel="noopener noreferrer nofollow">https://www.uni-wuerzburg.de/en/ifex/news/single-english/page-1/?cHash=55f7fa062e321bcd6b6cd76554a45c06&amp;tx_news_pi1%5Bnews%5D=231720</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: dni.gov  
    Title: 4020 uap 2024  
-   Link: <a href="https://www.dni.gov/index.php/newsroom/reports-publications/reports-publications-2024/4020-uap-2024" target="_blank" rel="noopener noreferrer nofollow">https://www.dni.gov/index.php/newsroom/reports-publications/reports-publications-2024/4020-uap-2024</a>  
+   Link:<a href="https://www.dni.gov/index.php/newsroom/reports-publications/reports-publications-2024/4020-uap-2024" target="_blank" rel="noopener noreferrer nofollow">https://www.dni.gov/index.php/newsroom/reports-publications/reports-publications-2024/4020-uap-2024</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: uni-wuerzburg.de  
    Title: UAP & SETI Research  
-   Link: <a href="https://www.uni-wuerzburg.de/en/ifex/research-projects/uap-seti-research/" target="_blank" rel="noopener noreferrer nofollow">https://www.uni-wuerzburg.de/en/ifex/research-projects/uap-seti-research/</a>  
+   Link:<a href="https://www.uni-wuerzburg.de/en/ifex/research-projects/uap-seti-research/" target="_blank" rel="noopener noreferrer nofollow">https://www.uni-wuerzburg.de/en/ifex/research-projects/uap-seti-research/</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: uni-wuerzburg.de  
    Title: UAP Reporting: University and Federal Aviation Office Cooperate  
-   Link: <a href="https://www.uni-wuerzburg.de/en/news-and-events/news/detail/news/uap-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.uni-wuerzburg.de/en/news-and-events/news/detail/news/uap-reports/</a>  
+   Link:<a href="https://www.uni-wuerzburg.de/en/news-and-events/news/detail/news/uap-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.uni-wuerzburg.de/en/news-and-events/news/detail/news/uap-reports/</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: uni-wuerzburg.de  
    Title: UAP neu im Forschungskanon  
-   Link: <a href="https://www.uni-wuerzburg.de/aktuelles/pressemitteilungen/single/news/uap-neu-im-forschungskanon-1/" target="_blank" rel="noopener noreferrer nofollow">https://www.uni-wuerzburg.de/aktuelles/pressemitteilungen/single/news/uap-neu-im-forschungskanon-1/</a>  
+   Link:<a href="https://www.uni-wuerzburg.de/aktuelles/pressemitteilungen/single/news/uap-neu-im-forschungskanon-1/" target="_blank" rel="noopener noreferrer nofollow">https://www.uni-wuerzburg.de/aktuelles/pressemitteilungen/single/news/uap-neu-im-forschungskanon-1/</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: dni.gov  
    Title: [PDF] Preliminary Assessment: Unidentified Aerial Phenomena 25 June  
-   Link: <a href="https://www.dni.gov/files/ODNI/documents/assessments/Prelimary-Assessment-UAP-20210625.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.dni.gov/files/ODNI/documents/assessments/Prelimary-Assessment-UAP-20210625.pdf</a>  
+   Link:<a href="https://www.dni.gov/files/ODNI/documents/assessments/Prelimary-Assessment-UAP-20210625.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.dni.gov/files/ODNI/documents/assessments/Prelimary-Assessment-UAP-20210625.pdf</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: uni-wuerzburg.de  
    Title: UAP Reporting Center for Pilots  
-   Link: <a href="https://www.uni-wuerzburg.de/en/ifex/research-projects/uap-reporting-center-for-pilots/" target="_blank" rel="noopener noreferrer nofollow">https://www.uni-wuerzburg.de/en/ifex/research-projects/uap-reporting-center-for-pilots/</a>  
+   Link:<a href="https://www.uni-wuerzburg.de/en/ifex/research-projects/uap-reporting-center-for-pilots/" target="_blank" rel="noopener noreferrer nofollow">https://www.uni-wuerzburg.de/en/ifex/research-projects/uap-reporting-center-for-pilots/</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: uni-wuerzburg.de  
    Title: collection of materials publications and media contributions  
-   Link: <a href="https://www.uni-wuerzburg.de/en/ifex/research-projects/uap-reporting-center-for-pilots/collection-of-materials-publications-and-media-contributions/" target="_blank" rel="noopener noreferrer nofollow">https://www.uni-wuerzburg.de/en/ifex/research-projects/uap-reporting-center-for-pilots/collection-of-materials-publications-and-media-contributions/</a>  
+   Link:<a href="https://www.uni-wuerzburg.de/en/ifex/research-projects/uap-reporting-center-for-pilots/collection-of-materials-publications-and-media-contributions/" target="_blank" rel="noopener noreferrer nofollow">https://www.uni-wuerzburg.de/en/ifex/research-projects/uap-reporting-center-for-pilots/collection-of-materials-publications-and-media-contributions/</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: uni-wuerzburg.de  
    Title: UAP-Meldestelle für Piloten  
-   Link: <a href="https://www.uni-wuerzburg.de/ifex/forschung-projekte/uap-meldestelle-fuer-piloten/" target="_blank" rel="noopener noreferrer nofollow">https://www.uni-wuerzburg.de/ifex/forschung-projekte/uap-meldestelle-fuer-piloten/</a>  
+   Link:<a href="https://www.uni-wuerzburg.de/ifex/forschung-projekte/uap-meldestelle-fuer-piloten/" target="_blank" rel="noopener noreferrer nofollow">https://www.uni-wuerzburg.de/ifex/forschung-projekte/uap-meldestelle-fuer-piloten/</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: uni-wuerzburg.de  
-   Link: <a href="https://www.uni-wuerzburg.de/ifex/aktuelles/seite-2/" target="_blank" rel="noopener noreferrer nofollow">https://www.uni-wuerzburg.de/ifex/aktuelles/seite-2/</a>  
+   Link:<a href="https://www.uni-wuerzburg.de/ifex/aktuelles/seite-2/" target="_blank" rel="noopener noreferrer nofollow">https://www.uni-wuerzburg.de/ifex/aktuelles/seite-2/</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: dni.gov  
-   Link: <a href="https://www.dni.gov/index.php/newsroom/reports-publications/reports-publications-2021/3550-preliminary-assessment-unidentified-aerial-phenomena" target="_blank" rel="noopener noreferrer nofollow">https://www.dni.gov/index.php/newsroom/reports-publications/reports-publications-2021/3550-preliminary-assessment-unidentified-aerial-phenomena</a>  
+   Link:<a href="https://www.dni.gov/index.php/newsroom/reports-publications/reports-publications-2021/3550-preliminary-assessment-unidentified-aerial-phenomena" target="_blank" rel="noopener noreferrer nofollow">https://www.dni.gov/index.php/newsroom/reports-publications/reports-publications-2021/3550-preliminary-assessment-unidentified-aerial-phenomena</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: dni.gov  
    Title: DF 2021 00275 Preliminary Assessment Unidentified Aerial Phenomena  
-   Link: <a href="https://www.dni.gov/files/documents/FOIA/DF-2021-00275-Preliminary-Assessment-Unidentified-Aerial-Phenomena.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.dni.gov/files/documents/FOIA/DF-2021-00275-Preliminary-Assessment-Unidentified-Aerial-Phenomena.pdf</a>  
+   Link:<a href="https://www.dni.gov/files/documents/FOIA/DF-2021-00275-Preliminary-Assessment-Unidentified-Aerial-Phenomena.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.dni.gov/files/documents/FOIA/DF-2021-00275-Preliminary-Assessment-Unidentified-Aerial-Phenomena.pdf</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: committees.parliament.uk  
-   Link: <a href="https://committees.parliament.uk/writtenevidence/140368/html" target="_blank" rel="noopener noreferrer nofollow">https://committees.parliament.uk/writtenevidence/140368/html</a>  
+   Link:<a href="https://committees.parliament.uk/writtenevidence/140368/html" target="_blank" rel="noopener noreferrer nofollow">https://committees.parliament.uk/writtenevidence/140368/html</a>  
 
 ### Additional References
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=TbvLKBcQn-A" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=TbvLKBcQn-A</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>D. Ammon &amp; A. Kramer: The Oz Factor – Anomaly or Derealization? Research Benefits of Civilian UAP Databases...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=TbvLKBcQn-A" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=TbvLKBcQn-A</a><details class="endnote-snippet"><summary>Source snippet</summary><p>D. Ammon &amp; A. Kramer: The Oz Factor – Anomaly or Derealization? Research Benefits of Civilian UAP Databases...</p></details>
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: youtube.com  
    Title: Phenomenology of the Phenomenon  
-   Link: <a href="https://www.youtube.com/watch?v=3-dfCFRt-eE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=3-dfCFRt-eE</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>C. Peters: UAP and the Politics of Secrecy and Disclosure: A Conceptual Provocation...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=3-dfCFRt-eE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=3-dfCFRt-eE</a><details class="endnote-snippet"><summary>Source snippet</summary><p>C. Peters: UAP and the Politics of Secrecy and Disclosure: A Conceptual Provocation...</p></details>
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: youtube.com  
    Title: D. Buettner: The UAPs that Pilots, Passengers and Other Cameras “Capture”  
-   Link: <a href="https://www.youtube.com/watch?v=xFndGbYrmJQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=xFndGbYrmJQ</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Phenomenology of the Phenomenon - Dr. Kimberly Engels in conversation with Dr. Richard Haines...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=xFndGbYrmJQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=xFndGbYrmJQ</a><details class="endnote-snippet"><summary>Source snippet</summary><p>Phenomenology of the Phenomenon - Dr. Kimberly Engels in conversation with Dr. Richard Haines...</p></details>
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: youtube.com  
    Title: R. Graves: UAP  
-   Link: <a href="https://www.youtube.com/watch?v=6oumYk1lqbI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=6oumYk1lqbI</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>D. Buettner: The UAPs that Pilots, Passengers and Other Cameras “Capture”...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=6oumYk1lqbI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=6oumYk1lqbI</a><details class="endnote-snippet"><summary>Source snippet</summary><p>D. Buettner: The UAPs that Pilots, Passengers and Other Cameras “Capture”...</p></details>
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: faa.gov  
-   Link: <a href="https://www.faa.gov/data_research/accident_incident" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/data_research/accident_incident</a>  
+   Link:<a href="https://www.faa.gov/data_research/accident_incident" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/data_research/accident_incident</a>  
 
-41. <a id="endnote-41"></a>
+41.<a id="endnote-41"></a>
    Source: cia.gov  
-   Link: <a href="https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0</a>  
+   Link:<a href="https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0</a>  
 
-42. <a id="endnote-42"></a>
+42.<a id="endnote-42"></a>
    Source: text-message.blogs.archives.gov  
-   Link: <a href="https://text-message.blogs.archives.gov/2017/07/05/see-something-say-something-ufo-reporting-requirements-office-of-military-government-for-bavaria-germany-may-1948/" target="_blank" rel="noopener noreferrer nofollow">https://text-message.blogs.archives.gov/2017/07/05/see-something-say-something-ufo-reporting-requirements-office-of-military-government-for-bavaria-germany-may-1948/</a>  
+   Link:<a href="https://text-message.blogs.archives.gov/2017/07/05/see-something-say-something-ufo-reporting-requirements-office-of-military-government-for-bavaria-germany-may-1948/" target="_blank" rel="noopener noreferrer nofollow">https://text-message.blogs.archives.gov/2017/07/05/see-something-say-something-ufo-reporting-requirements-office-of-military-government-for-bavaria-germany-may-1948/</a>  
    Published: may 1948  
 
-43. <a id="endnote-43"></a>
+43.<a id="endnote-43"></a>
    Source: war.gov  
    Title: department of defense releases the annual report on unidentified anomalous phen  
-   Link: <a href="https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/</a>  
+   Link:<a href="https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/</a>  
 
-44. <a id="endnote-44"></a>
+44.<a id="endnote-44"></a>
    Source: war.gov  
    Title: dr jon kosloski director aaro media roundtable on the fy24 consolidated annual  
-   Link: <a href="https://www.war.gov/News/Transcripts/Transcript/Article/3965734/dr-jon-kosloski-director-aaro-media-roundtable-on-the-fy24-consolidated-annual/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Transcripts/Transcript/Article/3965734/dr-jon-kosloski-director-aaro-media-roundtable-on-the-fy24-consolidated-annual/</a>  
+   Link:<a href="https://www.war.gov/News/Transcripts/Transcript/Article/3965734/dr-jon-kosloski-director-aaro-media-roundtable-on-the-fy24-consolidated-annual/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Transcripts/Transcript/Article/3965734/dr-jon-kosloski-director-aaro-media-roundtable-on-the-fy24-consolidated-annual/</a>  
 
-45. <a id="endnote-45"></a>
+45.<a id="endnote-45"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/384905393_The_Reliability_of_UFO_Witness_Testimony" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/384905393_The_Reliability_of_UFO_Witness_Testimony</a>  
+   Link:<a href="https://www.researchgate.net/publication/384905393_The_Reliability_of_UFO_Witness_Testimony" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/384905393_The_Reliability_of_UFO_Witness_Testimony</a>  

@@ -52,7 +52,7 @@ text_direction: ltr
 ui_strings:
   home: Home
   overview: Overview
-  overview_prefix: 'Overview:'
+  overview_prefix:'Overview:'
   contents: Contents
   close: Close
   open_contents: Open contents
@@ -200,13 +200,13 @@ ui_strings:
   search_this_page_empty_hint: Type to search this page.
   no_search_results: No pages match this search.
   no_search_this_page_results: No sections on this page match this search.
-  search_results_count_template: '{count} results'
+  search_results_count_template:'{count} results'
   search_kind_page_title: Page title
   search_kind_page_summary: Summary of page
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date: '2026-06-29 23:32:57'
+date:'2026-06-29 23:32:57'
 parent_title: Berlin UFOs
 parent_permalink: /what-berlins-ufo-reports-really-show/
 parent_nav_short_title: Berlin UFOs
@@ -302,36 +302,27 @@ image: /assets/images/Berlin_062b06_satellite_train_sigh_48e28a-overview-social.
 
 ## Introduction
 
-Lines of lights crossing Berlin are among the easiest modern UFO reports to misunderstand and among the easiest to test when the time, direction and location are known. Since SpaceX began launching Starlink satellites in large batches in 2019, witnesses in Berlin have reported silent, evenly spaced points moving across the sky in ways that can look organised, artificial and dramatic. In the local case record, the strongest examples are not classic unsolved UFO incidents. They are formation sightings where [investigators]({{ 'investigators/' | relative_url }}) could compare the description with satellite behaviour and often identify Starlink or other ordinary light sources. Berlin’s value here is as a modern test case: a bright, busy city where “UFO” increasingly means a short-lived puzzle created by satellites, phone video, timing and expectation rather than a durable mystery. Ufokarte’s Berlin page, using GEP [case data]({{ 'case-data/' | relative_url }}), lists 158 documented UFO/UAP cases for Berlin and none currently marked unexplained. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ufokarte.de/bundesland/berlin" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufokarte.de">[Ufokarte.de]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufokarte.de</span><span class="citation-popover-title">UF O-Sichtungen in Berlin — Ufokarte.de</span><span class="citation-popover-snippet">UF O-Sichtungen in Berlin — Ufokarte.de</span></span></span>
-
-
-<img src="{{ "/assets/images/Berlin_062b06_satellite_train_sigh_48e28a-overview.webp" | relative_url }}" alt="Overview image for Light Trains" loading="eager" decoding="sync" fetchpriority="high">
+Lines of lights crossing Berlin are among the easiest modern UFO reports to misunderstand and among the easiest to test when the time, direction and location are known. Since SpaceX began launching Starlink satellites in large batches in 2019, witnesses in Berlin have reported silent, evenly spaced points moving across the sky in ways that can look organised, artificial and dramatic. In the local case record, the strongest examples are not classic unsolved UFO incidents. They are formation sightings where [investigators]({{'investigators/' | relative_url }}) could compare the description with satellite behaviour and often identify Starlink or other ordinary light sources. Berlin’s value here is as a modern test case: a bright, busy city where “UFO” increasingly means a short-lived puzzle created by satellites, phone video, timing and expectation rather than a durable mystery. Ufokarte’s Berlin page, using GEP [case data]({{'case-data/' | relative_url }}), lists 158 documented UFO/UAP cases for Berlin and none currently marked unexplained.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ufokarte.de/bundesland/berlin" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufokarte.de">[Ufokarte.de]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufokarte.de</span><span class="citation-popover-title">UF O-Sichtungen in Berlin — Ufokarte.de</span><span class="citation-popover-snippet">UF O-Sichtungen in Berlin — Ufokarte.de</span></span></span><img src="{{"/assets/images/Berlin_062b06_satellite_train_sigh_48e28a-overview.webp" | relative_url }}" alt="Overview image for Light Trains" loading="eager" decoding="sync" fetchpriority="high">
 ## Berlin formation reports since 2019
 
-The most important [Berlin]({{ 'what-berlins-ufo-reports-really-show/' | relative_url }}) satellite-train case in the public GEP-linked record is the sighting of 28 March 2020. At 20:10, a witness in Berlin, with other people present, reported about 30 white, star-like lights moving eastwards in a straight line with regular spacing. GEP’s likely explanation, as reproduced by Ufokarte, was SpaceX Starlink satellites. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ufokarte.de/fall/berlin-20200328-e" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufokarte.de">[Ufokarte.de]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufokarte.de</span><span class="citation-popover-title">berlin 20200328 e</span><span class="citation-popover-snippet">UFO Berlin 2020 — Sichtung &amp; GEP-Bewertung — Ufokarte.de...</span></span></span>
+The most important [Berlin]({{'what-berlins-ufo-reports-really-show/' | relative_url }}) satellite-train case in the public GEP-linked record is the sighting of 28 March 2020. At 20:10, a witness in Berlin, with other people present, reported about 30 white, star-like lights moving eastwards in a straight line with regular spacing. GEP’s likely explanation, as reproduced by Ufokarte, was SpaceX Starlink satellites.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ufokarte.de/fall/berlin-20200328-e" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufokarte.de">[Ufokarte.de]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufokarte.de</span><span class="citation-popover-title">berlin 20200328 e</span><span class="citation-popover-snippet">UFO Berlin 2020 — Sichtung &amp; GEP-Bewertung — Ufokarte.de...</span></span></span>
 
 That report matters because it contains the features investigators most want in a satellite-train case: a date, a time, a direction of travel, a number of lights and a consistent formation. None of those details proves a satellite explanation by itself, but together they make the report testable. The description does not involve erratic manoeuvres, close-range structure, sound, landing, radar confirmation or interaction with aircraft. It describes exactly the kind of “string of pearls” appearance that became familiar after Starlink launches.
 
-A slightly earlier Berlin report, from 26 July 2019 at 03:12, shows the same transition beginning. A witness saw about six star-like lights from a balcony, arranged one after another, moving quickly and silently across a clear starry sky. GEP identified the case, with Starlink named as the favoured explanation, though the wording on Ufokarte leaves a small question mark around the exact satellite attribution. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ufokarte.de/fall/berlin-20190726-a" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufokarte.de">[Ufokarte.de]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufokarte.de</span><span class="citation-popover-snippet">UFO Berlin 2019 — Sichtung &amp; GEP-Bewertung — Ufokarte.de...</span></span></span>
+A slightly earlier Berlin report, from 26 July 2019 at 03:12, shows the same transition beginning. A witness saw about six star-like lights from a balcony, arranged one after another, moving quickly and silently across a clear starry sky. GEP identified the case, with Starlink named as the favoured explanation, though the wording on Ufokarte leaves a small question mark around the exact satellite attribution.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ufokarte.de/fall/berlin-20190726-a" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufokarte.de">[Ufokarte.de]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufokarte.de</span><span class="citation-popover-snippet">UFO Berlin 2019 — Sichtung &amp; GEP-Bewertung — Ufokarte.de...</span></span></span>
 
 This is a useful detail. It shows the right sceptical posture: the formation can be very plausibly explained by satellites without every historical entry needing to be overstated as a perfect match. In UFO history, overconfident debunking can be as misleading as overconfident mystery-making. A careful investigator distinguishes between “identified”, “favoured explanation”, “insufficient data” and “unresolved after strong evidence”.
 
-Berlin also has formation reports that are not satellite trains. On 24 April 2019, two [witnesses]({{ 'witnesses/' | relative_url }}) reported six light balls flying one behind another for an extended period and repeatedly following a figure-of-eight path. GEP’s likely explanation was light-effect equipment, involving reflected beams and effects, not Starlink. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ufokarte.de/fall/berlin-20190424-a" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufokarte.de">[Ufokarte.de]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufokarte.de</span><span class="citation-popover-snippet">UFO Berlin 2019 — Sichtung &amp; GEP-Bewertung — Ufokarte.de...</span></span></span> This matters because not every line or group of lights in Berlin belongs in the satellite bucket. Searchlights, club lighting, advertising beams, drones, aircraft, lanterns, reflections and camera artefacts all compete with satellites in a dense urban sky.
+Berlin also has formation reports that are not satellite trains. On 24 April 2019, two [witnesses]({{'witnesses/' | relative_url }}) reported six light balls flying one behind another for an extended period and repeatedly following a figure-of-eight path. GEP’s likely explanation was light-effect equipment, involving reflected beams and effects, not Starlink.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ufokarte.de/fall/berlin-20190424-a" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufokarte.de">[Ufokarte.de]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufokarte.de</span><span class="citation-popover-snippet">UFO Berlin 2019 — Sichtung &amp; GEP-Bewertung — Ufokarte.de...</span></span></span> This matters because not every line or group of lights in Berlin belongs in the satellite bucket. Searchlights, club lighting, advertising beams, drones, aircraft, lanterns, reflections and camera artefacts all compete with satellites in a dense urban sky.
 
-The wider Berlin list reinforces that pattern. Ufokarte’s Berlin entries include many identified reports involving single lights, photographs, bright points, formations and moving objects, with several descriptions clustered around the kinds of things city witnesses commonly struggle to judge: distance, altitude, speed, direction and whether several lights belong to one object or several separate objects. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ufokarte.de/ort/berlin" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufokarte.de">[Ufokarte.de]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufokarte.de</span><span class="citation-popover-title">UF O-Sichtungen in Berlin (Berlin) — Ufokarte.de</span><span class="citation-popover-snippet">UF O-Sichtungen in Berlin (Berlin) — Ufokarte.de</span></span></span>
-
-
-<img src="{{ "/assets/images/Berlin_062b06_satellite_train_sigh_48e28a-Illustration-1-dark.svg" | relative_url }}" alt="Light Trains illustration 1" data-theme-src-dark="{{ "/assets/images/Berlin_062b06_satellite_train_sigh_48e28a-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Berlin_062b06_satellite_train_sigh_48e28a-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+The wider Berlin list reinforces that pattern. Ufokarte’s Berlin entries include many identified reports involving single lights, photographs, bright points, formations and moving objects, with several descriptions clustered around the kinds of things city witnesses commonly struggle to judge: distance, altitude, speed, direction and whether several lights belong to one object or several separate objects.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ufokarte.de/ort/berlin" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufokarte.de">[Ufokarte.de]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufokarte.de</span><span class="citation-popover-title">UF O-Sichtungen in Berlin (Berlin) — Ufokarte.de</span><span class="citation-popover-snippet">UF O-Sichtungen in Berlin (Berlin) — Ufokarte.de</span></span></span><img src="{{"/assets/images/Berlin_062b06_satellite_train_sigh_48e28a-Illustration-1-dark.svg" | relative_url }}" alt="Light Trains illustration 1" data-theme-src-dark="{{"/assets/images/Berlin_062b06_satellite_train_sigh_48e28a-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{"/assets/images/Berlin_062b06_satellite_train_sigh_48e28a-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why satellite trains look so strange over a city
 
-A Starlink train is not a row of lamps attached to one craft. It is a set of separate satellites, recently released into low Earth orbit, reflecting sunlight. The effect is strongest shortly after launch, when the satellites are still close together and before they spread into their operational positions. Space.com describes the train as a line of bright lights or “string of pearls”, usually easiest to see in the days after launch and around the hours after sunset or before sunrise. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.space.com/starlink-satellite-train-how-to-see-and-track-it" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-title">Starlink satellite train: how to see and track it in the night sky</span><span class="citation-popover-snippet">Starlink satellite train: how to see and track it in the night sky</span></span></span>
+A Starlink train is not a row of lamps attached to one craft. It is a set of separate satellites, recently released into low Earth orbit, reflecting sunlight. The effect is strongest shortly after launch, when the satellites are still close together and before they spread into their operational positions. Space.com describes the train as a line of bright lights or “string of pearls”, usually easiest to see in the days after launch and around the hours after sunset or before sunrise.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.space.com/starlink-satellite-train-how-to-see-and-track-it" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-title">Starlink satellite train: how to see and track it in the night sky</span><span class="citation-popover-snippet">Starlink satellite train: how to see and track it in the night sky</span></span></span>
 
-The timing is the key. A person standing in Berlin may already be in darkness, while satellites hundreds of kilometres above Earth are still sunlit. To the witness, the points look self-luminous because the ground is dark and the objects are silent. In reality, the satellites are reflecting sunlight from above the local night side of the Earth. Research on satellite constellations has found that trains in very low transfer orbits are visible only briefly during twilight, precisely the period when many public sightings occur. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aanda.org/articles/aa/full_html/2020/04/aa37501-20/aa37501-20.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aanda.org">[A&amp;A Publications]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aanda.org</span><span class="citation-popover-title">aa37501 20</span><span class="citation-popover-snippet">aa37501 20</span></span></span>
+The timing is the key. A person standing in Berlin may already be in darkness, while satellites hundreds of kilometres above Earth are still sunlit. To the witness, the points look self-luminous because the ground is dark and the objects are silent. In reality, the satellites are reflecting sunlight from above the local night side of the Earth. Research on satellite constellations has found that trains in very low transfer orbits are visible only briefly during twilight, precisely the period when many public sightings occur.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aanda.org/articles/aa/full_html/2020/04/aa37501-20/aa37501-20.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aanda.org">[A&amp;A Publications]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aanda.org</span><span class="citation-popover-title">aa37501 20</span><span class="citation-popover-snippet">aa37501 20</span></span></span>
 
 Berlin is well placed for this kind of confusion. The city sits at a mid-northern latitude, has a large population outdoors after dark, and contains enough artificial light to remove many normal sky references. People may not see faint stars, may not know the cardinal direction they are facing, and may film with phones that exaggerate glare, blur movement or suppress the surrounding sky. A silent chain of lights can therefore look more structured and closer than it really is.
-
-The first Starlink launch in May 2019 created a wider public turning point. A satellite tracker in the Netherlands recorded dozens of recently deployed satellites crossing the sky in a dramatic train, and technology press coverage at the time noted that the display had triggered UFO reports. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://gizmodo.com/breathtaking-view-of-spacex-starlink-satellite-train-1835047155" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gizmodo.com">[Gizmodo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gizmodo.com</span><span class="citation-popover-title">Breathtaking View of Space X Starlink Satellite &#x27;Train</span><span class="citation-popover-snippet">Breathtaking View of Space X Starlink Satellite &#x27;Train</span></span></span> Berlin’s 2019 and 2020 entries belong to that same new era of skywatching: not a sudden arrival of new unknown craft, but a sudden arrival of highly visible human-made satellite formations.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/cldNfJHdZws" title="Train of Satellites in the Sky over California | Looks like UFOs | SpaceX Starlink Train 2023" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=cldNfJHdZws" target="_blank" rel="noopener noreferrer">Train of Satellites in the Sky over California | Looks like UFOs | SpaceX Starlink Train 2023</a></p><p class="youtube-embed-meta">Channel: Attractions 360° &middot; Views: 50.2K &middot; Uploaded: July 2023 &middot; Length: 2 minutes 7 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=cldNfJHdZws" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=cldNfJHdZws">Open on YouTube</a></p></div></div></div>
 
@@ -339,37 +330,26 @@ The first Starlink launch in May 2019 created a wider public turning point. A sa
 
 A good Berlin formation report can be checked in a fairly practical way. The strongest cases include the exact time, viewing location, direction of travel, apparent path, duration, number of lights, colour, spacing, sound and whether the formation changed shape. Investigators can then compare the report with known satellite passes, aircraft traffic, weather, astronomical objects and local light sources.
 
-The 28 March 2020 Berlin case is a strong example because the reported pattern was simple: about 30 white star-like lights, regularly spaced, moving linearly eastwards. GEP’s SpaceX Starlink explanation fits the reported structure and behaviour. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ufokarte.de/fall/berlin-20200328-e" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufokarte.de">[Ufokarte.de]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufokarte.de</span><span class="citation-popover-title">berlin 20200328 e</span><span class="citation-popover-snippet">UFO Berlin 2020 — Sichtung &amp; GEP-Bewertung — Ufokarte.de...</span></span></span> The July 2019 balcony sighting is also a good example, though the attribution is phrased as a favoured explanation rather than a fully nailed-down public reconstruction. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ufokarte.de/fall/berlin-20190726-a" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufokarte.de">[Ufokarte.de]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufokarte.de</span><span class="citation-popover-snippet">UFO Berlin 2019 — Sichtung &amp; GEP-Bewertung — Ufokarte.de...</span></span></span>
+The 28 March 2020 Berlin case is a strong example because the reported pattern was simple: about 30 white star-like lights, regularly spaced, moving linearly eastwards. GEP’s SpaceX Starlink explanation fits the reported structure and behaviour.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ufokarte.de/fall/berlin-20200328-e" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufokarte.de">[Ufokarte.de]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufokarte.de</span><span class="citation-popover-title">berlin 20200328 e</span><span class="citation-popover-snippet">UFO Berlin 2020 — Sichtung &amp; GEP-Bewertung — Ufokarte.de...</span></span></span> The July 2019 balcony sighting is also a good example, though the attribution is phrased as a favoured explanation rather than a fully nailed-down public reconstruction.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ufokarte.de/fall/berlin-20190726-a" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufokarte.de">[Ufokarte.de]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufokarte.de</span><span class="citation-popover-snippet">UFO Berlin 2019 — Sichtung &amp; GEP-Bewertung — Ufokarte.de...</span></span></span>
 
-For an ordinary reader, the practical test is this:
-
-
-<div class="content-enhancement content-enhancement--insight-grid" markdown="1">
+For an ordinary reader, the practical test is this:<div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * **A straight line of many white points** soon after sunset or before dawn is strongly suggestive of a satellite train, especially if the lights move steadily and silently.
 * **Regular spacing** supports a recently deployed satellite group, although spacing changes over days as the satellites spread out.
 * **No engine noise** does not make the case stranger; satellites are far above the atmosphere and will be silent to a ground observer.
 * **A steady path across the sky** is more satellite-like than a hovering, circling or figure-eight motion.
-* **A repeated local pattern on clouds** is more consistent with spotlights or light-effect equipment than with satellites.
+* **A repeated local pattern on clouds** is more consistent with spotlights or light-effect equipment than with satellites.</div>
 
-</div>
+This last point is why the April 2019 Berlin “six light balls” report is important. The lights were described as repeatedly flying a figure-eight route, and GEP’s explanation was a light-effect device rather than satellites.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ufokarte.de/fall/berlin-20190424-a" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufokarte.de">[Ufokarte.de]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufokarte.de</span><span class="citation-popover-snippet">UFO Berlin 2019 — Sichtung &amp; GEP-Bewertung — Ufokarte.de...</span></span></span> A satellite can cross the sky in a predictable line, brighten or dim, disappear into Earth’s shadow, or appear as a train. It does not keep tracing the same figure-eight over a city.
 
-This last point is why the April 2019 Berlin “six light balls” report is important. The lights were described as repeatedly flying a figure-eight route, and GEP’s explanation was a light-effect device rather than satellites. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ufokarte.de/fall/berlin-20190424-a" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufokarte.de">[Ufokarte.de]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufokarte.de</span><span class="citation-popover-snippet">UFO Berlin 2019 — Sichtung &amp; GEP-Bewertung — Ufokarte.de...</span></span></span> A satellite can cross the sky in a predictable line, brighten or dim, disappear into Earth’s shadow, or appear as a train. It does not keep tracing the same figure-eight over a city.
-
-The modern checking environment is also changing. Germany now has both long-running civilian UFO investigation traditions and newer aviation-facing UAP reporting structures. Ufokarte states that its case data come from GEP and that scientific recording of UAP in Germany includes GEP and the IFEX reporting portal linked with the University of Würzburg and the Federal Aviation Office. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ufokarte.de/ort/berlin" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufokarte.de">[Ufokarte.de]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufokarte.de</span><span class="citation-popover-title">UF O-Sichtungen in Berlin (Berlin) — Ufokarte.de</span><span class="citation-popover-snippet">UF O-Sichtungen in Berlin (Berlin) — Ufokarte.de</span></span></span> In 2025, the University of Würzburg announced cooperation with the Luftfahrt-Bundesamt so pilots could report relevant unusual observations to the university. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.uni-wuerzburg.de/en/news-and-events/news/detail/news/uap-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uni-wuerzburg.de">[University of Würzburg]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uni-wuerzburg.de</span><span class="citation-popover-title">University of Würzburg UAP Reporting: University and Federal Aviation Office</span><span class="citation-popover-snippet">University of Würzburg UAP Reporting: University and Federal Aviation Office</span></span></span> That does not turn Berlin satellite trains into official mysteries, but it does show that better reporting standards are becoming more important as the sky gets busier.
-
-
-<img src="{{ "/assets/images/Berlin_062b06_satellite_train_sigh_48e28a-Illustration-2-dark.svg" | relative_url }}" alt="Light Trains illustration 2" data-theme-src-dark="{{ "/assets/images/Berlin_062b06_satellite_train_sigh_48e28a-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Berlin_062b06_satellite_train_sigh_48e28a-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+The modern checking environment is also changing. Germany now has both long-running civilian UFO investigation traditions and newer aviation-facing UAP reporting structures. Ufokarte states that its case data come from GEP and that scientific recording of UAP in Germany includes GEP and the IFEX reporting portal linked with the University of Würzburg and the Federal Aviation Office.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ufokarte.de/ort/berlin" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufokarte.de">[Ufokarte.de]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufokarte.de</span><span class="citation-popover-title">UF O-Sichtungen in Berlin (Berlin) — Ufokarte.de</span><span class="citation-popover-snippet">UF O-Sichtungen in Berlin (Berlin) — Ufokarte.de</span></span></span> In 2025, the University of Würzburg announced cooperation with the Luftfahrt-Bundesamt so pilots could report relevant unusual observations to the university.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.uni-wuerzburg.de/en/news-and-events/news/detail/news/uap-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uni-wuerzburg.de">[University of Würzburg]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uni-wuerzburg.de</span><span class="citation-popover-title">University of Würzburg UAP Reporting: University and Federal Aviation Office</span><span class="citation-popover-snippet">University of Würzburg UAP Reporting: University and Federal Aviation Office</span></span></span> That does not turn Berlin satellite trains into official mysteries, but it does show that better reporting standards are becoming more important as the sky gets busier.<img src="{{"/assets/images/Berlin_062b06_satellite_train_sigh_48e28a-Illustration-2-dark.svg" | relative_url }}" alt="Light Trains illustration 2" data-theme-src-dark="{{"/assets/images/Berlin_062b06_satellite_train_sigh_48e28a-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{"/assets/images/Berlin_062b06_satellite_train_sigh_48e28a-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why the same lights create very different stories
 
 The phrase “formation sighting” is emotionally powerful. To many witnesses, a formation implies control, intent and possibly one large object. But the Berlin satellite-train cases show why that impression can be misleading. A row of separate satellites can be perceived as a single structured craft because the human eye naturally groups regularly spaced lights into a pattern.
 
 This is especially true when the points are seen only briefly. A witness may not have time to compare the lights with aircraft, stars or satellites. The line may pass between buildings, through haze or behind cloud. A phone video may show only glowing blobs on a black background. On social media, the same clip can be framed as “strange lights over Berlin”, “UFO formation”, “Starlink”, “drones” or “military activity”, depending on who posts it first.
 
-The satellite explanation is not a way of dismissing witnesses. In the March 2020 Berlin case, several people reportedly saw the lights, and the description is coherent. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ufokarte.de/fall/berlin-20200328-e" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufokarte.de">[Ufokarte.de]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufokarte.de</span><span class="citation-popover-title">berlin 20200328 e</span><span class="citation-popover-snippet">UFO Berlin 2020 — Sichtung &amp; GEP-Bewertung — Ufokarte.de...</span></span></span> The point is that a good witness can accurately describe an unfamiliar human-made object and still not know what it is. That is one of the central lessons of modern UFO history: sincerity and strangeness do not automatically mean exotic origin.
-
-There is also a before-and-after effect in the Berlin record. Before satellite trains became familiar, formation reports were more likely to be compared with aircraft, lanterns, fireworks, spotlights or birds. Since 2019, Starlink has become an obvious first check for silent strings of lights. German UFO reporting has felt this shift nationally as well: reporting on CENAP’s caseload has linked the rise in recent UFO reports partly to Starlink satellites, with ordinary annual volumes reportedly rising sharply since 2019. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://t3n.de/news/starlink-ausserirdische-wie-eine-ufo-meldestelle-ufo-sichtungen-meldestelle-pruefung-1653659/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: t3n.de">[t3n]</a><span class="citation-popover" role="note"><span class="citation-popover-source">t3n.de</span><span class="citation-popover-title">Starlink oder doch Außerirdische? Wie eine Ufo</span><span class="citation-popover-snippet">Starlink oder doch Außerirdische? Wie eine Ufo</span></span></span> Berlin’s cases are a local version of that wider change.
-
+The satellite explanation is not a way of dismissing witnesses. In the March 2020 Berlin case, several people reportedly saw the lights, and the description is coherent.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ufokarte.de/fall/berlin-20200328-e" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufokarte.de">[Ufokarte.de]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufokarte.de</span><span class="citation-popover-title">berlin 20200328 e</span><span class="citation-popover-snippet">UFO Berlin 2020 — Sichtung &amp; GEP-Bewertung — Ufokarte.de...</span></span></span> The point is that a good witness can accurately describe an unfamiliar human-made object and still not know what it is. That is one of the central lessons of modern UFO history: sincerity and strangeness do not automatically mean exotic origin.
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/obmBcb0kQ3Y" title="Strange lights in Night Sky? It was SpaceX Starlink, not UFOs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=obmBcb0kQ3Y" target="_blank" rel="noopener noreferrer">Strange lights in Night Sky? It was SpaceX Starlink, not UFOs</a></p><p class="youtube-embed-meta">Channel: KCENNews &middot; Views: 3.9K &middot; Uploaded: January 2026 &middot; Length: 35 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=obmBcb0kQ3Y" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=obmBcb0kQ3Y">Open on YouTube</a></p></div></div></div>
 
@@ -379,229 +359,41 @@ A Berlin formation should remain uncertain when the record lacks the details nee
 
 The strongest unresolved formation cases would need more than a witness saying “it was not Starlink”. They would need features that do not fit satellite behaviour: sharp course changes by individual lights, a formation holding position against the sky for a long period, reliable distance cues, multiple independent observations from separated locations, radar or aviation data, or high-quality video showing structure rather than overexposed points. Even then, drones, aircraft and lighting effects would need to be ruled out before anything more unusual was inferred.
 
-Berlin’s own case record argues against inflating weak data. Ufokarte’s state-level summary lists zero currently unexplained Berlin cases in the GEP-linked dataset. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ufokarte.de/bundesland/berlin" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufokarte.de">[Ufokarte.de]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufokarte.de</span><span class="citation-popover-title">UF O-Sichtungen in Berlin — Ufokarte.de</span><span class="citation-popover-snippet">UF O-Sichtungen in Berlin — Ufokarte.de</span></span></span> That does not prove no Berliner has ever seen something genuinely puzzling. It does mean that, in the public investigated record, formation sightings have so far tended to resolve into satellites, light effects or other conventional categories rather than forming a strong unsolved cluster.
+Berlin’s own case record argues against inflating weak data. Ufokarte’s state-level summary lists zero currently unexplained Berlin cases in the GEP-linked dataset.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ufokarte.de/bundesland/berlin" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufokarte.de">[Ufokarte.de]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufokarte.de</span><span class="citation-popover-title">UF O-Sichtungen in Berlin — Ufokarte.de</span><span class="citation-popover-snippet">UF O-Sichtungen in Berlin — Ufokarte.de</span></span></span> That does not prove no Berliner has ever seen something genuinely puzzling. It does mean that, in the public investigated record, formation sightings have so far tended to resolve into satellites, light effects or other conventional categories rather than forming a strong unsolved cluster.
 
-Satellite visibility itself is also not perfectly simple. Brightness depends on geometry, altitude, solar angle, observer position and satellite design. Academic work on Starlink brightness has found that the largest areas of sky with satellites brighter than ordinary naked-eye thresholds occur during twilight, and that brightness surges or flares can occur. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2401.01546" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Starlink Mini Satellite Brightness Distributions Across the Sky</span><span class="citation-popover-snippet">arXiv Starlink Mini Satellite Brightness Distributions Across the Sky</span></span></span> This means a satellite explanation can cover more than the neat textbook image of identical dots moving evenly across the sky. Some satellites may brighten, fade, disappear or look uneven from one pass to another.
-
-
-<img src="{{ "/assets/images/Berlin_062b06_satellite_train_sigh_48e28a-Illustration-3-dark.svg" | relative_url }}" alt="Light Trains illustration 3" data-theme-src-dark="{{ "/assets/images/Berlin_062b06_satellite_train_sigh_48e28a-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Berlin_062b06_satellite_train_sigh_48e28a-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+Satellite visibility itself is also not perfectly simple. Brightness depends on geometry, altitude, solar angle, observer position and satellite design. Academic work on Starlink brightness has found that the largest areas of sky with satellites brighter than ordinary naked-eye thresholds occur during twilight, and that brightness surges or flares can occur.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2401.01546" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Starlink Mini Satellite Brightness Distributions Across the Sky</span><span class="citation-popover-snippet">arXiv Starlink Mini Satellite Brightness Distributions Across the Sky</span></span></span> This means a satellite explanation can cover more than the neat textbook image of identical dots moving evenly across the sky. Some satellites may brighten, fade, disappear or look uneven from one pass to another.<img src="{{"/assets/images/Berlin_062b06_satellite_train_sigh_48e28a-Illustration-3-dark.svg" | relative_url }}" alt="Light Trains illustration 3" data-theme-src-dark="{{"/assets/images/Berlin_062b06_satellite_train_sigh_48e28a-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{"/assets/images/Berlin_062b06_satellite_train_sigh_48e28a-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What Berlin’s light trains add to the city’s UFO history
 
 Berlin’s satellite-train sightings are not landmark UFO mysteries in the old sense. Their importance is different. They show how a new technology can create a new category of public sky reports almost overnight. A city that already had aircraft, helicopters, fireworks, drones, searchlights and photographic artefacts suddenly gained another recurring stimulus: silent, high-altitude strings of lights that look deliberate but are predictable.
 
-For Berlin’s UFO history, that makes the post-2019 formation reports a useful dividing line. Older formation sightings need to be judged against older explanations, such as lanterns, aircraft groups and light effects. Newer straight-line strings of white points must be checked against satellite trains early, especially when they occur around twilight and move steadily across the sky. The March 2020 report of about 30 regularly spaced lights moving eastwards is the clearest local example of this new pattern. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ufokarte.de/fall/berlin-20200328-e" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufokarte.de">[Ufokarte.de]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufokarte.de</span><span class="citation-popover-title">berlin 20200328 e</span><span class="citation-popover-snippet">UFO Berlin 2020 — Sichtung &amp; GEP-Bewertung — Ufokarte.de...</span></span></span>
+For Berlin’s UFO history, that makes the post-2019 formation reports a useful dividing line. Older formation sightings need to be judged against older explanations, such as lanterns, aircraft groups and light effects. Newer straight-line strings of white points must be checked against satellite trains early, especially when they occur around twilight and move steadily across the sky. The March 2020 report of about 30 regularly spaced lights moving eastwards is the clearest local example of this new pattern.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ufokarte.de/fall/berlin-20200328-e" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufokarte.de">[Ufokarte.de]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufokarte.de</span><span class="citation-popover-title">berlin 20200328 e</span><span class="citation-popover-snippet">UFO Berlin 2020 — Sichtung &amp; GEP-Bewertung — Ufokarte.de...</span></span></span>
 
-The result is not a less interesting UFO story, but a more precise one. Berlin’s light trains show how the meaning of “UFO sighting” changes with technology. The object can be unidentified to the witness, identified by later checking, and still historically useful because it reveals how people interpret the sky above a modern capital. In that sense, the most important question is not “were they aliens?” but “what changed in the sky, and how did investigators separate appearance from evidence?”
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/hZ0qZ5T9bCg" title="Line of lights in the sky: Starlink satellite train seen over south-central Pa." frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=hZ0qZ5T9bCg" target="_blank" rel="noopener noreferrer">Line of lights in the sky: Starlink satellite train seen over south-central Pa.</a></p><p class="youtube-embed-meta">Channel: FOX43 News &middot; Views: 55.2K &middot; Uploaded: June 2023 &middot; Length: 1 minute 43 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=hZ0qZ5T9bCg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=hZ0qZ5T9bCg">Open on YouTube</a></p></div></div></div>
-
-
-<section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Do Lines of Lights Cross Berlin?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open NightWatch on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=BaMBgoKPmjAC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for NightWatch" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="NightWatch">NightWatch</a>
-        </h4>
-        <p class="fr-book-author">By Terence Dickinson</p>
-        
-        <p class="fr-book-desc">Explains satellites and other night-sky objects.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Turn+Left+at+Orion+by+Guy+Consolmagno&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Turn Left at Orion on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=h3712RgWkOYC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Turn Left at Orion" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Turn+Left+at+Orion+by+Guy+Consolmagno&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Turn Left at Orion">Turn Left at Orion</a>
-        </h4>
-        <p class="fr-book-author">By Guy Consolmagno, Dan M. Davis</p>
-        
-        <p class="fr-book-desc">Helps readers distinguish satellite trains from celestial objects.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Turn+Left+at+Orion+by+Guy+Consolmagno&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Backyard+Astronomer%27s+Guide+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Backyard Astronomer&#x27;s Guide on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=hdvYKwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Backyard Astronomer&#x27;s Guide" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Backyard+Astronomer%27s+Guide+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Backyard Astronomer&#x27;s Guide">The Backyard Astronomer&#x27;s Guide</a>
-        </h4>
-        <p class="fr-book-author">By Terence Dickinson, Alan Dyer</p>
-        
-        <p class="fr-book-desc">Provides practical guidance for observing moving lights in the sky.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Backyard+Astronomer%27s+Guide+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
-        
-        <p class="fr-book-desc">Explains methods for evaluating formation sightings.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=NightWatch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">NightWatch</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Turn+Left+at+Orion&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Turn Left at Orion</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Backyard+Astronomer%27s+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Backyard Astronomer&#x27;s books</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
-</section>
-
-<section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
-
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
-
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=light-trains-why-do-lines-of-lights-cross-berlin-berlin-aviation-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation chart" data-ebay-reference="light-trains-why-do-lines-of-lights-cross-berlin-berlin-aviation-chart" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for CAA Aeronautical Aviation Map Chart 1:500,000 Southern England and Wales 2015"><img src="{{ '/assets/images/marketplace-covers/86f210f2d6e29ee47a84.jpg' | relative_url }}" alt="Listing image for CAA Aeronautical Aviation Map Chart 1:500,000 Southern England and Wales 2015" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=light-trains-why-do-lines-of-lights-cross-berlin-berlin-aviation-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation chart" data-ebay-reference="light-trains-why-do-lines-of-lights-cross-berlin-berlin-aviation-chart" target="_blank" rel="sponsored noopener noreferrer">CAA Aeronautical Aviation Map Chart 1:500,000 Southern England and Wales 2015</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=light-trains-why-do-lines-of-lights-cross-berlin-berlin-aviation-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation chart" data-ebay-reference="light-trains-why-do-lines-of-lights-cross-berlin-berlin-aviation-chart" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation chart">Search <span data-ebay-domain-label>eBay.co.uk</span>: aviation chart</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=light-trains-why-do-lines-of-lights-cross-berlin-berlin-aviation-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation chart" data-ebay-reference="light-trains-why-do-lines-of-lights-cross-berlin-berlin-aviation-chart" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=light-trains-why-do-lines-of-lights-cross-berlin-berlin-aviation-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation chart" data-ebay-reference="light-trains-why-do-lines-of-lights-cross-berlin-berlin-aviation-chart" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Aviation Weather &amp; Chart, Limitations and Recommended Techniques Poster 70x50 cm"><img src="{{ '/assets/images/marketplace-covers/816cb914c22e543acf15.jpg' | relative_url }}" alt="Listing image for Aviation Weather &amp; Chart, Limitations and Recommended Techniques Poster 70x50 cm" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=light-trains-why-do-lines-of-lights-cross-berlin-berlin-aviation-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation chart" data-ebay-reference="light-trains-why-do-lines-of-lights-cross-berlin-berlin-aviation-chart" target="_blank" rel="sponsored noopener noreferrer">Aviation Weather &amp; Chart, Limitations and Recommended Techniques Poster 70x50 cm</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=light-trains-why-do-lines-of-lights-cross-berlin-berlin-aviation-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation chart" data-ebay-reference="light-trains-why-do-lines-of-lights-cross-berlin-berlin-aviation-chart" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation chart">Search <span data-ebay-domain-label>eBay.co.uk</span>: aviation chart</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=light-trains-why-do-lines-of-lights-cross-berlin-berlin-aviation-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation chart" data-ebay-reference="light-trains-why-do-lines-of-lights-cross-berlin-berlin-aviation-chart" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=light-trains-why-do-lines-of-lights-cross-berlin-berlin-aviation-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation chart" data-ebay-reference="light-trains-why-do-lines-of-lights-cross-berlin-berlin-aviation-chart" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for CAA Aeronautical Aviation Map Chart 1:500,000 Northern England and Ireland 2019"><img src="{{ '/assets/images/marketplace-covers/14ee7679d5c0bfe0b136.jpg' | relative_url }}" alt="Listing image for CAA Aeronautical Aviation Map Chart 1:500,000 Northern England and Ireland 2019" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=light-trains-why-do-lines-of-lights-cross-berlin-berlin-aviation-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation chart" data-ebay-reference="light-trains-why-do-lines-of-lights-cross-berlin-berlin-aviation-chart" target="_blank" rel="sponsored noopener noreferrer">CAA Aeronautical Aviation Map Chart 1:500,000 Northern England and Ireland 2019</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=light-trains-why-do-lines-of-lights-cross-berlin-berlin-aviation-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation chart" data-ebay-reference="light-trains-why-do-lines-of-lights-cross-berlin-berlin-aviation-chart" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation chart">Search <span data-ebay-domain-label>eBay.co.uk</span>: aviation chart</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=light-trains-why-do-lines-of-lights-cross-berlin-berlin-aviation-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation chart" data-ebay-reference="light-trains-why-do-lines-of-lights-cross-berlin-berlin-aviation-chart" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=light-trains-why-do-lines-of-lights-cross-berlin-berlin-aviation-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation chart" data-ebay-reference="light-trains-why-do-lines-of-lights-cross-berlin-berlin-aviation-chart" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage GNC Aviation Chart Set – Lot of 8 (1970s–1980s) | Global Navigation Char"><img src="{{ '/assets/images/marketplace-covers/77dcf599d766619a5c97.jpg' | relative_url }}" alt="Listing image for Vintage GNC Aviation Chart Set – Lot of 8 (1970s–1980s) | Global Navigation Char" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=light-trains-why-do-lines-of-lights-cross-berlin-berlin-aviation-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation chart" data-ebay-reference="light-trains-why-do-lines-of-lights-cross-berlin-berlin-aviation-chart" target="_blank" rel="sponsored noopener noreferrer">Vintage GNC Aviation Chart Set – Lot of 8 (1970s–1980s) | Global Navigation Char</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=light-trains-why-do-lines-of-lights-cross-berlin-berlin-aviation-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation chart" data-ebay-reference="light-trains-why-do-lines-of-lights-cross-berlin-berlin-aviation-chart" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation chart">Search <span data-ebay-domain-label>eBay.co.uk</span>: aviation chart</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=light-trains-why-do-lines-of-lights-cross-berlin-berlin-aviation-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation chart" data-ebay-reference="light-trains-why-do-lines-of-lights-cross-berlin-berlin-aviation-chart" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=light-trains-why-do-lines-of-lights-cross-berlin-berlin-aviation-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation chart" data-ebay-reference="light-trains-why-do-lines-of-lights-cross-berlin-berlin-aviation-chart" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+The result is not a less interesting UFO story, but a more precise one. Berlin’s light trains show how the meaning of “UFO sighting” changes with technology. The object can be unidentified to the witness, identified by later checking, and still historically useful because it reveals how people interpret the sky above a modern capital. In that sense, the most important question is not “were they aliens?” but “what changed in the sky, and how did investigators separate appearance from evidence?”<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/hZ0qZ5T9bCg" title="Line of lights in the sky: Starlink satellite train seen over south-central Pa." frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=hZ0qZ5T9bCg" target="_blank" rel="noopener noreferrer">Line of lights in the sky: Starlink satellite train seen over south-central Pa.</a></p><p class="youtube-embed-meta">Channel: FOX43 News &middot; Views: 55.2K &middot; Uploaded: June 2023 &middot; Length: 1 minute 43 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=hZ0qZ5T9bCg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=hZ0qZ5T9bCg">Open on YouTube</a></p></div></div></div><section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title"><div class="fr-section-shell"><div class="fr-section-header"><div class="fr-section-heading"><p class="fr-section-kicker">Amazon book picks</p><h3 class="fr-heading" id="further-reading-title">Further Reading</h3></div><p class="fr-intro">Books and field guides related to Why Do Lines of Lights Cross Berlin?. Use these as the next step if you want deeper reading beyond the article.</p></div><div class="fr-books-grid"><article class="fr-book-card"><a class="fr-book-cover" href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open NightWatch on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=BaMBgoKPmjAC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for NightWatch" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a><div class="fr-book-info"><h4 class="fr-book-title"><a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="NightWatch">NightWatch</a></h4><p class="fr-book-author">By Terence Dickinson</p><p class="fr-book-desc">Explains satellites and other night-sky objects.</p><div class="fr-book-actions"><a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon</a></div></div></article><article class="fr-book-card"><a class="fr-book-cover" href="https://www.amazon.com/s?k=Turn+Left+at+Orion+by+Guy+Consolmagno&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Turn Left at Orion on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=h3712RgWkOYC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Turn Left at Orion" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a><div class="fr-book-info"><h4 class="fr-book-title"><a href="https://www.amazon.com/s?k=Turn+Left+at+Orion+by+Guy+Consolmagno&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Turn Left at Orion">Turn Left at Orion</a></h4><p class="fr-book-author">By Guy Consolmagno, Dan M. Davis</p><p class="fr-book-desc">Helps readers distinguish satellite trains from celestial objects.</p><div class="fr-book-actions"><a href="https://www.amazon.com/s?k=Turn+Left+at+Orion+by+Guy+Consolmagno&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon</a></div></div></article><article class="fr-book-card"><a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Backyard+Astronomer%27s+Guide+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Backyard Astronomer&#x27;s Guide on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=hdvYKwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Backyard Astronomer&#x27;s Guide" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a><div class="fr-book-info"><h4 class="fr-book-title"><a href="https://www.amazon.com/s?k=The+Backyard+Astronomer%27s+Guide+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Backyard Astronomer&#x27;s Guide">The Backyard Astronomer&#x27;s Guide</a></h4><p class="fr-book-author">By Terence Dickinson, Alan Dyer</p><p class="fr-book-desc">Provides practical guidance for observing moving lights in the sky.</p><div class="fr-book-actions"><a href="https://www.amazon.com/s?k=The+Backyard+Astronomer%27s+Guide+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon</a></div></div></article><article class="fr-book-card"><a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a><div class="fr-book-info"><h4 class="fr-book-title"><a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a></h4><p class="fr-book-author">By Joseph Allen Hynek</p><p class="fr-book-desc">Explains methods for evaluating formation sightings.</p><div class="fr-book-actions"><a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon</a></div></div></article></div><div class="fr-section-footer"><div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=NightWatch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">NightWatch</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Turn+Left+at+Orion&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Turn Left at Orion</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Backyard+Astronomer%27s+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Backyard Astronomer&#x27;s books</a></div><p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p></div></div></section><section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title"><div class="fr-section-shell"><div class="fr-section-header"><div class="fr-section-heading"><p class="fr-section-kicker">eBay marketplace picks</p><h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3></div><p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p><div class="fr-ebay-market-toolbar"><label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label><div class="fr-ebay-market-picker"><span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span><button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span><span data-ebay-trigger-market-label>USA</span></button><select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location"><option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option></select><div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button></div></div></div></div><div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1"><div class="fr-books-grid"><article class="fr-book-card"><a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=light-trains-why-do-lines-of-lights-cross-berlin-berlin-aviation-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation chart" data-ebay-reference="light-trains-why-do-lines-of-lights-cross-berlin-berlin-aviation-chart" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for CAA Aeronautical Aviation Map Chart 1:500,000 Southern England and Wales 2015"><img src="{{'/assets/images/marketplace-covers/86f210f2d6e29ee47a84.jpg' | relative_url }}" alt="Listing image for CAA Aeronautical Aviation Map Chart 1:500,000 Southern England and Wales 2015" loading="lazy" decoding="async" fetchpriority="low"></a><div class="fr-book-info"><p class="fr-book-kicker">Example eBay listing</p><h4 class="fr-book-title"><a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=light-trains-why-do-lines-of-lights-cross-berlin-berlin-aviation-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation chart" data-ebay-reference="light-trains-why-do-lines-of-lights-cross-berlin-berlin-aviation-chart" target="_blank" rel="sponsored noopener noreferrer">CAA Aeronautical Aviation Map Chart 1:500,000 Southern England and Wales 2015</a></h4><a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=light-trains-why-do-lines-of-lights-cross-berlin-berlin-aviation-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation chart" data-ebay-reference="light-trains-why-do-lines-of-lights-cross-berlin-berlin-aviation-chart" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation chart">Search<span data-ebay-domain-label>eBay.co.uk</span>: aviation chart</a><div class="fr-book-actions"><a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=light-trains-why-do-lines-of-lights-cross-berlin-berlin-aviation-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation chart" data-ebay-reference="light-trains-why-do-lines-of-lights-cross-berlin-berlin-aviation-chart" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span></a></div></div></article><article class="fr-book-card"><a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=light-trains-why-do-lines-of-lights-cross-berlin-berlin-aviation-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation chart" data-ebay-reference="light-trains-why-do-lines-of-lights-cross-berlin-berlin-aviation-chart" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Aviation Weather &amp; Chart, Limitations and Recommended Techniques Poster 70x50 cm"><img src="{{'/assets/images/marketplace-covers/816cb914c22e543acf15.jpg' | relative_url }}" alt="Listing image for Aviation Weather &amp; Chart, Limitations and Recommended Techniques Poster 70x50 cm" loading="lazy" decoding="async" fetchpriority="low"></a><div class="fr-book-info"><p class="fr-book-kicker">Example eBay listing</p><h4 class="fr-book-title"><a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=light-trains-why-do-lines-of-lights-cross-berlin-berlin-aviation-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation chart" data-ebay-reference="light-trains-why-do-lines-of-lights-cross-berlin-berlin-aviation-chart" target="_blank" rel="sponsored noopener noreferrer">Aviation Weather &amp; Chart, Limitations and Recommended Techniques Poster 70x50 cm</a></h4><a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=light-trains-why-do-lines-of-lights-cross-berlin-berlin-aviation-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation chart" data-ebay-reference="light-trains-why-do-lines-of-lights-cross-berlin-berlin-aviation-chart" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation chart">Search<span data-ebay-domain-label>eBay.co.uk</span>: aviation chart</a><div class="fr-book-actions"><a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=light-trains-why-do-lines-of-lights-cross-berlin-berlin-aviation-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation chart" data-ebay-reference="light-trains-why-do-lines-of-lights-cross-berlin-berlin-aviation-chart" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span></a></div></div></article><article class="fr-book-card"><a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=light-trains-why-do-lines-of-lights-cross-berlin-berlin-aviation-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation chart" data-ebay-reference="light-trains-why-do-lines-of-lights-cross-berlin-berlin-aviation-chart" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for CAA Aeronautical Aviation Map Chart 1:500,000 Northern England and Ireland 2019"><img src="{{'/assets/images/marketplace-covers/14ee7679d5c0bfe0b136.jpg' | relative_url }}" alt="Listing image for CAA Aeronautical Aviation Map Chart 1:500,000 Northern England and Ireland 2019" loading="lazy" decoding="async" fetchpriority="low"></a><div class="fr-book-info"><p class="fr-book-kicker">Example eBay listing</p><h4 class="fr-book-title"><a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=light-trains-why-do-lines-of-lights-cross-berlin-berlin-aviation-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation chart" data-ebay-reference="light-trains-why-do-lines-of-lights-cross-berlin-berlin-aviation-chart" target="_blank" rel="sponsored noopener noreferrer">CAA Aeronautical Aviation Map Chart 1:500,000 Northern England and Ireland 2019</a></h4><a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=light-trains-why-do-lines-of-lights-cross-berlin-berlin-aviation-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation chart" data-ebay-reference="light-trains-why-do-lines-of-lights-cross-berlin-berlin-aviation-chart" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation chart">Search<span data-ebay-domain-label>eBay.co.uk</span>: aviation chart</a><div class="fr-book-actions"><a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=light-trains-why-do-lines-of-lights-cross-berlin-berlin-aviation-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation chart" data-ebay-reference="light-trains-why-do-lines-of-lights-cross-berlin-berlin-aviation-chart" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span></a></div></div></article><article class="fr-book-card"><a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=light-trains-why-do-lines-of-lights-cross-berlin-berlin-aviation-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation chart" data-ebay-reference="light-trains-why-do-lines-of-lights-cross-berlin-berlin-aviation-chart" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage GNC Aviation Chart Set – Lot of 8 (1970s–1980s) | Global Navigation Char"><img src="{{'/assets/images/marketplace-covers/77dcf599d766619a5c97.jpg' | relative_url }}" alt="Listing image for Vintage GNC Aviation Chart Set – Lot of 8 (1970s–1980s) | Global Navigation Char" loading="lazy" decoding="async" fetchpriority="low"></a><div class="fr-book-info"><p class="fr-book-kicker">Example eBay listing</p><h4 class="fr-book-title"><a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=light-trains-why-do-lines-of-lights-cross-berlin-berlin-aviation-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation chart" data-ebay-reference="light-trains-why-do-lines-of-lights-cross-berlin-berlin-aviation-chart" target="_blank" rel="sponsored noopener noreferrer">Vintage GNC Aviation Chart Set – Lot of 8 (1970s–1980s) | Global Navigation Char</a></h4><a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=light-trains-why-do-lines-of-lights-cross-berlin-berlin-aviation-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation chart" data-ebay-reference="light-trains-why-do-lines-of-lights-cross-berlin-berlin-aviation-chart" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation chart">Search<span data-ebay-domain-label>eBay.co.uk</span>: aviation chart</a><div class="fr-book-actions"><a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=light-trains-why-do-lines-of-lights-cross-berlin-berlin-aviation-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation chart" data-ebay-reference="light-trains-why-do-lines-of-lights-cross-berlin-berlin-aviation-chart" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span></a></div></div></article></div><div class="fr-section-footer"><a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=light-trains-why-do-lines-of-lights-cross-berlin-berlin-aviation-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation chart" data-ebay-reference="light-trains-why-do-lines-of-lights-cross-berlin-berlin-aviation-chart" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span></a><p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p></div></div></div><script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
-  var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
-  var timezoneRules = [{"market": "EBAY_IE", "pattern": "^Europe/Dublin$"}, {"market": "EBAY_GB", "pattern": "^Europe/(London|Belfast)$"}, {"market": "EBAY_CA", "pattern": "^America/(Toronto|Vancouver|Edmonton|Winnipeg|Halifax|St_Johns|Regina|Saskatoon|Whitehorse|Dawson|Moncton|Glace_Bay|Goose_Bay|Iqaluit|Yellowknife|Inuvik|Rankin_Inlet|Resolute|Cambridge_Bay|Fort_Nelson|Creston|Dawson_Creek)$"}, {"market": "EBAY_US", "pattern": "^America/"}, {"market": "EBAY_DE", "pattern": "^Europe/Berlin$"}, {"market": "EBAY_FR", "pattern": "^Europe/Paris$"}, {"market": "EBAY_IT", "pattern": "^Europe/Rome$"}, {"market": "EBAY_ES", "pattern": "^Europe/Madrid$"}, {"market": "EBAY_AU", "pattern": "^Australia/"}, {"market": "EBAY_AU", "pattern": "^Pacific/(Auckland|Chatham)$"}];
+  var localeMarketMap = {"de":"EBAY_DE","de-at":"EBAY_AT","de-ch":"EBAY_CH","de-de":"EBAY_DE","en":"EBAY_US","en-au":"EBAY_AU","en-ca":"EBAY_CA","en-gb":"EBAY_GB","en-ie":"EBAY_IE","en-nz":"EBAY_AU","en-uk":"EBAY_GB","en-us":"EBAY_US","es":"EBAY_ES","es-es":"EBAY_ES","fr":"EBAY_FR","fr-be":"EBAY_BE","fr-ca":"EBAY_CA","fr-fr":"EBAY_FR","it":"EBAY_IT","it-it":"EBAY_IT","nl":"EBAY_NL","nl-be":"EBAY_BE","nl-nl":"EBAY_NL"};
+  var timezoneRules = [{"market":"EBAY_IE","pattern":"^Europe/Dublin$"}, {"market":"EBAY_GB","pattern":"^Europe/(London|Belfast)$"}, {"market":"EBAY_CA","pattern":"^America/(Toronto|Vancouver|Edmonton|Winnipeg|Halifax|St_Johns|Regina|Saskatoon|Whitehorse|Dawson|Moncton|Glace_Bay|Goose_Bay|Iqaluit|Yellowknife|Inuvik|Rankin_Inlet|Resolute|Cambridge_Bay|Fort_Nelson|Creston|Dawson_Creek)$"}, {"market":"EBAY_US","pattern":"^America/"}, {"market":"EBAY_DE","pattern":"^Europe/Berlin$"}, {"market":"EBAY_FR","pattern":"^Europe/Paris$"}, {"market":"EBAY_IT","pattern":"^Europe/Rome$"}, {"market":"EBAY_ES","pattern":"^Europe/Madrid$"}, {"market":"EBAY_AU","pattern":"^Australia/"}, {"market":"EBAY_AU","pattern":"^Pacific/(Auckland|Chatham)$"}];
   function normalize(value) {
-    return String(value || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
+    return String(value ||'').toLowerCase().replace(/_/g,'-').replace(/[^a-z0-9-]+/g,'');
   }
   function localeMatches() {
     var languages = [];
-    var exactMarket = '';
-    var languageMarket = '';
+    var exactMarket ='';
+    var languageMarket ='';
     try {
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -615,24 +407,24 @@ The result is not a less interesting UFO story, but a more precise one. Berlin�
   }
   function inferFromLocale() {
     var matches = localeMatches();
-    return matches.exact || matches.language || '';
+    return matches.exact || matches.language ||'';
   }
   function inferFromTimezone() {
-    var tz = '';
-    try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
-    if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    var tz ='';
+    try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone ||''); } catch (err) {}
+    if (!tz) return'';
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
       } catch (err) {}
     }
-    return '';
+    return'';
   }
   function inferMarket(available, options) {
     available = Array.isArray(available) ? available : [];
     options = options || {};
-    var storageKey = options.storageKey || 'phoenix-affiliate-market';
+    var storageKey = options.storageKey ||'phoenix-affiliate-market';
     try {
       var saved = window.localStorage && localStorage.getItem(storageKey);
       if (saved && available.indexOf(saved) >= 0) return saved;
@@ -643,7 +435,7 @@ The result is not a less interesting UFO story, but a more precise one. Berlin�
     if (localeMarkets.exact && available.indexOf(localeMarkets.exact) >= 0) return localeMarkets.exact;
     if (localeMarkets.language && available.indexOf(localeMarkets.language) >= 0) return localeMarkets.language;
     if (options.defaultMarket && available.indexOf(options.defaultMarket) >= 0) return options.defaultMarket;
-    return available[0] || '';
+    return available[0] ||'';
   }
   window.PhoenixAffiliateLocation = {
     normalize: normalize,
@@ -651,45 +443,43 @@ The result is not a less interesting UFO story, but a more precise one. Berlin�
     inferFromLocale: inferFromLocale,
     inferFromTimezone: inferFromTimezone
   };
-})();
-</script>
-  <script type="text/javascript">
+})();</script><script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
-  var markets = {"EBAY_AU": {"campaign_id": "5339151051", "domain_label": "eBay.com.au", "label": "Australia", "mkrid": "705-53470-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com.au/sch/i.html?_nkw={query}"}, "EBAY_CA": {"campaign_id": "5339151051", "domain_label": "eBay.ca", "label": "Canada", "mkrid": "706-53473-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ca/sch/i.html?_nkw={query}"}, "EBAY_GB": {"campaign_id": "5339151051", "domain_label": "eBay.co.uk", "label": "UK", "mkrid": "710-53481-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.co.uk/sch/i.html?_nkw={query}"}, "EBAY_IE": {"campaign_id": "5339151051", "domain_label": "eBay.ie", "label": "Ireland", "mkrid": "5282-53468-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ie/sch/i.html?_nkw={query}"}, "EBAY_US": {"campaign_id": "5339151051", "domain_label": "eBay.com", "label": "USA", "mkrid": "711-53200-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com/sch/i.html?_nkw={query}"}};
-  var defaultMarket = "EBAY_GB";
+  var markets = {"EBAY_AU": {"campaign_id":"5339151051","domain_label":"eBay.com.au","label":"Australia","mkrid":"705-53470-19255-0","tool_id":"10001","url_template":"https://www.ebay.com.au/sch/i.html?_nkw={query}"},"EBAY_CA": {"campaign_id":"5339151051","domain_label":"eBay.ca","label":"Canada","mkrid":"706-53473-19255-0","tool_id":"10001","url_template":"https://www.ebay.ca/sch/i.html?_nkw={query}"},"EBAY_GB": {"campaign_id":"5339151051","domain_label":"eBay.co.uk","label":"UK","mkrid":"710-53481-19255-0","tool_id":"10001","url_template":"https://www.ebay.co.uk/sch/i.html?_nkw={query}"},"EBAY_IE": {"campaign_id":"5339151051","domain_label":"eBay.ie","label":"Ireland","mkrid":"5282-53468-19255-0","tool_id":"10001","url_template":"https://www.ebay.ie/sch/i.html?_nkw={query}"},"EBAY_US": {"campaign_id":"5339151051","domain_label":"eBay.com","label":"USA","mkrid":"711-53200-19255-0","tool_id":"10001","url_template":"https://www.ebay.com/sch/i.html?_nkw={query}"}};
+  var defaultMarket ="EBAY_GB";
   function encodeQuery(value) {
-    return encodeURIComponent(String(value || '').replace(/\s+/g, ' ').trim()).replace(/%20/g, '+');
+    return encodeURIComponent(String(value ||'').replace(/\s+/g,'').trim()).replace(/%20/g,'+');
   }
   function buildUrl(query, reference, marketId) {
     var cfg = markets[marketId] || markets[defaultMarket];
-    if (!cfg) return '#';
-    var template = String(cfg.url_template || 'https://www.ebay.com/sch/i.html?_nkw={query}');
-    var url = template.replace('{query}', encodeQuery(query || '')).replace('{query_plain}', String(query || ''));
-    var joiner = url.indexOf('?') >= 0 ? '&' : '?';
+    if (!cfg) return'#';
+    var template = String(cfg.url_template ||'https://www.ebay.com/sch/i.html?_nkw={query}');
+    var url = template.replace('{query}', encodeQuery(query ||'')).replace('{query_plain}', String(query ||''));
+    var joiner = url.indexOf('?') >= 0 ?'&' :'?';
     var params = [];
     if (cfg.mkrid) params.push('mkrid=' + encodeURIComponent(cfg.mkrid));
     if (cfg.campaign_id) params.push('campid=' + encodeURIComponent(cfg.campaign_id));
     params.push('mkevt=1');
     params.push('mkcid=1');
-    params.push('toolid=' + encodeURIComponent(cfg.tool_id || '10001'));
+    params.push('toolid=' + encodeURIComponent(cfg.tool_id ||'10001'));
     if (reference) params.push('customid=' + encodeURIComponent(reference).slice(0, 256));
     return url + joiner + params.join('&');
   }
   function domainLabel(marketId) {
     var cfg = markets[marketId] || markets[defaultMarket] || {};
-    return cfg.domain_label || 'eBay';
+    return cfg.domain_label ||'eBay';
   }
   function flagClass(marketId) {
-    return 'fr-ebay-market-flag fr-ebay-market-flag--' + String(marketId || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
+    return'fr-ebay-market-flag fr-ebay-market-flag--' + String(marketId ||'').toLowerCase().replace(/_/g,'-').replace(/[^a-z0-9-]+/g,'');
   }
   function closeMenu(section) {
     var menu = section.querySelector('[data-ebay-market-menu]');
     var trigger = section.querySelector('[data-ebay-market-trigger]');
     var picker = section.querySelector('.fr-ebay-market-picker');
     if (menu) menu.hidden = true;
-    if (trigger) trigger.setAttribute('aria-expanded', 'false');
+    if (trigger) trigger.setAttribute('aria-expanded','false');
     if (picker) picker.classList.remove('fr-ebay-market-picker--open');
   }
   function availableMarkets(section) {
@@ -705,10 +495,10 @@ The result is not a less interesting UFO story, but a more precise one. Berlin�
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
-      var query = link.getAttribute('data-ebay-query') || '';
-      var reference = link.getAttribute('data-ebay-reference') || '';
+      var query = link.getAttribute('data-ebay-query') ||'';
+      var reference = link.getAttribute('data-ebay-reference') ||'';
       link.setAttribute('href', buildUrl(query, reference, marketId));
     });
     var select = section.querySelector('[data-ebay-market-select]');
@@ -728,11 +518,11 @@ The result is not a less interesting UFO story, but a more precise one. Berlin�
       label.textContent = domainLabel(marketId);
     });
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
-      button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
+      button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ?'true' :'false');
     });
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
       var active = button.getAttribute('data-ebay-market-button') === marketId;
-      button.setAttribute('aria-pressed', active ? 'true' : 'false');
+      button.setAttribute('aria-pressed', active ?'true' :'false');
     });
     section.setAttribute('data-ebay-selected-market', marketId);
     if (persist) {
@@ -741,16 +531,16 @@ The result is not a less interesting UFO story, but a more precise one. Berlin�
     closeMenu(section);
   }
   sections.forEach(function (section) {
-    if (section.getAttribute('data-ebay-localized-init') === '1') return;
-    section.setAttribute('data-ebay-localized-init', '1');
+    if (section.getAttribute('data-ebay-localized-init') ==='1') return;
+    section.setAttribute('data-ebay-localized-init','1');
     var available = availableMarkets(section);
     var marketId = defaultMarket;
     if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
       marketId = window.PhoenixAffiliateLocation.inferMarket(available, {
-        storageKey: 'phoenix-ebay-market',
+        storageKey:'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -764,9 +554,9 @@ The result is not a less interesting UFO story, but a more precise one. Berlin�
     if (trigger && menu) {
       trigger.addEventListener('click', function (event) {
         event.stopPropagation();
-        var expanded = trigger.getAttribute('aria-expanded') === 'true';
+        var expanded = trigger.getAttribute('aria-expanded') ==='true';
         menu.hidden = expanded;
-        trigger.setAttribute('aria-expanded', expanded ? 'false' : 'true');
+        trigger.setAttribute('aria-expanded', expanded ?'false' :'true');
         var picker = trigger.closest('.fr-ebay-market-picker');
         if (picker) picker.classList.toggle('fr-ebay-market-picker--open', !expanded);
       });
@@ -785,149 +575,140 @@ The result is not a less interesting UFO story, but a more precise one. Berlin�
     });
     applyMarket(section, marketId, false);
   });
-})();
-</script>
-</section>
+})();</script></section>
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: ufokarte.de  
    Title: UF O-Sichtungen in Berlin — Ufokarte.de  
-   Link: <a href="https://ufokarte.de/bundesland/berlin" target="_blank" rel="noopener noreferrer nofollow">https://ufokarte.de/bundesland/berlin</a>  
+   Link:<a href="https://ufokarte.de/bundesland/berlin" target="_blank" rel="noopener noreferrer nofollow">https://ufokarte.de/bundesland/berlin</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: ufokarte.de  
    Title: berlin 20200328 e  
-   Link: <a href="https://ufokarte.de/fall/berlin-20200328-e" target="_blank" rel="noopener noreferrer nofollow">https://ufokarte.de/fall/berlin-20200328-e</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Berlin 2020 — Sichtung &amp; GEP-Bewertung — Ufokarte.de...</p></details>
+   Link:<a href="https://ufokarte.de/fall/berlin-20200328-e" target="_blank" rel="noopener noreferrer nofollow">https://ufokarte.de/fall/berlin-20200328-e</a><details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Berlin 2020 — Sichtung &amp; GEP-Bewertung — Ufokarte.de...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: ufokarte.de  
-   Link: <a href="https://ufokarte.de/fall/berlin-20190726-a" target="_blank" rel="noopener noreferrer nofollow">https://ufokarte.de/fall/berlin-20190726-a</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Berlin 2019 — Sichtung &amp; GEP-Bewertung — Ufokarte.de...</p></details>
+   Link:<a href="https://ufokarte.de/fall/berlin-20190726-a" target="_blank" rel="noopener noreferrer nofollow">https://ufokarte.de/fall/berlin-20190726-a</a><details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Berlin 2019 — Sichtung &amp; GEP-Bewertung — Ufokarte.de...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: ufokarte.de  
-   Link: <a href="https://ufokarte.de/fall/berlin-20190424-a" target="_blank" rel="noopener noreferrer nofollow">https://ufokarte.de/fall/berlin-20190424-a</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Berlin 2019 — Sichtung &amp; GEP-Bewertung — Ufokarte.de...</p></details>
+   Link:<a href="https://ufokarte.de/fall/berlin-20190424-a" target="_blank" rel="noopener noreferrer nofollow">https://ufokarte.de/fall/berlin-20190424-a</a><details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Berlin 2019 — Sichtung &amp; GEP-Bewertung — Ufokarte.de...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: ufokarte.de  
    Title: UF O-Sichtungen in Berlin (Berlin) — Ufokarte.de  
-   Link: <a href="https://ufokarte.de/ort/berlin" target="_blank" rel="noopener noreferrer nofollow">https://ufokarte.de/ort/berlin</a>  
+   Link:<a href="https://ufokarte.de/ort/berlin" target="_blank" rel="noopener noreferrer nofollow">https://ufokarte.de/ort/berlin</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: space.com  
    Title: Starlink satellite train: how to see and track it in the night sky  
-   Link: <a href="https://www.space.com/starlink-satellite-train-how-to-see-and-track-it" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/starlink-satellite-train-how-to-see-and-track-it</a>  
+   Link:<a href="https://www.space.com/starlink-satellite-train-how-to-see-and-track-it" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/starlink-satellite-train-how-to-see-and-track-it</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: gizmodo.com  
-   Title: Breathtaking View of Space X Starlink Satellite 'Train'  
-   Link: <a href="https://gizmodo.com/breathtaking-view-of-spacex-starlink-satellite-train-1835047155" target="_blank" rel="noopener noreferrer nofollow">https://gizmodo.com/breathtaking-view-of-spacex-starlink-satellite-train-1835047155</a>  
+   Title: Breathtaking View of Space X Starlink Satellite'Train'  
+   Link:<a href="https://gizmodo.com/breathtaking-view-of-spacex-starlink-satellite-train-1835047155" target="_blank" rel="noopener noreferrer nofollow">https://gizmodo.com/breathtaking-view-of-spacex-starlink-satellite-train-1835047155</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: t3n.de  
    Title: Starlink oder doch Außerirdische? Wie eine Ufo  
-   Link: <a href="https://t3n.de/news/starlink-ausserirdische-wie-eine-ufo-meldestelle-ufo-sichtungen-meldestelle-pruefung-1653659/" target="_blank" rel="noopener noreferrer nofollow">https://t3n.de/news/starlink-ausserirdische-wie-eine-ufo-meldestelle-ufo-sichtungen-meldestelle-pruefung-1653659/</a>  
+   Link:<a href="https://t3n.de/news/starlink-ausserirdische-wie-eine-ufo-meldestelle-ufo-sichtungen-meldestelle-pruefung-1653659/" target="_blank" rel="noopener noreferrer nofollow">https://t3n.de/news/starlink-ausserirdische-wie-eine-ufo-meldestelle-ufo-sichtungen-meldestelle-pruefung-1653659/</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: arxiv.org  
    Title: arXiv Starlink Mini Satellite Brightness Distributions Across the Sky  
-   Link: <a href="https://arxiv.org/abs/2401.01546" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2401.01546</a>  
+   Link:<a href="https://arxiv.org/abs/2401.01546" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2401.01546</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: space.com  
    Title: x starlink satellites  
-   Link: <a href="https://www.space.com/spacex-starlink-satellites.html" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/spacex-starlink-satellites.html</a>  
+   Link:<a href="https://www.space.com/spacex-starlink-satellites.html" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/spacex-starlink-satellites.html</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: aanda.org  
    Title: aa37501 20  
-   Link: <a href="https://www.aanda.org/articles/aa/full_html/2020/04/aa37501-20/aa37501-20.html" target="_blank" rel="noopener noreferrer nofollow">https://www.aanda.org/articles/aa/full_html/2020/04/aa37501-20/aa37501-20.html</a>  
+   Link:<a href="https://www.aanda.org/articles/aa/full_html/2020/04/aa37501-20/aa37501-20.html" target="_blank" rel="noopener noreferrer nofollow">https://www.aanda.org/articles/aa/full_html/2020/04/aa37501-20/aa37501-20.html</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: uni-wuerzburg.de  
    Title: University of Würzburg UAP Reporting: University and Federal Aviation Office  
-   Link: <a href="https://www.uni-wuerzburg.de/en/news-and-events/news/detail/news/uap-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.uni-wuerzburg.de/en/news-and-events/news/detail/news/uap-reports/</a>  
+   Link:<a href="https://www.uni-wuerzburg.de/en/news-and-events/news/detail/news/uap-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.uni-wuerzburg.de/en/news-and-events/news/detail/news/uap-reports/</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: reddit.com  
    Title: spacex starlink objects train 24 may 2019  
-   Link: <a href="https://www.reddit.com/r/SpaceXLounge/comments/bsntty/spacex_starlink_objects_train_24_may_2019/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/SpaceXLounge/comments/bsntty/spacex_starlink_objects_train_24_may_2019/</a>  
+   Link:<a href="https://www.reddit.com/r/SpaceXLounge/comments/bsntty/spacex_starlink_objects_train_24_may_2019/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/SpaceXLounge/comments/bsntty/spacex_starlink_objects_train_24_may_2019/</a>  
    Published: may 2019  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: uni-wuerzburg.de  
    Title: uap koop mit lba  
-   Link: <a href="https://www.uni-wuerzburg.de/aktuelles/pressemitteilungen/single/news/uap-koop-mit-lba/" target="_blank" rel="noopener noreferrer nofollow">https://www.uni-wuerzburg.de/aktuelles/pressemitteilungen/single/news/uap-koop-mit-lba/</a>  
+   Link:<a href="https://www.uni-wuerzburg.de/aktuelles/pressemitteilungen/single/news/uap-koop-mit-lba/" target="_blank" rel="noopener noreferrer nofollow">https://www.uni-wuerzburg.de/aktuelles/pressemitteilungen/single/news/uap-koop-mit-lba/</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: uni-wuerzburg.de  
    Title: UAP Reporting Center for Pilots  
-   Link: <a href="https://www.uni-wuerzburg.de/en/ifex/research-projects/uap-reporting-center-for-pilots/" target="_blank" rel="noopener noreferrer nofollow">https://www.uni-wuerzburg.de/en/ifex/research-projects/uap-reporting-center-for-pilots/</a>  
+   Link:<a href="https://www.uni-wuerzburg.de/en/ifex/research-projects/uap-reporting-center-for-pilots/" target="_blank" rel="noopener noreferrer nofollow">https://www.uni-wuerzburg.de/en/ifex/research-projects/uap-reporting-center-for-pilots/</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: uni-wuerzburg.de  
    Title: UAP & SETI Research  
-   Link: <a href="https://www.uni-wuerzburg.de/en/ifex/research-projects/uap-seti-research/" target="_blank" rel="noopener noreferrer nofollow">https://www.uni-wuerzburg.de/en/ifex/research-projects/uap-seti-research/</a>  
+   Link:<a href="https://www.uni-wuerzburg.de/en/ifex/research-projects/uap-seti-research/" target="_blank" rel="noopener noreferrer nofollow">https://www.uni-wuerzburg.de/en/ifex/research-projects/uap-seti-research/</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: uni-wuerzburg.de  
    Title: uap meldungen universitaet wuerzburg und luftfahrt bundesamt kooperieren  
-   Link: <a href="https://www.uni-wuerzburg.de/en/alumni/community/aktueller-community-letter/newsletter-single/news/uap-meldungen-universitaet-wuerzburg-und-luftfahrt-bundesamt-kooperieren/" target="_blank" rel="noopener noreferrer nofollow">https://www.uni-wuerzburg.de/en/alumni/community/aktueller-community-letter/newsletter-single/news/uap-meldungen-universitaet-wuerzburg-und-luftfahrt-bundesamt-kooperieren/</a>  
+   Link:<a href="https://www.uni-wuerzburg.de/en/alumni/community/aktueller-community-letter/newsletter-single/news/uap-meldungen-universitaet-wuerzburg-und-luftfahrt-bundesamt-kooperieren/" target="_blank" rel="noopener noreferrer nofollow">https://www.uni-wuerzburg.de/en/alumni/community/aktueller-community-letter/newsletter-single/news/uap-meldungen-universitaet-wuerzburg-und-luftfahrt-bundesamt-kooperieren/</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: uni-wuerzburg.de  
    Title: ifex seti uap conference 2025  
-   Link: <a href="https://www.uni-wuerzburg.de/en/ifex/events/ifex-seti-uap-conference-2025/" target="_blank" rel="noopener noreferrer nofollow">https://www.uni-wuerzburg.de/en/ifex/events/ifex-seti-uap-conference-2025/</a>  
+   Link:<a href="https://www.uni-wuerzburg.de/en/ifex/events/ifex-seti-uap-conference-2025/" target="_blank" rel="noopener noreferrer nofollow">https://www.uni-wuerzburg.de/en/ifex/events/ifex-seti-uap-conference-2025/</a>  
 
 ### Additional References
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: youtube.com  
    Title: Line of lights in the sky: Starlink satellite train seen over south-central Pa  
-   Link: <a href="https://www.youtube.com/watch?v=hZ0qZ5T9bCg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=hZ0qZ5T9bCg</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Train of Satellites in the Sky over California | Looks like UFOs | SpaceX Starlink Train 2023...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=hZ0qZ5T9bCg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=hZ0qZ5T9bCg</a><details class="endnote-snippet"><summary>Source snippet</summary><p>Train of Satellites in the Sky over California | Looks like UFOs | SpaceX Starlink Train 2023...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=cldNfJHdZws" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=cldNfJHdZws</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Not a UFO: Starlink satellite chain over North Carolina...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=cldNfJHdZws" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=cldNfJHdZws</a><details class="endnote-snippet"><summary>Source snippet</summary><p>Not a UFO: Starlink satellite chain over North Carolina...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: youtube.com  
    Title: Strange lights in Night Sky? It was Space X Starlink, not UFOs  
-   Link: <a href="https://www.youtube.com/watch?v=obmBcb0kQ3Y" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=obmBcb0kQ3Y</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Line of lights in the sky: Starlink satellite train seen over south-central Pa...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=obmBcb0kQ3Y" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=obmBcb0kQ3Y</a><details class="endnote-snippet"><summary>Source snippet</summary><p>Line of lights in the sky: Starlink satellite train seen over south-central Pa...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: youtube.com  
    Title: Not a UFO: Starlink satellite chain over North Carolina  
-   Link: <a href="https://www.youtube.com/watch?v=hd1OiBbMygY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=hd1OiBbMygY</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Starlink Satellites Mistaken As UFOs Over Pittsburgh...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=hd1OiBbMygY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=hd1OiBbMygY</a><details class="endnote-snippet"><summary>Source snippet</summary><p>Starlink Satellites Mistaken As UFOs Over Pittsburgh...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/380530617_UAP_Research_in_Germany_Single_Case_Studies_Data_Management_Understanding_of_Strangeness" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/380530617_UAP_Research_in_Germany_Single_Case_Studies_Data_Management_Understanding_of_Strangeness</a>  
+   Link:<a href="https://www.researchgate.net/publication/380530617_UAP_Research_in_Germany_Single_Case_Studies_Data_Management_Understanding_of_Strangeness" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/380530617_UAP_Research_in_Germany_Single_Case_Studies_Data_Management_Understanding_of_Strangeness</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/2365809903441367/posts/8741330459222581/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/2365809903441367/posts/8741330459222581/</a>  
+   Link:<a href="https://www.facebook.com/groups/2365809903441367/posts/8741330459222581/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/2365809903441367/posts/8741330459222581/</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/SpaceXLounge/comments/erkk9j/astronomer_complains_about_starlink_satellites/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/SpaceXLounge/comments/erkk9j/astronomer_complains_about_starlink_satellites/</a>  
+   Link:<a href="https://www.reddit.com/r/SpaceXLounge/comments/erkk9j/astronomer_complains_about_starlink_satellites/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/SpaceXLounge/comments/erkk9j/astronomer_complains_about_starlink_satellites/</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/wxbradCLT/posts/did-you-see-starlink-satellites-last-night-for-the-first-time-and-not-know-what-/864486648380147/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/wxbradCLT/posts/did-you-see-starlink-satellites-last-night-for-the-first-time-and-not-know-what-/864486648380147/</a>  
+   Link:<a href="https://www.facebook.com/wxbradCLT/posts/did-you-see-starlink-satellites-last-night-for-the-first-time-and-not-know-what-/864486648380147/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/wxbradCLT/posts/did-you-see-starlink-satellites-last-night-for-the-first-time-and-not-know-what-/864486648380147/</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: eso.org  
-   Link: <a href="https://www.eso.org/~ohainaut/satellites/" target="_blank" rel="noopener noreferrer nofollow">https://www.eso.org/~ohainaut/satellites/</a>  
+   Link:<a href="https://www.eso.org/~ohainaut/satellites/" target="_blank" rel="noopener noreferrer nofollow">https://www.eso.org/~ohainaut/satellites/</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOB/comments/1jgs8fa/worlds_first_passive_radar_signal_confirms_visual/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOB/comments/1jgs8fa/worlds_first_passive_radar_signal_confirms_visual/</a>  
+   Link:<a href="https://www.reddit.com/r/UFOB/comments/1jgs8fa/worlds_first_passive_radar_signal_confirms_visual/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOB/comments/1jgs8fa/worlds_first_passive_radar_signal_confirms_visual/</a>  
