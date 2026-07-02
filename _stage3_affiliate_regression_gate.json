@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-07-02T13:45:35",
+  "generated_at": "2026-07-02T16:35:51",
   "passed": true,
   "baseline": {
     "article_pages": 224,
-    "amazon_specific_pages": 208,
+    "amazon_specific_pages": 206,
     "amazon_fallback_pages": 0,
     "ebay_specific_pages": 208,
     "ebay_fallback_pages": 0,
@@ -657,7 +657,7 @@
         "ebay_fallback": false
       },
       "Lower_Saxony_e2cb37_sky_lantern_driver_7e41d8": {
-        "amazon_specific": true,
+        "amazon_specific": false,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
@@ -1293,7 +1293,7 @@
         "ebay_fallback": false
       },
       "Thuringia_f28d08_german_ufo_investiga_5197ab": {
-        "amazon_specific": true,
+        "amazon_specific": false,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
@@ -1356,7 +1356,7 @@
   },
   "current": {
     "article_pages": 224,
-    "amazon_specific_pages": 208,
+    "amazon_specific_pages": 206,
     "amazon_fallback_pages": 0,
     "ebay_specific_pages": 208,
     "ebay_fallback_pages": 0,
@@ -2010,7 +2010,7 @@
         "ebay_fallback": false
       },
       "Lower_Saxony_e2cb37_sky_lantern_driver_7e41d8": {
-        "amazon_specific": true,
+        "amazon_specific": false,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
@@ -2646,7 +2646,7 @@
         "ebay_fallback": false
       },
       "Thuringia_f28d08_german_ufo_investiga_5197ab": {
-        "amazon_specific": true,
+        "amazon_specific": false,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
