@@ -16,17 +16,17 @@ parent_permalink: /when-bremens-ufo-story-became-an-airport/
 
 # Explore Topics in When Bremen's UFO Story Became an Airport...
 
-The following pages expand on the main **[When Bremen's UFO Story Became an Airport...]({{'/when-bremens-ufo-story-became-an-airport/' | relative_url }})** page and cover its key branches in.
+The following pages expand on the main **[When Bremen's UFO Story Became an Airport...]({{ '/when-bremens-ufo-story-became-an-airport/' | relative_url }})** page and cover its key branches in.
 
-- [Airport Hotspot]({{'/airport-hotspot/' | relative_url }})
-- [2014 Incident]({{'/2014-incident/' | relative_url }})
-- [DFS Context]({{'/dfs-context/' | relative_url }})
-- [Drone Shift]({{'/drone-shift/' | relative_url }})
-- [Media Story]({{'/media-story/' | relative_url }})
-- [Police View]({{'/police-view/' | relative_url }})
-- [Sceptics]({{'/sceptics/' | relative_url }})
-- [Radar Evidence]({{'/radar-evidence/' | relative_url }})
-- [UFO Meaning]({{'/ufo-meaning/' | relative_url }})
-- [Open Questions]({{'/open-questions/' | relative_url }})
-- [Beyond Airport]({{'/beyond-airport/' | relative_url }})
-- [Witnesses]({{'/witnesses-0d1ceb/' | relative_url }})
+- [Airport Hotspot]({{ '/airport-hotspot/' | relative_url }})
+- [2014 Incident]({{ '/2014-incident/' | relative_url }})
+- [DFS Context]({{ '/dfs-context/' | relative_url }})
+- [Drone Shift]({{ '/drone-shift/' | relative_url }})
+- [Media Story]({{ '/media-story/' | relative_url }})
+- [Police View]({{ '/police-view/' | relative_url }})
+- [Sceptics]({{ '/sceptics/' | relative_url }})
+- [Radar Evidence]({{ '/radar-evidence/' | relative_url }})
+- [UFO Meaning]({{ '/ufo-meaning/' | relative_url }})
+- [Open Questions]({{ '/open-questions/' | relative_url }})
+- [Beyond Airport]({{ '/beyond-airport/' | relative_url }})
+- [Witnesses]({{ '/witnesses-0d1ceb/' | relative_url }})

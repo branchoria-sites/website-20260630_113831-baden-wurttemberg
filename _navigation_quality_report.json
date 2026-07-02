@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-07-02T18:12:55.929822Z",
+  "generated_at_utc": "2026-07-02T19:30:15.216048Z",
   "summary": {
     "total_pages_with_permalink": 224,
     "visible_pages": 208,
@@ -9,12 +9,12 @@
     "visible_pages_with_empty_branch_sections": 0,
     "visible_pages_with_missing_parent_target": 0,
     "branch_navigation_coverage_percent": 100.0,
-    "inline_internal_edge_count": 977,
+    "inline_internal_edge_count": 972,
     "inline_internal_target_page_count": 208,
     "visible_pages_gaining_inbound_from_inline_links": 0,
     "visible_pages_without_inline_inbound_links": 0,
     "visible_pages_with_inline_outbound_links": 205,
-    "average_inline_inbound_links_per_visible_page": 4.7,
+    "average_inline_inbound_links_per_visible_page": 4.67,
     "unresolved_inline_internal_target_count": 0,
     "sample_edge_count": 200
   },
@@ -40,7 +40,7 @@
       },
       {
         "basename": "Bremen_20b942_witness_reports_78ec97",
-        "title": "What Did Bremen Witnesses Really See?",
+        "title": "Witnesses",
         "permalink": "/witnesses-0d1ceb/",
         "inline_inbound_count": 13
       },
@@ -58,7 +58,7 @@
       },
       {
         "basename": "Mecklenburg-Vorpomme_d975e6_greifswald_witnesses_131a12",
-        "title": "What Did Greifswald Witnesses Really See?",
+        "title": "Witnesses",
         "permalink": "/witnesses-2c8b7b/",
         "inline_inbound_count": 13
       },
@@ -70,7 +70,7 @@
       },
       {
         "basename": "Rhineland-Palatinate_9f2211_witness_credibility_c6d46d",
-        "title": "How Much Should UFO Witnesses Count?",
+        "title": "Witnesses",
         "permalink": "/witnesses-565fa5/",
         "inline_inbound_count": 13
       },
@@ -82,7 +82,7 @@
       },
       {
         "basename": "Saarland_af09d5_johannes_becker_witn_c050a2",
-        "title": "How Reliable Was the Rastpfuhl Witness?",
+        "title": "Witness",
         "permalink": "/witness/",
         "inline_inbound_count": 13
       },
@@ -94,7 +94,7 @@
       },
       {
         "basename": "Saxony-Anhalt_5678a0_witness_credibility_c6d46d",
-        "title": "Can Good Witnesses Still Misread the Sky?",
+        "title": "Witnesses",
         "permalink": "/witnesses-b6971c/",
         "inline_inbound_count": 13
       },
@@ -124,37 +124,37 @@
       },
       {
         "basename": "Lower_Saxony_e2cb37_drone_incidents_24eab1",
-        "title": "When UFO Reports Become Drone Incidents",
+        "title": "Drones",
         "permalink": "/drones/",
         "inline_inbound_count": 12
       },
       {
         "basename": "Mecklenburg-Vorpomme_d975e6_local_media_ufo_7fa953",
-        "title": "How Local Lights Became National UFO News",
+        "title": "Media",
         "permalink": "/media/",
         "inline_inbound_count": 12
       },
       {
         "basename": "Mecklenburg-Vorpomme_d975e6_military_flares_abb62f",
-        "title": "How Military Flares Can Look Like UFOs",
+        "title": "Flares",
         "permalink": "/flares/",
         "inline_inbound_count": 12
       },
       {
         "basename": "North_Rhine-Westphal_f5bdd9_drones_airport_confu_352cd8",
-        "title": "Is That UFO Actually a Drone?",
+        "title": "Drones",
         "permalink": "/drones-af4911/",
         "inline_inbound_count": 12
       },
       {
         "basename": "Rhineland-Palatinate_9f2211",
-        "title": "What Really Happened In Rhineland Palatinate's UFO Files?",
+        "title": "What Really Happened In Rhineland Palatinate's UFO...",
         "permalink": "/rhineland-palatinate/",
         "inline_inbound_count": 12
       },
       {
         "basename": "Saarland_af09d5_rastpfuhl_1826_b5288e",
-        "title": "Was Rastpfuhl Germany's First UFO Case?",
+        "title": "Rastpfuhl 1826",
         "permalink": "/rastpfuhl-1826/",
         "inline_inbound_count": 12
       },
@@ -166,7 +166,7 @@
       },
       {
         "basename": "Baden-Wurttemberg_dc11f2_mannheim_cenap_scept_04203d",
-        "title": "How Mannheim Became A UFO Scepticism Centre",
+        "title": "Mannheim",
         "permalink": "/mannheim/",
         "inline_inbound_count": 11
       },
@@ -178,7 +178,7 @@
       },
       {
         "basename": "Bremen_20b942_bremen_airport_2014_72dafe",
-        "title": "What Happened Over Bremen Airport in 2014?",
+        "title": "2014 Incident",
         "permalink": "/2014-incident/",
         "inline_inbound_count": 11
       },
@@ -190,79 +190,79 @@
       },
       {
         "basename": "Hesse_19bb21_bright_planet_false_b5e314",
-        "title": "Why Venus Still Gets Reported as a UFO",
+        "title": "Bright Planets",
         "permalink": "/bright-planets/",
         "inline_inbound_count": 11
       },
       {
         "basename": "Mecklenburg-Vorpomme_d975e6_greifswald_lights_c6ffc6",
-        "title": "Were The Greifswald Lights Really UFOs?",
+        "title": "Greifswald",
         "permalink": "/greifswald/",
         "inline_inbound_count": 11
       },
       {
         "basename": "Saxony-Anhalt_5678a0_fireballs_meteors_90acd6",
-        "title": "When a Fireball Becomes a UFO Report",
+        "title": "Meteors",
         "permalink": "/meteors/",
         "inline_inbound_count": 11
       },
       {
         "basename": "Saxony-Anhalt_5678a0_halle_1985_meteor_8ed999",
-        "title": "Was Halle's 1985 UFO Really a Meteor?",
+        "title": "Halle 1985",
         "permalink": "/halle-1985/",
         "inline_inbound_count": 11
       },
       {
         "basename": "Baden-Wurttemberg_dc11f2_lake_constance_sight_ee6ae6",
-        "title": "Why Lake Constance Keeps Drawing UFO Reports",
+        "title": "Lake Constance",
         "permalink": "/lake-constance/",
         "inline_inbound_count": 10
       },
       {
         "basename": "Berlin_062b06_witness_credibility_c6d46d",
-        "title": "Can Honest Witnesses Misread Berlin's Sky?",
+        "title": "Witnesses",
         "permalink": "/witnesses/",
         "inline_inbound_count": 10
       },
       {
         "basename": "Brandenburg_a1d94c_starlink_satellite_t_eeac3f",
-        "title": "Why Satellite Trains Spark UFO Reports",
+        "title": "Starlink",
         "permalink": "/starlink-bdbbb9/",
         "inline_inbound_count": 10
       },
       {
         "basename": "Mecklenburg-Vorpomme_d975e6_stralsund_1665_919cb2",
-        "title": "Was Stralsund's Air Battle A UFO?",
+        "title": "Stralsund 1665",
         "permalink": "/stralsund-1665/",
         "inline_inbound_count": 10
       },
       {
         "basename": "Saarland_af09d5_rastpfuhl_explanatio_9bd7ea",
-        "title": "Meteor, Whirlwind or Something Else?",
+        "title": "Explanations",
         "permalink": "/explanations/",
         "inline_inbound_count": 10
       },
       {
         "basename": "Saxony-Anhalt_5678a0_local_media_amplific_37d097",
-        "title": "How Local Media Make or Break UFO Cases",
+        "title": "Media",
         "permalink": "/media-04b098/",
         "inline_inbound_count": 10
       },
       {
         "basename": "Saxony-Anhalt_5678a0_unresolved_evidence_216035",
-        "title": "What Does Unresolved Really Mean Here?",
+        "title": "Unresolved",
         "permalink": "/unresolved-b01a0e/",
         "inline_inbound_count": 10
       },
       {
         "basename": "Saxony_caf030_balloons_lanterns_sa_6f195c",
-        "title": "How Balloons Become Saxony UFOs",
+        "title": "Balloons",
         "permalink": "/balloons/",
         "inline_inbound_count": 10
       },
       {
         "basename": "Saxony_caf030_unresolved_weak_evid_7cf947",
-        "title": "Does Unidentified Mean Unexplainable?",
+        "title": "Unresolved",
         "permalink": "/unresolved/",
         "inline_inbound_count": 10
       }

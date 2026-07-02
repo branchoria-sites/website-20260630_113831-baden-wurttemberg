@@ -16,17 +16,17 @@ parent_permalink: /mecklenburg-vorpommern/
 
 # Explore Topics in Mecklenburg Vorpommern
 
-The following pages expand on the main **[Mecklenburg Vorpommern]({{'/mecklenburg-vorpommern/' | relative_url }})** page and cover its key branches in.
+The following pages expand on the main **[Mecklenburg Vorpommern]({{ '/mecklenburg-vorpommern/' | relative_url }})** page and cover its key branches in.
 
-- [Coastal Illusions]({{'/coastal-illusions/' | relative_url }})
-- [Naval Context]({{'/naval-context/' | relative_url }})
-- [Records Gap]({{'/records-gap-6f6243/' | relative_url }})
-- [Greifswald]({{'/greifswald/' | relative_url }})
-- [Witnesses]({{'/witnesses-2c8b7b/' | relative_url }})
-- [Media]({{'/media/' | relative_url }})
-- [Flares]({{'/flares/' | relative_url }})
-- [Investigators]({{'/investigators-a76407/' | relative_url }})
-- [Rostock Laage]({{'/rostock-laage/' | relative_url }})
-- [Rügen Usedom]({{'/rügen-usedom/' | relative_url }})
-- [Stralsund 1665]({{'/stralsund-1665/' | relative_url }})
-- [Video Limits]({{'/video-limits/' | relative_url }})
+- [Coastal Illusions]({{ '/coastal-illusions/' | relative_url }})
+- [Naval Context]({{ '/naval-context/' | relative_url }})
+- [Records Gap]({{ '/records-gap-6f6243/' | relative_url }})
+- [Greifswald]({{ '/greifswald/' | relative_url }})
+- [Witnesses]({{ '/witnesses-2c8b7b/' | relative_url }})
+- [Media]({{ '/media/' | relative_url }})
+- [Flares]({{ '/flares/' | relative_url }})
+- [Investigators]({{ '/investigators-a76407/' | relative_url }})
+- [Rostock Laage]({{ '/rostock-laage/' | relative_url }})
+- [Rügen Usedom]({{ '/rügen-usedom/' | relative_url }})
+- [Stralsund 1665]({{ '/stralsund-1665/' | relative_url }})
+- [Video Limits]({{ '/video-limits/' | relative_url }})

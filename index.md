@@ -12,7 +12,7 @@ dir: ltr
 ui_strings:
   home: Home
   overview: Overview
-  overview_prefix:'Overview:'
+  overview_prefix: 'Overview:'
   contents: Contents
   close: Close
   open_contents: Open contents
@@ -160,7 +160,7 @@ ui_strings:
   search_this_page_empty_hint: Type to search this page.
   no_search_results: No pages match this search.
   no_search_this_page_results: No sections on this page match this search.
-  search_results_count_template:'{count} results'
+  search_results_count_template: '{count} results'
   search_kind_page_title: Page title
   search_kind_page_summary: Summary of page
   search_kind_page_location: Page location
@@ -172,5 +172,26 @@ map_view:
   map: /assets/maps/germany.svg
   data: /assets/maps/germany-states.json
 site_image_description: A night sky over the Black Forest with distant town lights, a bright planet near the horizon, and a small group of people looking...
----<section class="home-map-panel uap-world-map-panel" data-home-map-panel><section class="interactive-map-shell uap-world-map-shell" data-map-view-home data-interactive-map data-uap-world-map data-map-kind="state" data-map-layout="germany-states" data-map-item-type="state" data-map-label="UFO and UAP German states map" data-map-fallback-summary="Open this German state file from the map." data-map-src="{{'assets/maps/germany.svg' | relative_url }}" data-map-data-src="{{'assets/maps/germany-states.json' | relative_url }}" data-map-fit="linked-bounds" data-map-initial-item="DE-MV" data-map-preview-preload="all"><div class="interactive-map-canvas uap-world-map-canvas" data-interactive-map-canvas data-uap-world-map-canvas></div><article class="interactive-map-preview uap-world-map-preview" data-interactive-map-preview data-uap-world-map-preview><img src="{{'/assets/images/Mecklenburg-Vorpomme_d975e6-overview.webp' | relative_url }}" alt="" loading="eager" decoding="async" fetchpriority="high"><span class="interactive-map-preview-meta uap-world-map-preview-meta"><span class="interactive-map-preview-chip uap-world-map-preview-chip">MV</span><button type="button" class="interactive-map-preview-chip uap-world-map-preview-chip interactive-map-preview-chip-action uap-world-map-preview-chip-action" data-interactive-map-continent-focus="germany" data-uap-world-map-region-focus="germany" aria-label="Focus map on Germany">Germany</button><span class="interactive-map-preview-count uap-world-map-preview-count">13 pages</span></span><span class="interactive-map-preview-kicker uap-world-map-preview-kicker">Mecklenburg-Vorpommern</span><strong data-interactive-map-preview-title data-uap-world-map-preview-title>Why Baltic Lights Became UFO Legends</strong><span data-interactive-map-preview-summary data-uap-world-map-preview-summary>Mecklenburg-Vorpommern’s UFO history is unusually clear in one respect: its best-known cases are not random rumours, but coastal sky events shaped by the...</span><span class="interactive-map-preview-cta uap-world-map-preview-cta">Open file</span></article></section><p class="home-map-panel-note">Use the map to jump into a German state file, or browse the full state list below.</p><p class="home-map-panel-source"><a href="https://mapsvg.com/maps/germany" rel="license noopener" target="_blank">Map source (Commercial use allowed; no attribution required.)</a></p><p class="home-map-panel-actions"><a class="nav-pill" href="{{'/contents/' | relative_url }}">Contents</a></p></section>
+---
+
+<section class="home-map-panel uap-world-map-panel" data-home-map-panel>
+<section class="interactive-map-shell uap-world-map-shell" data-map-view-home data-interactive-map data-uap-world-map data-map-kind="state" data-map-layout="germany-states" data-map-item-type="state" data-map-label="UFO and UAP German states map" data-map-fallback-summary="Open this German state file from the map." data-map-src="{{ 'assets/maps/germany.svg' | relative_url }}" data-map-data-src="{{ 'assets/maps/germany-states.json' | relative_url }}" data-map-fit="linked-bounds" data-map-initial-item="DE-BE" data-map-preview-preload="all">
+<div class="interactive-map-canvas uap-world-map-canvas" data-interactive-map-canvas data-uap-world-map-canvas></div>
+<article class="interactive-map-preview uap-world-map-preview" data-interactive-map-preview data-uap-world-map-preview>
+<img src="{{ '/assets/images/Berlin_062b06-overview.webp' | relative_url }}" alt="" loading="eager" decoding="async" fetchpriority="high">
+<span class="interactive-map-preview-meta uap-world-map-preview-meta">
+<span class="interactive-map-preview-chip uap-world-map-preview-chip">BE</span>
+<button type="button" class="interactive-map-preview-chip uap-world-map-preview-chip interactive-map-preview-chip-action uap-world-map-preview-chip-action" data-interactive-map-continent-focus="germany" data-uap-world-map-region-focus="germany" aria-label="Focus map on Germany">Germany</button>
+<span class="interactive-map-preview-count uap-world-map-preview-count">13 pages</span>
+</span>
+<span class="interactive-map-preview-kicker uap-world-map-preview-kicker">Berlin</span>
+<strong data-interactive-map-preview-title data-uap-world-map-preview-title>What Berlin&#x27;s UFO Reports Really Show</strong>
+<span data-interactive-map-preview-summary data-uap-world-map-preview-summary>Berlin has plenty of UFO reports, but not a strong record of landmark, well-evidenced UFO incidents.</span>
+<span class="interactive-map-preview-cta uap-world-map-preview-cta">Open file</span>
+</article>
+</section>
+<p class="home-map-panel-note">Use the map to jump into a German state file, or browse the full state list below.</p>
+<p class="home-map-panel-source"><a href="https://mapsvg.com/maps/germany" rel="license noopener" target="_blank">Map source (Commercial use allowed; no attribution required.)</a></p>
+<p class="home-map-panel-actions"><a class="nav-pill" href="{{ '/contents/' | relative_url }}">Contents</a></p>
+</section>
 

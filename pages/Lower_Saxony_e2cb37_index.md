@@ -16,17 +16,17 @@ parent_permalink: /what-really-happened-in-lower-saxonys/
 
 # Explore Topics in What Really Happened in Lower Saxony's UFO...
 
-The following pages expand on the main **[What Really Happened in Lower Saxony's UFO...]({{'/what-really-happened-in-lower-saxonys/' | relative_url }})** page and cover its key branches in.
+The following pages expand on the main **[What Really Happened in Lower Saxony's UFO...]({{ '/what-really-happened-in-lower-saxonys/' | relative_url }})** page and cover its key branches in.
 
-- [Algermissen]({{'/algermissen/' | relative_url }})
-- [Planets]({{'/planets/' | relative_url }})
-- [Drones]({{'/drones/' | relative_url }})
-- [GEP Records]({{'/gep-records-a9c558/' | relative_url }})
-- [Goslar Photos]({{'/goslar-photos/' | relative_url }})
-- [Hannover Flap]({{'/hannover-flap/' | relative_url }})
-- [Press Framing]({{'/press-framing/' | relative_url }})
-- [Police Reports]({{'/police-reports/' | relative_url }})
-- [Sky Lanterns]({{'/sky-lanterns/' | relative_url }})
-- [Weak Cases]({{'/weak-cases/' | relative_url }})
-- [Wittmund]({{'/wittmund/' | relative_url }})
-- [Wunstorf]({{'/wunstorf/' | relative_url }})
+- [Algermissen]({{ '/algermissen/' | relative_url }})
+- [Planets]({{ '/planets/' | relative_url }})
+- [Drones]({{ '/drones/' | relative_url }})
+- [GEP Records]({{ '/gep-records-a9c558/' | relative_url }})
+- [Goslar Photos]({{ '/goslar-photos/' | relative_url }})
+- [Hannover Flap]({{ '/hannover-flap/' | relative_url }})
+- [Press Framing]({{ '/press-framing/' | relative_url }})
+- [Police Reports]({{ '/police-reports/' | relative_url }})
+- [Sky Lanterns]({{ '/sky-lanterns/' | relative_url }})
+- [Weak Cases]({{ '/weak-cases/' | relative_url }})
+- [Wittmund]({{ '/wittmund/' | relative_url }})
+- [Wunstorf]({{ '/wunstorf/' | relative_url }})

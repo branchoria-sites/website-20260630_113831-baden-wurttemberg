@@ -16,17 +16,17 @@ parent_permalink: /what-really-flew-over-schleswig-holstein/
 
 # Explore Topics in What Really Flew Over Schleswig Holstein?
 
-The following pages expand on the main **[What Really Flew Over Schleswig Holstein?]({{'/what-really-flew-over-schleswig-holstein/' | relative_url }})** page and cover its key branches in.
+The following pages expand on the main **[What Really Flew Over Schleswig Holstein?]({{ '/what-really-flew-over-schleswig-holstein/' | relative_url }})** page and cover its key branches in.
 
-- [Balloons]({{'/balloons-776206/' | relative_url }})
-- [Hotspots]({{'/hotspots-3f61cf/' | relative_url }})
-- [Sea Lights]({{'/sea-lights/' | relative_url }})
-- [Drones]({{'/drones-315029/' | relative_url }})
-- [Fireballs]({{'/fireballs-e448de/' | relative_url }})
-- [Meteorite]({{'/meteorite/' | relative_url }})
-- [Jagel]({{'/jagel/' | relative_url }})
-- [Kucknitz]({{'/kucknitz/' | relative_url }})
-- [Planets]({{'/planets-9a1d7f/' | relative_url }})
-- [Starlink]({{'/starlink-175eb8/' | relative_url }})
-- [Checking]({{'/checking/' | relative_url }})
-- [Case Count]({{'/case-count/' | relative_url }})
+- [Balloons]({{ '/balloons-776206/' | relative_url }})
+- [Hotspots]({{ '/hotspots-3f61cf/' | relative_url }})
+- [Sea Lights]({{ '/sea-lights/' | relative_url }})
+- [Drones]({{ '/drones-315029/' | relative_url }})
+- [Fireballs]({{ '/fireballs-e448de/' | relative_url }})
+- [Meteorite]({{ '/meteorite/' | relative_url }})
+- [Jagel]({{ '/jagel/' | relative_url }})
+- [Kucknitz]({{ '/kucknitz/' | relative_url }})
+- [Planets]({{ '/planets-9a1d7f/' | relative_url }})
+- [Starlink]({{ '/starlink-175eb8/' | relative_url }})
+- [Checking]({{ '/checking/' | relative_url }})
+- [Case Count]({{ '/case-count/' | relative_url }})

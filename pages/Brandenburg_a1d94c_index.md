@@ -16,17 +16,17 @@ parent_permalink: /what-really-lights-up-brandenburgs-skies/
 
 # Explore Topics in What Really Lights Up Brandenburg's Skies?
 
-The following pages expand on the main **[What Really Lights Up Brandenburg's Skies?]({{'/what-really-lights-up-brandenburgs-skies/' | relative_url }})** page and cover its key branches in.
+The following pages expand on the main **[What Really Lights Up Brandenburg's Skies?]({{ '/what-really-lights-up-brandenburgs-skies/' | relative_url }})** page and cover its key branches in.
 
-- [BER Drones]({{'/ber-drones/' | relative_url }})
-- [CENAP]({{'/cenap/' | relative_url }})
-- [Re entry]({{'/re-entry/' | relative_url }})
-- [GEP Records]({{'/gep-records/' | relative_url }})
-- [No Big Case]({{'/no-big-case/' | relative_url }})
-- [Rathenow]({{'/rathenow/' | relative_url }})
-- [Ribbeck]({{'/ribbeck/' | relative_url }})
-- [Sensitive Sites]({{'/sensitive-sites/' | relative_url }})
-- [Identification]({{'/identification/' | relative_url }})
-- [Starlink]({{'/starlink-bdbbb9/' | relative_url }})
-- [Report Types]({{'/report-types/' | relative_url }})
-- [Westhavelland]({{'/westhavelland/' | relative_url }})
+- [BER Drones]({{ '/ber-drones/' | relative_url }})
+- [CENAP]({{ '/cenap/' | relative_url }})
+- [Re entry]({{ '/re-entry/' | relative_url }})
+- [GEP Records]({{ '/gep-records/' | relative_url }})
+- [No Big Case]({{ '/no-big-case/' | relative_url }})
+- [Rathenow]({{ '/rathenow/' | relative_url }})
+- [Ribbeck]({{ '/ribbeck/' | relative_url }})
+- [Sensitive Sites]({{ '/sensitive-sites/' | relative_url }})
+- [Identification]({{ '/identification/' | relative_url }})
+- [Starlink]({{ '/starlink-bdbbb9/' | relative_url }})
+- [Report Types]({{ '/report-types/' | relative_url }})
+- [Westhavelland]({{ '/westhavelland/' | relative_url }})

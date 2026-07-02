@@ -16,17 +16,17 @@ parent_permalink: /what-really-happened-over-bavarias-skies/
 
 # Explore Topics in What Really Happened Over Bavaria's Skies?
 
-The following pages expand on the main **[What Really Happened Over Bavaria's Skies?]({{'/what-really-happened-over-bavarias-skies/' | relative_url }})** page and cover its key branches in.
+The following pages expand on the main **[What Really Happened Over Bavaria's Skies?]({{ '/what-really-happened-over-bavarias-skies/' | relative_url }})** page and cover its key branches in.
 
-- [1948 Memo]({{'/1948-memo/' | relative_url }})
-- [Timeline]({{'/timeline/' | relative_url }})
-- [Cold War Skies]({{'/cold-war-skies/' | relative_url }})
-- [Sun Effects]({{'/sun-effects/' | relative_url }})
-- [Glaser Source]({{'/glaser-source/' | relative_url }})
-- [Modern Skies]({{'/modern-skies/' | relative_url }})
-- [Mundane Causes]({{'/mundane-causes/' | relative_url }})
-- [Munich File]({{'/munich-file/' | relative_url }})
-- [Nuremberg 1561]({{'/nuremberg-1561/' | relative_url }})
-- [Pilot Witnesses]({{'/pilot-witnesses/' | relative_url }})
-- [Phone Clips]({{'/phone-clips/' | relative_url }})
-- [Wurzburg UAP]({{'/wurzburg-uap/' | relative_url }})
+- [1948 Memo]({{ '/1948-memo/' | relative_url }})
+- [Timeline]({{ '/timeline/' | relative_url }})
+- [Cold War Skies]({{ '/cold-war-skies/' | relative_url }})
+- [Sun Effects]({{ '/sun-effects/' | relative_url }})
+- [Glaser Source]({{ '/glaser-source/' | relative_url }})
+- [Modern Skies]({{ '/modern-skies/' | relative_url }})
+- [Mundane Causes]({{ '/mundane-causes/' | relative_url }})
+- [Munich File]({{ '/munich-file/' | relative_url }})
+- [Nuremberg 1561]({{ '/nuremberg-1561/' | relative_url }})
+- [Pilot Witnesses]({{ '/pilot-witnesses/' | relative_url }})
+- [Phone Clips]({{ '/phone-clips/' | relative_url }})
+- [Wurzburg UAP]({{ '/wurzburg-uap/' | relative_url }})
