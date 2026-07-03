@@ -1,5 +1,5 @@
 {
-  "selection_strategy": "legacy-resolvers",
+  "selection_strategy": "shared-scorer",
   "ui_priority": "home-first",
   "site_shape": {
     "report_count": 208,
@@ -41,25 +41,88 @@
       "When Bremen's UFO Story Became an Airport Problem",
       "What Did Hamburg Really See in the Sky?",
       "Why Hesse's UFO Stories Usually Come Back to Earth",
-      "Why Baltic Lights Became UFO Legends",
       "What Really Happened in Lower Saxony's UFO Stories?",
+      "Why Baltic Lights Became UFO Legends",
       "What Really Explains NRW UFO Sightings?",
       "What Really Happened In Rhineland Palatinate's UFO...",
       "What Really Happened Over Saarland?",
+      "What Really Happened in Saxony Anhalt's UFO Stories?",
       "What Really Happened in Saxony's UFO Stories?",
       "What Really Flew Over Schleswig Holstein?",
-      "What Really Happened in Thuringia's UFO Stories?",
-      "What Really Happened in Saxony Anhalt's UFO Stories?"
+      "What Really Happened in Thuringia's UFO Stories?"
     ]
   },
   "selected": {
-    "visual_profile": "atlas",
-    "layout_archetype": "atlas",
+    "visual_profile": "compact",
+    "layout_archetype": "compact-grid",
     "home_layout_mode": "vertical",
     "auto_home_layout_mode": "catalog",
     "hierarchy_viz_mode": "hybrid",
-    "palette": "north-atlantic",
-    "motif": "horizon"
+    "palette": "signal-cobalt",
+    "motif": "constellation"
   },
-  "candidates": []
+  "candidates": [
+    {
+      "profile": "compact",
+      "layout": "compact-grid",
+      "home_score": 58,
+      "article_score": 18,
+      "interaction_score": 13,
+      "score": 3700,
+      "reasons": [
+        "compact profile suits large hierarchies",
+        "compact-grid handles dense trees",
+        "compact-grid suits hybrid graph/list layout"
+      ]
+    },
+    {
+      "profile": "compact",
+      "layout": "atlas",
+      "home_score": 34,
+      "article_score": 12,
+      "interaction_score": 13,
+      "score": 2320,
+      "reasons": [
+        "compact profile suits large hierarchies"
+      ]
+    },
+    {
+      "profile": "atlas",
+      "layout": "dossier",
+      "home_score": 28,
+      "article_score": 12,
+      "interaction_score": 16,
+      "score": 2080,
+      "reasons": [
+        "atlas+dossier suits hybrid hierarchy"
+      ]
+    },
+    {
+      "profile": "editorial",
+      "layout": "dossier",
+      "home_score": 12,
+      "article_score": 16,
+      "interaction_score": 14,
+      "score": 1360,
+      "reasons": []
+    },
+    {
+      "profile": "editorial",
+      "layout": "magazine",
+      "home_score": 12,
+      "article_score": 16,
+      "interaction_score": 14,
+      "score": 1360,
+      "reasons": []
+    },
+    {
+      "profile": "atlas",
+      "layout": "atlas",
+      "home_score": 12,
+      "article_score": 12,
+      "interaction_score": 16,
+      "score": 1280,
+      "reasons": []
+    }
+  ]
 }
