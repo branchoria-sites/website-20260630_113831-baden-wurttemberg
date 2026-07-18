@@ -53,6 +53,9 @@
     ]
   },
   "selected": {
+    "site_visual_identity": "signal-cobalt",
+    "site_visual_identity_source": "local_inference",
+    "site_visual_identity_confidence": "medium",
     "visual_profile": "compact",
     "layout_archetype": "compact-grid",
     "home_layout_mode": "vertical",
