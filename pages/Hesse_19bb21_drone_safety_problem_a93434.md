@@ -410,7 +410,7 @@ For Hesse’s wider UFO history, drones near Frankfurt are a reminder that “un
           <a href="https://www.amazon.com/s?k=The+UFO+Experience+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
         </h4>
         <p class="fr-book-author">By Joseph Allen Hynek</p>
-        
+
         <p class="fr-book-desc">Emphasizes evidence-based investigation of aerial reports.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+UFO+Experience+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -427,7 +427,7 @@ For Hesse’s wider UFO history, drones near Frankfurt are a reminder that “un
           <a href="https://www.amazon.com/s?k=The+Drone+Pilot%27s+Handbook+Adam+Juniper&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Drone Pilot&#x27;s Handbook">The Drone Pilot&#x27;s Handbook</a>
         </h4>
         <p class="fr-book-author">By Adam Juniper</p>
-        
+
         <p class="fr-book-desc">Explains drone capabilities, lighting and operating limits relevant to mistaken UFO reports.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Drone+Pilot%27s+Handbook+Adam+Juniper&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -444,7 +444,7 @@ For Hesse’s wider UFO history, drones near Frankfurt are a reminder that “un
           <a href="https://www.amazon.com/s?k=Skunk+Works+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Skunk Works">Skunk Works</a>
         </h4>
         <p class="fr-book-author">By Ben R. Rich, Leo Janos</p>
-        
+
         <p class="fr-book-desc">Offers insight into advanced aircraft that often fuel speculation.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Skunk+Works+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

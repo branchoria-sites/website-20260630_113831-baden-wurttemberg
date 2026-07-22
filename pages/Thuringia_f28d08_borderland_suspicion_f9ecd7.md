@@ -396,7 +396,7 @@ The most useful way to read these cases is therefore neither belief nor blanket 
           <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
         </h4>
         <p class="fr-book-author">By Carl Sagan</p>
-        
+
         <p class="fr-book-desc">Frames critical thinking about extraordinary reports.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -413,7 +413,7 @@ The most useful way to read these cases is therefore neither belief nor blanket 
           <a href="https://www.amazon.com/s?k=Stasiland+Anna+Funder&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Stasiland">Stasiland</a>
         </h4>
         <p class="fr-book-author">By Anna Funder</p>
-        
+
         <p class="fr-book-desc">Explains the surveillance culture behind Cold War sky reports.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Stasiland+Anna+Funder&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -430,7 +430,7 @@ The most useful way to read these cases is therefore neither belief nor blanket 
           <a href="https://www.amazon.com/s?k=The+spy+and+the+traitor+Ben+Macintyre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The spy and the traitor">The spy and the traitor</a>
         </h4>
         <p class="fr-book-author">By Ben Macintyre, Efrén del Valle</p>
-        
+
         <p class="fr-book-desc">Provides wider intelligence context for borderland suspicion.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+spy+and+the+traitor+Ben+Macintyre&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -447,7 +447,7 @@ The most useful way to read these cases is therefore neither belief nor blanket 
           <a href="https://www.amazon.com/s?k=UFOs+%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs : Generals, Pilots, and Government Officials Go on the Record">UFOs : Generals, Pilots, and Government Officials Go on the R...</a>
         </h4>
         <p class="fr-book-author">By Leslie Kean, Heather Henderson</p>
-        
+
         <p class="fr-book-desc">Shows how military contexts intersect with aerial mysteries.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=UFOs+%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

@@ -433,7 +433,7 @@ For readers assessing NRW sightings, the most useful rule is simple: trust the i
           <a href="https://www.amazon.com/s?k=Read+This+if+You+Want+to+Take+Great+Photographs+Henry+Carroll&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Read This if You Want to Take Great Photographs">Read This if You Want to Take Great Photographs</a>
         </h4>
         <p class="fr-book-author">By Henry Carroll</p>
-        
+
         <p class="fr-book-desc">Improves understanding of image limitations.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Read+This+if+You+Want+to+Take+Great+Photographs+Henry+Carroll&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -450,7 +450,7 @@ For readers assessing NRW sightings, the most useful rule is simple: trust the i
           <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
         </h4>
         <p class="fr-book-author">By Carl Sagan</p>
-        
+
         <p class="fr-book-desc">Promotes evidence-based evaluation of unusual images.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -467,7 +467,7 @@ For readers assessing NRW sightings, the most useful rule is simple: trust the i
           <a href="https://www.amazon.com/s?k=The+Believing+Brain+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Believing Brain">The Believing Brain</a>
         </h4>
         <p class="fr-book-author">By Michael Shermer</p>
-        
+
         <p class="fr-book-desc">Explains perceptual errors and pattern recognition.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Believing+Brain+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

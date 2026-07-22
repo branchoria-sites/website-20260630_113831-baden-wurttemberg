@@ -432,7 +432,7 @@ The modern UFO problem in Lower Saxony is therefore not a story of aliens replac
           <a href="https://www.amazon.com/s?k=UFOs+%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs : Generals, Pilots, and Government Officials Go on the Record">UFOs : Generals, Pilots, and Government Officials Go on the R...</a>
         </h4>
         <p class="fr-book-author">By Leslie Kean, Heather Henderson</p>
-        
+
         <p class="fr-book-desc">Connects modern unknown-object reports with official response and aviation witness credibility.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=UFOs+%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -449,7 +449,7 @@ The modern UFO problem in Lower Saxony is therefore not a story of aliens replac
           <a href="https://www.amazon.com/s?k=Drone+Warfare+Medea+Benjamin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Drone Warfare">Drone Warfare</a>
         </h4>
         <p class="fr-book-author">By Medea Benjamin</p>
-        
+
         <p class="fr-book-desc">Broadens UFO-style drone incidents into the practical governance and security questions drones create.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Drone+Warfare+Medea+Benjamin&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -466,7 +466,7 @@ The modern UFO problem in Lower Saxony is therefore not a story of aliens replac
           <a href="https://www.amazon.com/s?k=The+Drone+Age+Michael+J.+Boyle&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Drone Age">The Drone Age</a>
         </h4>
         <p class="fr-book-author">By Michael J. Boyle</p>
-        
+
         <p class="fr-book-desc">Explains why drones have shifted unknown aerial reports toward policing, airspace and infrastructure risk.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Drone+Age+Michael+J.+Boyle&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -483,7 +483,7 @@ The modern UFO problem in Lower Saxony is therefore not a story of aliens replac
           <a href="https://www.amazon.com/s?k=Unmanned+William+M.+Arkin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Unmanned">Unmanned</a>
         </h4>
         <p class="fr-book-author">By William M. Arkin</p>
-        
+
         <p class="fr-book-desc">First published 2015. Subjects: Moral and ethical aspects, Government policy, National security, Drone aircraft, War.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Unmanned+William+M.+Arkin&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

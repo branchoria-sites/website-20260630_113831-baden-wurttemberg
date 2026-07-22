@@ -411,7 +411,7 @@ For Brandenburg’s UFO record, BER is therefore not a colourful side note. It i
           <a href="https://www.amazon.com/s?k=UFOs+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
         </h4>
         <p class="fr-book-author">By Leslie Kean</p>
-        
+
         <p class="fr-book-desc">Places unidentified aerial reports into wider public discussion.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=UFOs+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -428,7 +428,7 @@ For Brandenburg’s UFO record, BER is therefore not a colourful side note. It i
           <a href="https://www.amazon.com/s?k=The+Drone+Age+Michael+J.+Boyle&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Drone Age">The Drone Age</a>
         </h4>
         <p class="fr-book-author">By Michael J. Boyle</p>
-        
+
         <p class="fr-book-desc">Explains how drones affect security and aviation.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Drone+Age+Michael+J.+Boyle&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -445,7 +445,7 @@ For Brandenburg’s UFO record, BER is therefore not a colourful side note. It i
           <a href="https://www.amazon.com/s?k=Skunk+Works+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Skunk Works">Skunk Works</a>
         </h4>
         <p class="fr-book-author">By Ben R. Rich, Leo Janos</p>
-        
+
         <p class="fr-book-desc">Provides accessible insight into aerospace technology and aircraft operations.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Skunk+Works+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -462,7 +462,7 @@ For Brandenburg’s UFO record, BER is therefore not a colourful side note. It i
           <a href="https://www.amazon.com/s?k=The+Drone+Age+Lib%2FE+Michael+J+Boyle&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Drone Age Lib/E">The Drone Age Lib/E</a>
         </h4>
         <p class="fr-book-author">By Michael J Boyle, Mike Lenz</p>
-        
+
         <p class="fr-book-desc">First published 2020.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Drone+Age+Lib%2FE+Michael+J+Boyle&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

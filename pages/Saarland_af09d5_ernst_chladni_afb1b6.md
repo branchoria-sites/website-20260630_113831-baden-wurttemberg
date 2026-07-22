@@ -383,7 +383,7 @@ Chladni’s role is therefore best understood as preservation, not confirmation.
           <a href="https://www.amazon.com/s?k=The+UFO+Experience+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
         </h4>
         <p class="fr-book-author">By Joseph Allen Hynek</p>
-        
+
         <p class="fr-book-desc">Shows how unusual sky reports can be investigated scientifically.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+UFO+Experience+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -400,7 +400,7 @@ Chladni’s role is therefore best understood as preservation, not confirmation.
           <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
         </h4>
         <p class="fr-book-author">By Carl Sagan</p>
-        
+
         <p class="fr-book-desc">Supports careful treatment of historical witness reports.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -417,7 +417,7 @@ Chladni’s role is therefore best understood as preservation, not confirmation.
           <a href="https://www.amazon.com/s?k=The+Book+of+the+Damned+Charles+Fort&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Book of the Damned">The Book of the Damned</a>
         </h4>
         <p class="fr-book-author">By Charles Fort</p>
-        
+
         <p class="fr-book-desc">Provides historical perspective on collecting unexplained observations.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Book+of+the+Damned+Charles+Fort&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -434,7 +434,7 @@ Chladni’s role is therefore best understood as preservation, not confirmation.
           <a href="https://www.amazon.com/s?k=Meteorites+and+their+parent+planets+Harry+Y.+McSween&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Meteorites and their parent planets">Meteorites and their parent planets</a>
         </h4>
         <p class="fr-book-author">By Harry Y. McSween</p>
-        
+
         <p class="fr-book-desc">Directly supports Chladni&#x27;s pioneering work in meteoritics.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Meteorites+and+their+parent+planets+Harry+Y.+McSween&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

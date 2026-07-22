@@ -425,7 +425,7 @@ That balanced approach keeps two truths in view. Unauthorised drones near airpor
           <a href="https://www.amazon.com/s?k=The+UFO+Experience+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
         </h4>
         <p class="fr-book-author">By Joseph Allen Hynek</p>
-        
+
         <p class="fr-book-desc">Places drone scares within the broader history of unidentified-object reporting and classification.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+UFO+Experience+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -442,7 +442,7 @@ That balanced approach keeps two truths in view. Unauthorised drones near airpor
           <a href="https://www.amazon.com/s?k=The+Complete+Guide+to+Drones+Adam+Juniper&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Complete Guide to Drones">The Complete Guide to Drones</a>
         </h4>
         <p class="fr-book-author">By Adam Juniper</p>
-        
+
         <p class="fr-book-desc">Explains drone types, capabilities and uses that shape modern misidentification and airspace concerns.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Complete+Guide+to+Drones+Adam+Juniper&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -459,7 +459,7 @@ That balanced approach keeps two truths in view. Unauthorised drones near airpor
           <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
         </h4>
         <p class="fr-book-author">By Carl Sagan</p>
-        
+
         <p class="fr-book-desc">Supports careful thinking about claims, evidence, uncertainty and public fear.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -476,7 +476,7 @@ That balanced approach keeps two truths in view. Unauthorised drones near airpor
           <a href="https://www.amazon.com/s?k=The+Drone+Pilot%27s+Handbook+Adam+Juniper&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Drone Pilot&#x27;s Handbook">The Drone Pilot&#x27;s Handbook</a>
         </h4>
         <p class="fr-book-author">By Adam Juniper</p>
-        
+
         <p class="fr-book-desc">Connects directly to the page’s themes of drone verification, safety and responsible reporting.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Drone+Pilot%27s+Handbook+Adam+Juniper&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
