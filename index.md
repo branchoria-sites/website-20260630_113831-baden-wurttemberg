@@ -189,6 +189,7 @@ image: /assets/images/Hamburg_155277-overview-social.jpg
 site_image_description: A night sky over the Black Forest with distant town lights, a bright planet near the horizon, and a small group of people looking...
 ---
 
+<h1 class="home-structure-intro-title">UFOs and UAP by German State</h1>
 <section class="home-map-panel uap-world-map-panel" data-home-map-panel>
 <section class="interactive-map-shell uap-world-map-shell" data-map-view-home data-interactive-map data-uap-world-map data-map-kind="state" data-map-layout="germany-states" data-map-item-type="state" data-map-label="UFO and UAP German states map" data-map-fallback-summary="Open this German state file from the map." data-map-src="{{ 'assets/maps/germany.svg' | relative_url }}" data-map-data-src="{{ 'assets/maps/germany-states.json' | relative_url }}" data-map-fit="linked-bounds" data-map-initial-item="DE-BE" data-map-preview-preload="8">
 <div class="interactive-map-canvas uap-world-map-canvas" data-interactive-map-canvas data-uap-world-map-canvas>
