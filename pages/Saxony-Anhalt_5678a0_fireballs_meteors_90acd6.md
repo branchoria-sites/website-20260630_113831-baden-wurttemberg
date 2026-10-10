@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-07-22 13:21:13'
 level: 2
 basename: Saxony-Anhalt_5678a0_fireballs_meteors_90acd6
 parent_basename: Saxony-Anhalt_5678a0

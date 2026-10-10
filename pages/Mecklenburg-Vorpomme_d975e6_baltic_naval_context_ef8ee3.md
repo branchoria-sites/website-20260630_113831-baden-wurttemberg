@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-07-23 13:25:18'
 level: 2
 basename: Mecklenburg-Vorpomme_d975e6_baltic_naval_context_ef8ee3
 parent_basename: Mecklenburg-Vorpomme_d975e6

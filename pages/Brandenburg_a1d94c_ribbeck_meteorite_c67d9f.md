@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-07-03 18:01:12'
 level: 2
 basename: Brandenburg_a1d94c_ribbeck_meteorite_c67d9f
 parent_basename: Brandenburg_a1d94c

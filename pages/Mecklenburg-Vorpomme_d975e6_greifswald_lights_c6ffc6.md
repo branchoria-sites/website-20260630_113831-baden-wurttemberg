@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-07-23 13:25:18'
 level: 2
 basename: Mecklenburg-Vorpomme_d975e6_greifswald_lights_c6ffc6
 parent_basename: Mecklenburg-Vorpomme_d975e6

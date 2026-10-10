@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-07-23 13:25:18'
 level: 2
 basename: Baden-Wurttemberg_dc11f2_stuttgart_aviation_m_24ef53
 parent_basename: Baden-Wurttemberg_dc11f2

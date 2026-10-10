@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-07-23 13:25:18'
 level: 2
 basename: Bavaria_3c0123_cold_war_airspace_e02009
 parent_basename: Bavaria_3c0123

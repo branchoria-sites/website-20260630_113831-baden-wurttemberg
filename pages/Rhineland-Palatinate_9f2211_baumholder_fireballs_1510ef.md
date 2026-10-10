@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-07-22 09:34:28'
 level: 2
 basename: Rhineland-Palatinate_9f2211_baumholder_fireballs_1510ef
 parent_basename: Rhineland-Palatinate_9f2211
