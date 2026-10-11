@@ -784,7 +784,6 @@ The strongest conclusion is therefore modest but important: Berlin is not curren
 4.<a id="endnote-4"></a>
    Source: ufo-forschung.de  
    Title: Klassifikationen – Gesellschaft zur Erforschung des UFO-Phänomens e.V  
-   Link:https://www.ufo-forschung.de/forschung/ufo-klassifikationen  
 
 5.<a id="endnote-5"></a>
    Source: deutschland.de  
@@ -832,12 +831,10 @@ The strongest conclusion is therefore modest but important: Berlin is not curren
 
 14.<a id="endnote-14"></a>
    Source: ufo-forschung.de  
-   Link:https://www.ufo-forschung.de/ueber-uns/satzung  
 
 15.<a id="endnote-15"></a>
    Source: ufo-forschung.de  
    Title: JAnom23 2 302 Ammon etal  
-   Link:https://www.ufo-forschung.de/ta-guenter/pdf/JAnom23-2_302_Ammon_etal.pdf  
 
 16.<a id="endnote-16"></a>
    Source: welt.de  

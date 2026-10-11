@@ -916,7 +916,6 @@ The best way to read Hamburg’s civilian UFO record is therefore as a map of un
 
 24.<a id="endnote-24"></a>
    Source: ufo-forschung.de  
-   Link:https://www.ufo-forschung.de/pressemitteilungen/pm-community/jahresbericht-2024-der-gesellschaft-zur-erforschung-des-ufo-phaenomens-gep-veroeffentlicht  
 
 25.<a id="endnote-25"></a>
    Source: ufo-forschung.de  
@@ -925,7 +924,6 @@ The best way to read Hamburg’s civilian UFO record is therefore as a map of un
 26.<a id="endnote-26"></a>
    Source: ufo-forschung.de  
    Title: JAnom23 2 302 Ammon etal  
-   Link:https://www.ufo-forschung.de/ta-guenter/pdf/JAnom23-2_302_Ammon_etal.pdf  
 
 27.<a id="endnote-27"></a>
    Source: ufo-forschung.de  
@@ -959,7 +957,6 @@ The best way to read Hamburg’s civilian UFO record is therefore as a map of un
 
 33.<a id="endnote-33"></a>
    Source: ufo-forschung.de  
-   Link:https://www.ufo-forschung.de/kurz-notiert/journal-fuer-ufo-forschung-nr-276-erschienen  
 
 34.<a id="endnote-34"></a>
    Source: ufo-forschung.de  

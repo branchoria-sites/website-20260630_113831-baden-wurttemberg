@@ -694,7 +694,6 @@ That is why Saarland’s location-based UFO history is best read in layers. Rast
 8.<a id="endnote-8"></a>
    Source: ufo-forschung.de  
    Title: 22 neue ufo meldungen im november 2023  
-   Link:https://www.ufo-forschung.de/ufo-meldungen/22-neue-ufo-meldungen-im-november-2023  
    Published: november 2023  
 
 9.<a id="endnote-9"></a>
@@ -710,7 +709,6 @@ That is why Saarland’s location-based UFO history is best read in layers. Rast
 11.<a id="endnote-11"></a>
    Source: ufo-forschung.de  
    Title: 15 neue ufo meldungen  
-   Link:https://www.ufo-forschung.de/ufo-meldungen/15-neue-ufo-meldungen  
 
 12.<a id="endnote-12"></a>
    Source: Wikipedia  

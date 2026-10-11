@@ -813,7 +813,6 @@ The most balanced judgement is therefore conservative. Hamburg has solved cases,
 8.<a id="endnote-8"></a>
    Source: ufo-forschung.de  
    Title: 30 neue ufo meldungen  
-   Link:https://www.ufo-forschung.de/ufo-meldungen/30-neue-ufo-meldungen  
 
 9.<a id="endnote-9"></a>
    Source: ufo-forschung.de  

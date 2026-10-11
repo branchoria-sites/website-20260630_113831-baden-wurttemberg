@@ -742,7 +742,6 @@ The most defensible reading is that Hamburg’s record is rich in perception, me
 1.<a id="endnote-1"></a>
    Source: ufo-forschung.de  
    Title: JAnom23 2 302 Ammon etal  
-   Link:https://www.ufo-forschung.de/ta-guenter/pdf/JAnom23-2_302_Ammon_etal.pdf  
 
 2.<a id="endnote-2"></a>
    Source: ufoevidence.org  
@@ -768,7 +767,6 @@ The most defensible reading is that Hamburg’s record is rich in perception, me
 7.<a id="endnote-7"></a>
    Source: ufo-forschung.de  
    Title: 30 neue UFO-Meldungen – Gesellschaft zur Erforschung des UFO-Phänomens e.V  
-   Link:https://www.ufo-forschung.de/ufo-meldungen/30-neue-ufo-meldungen  
 
 8.<a id="endnote-8"></a>
    Source: ufo-forschung.de  

@@ -696,7 +696,6 @@ That sorting work gives the state’s UFO record its public value. It shows how 
 
 1.<a id="endnote-1"></a>
    Source: ufo-forschung.de  
-   Link:https://www.ufo-forschung.de/forschung/ufo-klassifikationen  
 
 2.<a id="endnote-2"></a>
    Source: zenodo.org  

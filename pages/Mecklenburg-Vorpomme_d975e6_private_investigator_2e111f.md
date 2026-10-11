@@ -801,7 +801,6 @@ For Mecklenburg-Vorpommern, that is the fairest position. The state has produced
 
 5.<a id="endnote-5"></a>
    Source: ufo-forschung.de  
-   Link:https://www.ufo-forschung.de/forschung/grundsaetze-redlicher-wissenschaftlicher-praxis-in-der-erforschung-des-ufo-phaenomens  
 
 6.<a id="endnote-6"></a>
    Source: bundestag.de  

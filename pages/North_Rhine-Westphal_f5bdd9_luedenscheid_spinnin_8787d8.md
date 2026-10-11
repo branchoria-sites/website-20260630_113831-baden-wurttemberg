@@ -694,7 +694,6 @@ In this instance, the answer is probably no. The Lüdenscheid photograph remains
 2.<a id="endnote-2"></a>
    Source: ufo-forschung.de  
    Title: UFO Forschung  
-   Link:https://www.ufo-forschung.de/ta-guenter/pdf/JAnom23-2_302_Ammon_etal.pdf  
 
 3.<a id="endnote-3"></a>
    Source: aaro.mil  

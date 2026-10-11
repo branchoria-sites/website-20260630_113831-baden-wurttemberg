@@ -826,7 +826,6 @@ That balanced approach keeps two truths in view. Unauthorised drones near airpor
 
 6.<a id="endnote-6"></a>
    Source: dfs.de  
-   Link:https://www.dfs.de/homepage/de/drohnenflug/karten-flughaefen/  
 
 7.<a id="endnote-7"></a>
    Source: polizei.hamburg  

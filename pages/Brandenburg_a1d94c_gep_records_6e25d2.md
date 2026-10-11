@@ -674,12 +674,10 @@ For Brandenburg, the strongest public takeaway is therefore modest but valuable.
 3.<a id="endnote-3"></a>
    Source: ufo-forschung.de  
    Title: Klassifikationen – Gesellschaft zur Erforschung des UFO-Phänomens e.V  
-   Link:https://www.ufo-forschung.de/forschung/ufo-klassifikationen  
 
 4.<a id="endnote-4"></a>
    Source: ufo-forschung.de  
    Title: JAnom23 2 302 Ammon etal  
-   Link:https://www.ufo-forschung.de/ta-guenter/pdf/JAnom23-2_302_Ammon_etal.pdf  
 
 5.<a id="endnote-5"></a>
    Source: darksky.org  

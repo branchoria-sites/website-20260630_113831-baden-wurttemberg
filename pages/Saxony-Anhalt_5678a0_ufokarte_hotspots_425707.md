@@ -764,7 +764,6 @@ The strongest takeaway is modest but important: Ufokarte’s Saxony-Anhalt recor
 
 3.<a id="endnote-3"></a>
    Source: ufo-forschung.de  
-   Link:https://www.ufo-forschung.de/forschung/ufo-klassifikationen  
 
 4.<a id="endnote-4"></a>
    Source: ufokarte.de  

@@ -669,7 +669,6 @@ That is the real lesson. A red formation is not automatically a craft, a hoax or
 
 3.<a id="endnote-3"></a>
    Source: ufo-forschung.de  
-   Link:https://www.ufo-forschung.de/forschung/ufo-klassifikationen  
 
 4.<a id="endnote-4"></a>
    Source: ais.dfs.de  
@@ -711,7 +710,6 @@ That is the real lesson. A red formation is not automatically a craft, a hoax or
 12.<a id="endnote-12"></a>
    Source: ufo-forschung.de  
    Title: JAnom23 2 302 Ammon etal  
-   Link:https://www.ufo-forschung.de/ta-guenter/pdf/JAnom23-2_302_Ammon_etal.pdf  
 
 13.<a id="endnote-13"></a>
    Source: hamburg-airport.de  

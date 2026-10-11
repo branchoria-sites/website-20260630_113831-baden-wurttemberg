@@ -732,7 +732,6 @@ That is why the case remains open in a narrow, evidence-led sense. It is not ope
 
 10.<a id="endnote-10"></a>
    Source: dfs.de  
-   Link:https://www.dfs.de/homepage/de/drohnenflug/karten-flughaefen/  
 
 11.<a id="endnote-11"></a>
    Source: dfs.de  
