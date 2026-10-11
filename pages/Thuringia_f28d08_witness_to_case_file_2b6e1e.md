@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-07-22 09:34:28'
 level: 2
 basename: Thuringia_f28d08_witness_to_case_file_2b6e1e
 parent_basename: Thuringia_f28d08

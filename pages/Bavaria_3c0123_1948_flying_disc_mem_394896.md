@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-07-22 09:34:28'
 level: 2
 basename: Bavaria_3c0123_1948_flying_disc_mem_394896
 parent_basename: Bavaria_3c0123

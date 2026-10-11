@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-07-22 09:34:28'
 level: 2
 basename: Thuringia_f28d08_case_strength_rating_2b1cae
 parent_basename: Thuringia_f28d08

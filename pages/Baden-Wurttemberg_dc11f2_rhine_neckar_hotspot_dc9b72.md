@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-07-22 13:21:13'
 level: 2
 basename: Baden-Wurttemberg_dc11f2_rhine_neckar_hotspot_dc9b72
 parent_basename: Baden-Wurttemberg_dc11f2

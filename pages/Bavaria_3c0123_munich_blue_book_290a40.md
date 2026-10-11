@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-07-23 13:25:18'
 level: 2
 basename: Bavaria_3c0123_munich_blue_book_290a40
 parent_basename: Bavaria_3c0123

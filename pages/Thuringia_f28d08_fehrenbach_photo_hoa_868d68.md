@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-07-22 09:34:28'
 level: 2
 basename: Thuringia_f28d08_fehrenbach_photo_hoa_868d68
 parent_basename: Thuringia_f28d08

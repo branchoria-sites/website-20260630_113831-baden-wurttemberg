@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-07-22 09:34:28'
 level: 2
 basename: Berlin_062b06_berlin_photo_cases_c6045c
 parent_basename: Berlin_062b06

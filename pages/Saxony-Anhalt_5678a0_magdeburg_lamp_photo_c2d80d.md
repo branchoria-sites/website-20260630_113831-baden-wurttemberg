@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-07-22 09:34:28'
 level: 2
 basename: Saxony-Anhalt_5678a0_magdeburg_lamp_photo_c2d80d
 parent_basename: Saxony-Anhalt_5678a0
