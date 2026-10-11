@@ -412,7 +412,7 @@ Lower Saxony also has its own UFO culture, not just its sightings. Hannover has 
 
 That local scene matters because UFO history is not only about objects in the sky. It is also about who receives reports, how witnesses are treated, what counts as evidence, and whether a case is preserved in a usable archive. Private groups such as GEP and CENAP have often filled the gap left by the absence of a long-running German equivalent to a public, state-led UFO investigation programme. CENAP, for example, is described by Deutschland.de as a hotline-style contact point for people who cannot identify aerial objects, with roots going back to the 1970s.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.deutschland.de/en/topic/knowledge/ufos-over-germany-hansjuergen-koehler-and-cenap" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: deutschland.de">[Deutschland]</a><span class="citation-popover" role="note"><span class="citation-popover-source">deutschland.de</span><span class="citation-popover-title">UFOs over Germany: An expert provides clarity</span><span class="citation-popover-snippet">UFOs over Germany: An expert provides clarity</span></span></span>
 
-The GEP’s own public material says it has served for decades as a contact point for UFO/UAP reports and questions in Germany, while its published dataset gives researchers a more transparent way to inspect the underlying material. In 2025, the GEP noted that its 6,000th documented UFO case was a photo case from Hildesheim, while also stressing that the milestone was not evidence of an anomaly.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ufo-forschung.de/author/guenter" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufo-forschung.de">[UFO Forschung]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufo-forschung.de</span><span class="citation-popover-title">UFO Forschung T.A. Günter – Gesellschaft zur Erforschung des UFO-Phänomens e.V</span><span class="citation-popover-snippet">UFO Forschung T.A. Günter – Gesellschaft zur Erforschung des UFO-Phänomens e.V</span></span></span>
+The GEP’s own public material says it has served for decades as a contact point for UFO/UAP reports and questions in Germany, while its published dataset gives researchers a more transparent way to inspect the underlying material. In 2025, the GEP noted that its 6,000th documented UFO case was a photo case from Hildesheim, while also stressing that the milestone was not evidence of an anomaly.<span class="citation-link-wrap">[UFO Forschung]<span class="citation-popover" role="note"><span class="citation-popover-source">ufo-forschung.de</span><span class="citation-popover-title">UFO Forschung T.A. Günter – Gesellschaft zur Erforschung des UFO-Phänomens e.V</span><span class="citation-popover-snippet">UFO Forschung T.A. Günter – Gesellschaft zur Erforschung des UFO-Phänomens e.V</span></span></span>
 
 That Hildesheim milestone is symbolically useful for a Lower Saxony page. It links the state to German UFO archiving, but it also warns against overclaiming. A case can be historically notable because it marks an archive milestone, not because it is evidentially strong.<img src="{{"/assets/images/Lower_Saxony_e2cb37-Illustration-2-dark.svg" | relative_url }}" alt="What Really Happened in Lower Saxony&#x27;s UFO... illustration 2" data-theme-src-dark="{{"/assets/images/Lower_Saxony_e2cb37-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{"/assets/images/Lower_Saxony_e2cb37-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Aviation, Airports and the Bremen Border Problem
@@ -852,7 +852,7 @@ The state’s modern relevance is increasing because “unknown object” now of
 16.<a id="endnote-16"></a>
    Source: ufo-forschung.de  
    Title: UFO Forschung T.A. Günter – Gesellschaft zur Erforschung des UFO-Phänomens e.V  
-   Link:<a href="https://www.ufo-forschung.de/author/guenter" target="_blank" rel="noopener noreferrer nofollow">https://www.ufo-forschung.de/author/guenter</a>  
+   Link:https://www.ufo-forschung.de/author/guenter  
 
 17.<a id="endnote-17"></a>
    Source: researchgate.net  
@@ -898,7 +898,7 @@ The state’s modern relevance is increasing because “unknown object” now of
 26.<a id="endnote-26"></a>
    Source: ufo-forschung.de  
    Title: kurz notiert  
-   Link:<a href="https://www.ufo-forschung.de/category/kurz-notiert" target="_blank" rel="noopener noreferrer nofollow">https://www.ufo-forschung.de/category/kurz-notiert</a>  
+   Link:https://www.ufo-forschung.de/category/kurz-notiert  
 
 27.<a id="endnote-27"></a>
    Source: ufo-forschung.de  

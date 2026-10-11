@@ -344,7 +344,7 @@ The German GEP dataset published on Zenodo illustrates this shift from story to 
 
 That is a major evidential improvement over loose retelling, but it introduces a new risk: the label can appear more decisive than the underlying case deserves. A short database entry may make a messy witness account look tidy. A classification such as near-identification, problematic unknown or good unknown can be useful only if readers understand the quality of the investigation behind it.
 
-GEP-linked research has openly addressed this problem. A 2023 paper on UAP research in Germany notes that older categories such as “Near IFO”, “Problematic UFO”, “Good UFO” and “Best UFO” depend on how strongly a conventional explanation can be excluded, but also says that reviewed cases showed variable quality and that earlier classification categories lacked clear, intersubjectively valid criteria.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ufo-forschung.de/ta-guenter/pdf/JAnom23-2_302_Ammon_etal.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufo-forschung.de">[ufo-forschung.de]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufo-forschung.de</span><span class="citation-popover-title">JAnom23 2 302 Ammon etal</span><span class="citation-popover-snippet">JAnom23 2 302 Ammon etal</span></span></span>
+GEP-linked research has openly addressed this problem. A 2023 paper on UAP research in Germany notes that older categories such as “Near IFO”, “Problematic UFO”, “Good UFO” and “Best UFO” depend on how strongly a conventional explanation can be excluded, but also says that reviewed cases showed variable quality and that earlier classification categories lacked clear, intersubjectively valid criteria.<span class="citation-link-wrap">[ufo-forschung.de]<span class="citation-popover" role="note"><span class="citation-popover-source">ufo-forschung.de</span><span class="citation-popover-title">JAnom23 2 302 Ammon etal</span><span class="citation-popover-snippet">JAnom23 2 302 Ammon etal</span></span></span>
 
 For Thuringian cases, this means later database treatment should be read as interpretation, not resurrection. If a case is labelled unexplained, that may mean there was not enough information to identify it, not that an extraordinary cause has been demonstrated. If it is labelled explained, that may reflect a strong conventional fit, but readers should still ask whether the original data were detailed enough to support that conclusion.
 
@@ -718,7 +718,7 @@ The practical takeaway is simple: a Thuringian UFO story becomes better evidence
 9.<a id="endnote-9"></a>
    Source: ufo-forschung.de  
    Title: JAnom23 2 302 Ammon etal  
-   Link:<a href="https://www.ufo-forschung.de/ta-guenter/pdf/JAnom23-2_302_Ammon_etal.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ufo-forschung.de/ta-guenter/pdf/JAnom23-2_302_Ammon_etal.pdf</a>  
+   Link:https://www.ufo-forschung.de/ta-guenter/pdf/JAnom23-2_302_Ammon_etal.pdf  
 
 10.<a id="endnote-10"></a>
    Source: grewi.de  

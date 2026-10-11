@@ -349,7 +349,7 @@ This is why investigators ask boring questions. What was the exact time? Which d
 
 Ordinary sky sightings are difficult because the witness is usually trying to measure something without measuring tools. Distance, altitude and speed are especially vulnerable. A small nearby object can look like a large distant one. A bright planet can feel like a hovering craft. A satellite can appear to vanish when it enters Earth’s shadow. A light behind thin cloud can seem to change shape. None of this requires panic or gullibility.
 
-The UAP research paper by Danny Ammon and colleagues describes German case work as dependent on structured witness data and secondary checks such as geography, weather and astronomical constellations. It also notes that hypotheses may be discussed among colleagues when the explanation is not clear.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ufo-forschung.de/ta-guenter/pdf/JAnom23-2_302_Ammon_etal.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufo-forschung.de">[ufo-forschung.de]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufo-forschung.de</span><span class="citation-popover-title">JAnom23 2 302 Ammon etal</span><span class="citation-popover-snippet">JAnom23 2 302 Ammon etal</span></span></span> That approach is important because memory alone rarely carries enough information to settle a case.
+The UAP research paper by Danny Ammon and colleagues describes German case work as dependent on structured witness data and secondary checks such as geography, weather and astronomical constellations. It also notes that hypotheses may be discussed among colleagues when the explanation is not clear.<span class="citation-link-wrap">[ufo-forschung.de]<span class="citation-popover" role="note"><span class="citation-popover-source">ufo-forschung.de</span><span class="citation-popover-title">JAnom23 2 302 Ammon etal</span><span class="citation-popover-snippet">JAnom23 2 302 Ammon etal</span></span></span> That approach is important because memory alone rarely carries enough information to settle a case.
 
 Memory also changes once a witness begins explaining the event to themselves or others. The first observation may be cautious: “I saw a bright moving light.” After social media discussion, the same event may become “a silent craft changing course”. The more a witness estimates hidden properties — distance, height, size, acceleration, intelligence — the more careful the reader should be. Those estimates may feel direct, but in a night-sky sighting they are often inferred from weak visual cues.
 
@@ -717,7 +717,7 @@ For Berlin’s UFO history, that is not a disappointing conclusion. It is the ce
 7.<a id="endnote-7"></a>
    Source: ufo-forschung.de  
    Title: JAnom23 2 302 Ammon etal  
-   Link:<a href="https://www.ufo-forschung.de/ta-guenter/pdf/JAnom23-2_302_Ammon_etal.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ufo-forschung.de/ta-guenter/pdf/JAnom23-2_302_Ammon_etal.pdf</a>  
+   Link:https://www.ufo-forschung.de/ta-guenter/pdf/JAnom23-2_302_Ammon_etal.pdf  
 
 8.<a id="endnote-8"></a>
    Source: ufo-forschung.de  

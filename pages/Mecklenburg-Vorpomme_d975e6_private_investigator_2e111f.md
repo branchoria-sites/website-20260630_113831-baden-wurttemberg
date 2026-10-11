@@ -358,7 +358,7 @@ Private investigators are strongest when they can join several kinds of evidence
 
 But private reconstruction has limits. It is often retrospective. It may depend on memories gathered years later. It may lack access to complete military logs, radar records or original unedited video. It can also be shaped by the investigator’s prior attitude. A sceptic may look too quickly for a conventional stimulus; a believer may resist ordinary explanations because the case has become meaningful as a landmark. The best public assessment therefore asks not whether the investigator was “pro-UFO” or “anti-UFO”, but whether the chain of reasoning is specific, testable and proportionate.
 
-GEP’s published research principles are useful here because they set out what careful casework should look like, even outside official science. They stress critical work, willingness to question one’s own results, control of wishful thinking, full documentation of methods and results, separation of personal interpretations from collected data, and long-term preservation of case files.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ufo-forschung.de/forschung/grundsaetze-redlicher-wissenschaftlicher-praxis-in-der-erforschung-des-ufo-phaenomens" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufo-forschung.de">[UFO Forschung]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufo-forschung.de</span><span class="citation-popover-snippet">Open source on ufo-forschung.de.</span></span></span>
+GEP’s published research principles are useful here because they set out what careful casework should look like, even outside official science. They stress critical work, willingness to question one’s own results, control of wishful thinking, full documentation of methods and results, separation of personal interpretations from collected data, and long-term preservation of case files.<span class="citation-link-wrap">[UFO Forschung]<span class="citation-popover" role="note"><span class="citation-popover-source">ufo-forschung.de</span><span class="citation-popover-snippet">Open source on ufo-forschung.de.</span></span></span>
 
 That kind of standard is directly relevant to Mecklenburg-Vorpommern. The state’s major UFO stories are not solved by excitement alone. They need patient reconstruction: who saw the lights, from where, at what time, in what direction, under what atmospheric conditions, and against what background of coastal, military or maritime activity? When those questions are asked, the Greifswald case becomes less mysterious but more historically useful.
 
@@ -801,7 +801,7 @@ For Mecklenburg-Vorpommern, that is the fairest position. The state has produced
 
 5.<a id="endnote-5"></a>
    Source: ufo-forschung.de  
-   Link:<a href="https://www.ufo-forschung.de/forschung/grundsaetze-redlicher-wissenschaftlicher-praxis-in-der-erforschung-des-ufo-phaenomens" target="_blank" rel="noopener noreferrer nofollow">https://www.ufo-forschung.de/forschung/grundsaetze-redlicher-wissenschaftlicher-praxis-in-der-erforschung-des-ufo-phaenomens</a>  
+   Link:https://www.ufo-forschung.de/forschung/grundsaetze-redlicher-wissenschaftlicher-praxis-in-der-erforschung-des-ufo-phaenomens  
 
 6.<a id="endnote-6"></a>
    Source: bundestag.de  

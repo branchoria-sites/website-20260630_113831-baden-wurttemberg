@@ -303,14 +303,14 @@ image: /assets/images/Hamburg_155277_sasel_burning_object_2ef432-overview-social
 
 ## Introduction
 
-The Sasel burning-object report is one of [Hamburg]({{'what-did-hamburg-really-see-in-the-sky/' | relative_url }})’s smaller but useful UFO cases because it shows how a vivid family sighting can sound unusual while still fitting a familiar pattern. On 23 August 2013, at about 21:30, a 16-year-old witness in Hamburg-Sasel reportedly watched two “obviously burning objects” with his family from a terrace. The objects moved silently overhead one after the other, went out after roughly a minute and a half, and then continued as dark shadows towards the north-east. The case was logged by the German UFO research group GEP, but the public record is brief and does not show independent images, radar data, official aviation confirmation or a later breakthrough.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ufo-forschung.de/ufo-meldungen/30-neue-ufo-meldungen" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufo-forschung.de">[UFO Forschung]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufo-forschung.de</span><span class="citation-popover-title">30 neue ufo meldungen</span><span class="citation-popover-snippet">30 neue ufo meldungen</span></span></span><img src="{{"/assets/images/Hamburg_155277_sasel_burning_object_2ef432-overview.webp" | relative_url }}" alt="Overview image for Sasel Objects" loading="eager" decoding="sync" fetchpriority="high">
+The Sasel burning-object report is one of [Hamburg]({{'what-did-hamburg-really-see-in-the-sky/' | relative_url }})’s smaller but useful UFO cases because it shows how a vivid family sighting can sound unusual while still fitting a familiar pattern. On 23 August 2013, at about 21:30, a 16-year-old witness in Hamburg-Sasel reportedly watched two “obviously burning objects” with his family from a terrace. The objects moved silently overhead one after the other, went out after roughly a minute and a half, and then continued as dark shadows towards the north-east. The case was logged by the German UFO research group GEP, but the public record is brief and does not show independent images, radar data, official aviation confirmation or a later breakthrough.<span class="citation-link-wrap">[UFO Forschung]<span class="citation-popover" role="note"><span class="citation-popover-source">ufo-forschung.de</span><span class="citation-popover-title">30 neue ufo meldungen</span><span class="citation-popover-snippet">30 neue ufo meldungen</span></span></span><img src="{{"/assets/images/Hamburg_155277_sasel_burning_object_2ef432-overview.webp" | relative_url }}" alt="Overview image for Sasel Objects" loading="eager" decoding="sync" fetchpriority="high">
 The most grounded reading is therefore cautious: the Sasel report is interesting as a witness-impression case, not as strong evidence of an unexplained craft. Its details — flame-like appearance, silence, short duration, sequential movement and fading into darkness — are all consistent with sky-lantern-like objects or similar small drifting lights. That does not prove the explanation, but it makes this a good Hamburg test case for separating “strange to the witness” from “hard to explain after investigation”.
 
 ## What the family said they saw
 
 Hamburg-Sasel sits in the north-east of the city, in the Wandsbek district, an area described by Hamburg’s own city portal as a green, family-oriented quarter with many detached houses. That setting matters because the report was not an airport-terminal observation or a harbour-light confusion: it was a domestic night-sky sighting from a terrace, the kind of everyday vantage point from which many civilian UFO reports begin.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.hamburg.de/leben-in-hamburg/bezirke-hamburg/stadtteile-bezirk-wandsbek/sasel-376880" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hamburg.de">[hamburg.de]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hamburg.de</span><span class="citation-popover-title">Sasel Stadtteil</span><span class="citation-popover-snippet">Sasel Stadtteil</span></span></span>
 
-The GEP summary gives the core facts. At 21:30 Central European Summer Time on 23 August 2013, the teenage witness and his family saw two burning-looking objects pass silently over their heads. They appeared one after the other, not as a single joined structure. After about 90 seconds they went out and were then perceived as black shadows moving away towards the north-east.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ufo-forschung.de/ufo-meldungen/30-neue-ufo-meldungen" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufo-forschung.de">[UFO Forschung]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufo-forschung.de</span><span class="citation-popover-title">30 neue ufo meldungen</span><span class="citation-popover-snippet">30 neue ufo meldungen</span></span></span>
+The GEP summary gives the core facts. At 21:30 Central European Summer Time on 23 August 2013, the teenage witness and his family saw two burning-looking objects pass silently over their heads. They appeared one after the other, not as a single joined structure. After about 90 seconds they went out and were then perceived as black shadows moving away towards the north-east.<span class="citation-link-wrap">[UFO Forschung]<span class="citation-popover" role="note"><span class="citation-popover-source">ufo-forschung.de</span><span class="citation-popover-title">30 neue ufo meldungen</span><span class="citation-popover-snippet">30 neue ufo meldungen</span></span></span>
 
 That short description contains both the appeal and the weakness of the case. It is vivid enough to be memorable: fire in the sky, silence, overhead passage, extinction, dark remnants. But it is also missing several details that would make the sighting more testable: exact starting and ending directions, angular height, angular speed, estimated size, photographs, video, wind reading at the site, nearby events, possible launch points, and whether anyone outside the family independently reported the same objects.
 
@@ -689,7 +689,7 @@ Its value within Hamburg’s UFO history is therefore practical rather than sens
 1.<a id="endnote-1"></a>
    Source: ufo-forschung.de  
    Title: 30 neue ufo meldungen  
-   Link:<a href="https://www.ufo-forschung.de/ufo-meldungen/30-neue-ufo-meldungen" target="_blank" rel="noopener noreferrer nofollow">https://www.ufo-forschung.de/ufo-meldungen/30-neue-ufo-meldungen</a>  
+   Link:https://www.ufo-forschung.de/ufo-meldungen/30-neue-ufo-meldungen  
 
 2.<a id="endnote-2"></a>
    Source: ufo-forschung.de  
@@ -833,7 +833,7 @@ Its value within Hamburg’s UFO history is therefore practical rather than sens
 33.<a id="endnote-33"></a>
    Source: ufo-forschung.de  
    Title: 17 neue ufo meldungen im oktober 2018  
-   Link:<a href="https://www.ufo-forschung.de/ufo-meldungen/17-neue-ufo-meldungen-im-oktober-2018" target="_blank" rel="noopener noreferrer nofollow">https://www.ufo-forschung.de/ufo-meldungen/17-neue-ufo-meldungen-im-oktober-2018</a>  
+   Link:https://www.ufo-forschung.de/ufo-meldungen/17-neue-ufo-meldungen-im-oktober-2018  
 
 34.<a id="endnote-34"></a>
    Source: ufo-forschung.de  
@@ -845,7 +845,7 @@ Its value within Hamburg’s UFO history is therefore practical rather than sens
 
 36.<a id="endnote-36"></a>
    Source: ufo-forschung.de  
-   Link:<a href="https://www.ufo-forschung.de/aktuelles" target="_blank" rel="noopener noreferrer nofollow">https://www.ufo-forschung.de/aktuelles</a>  
+   Link:https://www.ufo-forschung.de/aktuelles  
 
 37.<a id="endnote-37"></a>
    Source: ufo-forschung.de  

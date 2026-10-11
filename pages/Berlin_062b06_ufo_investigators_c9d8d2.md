@@ -345,7 +345,7 @@ That process can change a Berlin report in several ways:
 * **From mystery to identified object.** A line of lights becomes Starlink; two brilliant points become Venus and Jupiter; a drifting shape becomes a balloon; a bright low “star” becomes a planet or Sirius.
 * **From impressive image to camera problem.** A dot, streak, dark blob or glowing patch found later in a photograph may become a reflection, insect, dust particle, exposure artefact or compression effect.
 * **From dramatic claim to insufficient data.** If the witness cannot provide time, direction, duration, location, original media or follow-up answers, the case may remain unclassified without becoming strong evidence.
-* **From “unexplained” in ordinary speech to “not a good UFO case”.** GEP’s classification approach makes this distinction important: weak documentation is not the same as a robust unexplained event.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ufo-forschung.de/forschung/ufo-klassifikationen" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufo-forschung.de">[ufo-forschung.de]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufo-forschung.de</span><span class="citation-popover-title">Klassifikationen – Gesellschaft zur Erforschung des UFO-Phänomens e.V</span><span class="citation-popover-snippet">Klassifikationen – Gesellschaft zur Erforschung des UFO-Phänomens e.V</span></span></span>
+* **From “unexplained” in ordinary speech to “not a good UFO case”.** GEP’s classification approach makes this distinction important: weak documentation is not the same as a robust unexplained event.<span class="citation-link-wrap">[ufo-forschung.de]<span class="citation-popover" role="note"><span class="citation-popover-source">ufo-forschung.de</span><span class="citation-popover-title">Klassifikationen – Gesellschaft zur Erforschung des UFO-Phänomens e.V</span><span class="citation-popover-snippet">Klassifikationen – Gesellschaft zur Erforschung des UFO-Phänomens e.V</span></span></span>
 
 This is why Berlin’s zero-unresolved figure in the GEP-linked state overview should be read carefully. It does not mean nobody in Berlin has ever had a puzzling experience. It means the currently represented investigated cases do not produce a state-level residue of strong unexplained cases in that public snapshot.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ufokarte.de/bundesland/berlin" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufokarte.de">[Ufokarte.de]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufokarte.de</span><span class="citation-popover-title">UF O-Sichtungen in Berlin — Ufokarte.de</span><span class="citation-popover-snippet">UF O-Sichtungen in Berlin — Ufokarte.de</span></span></span><img src="{{"/assets/images/Berlin_062b06_ufo_investigators_c9d8d2-Illustration-3-dark.svg" | relative_url }}" alt="Investigators illustration 3" data-theme-src-dark="{{"/assets/images/Berlin_062b06_ufo_investigators_c9d8d2-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{"/assets/images/Berlin_062b06_ufo_investigators_c9d8d2-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Where aviation and official channels fit
@@ -784,7 +784,7 @@ The strongest conclusion is therefore modest but important: Berlin is not curren
 4.<a id="endnote-4"></a>
    Source: ufo-forschung.de  
    Title: Klassifikationen – Gesellschaft zur Erforschung des UFO-Phänomens e.V  
-   Link:<a href="https://www.ufo-forschung.de/forschung/ufo-klassifikationen" target="_blank" rel="noopener noreferrer nofollow">https://www.ufo-forschung.de/forschung/ufo-klassifikationen</a>  
+   Link:https://www.ufo-forschung.de/forschung/ufo-klassifikationen  
 
 5.<a id="endnote-5"></a>
    Source: deutschland.de  
@@ -832,12 +832,12 @@ The strongest conclusion is therefore modest but important: Berlin is not curren
 
 14.<a id="endnote-14"></a>
    Source: ufo-forschung.de  
-   Link:<a href="https://www.ufo-forschung.de/ueber-uns/satzung" target="_blank" rel="noopener noreferrer nofollow">https://www.ufo-forschung.de/ueber-uns/satzung</a>  
+   Link:https://www.ufo-forschung.de/ueber-uns/satzung  
 
 15.<a id="endnote-15"></a>
    Source: ufo-forschung.de  
    Title: JAnom23 2 302 Ammon etal  
-   Link:<a href="https://www.ufo-forschung.de/ta-guenter/pdf/JAnom23-2_302_Ammon_etal.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ufo-forschung.de/ta-guenter/pdf/JAnom23-2_302_Ammon_etal.pdf</a>  
+   Link:https://www.ufo-forschung.de/ta-guenter/pdf/JAnom23-2_302_Ammon_etal.pdf  
 
 16.<a id="endnote-16"></a>
    Source: welt.de  
