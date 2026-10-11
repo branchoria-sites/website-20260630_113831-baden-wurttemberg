@@ -337,13 +337,13 @@ The same is true of Starlink and satellite fuel or exhaust events. A striking li
 
 The most interesting Saxon records are not always the solved ones. A small number are marked as unresolved, near-identifications, problematic cases or insufficient data. These entries are important, but they need careful language.
 
-GEP’s classification page explains that an IFO is an identified object or appearance, while “exceptions” include insufficient data and unreliable or inadequate observation. It also divides more anomalous unresolved cases into levels such as NEAR IFO, PROBLEMATIC UFO, GOOD UFO and BEST UFO, with the organisation saying that only GOOD or BEST cases should enter broader national or international discussion.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ufo-forschung.de/forschung/ufo-klassifikationen" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufo-forschung.de">[UFO Forschung]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufo-forschung.de</span><span class="citation-popover-snippet">Open source on ufo-forschung.de.</span></span></span>
+GEP’s classification page explains that an IFO is an identified object or appearance, while “exceptions” include insufficient data and unreliable or inadequate observation. It also divides more anomalous unresolved cases into levels such as NEAR IFO, PROBLEMATIC UFO, GOOD UFO and BEST UFO, with the organisation saying that only GOOD or BEST cases should enter broader national or international discussion.<span class="citation-link-wrap">[UFO Forschung]<span class="citation-popover" role="note"><span class="citation-popover-source">ufo-forschung.de</span><span class="citation-popover-snippet">Open source on ufo-forschung.de.</span></span></span>
 
 That framework keeps older Saxon cases in proportion. The 9 August 1995 Dresden case is one of the more notable entries because it is marked as a close encounter of the first kind and a PROBLEMATIC UFO with no identification. The witness reportedly observed for 45 minutes a mysterious swollen star, yellow-orange in colour, that appeared to move, then paused, brightened briefly and shot upwards.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://zenodo.org/records/15882235/files/UFO-UAP-Falldaten_GEP_1972-2025.06.csv?download=1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: zenodo.org">[Zenodo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">zenodo.org</span><span class="citation-popover-title">UFO UAP Falldaten GEP 1972 2025.06.csv</span><span class="citation-popover-snippet">UFO UAP Falldaten GEP 1972 2025.06.csv</span></span></span> That is an unusual report, but the public dataset entry is not a full case file. It does not, by itself, provide the kind of independent measurement, multiple-source documentation or detailed investigative history needed to elevate it beyond “interesting unresolved report”.
 
 The same caution applies to entries marked as insufficient data. A case can remain unexplained because it is genuinely difficult, but it can also remain unexplained because the report lacks enough information to test. In public-facing Saxon UFO history, those two categories should not be blended. “Unresolved” is a status, not a conclusion about origin.
 
-This is where GEP’s own research principles are useful. The organisation’s guidance says that UAP and UFO research should be methodical, transparent, open to criticism and alert to misinterpretation, and that both unexplained classifications and conventional identifications should rest on traceable reasoning rather than wishful thinking.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ufo-forschung.de/forschung/grundsaetze-redlicher-wissenschaftlicher-praxis-in-der-erforschung-des-ufo-phaenomens" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufo-forschung.de">[UFO Forschung]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufo-forschung.de</span><span class="citation-popover-snippet">Open source on ufo-forschung.de.</span></span></span> For Saxony, that principle argues against both easy sensationalism and lazy dismissal.<img src="{{"/assets/images/Saxony_caf030_gep_saxony_records_b78883-Illustration-2-dark.svg" | relative_url }}" alt="GEP Records illustration 2" data-theme-src-dark="{{"/assets/images/Saxony_caf030_gep_saxony_records_b78883-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{"/assets/images/Saxony_caf030_gep_saxony_records_b78883-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+This is where GEP’s own research principles are useful. The organisation’s guidance says that UAP and UFO research should be methodical, transparent, open to criticism and alert to misinterpretation, and that both unexplained classifications and conventional identifications should rest on traceable reasoning rather than wishful thinking.<span class="citation-link-wrap">[UFO Forschung]<span class="citation-popover" role="note"><span class="citation-popover-source">ufo-forschung.de</span><span class="citation-popover-snippet">Open source on ufo-forschung.de.</span></span></span> For Saxony, that principle argues against both easy sensationalism and lazy dismissal.<img src="{{"/assets/images/Saxony_caf030_gep_saxony_records_b78883-Illustration-2-dark.svg" | relative_url }}" alt="GEP Records illustration 2" data-theme-src-dark="{{"/assets/images/Saxony_caf030_gep_saxony_records_b78883-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{"/assets/images/Saxony_caf030_gep_saxony_records_b78883-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The public trail beyond the database
 
 Not every Saxon UFO story lives neatly inside the GEP dataset. Some become public because police, local media or another civilian UFO office enters the chain.
@@ -797,7 +797,7 @@ That pattern gives Saxony a useful place in German UFO history. It is not a “n
 
 3.<a id="endnote-3"></a>
    Source: ufo-forschung.de  
-   Link:<a href="https://www.ufo-forschung.de/forschung/ufo-klassifikationen" target="_blank" rel="noopener noreferrer nofollow">https://www.ufo-forschung.de/forschung/ufo-klassifikationen</a>  
+   Link:https://www.ufo-forschung.de/forschung/ufo-klassifikationen  
 
 4.<a id="endnote-4"></a>
    Source: ufo-forschung.de  
@@ -809,7 +809,7 @@ That pattern gives Saxony a useful place in German UFO history. It is not a “n
 
 6.<a id="endnote-6"></a>
    Source: ufo-forschung.de  
-   Link:<a href="https://www.ufo-forschung.de/forschung/grundsaetze-redlicher-wissenschaftlicher-praxis-in-der-erforschung-des-ufo-phaenomens" target="_blank" rel="noopener noreferrer nofollow">https://www.ufo-forschung.de/forschung/grundsaetze-redlicher-wissenschaftlicher-praxis-in-der-erforschung-des-ufo-phaenomens</a>  
+   Link:https://www.ufo-forschung.de/forschung/grundsaetze-redlicher-wissenschaftlicher-praxis-in-der-erforschung-des-ufo-phaenomens  
 
 7.<a id="endnote-7"></a>
    Source: zeit.de  
@@ -857,7 +857,7 @@ That pattern gives Saxony a useful place in German UFO history. It is not a “n
 
 17.<a id="endnote-17"></a>
    Source: ufo-forschung.de  
-   Link:<a href="https://www.ufo-forschung.de/pressemitteilungen/pm-community/jahresbericht-2024-der-gesellschaft-zur-erforschung-des-ufo-phaenomens-gep-veroeffentlicht" target="_blank" rel="noopener noreferrer nofollow">https://www.ufo-forschung.de/pressemitteilungen/pm-community/jahresbericht-2024-der-gesellschaft-zur-erforschung-des-ufo-phaenomens-gep-veroeffentlicht</a>  
+   Link:https://www.ufo-forschung.de/pressemitteilungen/pm-community/jahresbericht-2024-der-gesellschaft-zur-erforschung-des-ufo-phaenomens-gep-veroeffentlicht  
 
 18.<a id="endnote-18"></a>
    Source: facebook.com  

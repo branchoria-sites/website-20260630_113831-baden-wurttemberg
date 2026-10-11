@@ -310,7 +310,7 @@ For North Rhine-Westphalia, this gives Lüdenscheid a distinctive role. The stat
 
 GEP’s own public description places it in a specific civilian niche. It is not an air-safety authority, a military office or a university department. It is a private association that has served for decades as a place where people can send reports of unusual lights, objects, photographs or videos, mainly from German-speaking areas. Its home base in Lüdenscheid makes North Rhine-Westphalia central to the infrastructure of German UFO reporting even when the individual sightings come from elsewhere.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ufo-forschung.de/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufo-forschung.de">[UFO Forschung]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufo-forschung.de</span><span class="citation-popover-title">UFO Forschung Gesellschaft zur Erforschung des UFO-Phänomens e.V</span><span class="citation-popover-snippet">GEP: gegr. 1972 &#124; wissenschaftliche Forschung zu Unidentifizierten Flugobjekten (UFOs) / Unidentified Aerial Phenomena (UAP) &#124; Einzelfa...</span></span></span>
 
-Local reporting from Lüdenscheid describes the work in plain terms: people in Germany, Austria and Switzerland send suspected UFO observations or puzzling sky phenomena to Lüdenscheid for assessment. By 2022, around 5,000 sighting files had reportedly been received and checked, with investigations involving witness contact, internet research, enquiries to air-traffic bodies or other relevant offices, and, where possible, people familiar with the observation site.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.come-on.de/luedenscheid/ufo-meldestelle-in-luedenscheid-jeder-20-fall-ist-ungeklaert-91899983.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: come-on.de">[Come-On]</a><span class="citation-popover" role="note"><span class="citation-popover-source">come-on.de</span><span class="citation-popover-title">Ufo-Meldestelle in Lüdenscheid: Jeder 20. Fall ist ungeklärt</span><span class="citation-popover-snippet">Ufo-Meldestelle in Lüdenscheid: Jeder 20. Fall ist ungeklärt...</span></span></span> In March 2025, GEP described a Hildesheim photo case as its 6,000th documented UFO case, while stressing that the milestone was not evidence of an anomaly or anything spectacular in itself.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ufo-forschung.de/author/guenter" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufo-forschung.de">[UFO Forschung]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufo-forschung.de</span><span class="citation-popover-snippet">Open source on ufo-forschung.de.</span></span></span>
+Local reporting from Lüdenscheid describes the work in plain terms: people in Germany, Austria and Switzerland send suspected UFO observations or puzzling sky phenomena to Lüdenscheid for assessment. By 2022, around 5,000 sighting files had reportedly been received and checked, with investigations involving witness contact, internet research, enquiries to air-traffic bodies or other relevant offices, and, where possible, people familiar with the observation site.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.come-on.de/luedenscheid/ufo-meldestelle-in-luedenscheid-jeder-20-fall-ist-ungeklaert-91899983.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: come-on.de">[Come-On]</a><span class="citation-popover" role="note"><span class="citation-popover-source">come-on.de</span><span class="citation-popover-title">Ufo-Meldestelle in Lüdenscheid: Jeder 20. Fall ist ungeklärt</span><span class="citation-popover-snippet">Ufo-Meldestelle in Lüdenscheid: Jeder 20. Fall ist ungeklärt...</span></span></span> In March 2025, GEP described a Hildesheim photo case as its 6,000th documented UFO case, while stressing that the milestone was not evidence of an anomaly or anything spectacular in itself.<span class="citation-link-wrap">[UFO Forschung]<span class="citation-popover" role="note"><span class="citation-popover-source">ufo-forschung.de</span><span class="citation-popover-snippet">Open source on ufo-forschung.de.</span></span></span>
 
 That distinction matters. A UFO archive can easily be misunderstood as a treasure chest of hidden proof. GEP’s more useful function is closer to an evidence filter. Reports arrive in a raw state: witnesses may be sincere but mistaken about distance, height, direction, speed or scale; photographs may show small nearby objects that look large; videos may exaggerate motion; and modern skies contain aircraft, [drones]({{'drones-af4911/' | relative_url }}), satellites, balloons, planets and camera artefacts. The Lüdenscheid archive is important because it keeps those messy first reports connected to the later assessment.<img src="{{"/assets/images/North_Rhine-Westphal_f5bdd9_gep_luedenscheid_arc_9c39df-Illustration-1-dark.svg" | relative_url }}" alt="GEP Archive illustration 1" data-theme-src-dark="{{"/assets/images/North_Rhine-Westphal_f5bdd9_gep_luedenscheid_arc_9c39df-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{"/assets/images/North_Rhine-Westphal_f5bdd9_gep_luedenscheid_arc_9c39df-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What its case records preserve
@@ -338,10 +338,10 @@ GEP’s published explanation of its work shows why investigation is more than j
 
 That process is especially important in North Rhine-Westphalia because the state’s UFO environment is noisy. Dense population, major cities, [airports]({{'airports/' | relative_url }}), bright urban skies, industrial lighting and heavy air traffic all increase the chances that ordinary stimuli will be noticed, filmed and reported in unusual ways. A single bright light over the Ruhr area or a filmed object near Cologne or Düsseldorf may look mysterious when isolated from context. A case file becomes more useful when it records direction, time, weather, witness position, camera conditions and later explanation.
 
-GEP’s classification page also shows that “UFO” is not one simple category. It uses several classification systems, including the familiar Hynek categories for the type of report before investigation: night-time lights, daylight objects and [radar]({{'radar/' | relative_url }})-visual cases, among others. GEP notes that Hynek’s classification is useful for sorting incoming reports but is not designed to describe the final investigation result.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ufo-forschung.de/forschung/ufo-klassifikationen" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufo-forschung.de">[UFO Forschung]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufo-forschung.de</span><span class="citation-popover-snippet">Open source on ufo-forschung.de.</span></span></span> That separation is crucial. A dramatic-sounding initial category does not mean the case remains unexplained after analysis.<img src="{{"/assets/images/North_Rhine-Westphal_f5bdd9_gep_luedenscheid_arc_9c39df-Illustration-2-dark.svg" | relative_url }}" alt="GEP Archive illustration 2" data-theme-src-dark="{{"/assets/images/North_Rhine-Westphal_f5bdd9_gep_luedenscheid_arc_9c39df-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{"/assets/images/North_Rhine-Westphal_f5bdd9_gep_luedenscheid_arc_9c39df-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+GEP’s classification page also shows that “UFO” is not one simple category. It uses several classification systems, including the familiar Hynek categories for the type of report before investigation: night-time lights, daylight objects and [radar]({{'radar/' | relative_url }})-visual cases, among others. GEP notes that Hynek’s classification is useful for sorting incoming reports but is not designed to describe the final investigation result.<span class="citation-link-wrap">[UFO Forschung]<span class="citation-popover" role="note"><span class="citation-popover-source">ufo-forschung.de</span><span class="citation-popover-snippet">Open source on ufo-forschung.de.</span></span></span> That separation is crucial. A dramatic-sounding initial category does not mean the case remains unexplained after analysis.<img src="{{"/assets/images/North_Rhine-Westphal_f5bdd9_gep_luedenscheid_arc_9c39df-Illustration-2-dark.svg" | relative_url }}" alt="GEP Archive illustration 2" data-theme-src-dark="{{"/assets/images/North_Rhine-Westphal_f5bdd9_gep_luedenscheid_arc_9c39df-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{"/assets/images/North_Rhine-Westphal_f5bdd9_gep_luedenscheid_arc_9c39df-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why the archive is evidence, not proof
 
-The most common mistake with civilian UFO archives is to treat “unexplained” as a synonym for “extraordinary”. GEP’s own research principles push against that mistake. They define UFO and UAP in a descriptive way and state that the terms do not imply origin, form or extraterrestrial cause. They also stress that researchers should separate personal theories from collected data and that a case should only remain classified as unexplained after extensive, methodically strict investigation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ufo-forschung.de/forschung/grundsaetze-redlicher-wissenschaftlicher-praxis-in-der-erforschung-des-ufo-phaenomens" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufo-forschung.de">[UFO Forschung]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufo-forschung.de</span><span class="citation-popover-snippet">Open source on ufo-forschung.de.</span></span></span>
+The most common mistake with civilian UFO archives is to treat “unexplained” as a synonym for “extraordinary”. GEP’s own research principles push against that mistake. They define UFO and UAP in a descriptive way and state that the terms do not imply origin, form or extraterrestrial cause. They also stress that researchers should separate personal theories from collected data and that a case should only remain classified as unexplained after extensive, methodically strict investigation.<span class="citation-link-wrap">[UFO Forschung]<span class="citation-popover" role="note"><span class="citation-popover-source">ufo-forschung.de</span><span class="citation-popover-snippet">Open source on ufo-forschung.de.</span></span></span>
 
 This is where Lüdenscheid’s archive has real public value. It can strengthen a case when it preserves original details, photographs, witness timings and investigation notes. It can weaken a case when the archive shows missing data, uncertain direction, vague descriptions or a conventional explanation. It can also stop a story from growing through repetition. Without records, a local report can become more impressive every time it is retold. With records, the original claim and the later assessment remain linked.
 
@@ -376,7 +376,7 @@ For readers following North Rhine-Westphalia’s UFO history, that is the main t
 
 The GEP archive is best understood as a disciplined record of uncertainty. It contains many cases that can be explained, some that cannot be assessed properly because the data is too thin, and a smaller residue that remains unresolved after investigation. The unresolved residue is worth preserving, but it is not automatically stronger than the explained cases. Sometimes “unresolved” means genuinely puzzling; sometimes it means too little information survived.
 
-A useful reading of the archive therefore avoids two opposite errors. The first error is to dismiss every report before looking, as if witnesses never notice anything unusual. The second is to treat every unexplained label as a hidden confirmation of extraordinary craft. GEP’s own published principles point to a middle path: protect witnesses, document cases carefully, separate data from interpretation, publish enough to permit scrutiny, and keep open the possibility that later evidence may change a case assessment.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ufo-forschung.de/forschung/grundsaetze-redlicher-wissenschaftlicher-praxis-in-der-erforschung-des-ufo-phaenomens" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufo-forschung.de">[UFO Forschung]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufo-forschung.de</span><span class="citation-popover-snippet">Open source on ufo-forschung.de.</span></span></span>
+A useful reading of the archive therefore avoids two opposite errors. The first error is to dismiss every report before looking, as if witnesses never notice anything unusual. The second is to treat every unexplained label as a hidden confirmation of extraordinary craft. GEP’s own published principles point to a middle path: protect witnesses, document cases carefully, separate data from interpretation, publish enough to permit scrutiny, and keep open the possibility that later evidence may change a case assessment.<span class="citation-link-wrap">[UFO Forschung]<span class="citation-popover" role="note"><span class="citation-popover-source">ufo-forschung.de</span><span class="citation-popover-snippet">Open source on ufo-forschung.de.</span></span></span>
 
 That is why Lüdenscheid belongs in the North Rhine-Westphalia UFO story. It represents the archival side of the subject: less dramatic than a famous sighting, but more useful for understanding how UFO claims survive, weaken, clarify or disappear once someone asks careful questions.
 
@@ -685,7 +685,7 @@ That is why Lüdenscheid belongs in the North Rhine-Westphalia UFO story. It rep
 
 3.<a id="endnote-3"></a>
    Source: ufo-forschung.de  
-   Link:<a href="https://www.ufo-forschung.de/author/guenter" target="_blank" rel="noopener noreferrer nofollow">https://www.ufo-forschung.de/author/guenter</a>  
+   Link:https://www.ufo-forschung.de/author/guenter  
 
 4.<a id="endnote-4"></a>
    Source: zenodo.org  
@@ -693,7 +693,7 @@ That is why Lüdenscheid belongs in the North Rhine-Westphalia UFO story. It rep
 
 5.<a id="endnote-5"></a>
    Source: ufo-forschung.de  
-   Link:<a href="https://www.ufo-forschung.de/forschung/grundsaetze-redlicher-wissenschaftlicher-praxis-in-der-erforschung-des-ufo-phaenomens" target="_blank" rel="noopener noreferrer nofollow">https://www.ufo-forschung.de/forschung/grundsaetze-redlicher-wissenschaftlicher-praxis-in-der-erforschung-des-ufo-phaenomens</a>  
+   Link:https://www.ufo-forschung.de/forschung/grundsaetze-redlicher-wissenschaftlicher-praxis-in-der-erforschung-des-ufo-phaenomens  
 
 6.<a id="endnote-6"></a>
    Source: ufo-forschung.de  
@@ -701,7 +701,7 @@ That is why Lüdenscheid belongs in the North Rhine-Westphalia UFO story. It rep
 
 7.<a id="endnote-7"></a>
    Source: ufo-forschung.de  
-   Link:<a href="https://www.ufo-forschung.de/forschung/ufo-klassifikationen" target="_blank" rel="noopener noreferrer nofollow">https://www.ufo-forschung.de/forschung/ufo-klassifikationen</a>  
+   Link:https://www.ufo-forschung.de/forschung/ufo-klassifikationen  
 
 8.<a id="endnote-8"></a>
    Source: zenodo.org  
@@ -736,11 +736,11 @@ That is why Lüdenscheid belongs in the North Rhine-Westphalia UFO story. It rep
 15.<a id="endnote-15"></a>
    Source: ufo-forschung.de  
    Title: JAnom23 2 302 Ammon etal  
-   Link:<a href="https://www.ufo-forschung.de/ta-guenter/pdf/JAnom23-2_302_Ammon_etal.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ufo-forschung.de/ta-guenter/pdf/JAnom23-2_302_Ammon_etal.pdf</a>  
+   Link:https://www.ufo-forschung.de/ta-guenter/pdf/JAnom23-2_302_Ammon_etal.pdf  
 
 16.<a id="endnote-16"></a>
    Source: ufo-forschung.de  
-   Link:<a href="https://www.ufo-forschung.de/verein/jahresbericht-2025-der-gesellschaft-zur-erforschung-des-ufo-phaenomens-gep-veroeffentlicht" target="_blank" rel="noopener noreferrer nofollow">https://www.ufo-forschung.de/verein/jahresbericht-2025-der-gesellschaft-zur-erforschung-des-ufo-phaenomens-gep-veroeffentlicht</a>  
+   Link:https://www.ufo-forschung.de/verein/jahresbericht-2025-der-gesellschaft-zur-erforschung-des-ufo-phaenomens-gep-veroeffentlicht  
 
 17.<a id="endnote-17"></a>
    Source: ufo-forschung.de  
@@ -754,12 +754,12 @@ That is why Lüdenscheid belongs in the North Rhine-Westphalia UFO story. It rep
 
 19.<a id="endnote-19"></a>
    Source: ufo-forschung.de  
-   Link:<a href="https://www.ufo-forschung.de/tag/jahresbericht" target="_blank" rel="noopener noreferrer nofollow">https://www.ufo-forschung.de/tag/jahresbericht</a>  
+   Link:https://www.ufo-forschung.de/tag/jahresbericht  
 
 20.<a id="endnote-20"></a>
    Source: ufo-forschung.de  
    Title: kurz notiert  
-   Link:<a href="https://www.ufo-forschung.de/category/kurz-notiert" target="_blank" rel="noopener noreferrer nofollow">https://www.ufo-forschung.de/category/kurz-notiert</a>  
+   Link:https://www.ufo-forschung.de/category/kurz-notiert  
 
 21.<a id="endnote-21"></a>
    Source: ufo-forschung.de  
@@ -767,7 +767,7 @@ That is why Lüdenscheid belongs in the North Rhine-Westphalia UFO story. It rep
 
 22.<a id="endnote-22"></a>
    Source: ufo-forschung.de  
-   Link:<a href="https://www.ufo-forschung.de/aktuelles" target="_blank" rel="noopener noreferrer nofollow">https://www.ufo-forschung.de/aktuelles</a>  
+   Link:https://www.ufo-forschung.de/aktuelles  
 
 23.<a id="endnote-23"></a>
    Source: ufo-forschung.de  

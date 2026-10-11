@@ -308,7 +308,7 @@ That distinction matters because [Brandenburg]({{'what-really-lights-up-brandenb
 
 ## Why Brandenburg needs three report types
 
-In everyday speech, “UFO” often sounds like a claim about aliens. In casework, it is usually more modest: something was seen in the sky and the observer could not identify it at the time. German civilian UFO investigators use classification systems precisely because the first report is not the same as the final assessment. The Society for the Study of the UFO Phenomenon, GEP, explains that classifications are used to organise reported sightings, and that some systems classify reports before investigation rather than proving what they were afterwards.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ufo-forschung.de/forschung/ufo-klassifikationen" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufo-forschung.de">[UFO Forschung]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufo-forschung.de</span><span class="citation-popover-snippet">Open source on ufo-forschung.de.</span></span></span>
+In everyday speech, “UFO” often sounds like a claim about aliens. In casework, it is usually more modest: something was seen in the sky and the observer could not identify it at the time. German civilian UFO investigators use classification systems precisely because the first report is not the same as the final assessment. The Society for the Study of the UFO Phenomenon, GEP, explains that classifications are used to organise reported sightings, and that some systems classify reports before investigation rather than proving what they were afterwards.<span class="citation-link-wrap">[UFO Forschung]<span class="citation-popover" role="note"><span class="citation-popover-source">ufo-forschung.de</span><span class="citation-popover-snippet">Open source on ufo-forschung.de.</span></span></span>
 
 That is especially important in Brandenburg because the state produces several different reporting environments. Westhavelland gives observers darker skies than most urban areas. Berlin Brandenburg Airport adds controlled airspace, aircraft lights and drone restrictions. Military and industrial sites introduce a separate security question: not “was this a mysterious craft?” but “was this an unauthorised aircraft in a place where it should not be?”
 
@@ -696,7 +696,7 @@ That sorting work gives the state’s UFO record its public value. It shows how 
 
 1.<a id="endnote-1"></a>
    Source: ufo-forschung.de  
-   Link:<a href="https://www.ufo-forschung.de/forschung/ufo-klassifikationen" target="_blank" rel="noopener noreferrer nofollow">https://www.ufo-forschung.de/forschung/ufo-klassifikationen</a>  
+   Link:https://www.ufo-forschung.de/forschung/ufo-klassifikationen  
 
 2.<a id="endnote-2"></a>
    Source: zenodo.org  

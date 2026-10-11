@@ -317,7 +317,7 @@ The fireball number belongs beside the UFO count, but it is not the same thing. 
 
 The most common mistake is to treat every listed UFO case as an unresolved UFO case. In the GEP and Ufokarte context, “UFO” starts as a neutral reporting category: something was unidentified by the witness at the time. It can later become an identified flying object, a weak or insufficient case, or a small residual mystery.
 
-The GEP classification system makes that distinction explicit. Its Hendry-based system treats an IFO as a case in which the object or appearance could be identified. It also separates cases with insufficient data from several levels of unresolved or near-unresolved cases, including NEAR IFO, PROBLEMATIC UFO, GOOD UFO and BEST UFO. Crucially, GEP’s own classification page says only GOOD or BEST UFO cases should be brought into national and international discussion as stronger unresolved cases.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ufo-forschung.de/forschung/ufo-klassifikationen" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufo-forschung.de">[UFO Forschung]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufo-forschung.de</span><span class="citation-popover-snippet">Open source on ufo-forschung.de.</span></span></span>
+The GEP classification system makes that distinction explicit. Its Hendry-based system treats an IFO as a case in which the object or appearance could be identified. It also separates cases with insufficient data from several levels of unresolved or near-unresolved cases, including NEAR IFO, PROBLEMATIC UFO, GOOD UFO and BEST UFO. Crucially, GEP’s own classification page says only GOOD or BEST UFO cases should be brought into national and international discussion as stronger unresolved cases.<span class="citation-link-wrap">[UFO Forschung]<span class="citation-popover" role="note"><span class="citation-popover-source">ufo-forschung.de</span><span class="citation-popover-snippet">Open source on ufo-forschung.de.</span></span></span>
 
 That matters for Schleswig-Holstein because the two-case unresolved count is already small, and the available dataset extraction indicates that the two Schleswig-Holstein entries in the stronger unresolved bucket used by Ufokarte are PROBLEMATIC UFO cases rather than GOOD or BEST UFO cases. In plain English, that means they are not presented as conclusive high-quality anomalies. They are cases with notable unresolved features, but not cases where ordinary explanations have been ruled out to the highest standard.
 
@@ -692,12 +692,12 @@ The responsible conclusion is therefore narrow and evidence-led. Schleswig-Holst
 
 7.<a id="endnote-7"></a>
    Source: ufo-forschung.de  
-   Link:<a href="https://www.ufo-forschung.de/forschung/ufo-klassifikationen" target="_blank" rel="noopener noreferrer nofollow">https://www.ufo-forschung.de/forschung/ufo-klassifikationen</a>  
+   Link:https://www.ufo-forschung.de/forschung/ufo-klassifikationen  
 
 8.<a id="endnote-8"></a>
    Source: ufo-forschung.de  
    Title: UFO Forschung  
-   Link:<a href="https://www.ufo-forschung.de/ta-guenter/pdf/JAnom23-2_302_Ammon_etal.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ufo-forschung.de/ta-guenter/pdf/JAnom23-2_302_Ammon_etal.pdf</a>  
+   Link:https://www.ufo-forschung.de/ta-guenter/pdf/JAnom23-2_302_Ammon_etal.pdf  
 
 9.<a id="endnote-9"></a>
    Source: zenodo.org  

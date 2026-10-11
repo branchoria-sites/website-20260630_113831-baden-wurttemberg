@@ -734,7 +734,7 @@ The best interpretation is therefore cautious and practical. Drone scares have n
 
 7.<a id="endnote-7"></a>
    Source: dfs.de  
-   Link:<a href="https://www.dfs.de/homepage/de/drohnenflug/karten-flughaefen/" target="_blank" rel="noopener noreferrer nofollow">https://www.dfs.de/homepage/de/drohnenflug/karten-flughaefen/</a>  
+   Link:https://www.dfs.de/homepage/de/drohnenflug/karten-flughaefen/  
 
 8.<a id="endnote-8"></a>
    Source: staatsanzeiger.de  
@@ -754,7 +754,7 @@ The best interpretation is therefore cautious and practical. Drone scares have n
 11.<a id="endnote-11"></a>
    Source: dfs.de  
    Title: Flughafen Stuttgart (EDDS)  
-   Link:<a href="https://www.dfs.de/homepage/de/drohnenflug/karten-flughaefen/gef_karte_Stuttgart.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.dfs.de/homepage/de/drohnenflug/karten-flughaefen/gef_karte_Stuttgart.pdf</a>  
+   Link:https://www.dfs.de/homepage/de/drohnenflug/karten-flughaefen/gef_karte_Stuttgart.pdf  
 
 12.<a id="endnote-12"></a>
    Source: dfs.de  
@@ -797,7 +797,7 @@ The best interpretation is therefore cautious and practical. Drone scares have n
 20.<a id="endnote-20"></a>
    Source: beteiligungsportal.baden-wuerttemberg.de  
    Title: erste innovationskonferenz drohnen  
-   Link:<a href="https://beteiligungsportal.baden-wuerttemberg.de/de/service/pressemitteilung/pid/erste-innovationskonferenz-drohnen" target="_blank" rel="noopener noreferrer nofollow">https://beteiligungsportal.baden-wuerttemberg.de/de/service/pressemitteilung/pid/erste-innovationskonferenz-drohnen</a>  
+   Link:https://beteiligungsportal.baden-wuerttemberg.de/de/service/pressemitteilung/pid/erste-innovationskonferenz-drohnen  
 
 21.<a id="endnote-21"></a>
    Source: baden-wuerttemberg.de  
