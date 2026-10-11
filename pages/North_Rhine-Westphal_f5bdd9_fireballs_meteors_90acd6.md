@@ -31,8 +31,8 @@ permalink: /fireballs/
 sidebar_expanded_urls:
 - /north-rhine-westphalia/
 nav_short_title: Fireballs
-title: When a Fireball Becomes a UFO Report
-title_full: When a Fireball Becomes a UFO Report
+title: "When a Fireball Becomes a UFO Report - Westphal"
+title_full: "When a Fireball Becomes a UFO Report - Westphal"
 display_title_short: Fireballs
 display_title: Fireballs
 heading_title: When a Fireball Becomes a UFO Report

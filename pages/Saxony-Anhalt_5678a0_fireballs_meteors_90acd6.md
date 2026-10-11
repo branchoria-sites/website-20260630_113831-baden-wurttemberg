@@ -31,8 +31,8 @@ permalink: /meteors/
 sidebar_expanded_urls:
 - /what-really-happened-in-saxony-anhalts/
 nav_short_title: Meteors
-title: When a Fireball Becomes a UFO Report
-title_full: When a Fireball Becomes a UFO Report
+title: "When a Fireball Becomes a UFO Report - Anhalt"
+title_full: "When a Fireball Becomes a UFO Report - Anhalt"
 display_title_short: Meteors
 display_title: Meteors
 heading_title: When a Fireball Becomes a UFO Report
