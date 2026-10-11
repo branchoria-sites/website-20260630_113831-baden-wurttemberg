@@ -680,7 +680,6 @@ The fairest assessment is therefore restrained. Something unusual was reported o
 1.<a id="endnote-1"></a>
    Source: ufo-forschung.de  
    Title: 20 neue ufo meldungen im januar 2024  
-   Link:https://www.ufo-forschung.de/ufo-meldungen/20-neue-ufo-meldungen-im-januar-2024  
 
 2.<a id="endnote-2"></a>
    Source: zenodo.org  
@@ -689,7 +688,6 @@ The fairest assessment is therefore restrained. Something unusual was reported o
 3.<a id="endnote-3"></a>
    Source: ufo-forschung.de  
    Title: UFO Forschung  
-   Link:https://www.ufo-forschung.de/ta-guenter/pdf/JAnom23-2_302_Ammon_etal.pdf  
 
 4.<a id="endnote-4"></a>
    Source: science.nasa.gov  

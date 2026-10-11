@@ -717,7 +717,6 @@ For Berlin’s UFO history, that is not a disappointing conclusion. It is the ce
 7.<a id="endnote-7"></a>
    Source: ufo-forschung.de  
    Title: JAnom23 2 302 Ammon etal  
-   Link:https://www.ufo-forschung.de/ta-guenter/pdf/JAnom23-2_302_Ammon_etal.pdf  
 
 8.<a id="endnote-8"></a>
    Source: ufo-forschung.de  

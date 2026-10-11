@@ -744,7 +744,6 @@ For readers assessing NRW sightings, the most useful rule is simple: trust the i
 12.<a id="endnote-12"></a>
    Source: ufo-forschung.de  
    Title: monatsbericht september 2025 der gep veroeffentlicht  
-   Link:https://www.ufo-forschung.de/pressemitteilungen/pm-community/monatsbericht-september-2025-der-gep-veroeffentlicht  
    Published: september 2025  
 
 13.<a id="endnote-13"></a>
@@ -761,7 +760,6 @@ For readers assessing NRW sightings, the most useful rule is simple: trust the i
 
 16.<a id="endnote-16"></a>
    Source: ufo-forschung.de  
-   Link:https://www.ufo-forschung.de/aktuelles  
 
 17.<a id="endnote-17"></a>
    Source: ufo-forschung.de  

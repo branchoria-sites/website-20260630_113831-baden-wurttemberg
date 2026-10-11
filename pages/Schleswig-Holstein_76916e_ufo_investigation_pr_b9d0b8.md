@@ -766,7 +766,6 @@ The small unresolved residue still matters, but mainly as a question of evidence
 
 10.<a id="endnote-10"></a>
    Source: ufo-forschung.de  
-   Link:https://www.ufo-forschung.de/forschung/ufo-klassifikationen  
 
 11.<a id="endnote-11"></a>
    Source: reuters.com  
@@ -794,7 +793,6 @@ The small unresolved residue still matters, but mainly as a question of evidence
 16.<a id="endnote-16"></a>
    Source: ufo-forschung.de  
    Title: JAnom23 2 302 Ammon etal  
-   Link:https://www.ufo-forschung.de/ta-guenter/pdf/JAnom23-2_302_Ammon_etal.pdf  
 
 17.<a id="endnote-17"></a>
    Source: ufo-forschung.de  

@@ -707,7 +707,6 @@ That makes Ronneburg important in a restrained way. It reminds readers that the 
 3.<a id="endnote-3"></a>
    Source: ufo-forschung.de  
    Title: Klassifikationen – Gesellschaft zur Erforschung des UFO-Phänomens e.V  
-   Link:https://www.ufo-forschung.de/forschung/ufo-klassifikationen  
 
 4.<a id="endnote-4"></a>
    Source: mdr.de  

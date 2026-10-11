@@ -739,7 +739,6 @@ The fairest conclusion is neither dismissive nor credulous. People in Baden-Wür
 
 4.<a id="endnote-4"></a>
    Source: ufo-forschung.de  
-   Link:https://www.ufo-forschung.de/kurz-notiert/gep-erreicht-weltweit-bislang-einmaligen-erfolg-passivradarsignal-bestaetigt-ufo-sichtung  
 
 5.<a id="endnote-5"></a>
    Source: zenodo.org  

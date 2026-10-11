@@ -685,7 +685,6 @@ That is why Lüdenscheid belongs in the North Rhine-Westphalia UFO story. It rep
 
 3.<a id="endnote-3"></a>
    Source: ufo-forschung.de  
-   Link:https://www.ufo-forschung.de/author/guenter  
 
 4.<a id="endnote-4"></a>
    Source: zenodo.org  
@@ -693,7 +692,6 @@ That is why Lüdenscheid belongs in the North Rhine-Westphalia UFO story. It rep
 
 5.<a id="endnote-5"></a>
    Source: ufo-forschung.de  
-   Link:https://www.ufo-forschung.de/forschung/grundsaetze-redlicher-wissenschaftlicher-praxis-in-der-erforschung-des-ufo-phaenomens  
 
 6.<a id="endnote-6"></a>
    Source: ufo-forschung.de  
@@ -701,7 +699,6 @@ That is why Lüdenscheid belongs in the North Rhine-Westphalia UFO story. It rep
 
 7.<a id="endnote-7"></a>
    Source: ufo-forschung.de  
-   Link:https://www.ufo-forschung.de/forschung/ufo-klassifikationen  
 
 8.<a id="endnote-8"></a>
    Source: zenodo.org  
@@ -736,11 +733,9 @@ That is why Lüdenscheid belongs in the North Rhine-Westphalia UFO story. It rep
 15.<a id="endnote-15"></a>
    Source: ufo-forschung.de  
    Title: JAnom23 2 302 Ammon etal  
-   Link:https://www.ufo-forschung.de/ta-guenter/pdf/JAnom23-2_302_Ammon_etal.pdf  
 
 16.<a id="endnote-16"></a>
    Source: ufo-forschung.de  
-   Link:https://www.ufo-forschung.de/verein/jahresbericht-2025-der-gesellschaft-zur-erforschung-des-ufo-phaenomens-gep-veroeffentlicht  
 
 17.<a id="endnote-17"></a>
    Source: ufo-forschung.de  
@@ -754,12 +749,10 @@ That is why Lüdenscheid belongs in the North Rhine-Westphalia UFO story. It rep
 
 19.<a id="endnote-19"></a>
    Source: ufo-forschung.de  
-   Link:https://www.ufo-forschung.de/tag/jahresbericht  
 
 20.<a id="endnote-20"></a>
    Source: ufo-forschung.de  
    Title: kurz notiert  
-   Link:https://www.ufo-forschung.de/category/kurz-notiert  
 
 21.<a id="endnote-21"></a>
    Source: ufo-forschung.de  
@@ -767,7 +760,6 @@ That is why Lüdenscheid belongs in the North Rhine-Westphalia UFO story. It rep
 
 22.<a id="endnote-22"></a>
    Source: ufo-forschung.de  
-   Link:https://www.ufo-forschung.de/aktuelles  
 
 23.<a id="endnote-23"></a>
    Source: ufo-forschung.de  

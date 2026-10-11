@@ -692,12 +692,10 @@ The responsible conclusion is therefore narrow and evidence-led. Schleswig-Holst
 
 7.<a id="endnote-7"></a>
    Source: ufo-forschung.de  
-   Link:https://www.ufo-forschung.de/forschung/ufo-klassifikationen  
 
 8.<a id="endnote-8"></a>
    Source: ufo-forschung.de  
    Title: UFO Forschung  
-   Link:https://www.ufo-forschung.de/ta-guenter/pdf/JAnom23-2_302_Ammon_etal.pdf  
 
 9.<a id="endnote-9"></a>
    Source: zenodo.org  

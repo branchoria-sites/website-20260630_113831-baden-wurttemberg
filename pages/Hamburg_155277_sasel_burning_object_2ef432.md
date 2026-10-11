@@ -689,7 +689,6 @@ Its value within Hamburg’s UFO history is therefore practical rather than sens
 1.<a id="endnote-1"></a>
    Source: ufo-forschung.de  
    Title: 30 neue ufo meldungen  
-   Link:https://www.ufo-forschung.de/ufo-meldungen/30-neue-ufo-meldungen  
 
 2.<a id="endnote-2"></a>
    Source: ufo-forschung.de  
@@ -833,7 +832,6 @@ Its value within Hamburg’s UFO history is therefore practical rather than sens
 33.<a id="endnote-33"></a>
    Source: ufo-forschung.de  
    Title: 17 neue ufo meldungen im oktober 2018  
-   Link:https://www.ufo-forschung.de/ufo-meldungen/17-neue-ufo-meldungen-im-oktober-2018  
 
 34.<a id="endnote-34"></a>
    Source: ufo-forschung.de  
@@ -845,7 +843,6 @@ Its value within Hamburg’s UFO history is therefore practical rather than sens
 
 36.<a id="endnote-36"></a>
    Source: ufo-forschung.de  
-   Link:https://www.ufo-forschung.de/aktuelles  
 
 37.<a id="endnote-37"></a>
    Source: ufo-forschung.de  

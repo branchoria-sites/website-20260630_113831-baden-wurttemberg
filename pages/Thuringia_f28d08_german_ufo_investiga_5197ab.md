@@ -799,11 +799,9 @@ Fehrenbach remains the landmark because it is both vivid and instructive. It beg
 4.<a id="endnote-4"></a>
    Source: ufo-forschung.de  
    Title: Klassifikationen – Gesellschaft zur Erforschung des UFO-Phänomens e.V  
-   Link:https://www.ufo-forschung.de/forschung/ufo-klassifikationen  
 
 5.<a id="endnote-5"></a>
    Source: ufo-forschung.de  
-   Link:https://www.ufo-forschung.de/forschung/grundsaetze-redlicher-wissenschaftlicher-praxis-in-der-erforschung-des-ufo-phaenomens  
 
 6.<a id="endnote-6"></a>
    Source: zenodo.org  

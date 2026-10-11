@@ -656,7 +656,6 @@ The three questions the case leaves behind are better than the original headline
 
 2.<a id="endnote-2"></a>
    Source: ufo-forschung.de  
-   Link:https://www.ufo-forschung.de/kurz-notiert/gep-erreicht-weltweit-bislang-einmaligen-erfolg-passivradarsignal-bestaetigt-ufo-sichtung  
 
 3.<a id="endnote-3"></a>
    Source: jufof.de  
@@ -756,7 +755,6 @@ The three questions the case leaves behind are better than the original headline
 24.<a id="endnote-24"></a>
    Source: ufo-forschung.de  
    Title: kurz notiert  
-   Link:https://www.ufo-forschung.de/category/kurz-notiert  
 
 25.<a id="endnote-25"></a>
    Source: sentinel-news.fr  

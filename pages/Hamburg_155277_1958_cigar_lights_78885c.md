@@ -673,7 +673,6 @@ The most balanced classification is therefore “probably explained, historicall
 5.<a id="endnote-5"></a>
    Source: ufo-forschung.de  
    Title: UAP Research in Germany  
-   Link:https://www.ufo-forschung.de/ta-guenter/pdf/JAnom23-2_302_Ammon_etal.pdf  
 
 6.<a id="endnote-6"></a>
    Source: science.nasa.gov  

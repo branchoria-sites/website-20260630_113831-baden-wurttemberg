@@ -718,7 +718,6 @@ The practical takeaway is simple: a Thuringian UFO story becomes better evidence
 9.<a id="endnote-9"></a>
    Source: ufo-forschung.de  
    Title: JAnom23 2 302 Ammon etal  
-   Link:https://www.ufo-forschung.de/ta-guenter/pdf/JAnom23-2_302_Ammon_etal.pdf  
 
 10.<a id="endnote-10"></a>
    Source: grewi.de  

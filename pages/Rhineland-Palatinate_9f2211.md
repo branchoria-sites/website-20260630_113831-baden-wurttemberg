@@ -812,7 +812,6 @@ That does not make the subject worthless. It makes it more grounded. Rhineland-P
 17.<a id="endnote-17"></a>
    Source: ufo-forschung.de  
    Title: JAnom23 2 302 Ammon etal  
-   Link:https://www.ufo-forschung.de/ta-guenter/pdf/JAnom23-2_302_Ammon_etal.pdf  
 
 18.<a id="endnote-18"></a>
    Source: ufokarte.de  

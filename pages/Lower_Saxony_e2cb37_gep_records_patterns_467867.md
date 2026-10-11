@@ -811,7 +811,6 @@ This approach keeps Lower Saxony’s UFO history balanced. It does not dismiss w
 
 4.<a id="endnote-4"></a>
    Source: ufo-forschung.de  
-   Link:https://www.ufo-forschung.de/forschung/ufo-klassifikationen  
 
 5.<a id="endnote-5"></a>
    Source: braunschweiger-zeitung.de  
@@ -867,7 +866,6 @@ This approach keeps Lower Saxony’s UFO history balanced. It does not dismiss w
 
 17.<a id="endnote-17"></a>
    Source: ufo-forschung.de  
-   Link:https://www.ufo-forschung.de/aktuelles  
 
 18.<a id="endnote-18"></a>
    Source: gep.com  

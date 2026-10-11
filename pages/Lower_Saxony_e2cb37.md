@@ -852,7 +852,6 @@ The state’s modern relevance is increasing because “unknown object” now of
 16.<a id="endnote-16"></a>
    Source: ufo-forschung.de  
    Title: UFO Forschung T.A. Günter – Gesellschaft zur Erforschung des UFO-Phänomens e.V  
-   Link:https://www.ufo-forschung.de/author/guenter  
 
 17.<a id="endnote-17"></a>
    Source: researchgate.net  
@@ -898,7 +897,6 @@ The state’s modern relevance is increasing because “unknown object” now of
 26.<a id="endnote-26"></a>
    Source: ufo-forschung.de  
    Title: kurz notiert  
-   Link:https://www.ufo-forschung.de/category/kurz-notiert  
 
 27.<a id="endnote-27"></a>
    Source: ufo-forschung.de  
